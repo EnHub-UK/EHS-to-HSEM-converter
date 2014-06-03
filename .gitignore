@@ -1,0 +1,26 @@
+.Rproj.user
+.Rhistory
+.RData
+*.RData
+*.rds
+*.DS_Store
+RTAGS
+!README.md
+*.log
+
+myData/UKDA*
+
+outData/*
+outData/*/*
+
+outFigures/*
+outFigures/*/*
+
+public/outReport/*
+public/outReport/*/*
+
+public/outForModel/*
+public/outForModel/*/*
+
+/* symlinks -- corresponding to available EHS data */
+./myData/UKDA*
