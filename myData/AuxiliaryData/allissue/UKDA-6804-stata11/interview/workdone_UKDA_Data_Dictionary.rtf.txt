@@ -1,0 +1,163 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = workdone
+Number of variables = 11
+Number of cases = 25685
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 3 Variable = quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 4 Variable = RPSOWN12 Variable label = Repairs in last 12 months
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for RPSOWN12
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -7 Label = none of these
+Value = 11 Label = replace window with dg window
+Value = 12 Label = replace window with sg window
+Value = 13 Label = major repairs to windows
+Value = 14 Label = replace at least one extnl door
+Value = 15 Label = fit extra locks to existing windows
+Value = 16 Label = fit extra locks to existing ext doors
+Value = 21 Label = put in complete CHS
+Value = 22 Label = replace CH boiler
+Value = 23 Label = service CH boiler
+Value = 24 Label = replace CH radiators
+Value = 25 Label = add more radiators
+Value = 26 Label = put in storage heaters
+Value = 27 Label = replace storage heaters
+Value = 28 Label = service gas fires/heaters
+Value = 29 Label = extra gas fires/heaters
+Value = 30 Label = loft insul/extra loft insul
+Value = 31 Label = cavity wall insul
+Value = 32 Label = solid wall insul
+Value = 33 Label = sound insul flrs/walls/ceilings
+Value = 41 Label = replace kit units/worktops/sink
+Value = 42 Label = replace bthrm suite
+Value = 43 Label = rewire house/flat
+Value = 44 Label = install extnl lighting
+Value = 45 Label = install burglar alarm
+Value = 51 Label = replace/repair roof covering
+Value = 52 Label = replace/strengthen roof structure
+Value = 53 Label = rebuild all/part chimney
+Value = 54 Label = replace gutter/rainwater pipes
+Value = 55 Label = repoint brickwork
+Value = 56 Label = replace render/pebbbledash/cladding
+Value = 57 Label = work to foundations/structural wall
+Value = 58 Label = work to damp-proof course
+Value = 61 Label = loft conv, new perm staircase
+Value = 62 Label = loft conversion, ladder access
+Value = 63 Label = repl/repair/fit handrail to staircase
+Value = 64 Label = remove balustrade/bannisters
+Value = 65 Label = make staircase open-plan
+Value = 66 Label = replace/repair extnl steps
+Value = 67 Label = replace/repair/fit handrail to extnl steps
+Value = 68 Label = replace/repair paths or patios
+Value = 71 Label = put in entryphone system
+Value = 72 Label = put in security cameras/CCTV
+
+Pos. = 5 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for GorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 6 Variable = RpPLoan Variable label = Loan through local authority
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPLoan
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 7 Variable = RpPPvLoan Variable label = Private loan
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPPvLoan
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 8 Variable = RpPEqLA Variable label = Equity release through local authority
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPEqLA
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 9 Variable = RpPEqOthr Variable label = Other equity release
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPEqOthr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 10 Variable = RpPGrant Variable label = Grant
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPGrant
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 11 Variable = RpPNone Variable label = None of the above
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for RpPNone
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes

@@ -1,0 +1,239 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = fuel_poverty_dataset_2011_supplementary_variables_for_ukda
+Number of variables = 51
+Number of cases = 14386
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = EARNINGSx Variable label = Income split: earnings ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = BENEFITSx Variable label = Income split: benefits (including housing related benefits) ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = SAVINGSx Variable label = Income split: savings and investment ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = OTHERx Variable label = Income split: all other income sources including income from additional adults ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 6 Variable = WFPx Variable label = Income split: Winter Fuel Payment ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 7 Variable = IncSplit_flg Variable label = Income splits estimated due to missing information
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for IncSplit_flg
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 8 Variable = Gas_spacost Variable label = Annual cost of gas/communal for space heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 9 Variable = Gas_watcost Variable label = Annual cost of gas/communal for water heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 10 Variable = Gas_cookcost Variable label = Annual cost of gas for cooking ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 11 Variable = Elec_spacost Variable label = Annual cost of electricity for space heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 12 Variable = Elec_watcost Variable label = Annual cost of electricity for water heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 13 Variable = Elec_cookcost Variable label = Annual cost of electricity for cooking ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 14 Variable = Elec_lightcost Variable label = Annual cost of electricity for lights and appliances ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 15 Variable = Oil_spacost Variable label = Annual cost of oil/LPG/bottled gas for space heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 16 Variable = Oil_watcost Variable label = Annual cost of oil/LPG/bottled gas for water heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 17 Variable = Solid_spacost Variable label = Annual cost of solid fuel for space heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = Solid_watcost Variable label = Annual cost of solid fuel for water heating ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 19 Variable = usegas_spa Variable label = Energy used for gas space heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = usegas_wat Variable label = Energy used for gas water heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 21 Variable = usegas_coo Variable label = Energy used for gas cooking (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 22 Variable = useelec_spa Variable label = Energy used for electric space heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 23 Variable = useelec_wat Variable label = Energy used for electric water heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 24 Variable = useelec_coo Variable label = Energy used for electric cooking (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 25 Variable = useelec_lit Variable label = Energy used for lights and appliances (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 26 Variable = useoil_spa Variable label = Energy used for oil/LPG/bottled gas space heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 27 Variable = useoil_wat Variable label = Energy used for oil/LPG/bottled gas water heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 28 Variable = usesolid_spa Variable label = Energy used for solid fuel space heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 29 Variable = usesolid_wat Variable label = Energy used for solid fuel water heating (kWh/yr)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 30 Variable = Ongas Variable label = Whether dwelling is on the gas network
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for Ongas
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 31 Variable = HeatRegm Variable label = Heating Regime
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for HeatRegm
+Value = 1 Label = Full heating
+Value = 2 Label = Partial full heating
+Value = 3 Label = Standard heating
+Value = 4 Label = Partial standard heating
+
+Pos. = 32 Variable = PBU_PCguar Variable label = Primary Benefit Unit theoretically in receipt of Pension Credit - Guarantee element
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_PCguar
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 33 Variable = DECC_PCguar Variable label = Someone in household theoretically in receipt of Pension Credit - Guarantee element
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_PCguar
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 34 Variable = PBU_PCsav Variable label = Primary Benefit Unit theoretically in receipt of Pension Credit - Savings element
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_PCsav
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 35 Variable = DECC_PCsav Variable label = Someone in household theoretically in receipt of Pension Credit - Savings element
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_PCsav
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 36 Variable = PBU_CTC Variable label = Primary Benefit Unit theoretically in receipt of CTC
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_CTC
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 37 Variable = DECC_CTC Variable label = Someone in household theoretically in receipt of CTC
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_CTC
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 38 Variable = PBU_WTC Variable label = Primary Benefit Unit theoretically in receipt of WTC (no children)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_WTC
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 39 Variable = DECC_WTC Variable label = Someone in household theoretically in receipt of WTC (no children)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_WTC
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 40 Variable = PBU_IS Variable label = Primary Benefit Unit theoretically in receipt of Income Support
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_IS
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 41 Variable = DECC_IS Variable label = Someone in household theoretically in receipt of Income Support
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_IS
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 42 Variable = PBU_JSA Variable label = Primary Benefit Unit theoretically in receipt of income based JSA
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_JSA
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 43 Variable = DECC_JSA Variable label = Someone in household theoretically in receipt of income based JSA
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_JSA
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 44 Variable = PBU_ESA Variable label = Primary Benefit Unit theoretically in receipt of income based ESA
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for PBU_ESA
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 45 Variable = DECC_ESA Variable label = Someone in household theoretically in receipt of income based ESA
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for DECC_ESA
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 46 Variable = CERTpriority Variable label = In CERT priority group
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for CERTpriority
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 47 Variable = CERT_SPG Variable label = In CERT super priority group
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for CERT_SPG
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 48 Variable = WFG_preApr11 Variable label = Eligible for Warm Front grant (based upon criteria prior to April 2011)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for WFG_preApr11
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 49 Variable = WFG_postApr11 Variable label = Eligible for Warm Front grant (based upon criteria post April 2011 to Sept 2012)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for WFG_postApr11
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 50 Variable = WFG_Sept12 Variable label = Eligible for Warm Front grant (based upon criteria post Sept 2012)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for WFG_Sept12
+Value = 0 Label = No
+Value = 1 Label = Yes
+
+Pos. = 51 Variable = ECO_AW Variable label = Eligible for Affordable Warmth component of the Energy Company Obligation (ECO)
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for ECO_AW
+Value = 0 Label = No
+Value = 1 Label = Yes

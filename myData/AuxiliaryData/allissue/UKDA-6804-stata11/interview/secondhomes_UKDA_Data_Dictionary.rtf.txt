@@ -1,0 +1,1075 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = secondhomes
+Number of variables = 80
+Number of cases = 15512
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 3 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 4 Variable = Propext Variable label = Owns residential property elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Propext
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 5 Variable = ExPrpnum Variable label = No. residential properties owned elsewhere
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExPrpnum
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 6 Variable = SecRent Variable label = Rents second home from landlord
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecRent
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 7 Variable = Secrntno Variable label = No. second homes rented from landlord
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Secrntno
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 8 Variable = DSecProp Variable label = Calculated no. of second properties
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSecProp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 9 Variable = NumAsk Variable label = Number of loops asked
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumAsk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 10 Variable = SecIntr1 Variable label = First/next most recent property
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecIntr1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Continue
+
+Pos. = 11 Variable = OwnRent1 Variable label = Own/rent from someone else?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnRent1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own
+Value = 2 Label = rent from someone else
+
+Pos. = 12 Variable = ExType1 Variable label = What is property used for?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExType1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied as someone's main residence
+Value = 2 Label = mainly by family/friends as holiday home/weekend cottage
+Value = 3 Label = mainly let to others as holiday let
+Value = 4 Label = empty property that you plan to sell soon
+Value = 5 Label = property recently bought that you haven't moved into yet
+Value = 6 Label = occupied by son/daughter at college/university
+Value = 7 Label = for occupation while working away from home
+Value = 8 Label = other
+
+Pos. = 13 Variable = WhSec1 Variable label = Location of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSec1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = England
+Value = 2 Label = Scotland
+Value = 3 Label = Wales
+Value = 4 Label = Northern Ireland
+Value = 5 Label = or somewhere else
+
+Pos. = 14 Variable = CntyCod1 Variable label = County code
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CntyCod1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not included
+Value = 2 Label = Avon
+Value = 3 Label = Bedfordshire
+Value = 4 Label = Berkshire
+Value = 5 Label = Buckinghamshire
+Value = 6 Label = Cambridgeshire
+Value = 7 Label = Cheshire
+Value = 8 Label = Cleveland
+Value = 9 Label = Cornwall
+Value = 10 Label = Cumbria
+Value = 11 Label = Derbyshire
+Value = 12 Label = Devon
+Value = 13 Label = Dorset
+Value = 14 Label = Durham
+Value = 15 Label = Essex
+Value = 16 Label = Gloucestershire
+Value = 17 Label = Greater Manchester
+Value = 18 Label = Greater London
+Value = 19 Label = Hampshire
+Value = 20 Label = Hereford & Worcester
+Value = 21 Label = Hertfordshire
+Value = 22 Label = Isle of Wight
+Value = 23 Label = Kent
+Value = 24 Label = Lancashire
+Value = 25 Label = Leicestershire
+Value = 26 Label = Lincolnshire
+Value = 27 Label = Merseyside
+Value = 28 Label = Northamptonshire
+Value = 29 Label = Northumberland
+Value = 30 Label = Norfolk
+Value = 31 Label = Nottinghamshire
+Value = 32 Label = Oxfordshire
+Value = 33 Label = Shropshire
+Value = 34 Label = Somerset
+Value = 35 Label = Staffordshire
+Value = 36 Label = Suffolk
+Value = 37 Label = Surrey
+Value = 38 Label = Sussex
+Value = 39 Label = Tyne and Wear
+Value = 40 Label = Warwickshire
+Value = 41 Label = West Midlands
+Value = 42 Label = Wiltshire
+Value = 43 Label = Yorkshire and the Humber
+
+Pos. = 15 Variable = WhSecAb1 Variable label = Country of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSecAb1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Australia
+Value = 2 Label = Canada
+Value = 3 Label = China
+Value = 4 Label = Croatia
+Value = 5 Label = Cyprus
+Value = 6 Label = France
+Value = 7 Label = Greece
+Value = 8 Label = India
+Value = 9 Label = Ireland
+Value = 10 Label = Italy
+Value = 11 Label = Nigeria
+Value = 12 Label = Pakistan
+Value = 13 Label = Portugal
+Value = 14 Label = South Africa
+Value = 15 Label = Spain
+Value = 16 Label = Turkey
+Value = 17 Label = United States
+Value = 18 Label = other European Country
+Value = 19 Label = other non-European Country
+
+Pos. = 16 Variable = WhyS1Inv Variable label = Long-term investment/source of income
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Inv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 17 Variable = WhyS1Ret Variable label = Retirement home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Ret
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 18 Variable = WhyS1Hol Variable label = Holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Hol
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 19 Variable = WhyS1Awy Variable label = Away from home - working
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Awy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 20 Variable = WhyS1OAy Variable label = Away from home - other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1OAy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 21 Variable = WhyS1Mar Variable label = Marital breakdown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Mar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 22 Variable = WhyS1Prv Variable label = Previously main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Prv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 23 Variable = WhyS1Otr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS1Otr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 24 Variable = SecIntr2 Variable label = Next most recent property purchased/rented
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecIntr2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Continue
+
+Pos. = 25 Variable = OwnRent2 Variable label = Own or rent from someone else?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnRent2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own
+Value = 2 Label = rent from someone else
+
+Pos. = 26 Variable = ExType2 Variable label = What is property used for?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExType2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied as someone's main residence
+Value = 2 Label = mainly by family/friends as holiday home/weekend cottage
+Value = 3 Label = mainly let to others as holiday let
+Value = 4 Label = empty property that you plan to sell soon
+Value = 5 Label = property recently bought that you haven't moved into yet
+Value = 6 Label = occupied by son/daughter at college/university
+Value = 7 Label = for occupation while working away from home
+Value = 8 Label = other
+
+Pos. = 27 Variable = WhSec2 Variable label = Location of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSec2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = England
+Value = 2 Label = Scotland
+Value = 3 Label = Wales
+Value = 4 Label = Northern Ireland
+Value = 5 Label = or somewhere else
+
+Pos. = 28 Variable = CntyCod2 Variable label = County code
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CntyCod2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not included
+Value = 2 Label = Avon
+Value = 3 Label = Bedfordshire
+Value = 4 Label = Berkshire
+Value = 5 Label = Buckinghamshire
+Value = 6 Label = Cambridgeshire
+Value = 7 Label = Cheshire
+Value = 8 Label = Cleveland
+Value = 9 Label = Cornwall
+Value = 10 Label = Cumbria
+Value = 11 Label = Derbyshire
+Value = 12 Label = Devon
+Value = 13 Label = Dorset
+Value = 14 Label = Durham
+Value = 15 Label = Essex
+Value = 16 Label = Gloucestershire
+Value = 17 Label = Greater Manchester
+Value = 18 Label = Greater London
+Value = 19 Label = Hampshire
+Value = 20 Label = Hereford & Worcester
+Value = 21 Label = Hertfordshire
+Value = 22 Label = Isle of Wight
+Value = 23 Label = Kent
+Value = 24 Label = Lancashire
+Value = 25 Label = Leicestershire
+Value = 26 Label = Lincolnshire
+Value = 27 Label = Merseyside
+Value = 28 Label = Northamptonshire
+Value = 29 Label = Northumberland
+Value = 30 Label = Norfolk
+Value = 31 Label = Nottinghamshire
+Value = 32 Label = Oxfordshire
+Value = 33 Label = Shropshire
+Value = 34 Label = Somerset
+Value = 35 Label = Staffordshire
+Value = 36 Label = Suffolk
+Value = 37 Label = Surrey
+Value = 38 Label = Sussex
+Value = 39 Label = Tyne and Wear
+Value = 40 Label = Warwickshire
+Value = 41 Label = West Midlands
+Value = 42 Label = Wiltshire
+Value = 43 Label = Yorkshire and the Humber
+
+Pos. = 29 Variable = WHSecAb2 Variable label = Country of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHSecAb2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Australia
+Value = 2 Label = Canada
+Value = 3 Label = China
+Value = 4 Label = Croatia
+Value = 5 Label = Cyprus
+Value = 6 Label = France
+Value = 7 Label = Greece
+Value = 8 Label = India
+Value = 9 Label = Ireland
+Value = 10 Label = Italy
+Value = 11 Label = Nigeria
+Value = 12 Label = Pakistan
+Value = 13 Label = Portugal
+Value = 14 Label = South Africa
+Value = 15 Label = Spain
+Value = 16 Label = Turkey
+Value = 17 Label = United States
+Value = 18 Label = other European Country
+Value = 19 Label = other non-European Country
+
+Pos. = 30 Variable = WhyS2Inv Variable label = Long-term investment/source of income
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Inv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 31 Variable = WhyS2Ret Variable label = Retirement home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Ret
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 32 Variable = WhyS2Hol Variable label = Holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Hol
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 33 Variable = WhyS2Awy Variable label = Away from home - working
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Awy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 34 Variable = WhyS2OAy Variable label = Away from home -other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2OAy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 35 Variable = WhyS2Mar Variable label = Marital breakdown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Mar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 36 Variable = WhyS2Prv Variable label = Previously main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Prv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 37 Variable = WhyS2Otr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS2Otr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 38 Variable = SecIntr3 Variable label = Next most recent property purchased/rented
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecIntr3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Press enter to continue
+
+Pos. = 39 Variable = OwnRent3 Variable label = Own or rent from someone else?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnRent3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own
+Value = 2 Label = rent from someone else
+
+Pos. = 40 Variable = ExType3 Variable label = What is property used for?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExType3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied as someone's main residence
+Value = 2 Label = mainly by family/friends as holiday home/weekend cottage
+Value = 3 Label = mainly let to others as holiday let
+Value = 4 Label = empty property that you plan to sell soon
+Value = 5 Label = property recently bought that you haven't moved into yet
+Value = 6 Label = occupied by son/daughter at college/university
+Value = 7 Label = for occupation while working away from home
+Value = 8 Label = other
+
+Pos. = 41 Variable = WhSec3 Variable label = Location of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSec3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = England
+Value = 2 Label = Scotland
+Value = 3 Label = Wales
+Value = 4 Label = Northern Ireland
+Value = 5 Label = or somewhere else
+
+Pos. = 42 Variable = CntyCod3 Variable label = County code
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CntyCod3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not included
+Value = 2 Label = Avon
+Value = 3 Label = Bedfordshire
+Value = 4 Label = Berkshire
+Value = 5 Label = Buckinghamshire
+Value = 6 Label = Cambridgeshire
+Value = 7 Label = Cheshire
+Value = 8 Label = Cleveland
+Value = 9 Label = Cornwall
+Value = 10 Label = Cumbria
+Value = 11 Label = Derbyshire
+Value = 12 Label = Devon
+Value = 13 Label = Dorset
+Value = 14 Label = Durham
+Value = 15 Label = Essex
+Value = 16 Label = Gloucestershire
+Value = 17 Label = Greater Manchester
+Value = 18 Label = Greater London
+Value = 19 Label = Hampshire
+Value = 20 Label = Hereford & Worcester
+Value = 21 Label = Hertfordshire
+Value = 22 Label = Isle of Wight
+Value = 23 Label = Kent
+Value = 24 Label = Lancashire
+Value = 25 Label = Leicestershire
+Value = 26 Label = Lincolnshire
+Value = 27 Label = Merseyside
+Value = 28 Label = Northamptonshire
+Value = 29 Label = Northumberland
+Value = 30 Label = Norfolk
+Value = 31 Label = Nottinghamshire
+Value = 32 Label = Oxfordshire
+Value = 33 Label = Shropshire
+Value = 34 Label = Somerset
+Value = 35 Label = Staffordshire
+Value = 36 Label = Suffolk
+Value = 37 Label = Surrey
+Value = 38 Label = Sussex
+Value = 39 Label = Tyne and Wear
+Value = 40 Label = Warwickshire
+Value = 41 Label = West Midlands
+Value = 42 Label = Wiltshire
+Value = 43 Label = Yorkshire and the Humber
+
+Pos. = 43 Variable = WHSecAb3 Variable label = Country of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHSecAb3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Australia
+Value = 2 Label = Canada
+Value = 3 Label = China
+Value = 4 Label = Croatia
+Value = 5 Label = Cyprus
+Value = 6 Label = France
+Value = 7 Label = Greece
+Value = 8 Label = India
+Value = 9 Label = Ireland
+Value = 10 Label = Italy
+Value = 11 Label = Nigeria
+Value = 12 Label = Pakistan
+Value = 13 Label = Portugal
+Value = 14 Label = South Africa
+Value = 15 Label = Spain
+Value = 16 Label = Turkey
+Value = 17 Label = United States
+Value = 18 Label = other European Country
+Value = 19 Label = other non-European Country
+
+Pos. = 44 Variable = WhyS3Inv Variable label = Long-term investment/source of income
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Inv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 45 Variable = WhyS3Ret Variable label = Retirement home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Ret
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 46 Variable = WhyS3Hol Variable label = Holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Hol
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 47 Variable = WhyS3Awy Variable label = Away from home - working
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Awy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 48 Variable = WhyS3OAy Variable label = Away from home - other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3OAy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 49 Variable = WhyS3Mar Variable label = Marital breakdown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Mar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 50 Variable = WhyS3Prv Variable label = Previously main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Prv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 51 Variable = WhyS3Otr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS3Otr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 52 Variable = SecIntr4 Variable label = Next most recent property purchased/rented
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecIntr4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Press enter to continue
+
+Pos. = 53 Variable = OwnRent4 Variable label = Own or rent from someone else?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnRent4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own
+Value = 2 Label = rent from someone else
+
+Pos. = 54 Variable = ExType4 Variable label = What is property used for?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExType4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied as someone's main residence
+Value = 2 Label = mainly by family/friends as holiday home/weekend cottage
+Value = 3 Label = mainly let to others as holiday let
+Value = 4 Label = empty property that you plan to sell soon
+Value = 5 Label = property recently bought that you haven't moved into yet
+Value = 6 Label = occupied by son/daughter at college/university
+Value = 7 Label = for occupation while working away from home
+Value = 8 Label = other
+
+Pos. = 55 Variable = WhSec4 Variable label = Location of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSec4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = England
+Value = 2 Label = Scotland
+Value = 3 Label = Wales
+Value = 4 Label = Northern Ireland
+Value = 5 Label = or somewhere else
+
+Pos. = 56 Variable = CntyCod4 Variable label = County code
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CntyCod4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not included
+Value = 2 Label = Avon
+Value = 3 Label = Bedfordshire
+Value = 4 Label = Berkshire
+Value = 5 Label = Buckinghamshire
+Value = 6 Label = Cambridgeshire
+Value = 7 Label = Cheshire
+Value = 8 Label = Cleveland
+Value = 9 Label = Cornwall
+Value = 10 Label = Cumbria
+Value = 11 Label = Derbyshire
+Value = 12 Label = Devon
+Value = 13 Label = Dorset
+Value = 14 Label = Durham
+Value = 15 Label = Essex
+Value = 16 Label = Gloucestershire
+Value = 17 Label = Greater Manchester
+Value = 18 Label = Greater London
+Value = 19 Label = Hampshire
+Value = 20 Label = Hereford & Worcester
+Value = 21 Label = Hertfordshire
+Value = 22 Label = Isle of Wight
+Value = 23 Label = Kent
+Value = 24 Label = Lancashire
+Value = 25 Label = Leicestershire
+Value = 26 Label = Lincolnshire
+Value = 27 Label = Merseyside
+Value = 28 Label = Northamptonshire
+Value = 29 Label = Northumberland
+Value = 30 Label = Norfolk
+Value = 31 Label = Nottinghamshire
+Value = 32 Label = Oxfordshire
+Value = 33 Label = Shropshire
+Value = 34 Label = Somerset
+Value = 35 Label = Staffordshire
+Value = 36 Label = Suffolk
+Value = 37 Label = Surrey
+Value = 38 Label = Sussex
+Value = 39 Label = Tyne and Wear
+Value = 40 Label = Warwickshire
+Value = 41 Label = West Midlands
+Value = 42 Label = Wiltshire
+Value = 43 Label = Yorkshire and the Humber
+
+Pos. = 57 Variable = WHSecAb4 Variable label = Country of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHSecAb4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Australia
+Value = 2 Label = Canada
+Value = 3 Label = China
+Value = 4 Label = Croatia
+Value = 5 Label = Cyprus
+Value = 6 Label = France
+Value = 7 Label = Greece
+Value = 8 Label = India
+Value = 9 Label = Ireland
+Value = 10 Label = Italy
+Value = 11 Label = Nigeria
+Value = 12 Label = Pakistan
+Value = 13 Label = Portugal
+Value = 14 Label = South Africa
+Value = 15 Label = Spain
+Value = 16 Label = Turkey
+Value = 17 Label = United States
+Value = 18 Label = other European Country
+Value = 19 Label = other non-European Country
+
+Pos. = 58 Variable = WhyS4Inv Variable label = Long-term investment/source of income
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Inv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 59 Variable = WhyS4Ret Variable label = Retirement home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Ret
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 60 Variable = WhyS4Hol Variable label = Holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Hol
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 61 Variable = WhyS4Awy Variable label = Away from home - working
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Awy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 62 Variable = WhyS4OAy Variable label = Away from home - other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4OAy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 63 Variable = WhyS4Mar Variable label = Marital breakdown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Mar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 64 Variable = WhyS4Prv Variable label = Previously main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Prv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 65 Variable = WhyS4Otr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS4Otr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 66 Variable = SecIntr5 Variable label = Next most recent property purchased/rented
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecIntr5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Press enter to continue
+
+Pos. = 67 Variable = OwnRent5 Variable label = Own or rent from someone else?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnRent5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own
+Value = 2 Label = rent from someone else
+
+Pos. = 68 Variable = ExType5 Variable label = What is property used for?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ExType5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied as someone's main residence
+Value = 2 Label = mainly by family/friends as holiday home/weekend cottage
+Value = 3 Label = mainly let to others as holiday let
+Value = 4 Label = empty property that you plan to sell soon
+Value = 5 Label = property recently bought that you haven't moved into yet
+Value = 6 Label = occupied by son/daughter at college/university
+Value = 7 Label = for occupation while working away from home
+Value = 8 Label = other
+
+Pos. = 69 Variable = WhSec5 Variable label = Location of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhSec5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = England
+Value = 2 Label = Scotland
+Value = 3 Label = Wales
+Value = 4 Label = Northern Ireland
+Value = 5 Label = or somewhere else
+
+Pos. = 70 Variable = CntyCod5 Variable label = County code
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CntyCod5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not included
+Value = 2 Label = Avon
+Value = 3 Label = Bedfordshire
+Value = 4 Label = Berkshire
+Value = 5 Label = Buckinghamshire
+Value = 6 Label = Cambridgeshire
+Value = 7 Label = Cheshire
+Value = 8 Label = Cleveland
+Value = 9 Label = Cornwall
+Value = 10 Label = Cumbria
+Value = 11 Label = Derbyshire
+Value = 12 Label = Devon
+Value = 13 Label = Dorset
+Value = 14 Label = Durham
+Value = 15 Label = Essex
+Value = 16 Label = Gloucestershire
+Value = 17 Label = Greater Manchester
+Value = 18 Label = Greater London
+Value = 19 Label = Hampshire
+Value = 20 Label = Hereford & Worcester
+Value = 21 Label = Hertfordshire
+Value = 22 Label = Isle of Wight
+Value = 23 Label = Kent
+Value = 24 Label = Lancashire
+Value = 25 Label = Leicestershire
+Value = 26 Label = Lincolnshire
+Value = 27 Label = Merseyside
+Value = 28 Label = Northamptonshire
+Value = 29 Label = Northumberland
+Value = 30 Label = Norfolk
+Value = 31 Label = Nottinghamshire
+Value = 32 Label = Oxfordshire
+Value = 33 Label = Shropshire
+Value = 34 Label = Somerset
+Value = 35 Label = Staffordshire
+Value = 36 Label = Suffolk
+Value = 37 Label = Surrey
+Value = 38 Label = Sussex
+Value = 39 Label = Tyne and Wear
+Value = 40 Label = Warwickshire
+Value = 41 Label = West Midlands
+Value = 42 Label = Wiltshire
+Value = 43 Label = Yorkshire and the Humber
+
+Pos. = 71 Variable = WHSecAb5 Variable label = Country of second home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHSecAb5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Australia
+Value = 2 Label = Canada
+Value = 3 Label = China
+Value = 4 Label = Croatia
+Value = 5 Label = Cyprus
+Value = 6 Label = France
+Value = 7 Label = Greece
+Value = 8 Label = India
+Value = 9 Label = Ireland
+Value = 10 Label = Italy
+Value = 11 Label = Nigeria
+Value = 12 Label = Pakistan
+Value = 13 Label = Portugal
+Value = 14 Label = South Africa
+Value = 15 Label = Spain
+Value = 16 Label = Turkey
+Value = 17 Label = United States
+Value = 18 Label = other European Country
+Value = 19 Label = other non-European Country
+
+Pos. = 72 Variable = WhyS5Inv Variable label = Long-term investment/source of income
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Inv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 73 Variable = WhyS5Ret Variable label = Retirement home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Ret
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 74 Variable = WhyS5Hol Variable label = Holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Hol
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 75 Variable = WhyS5Awy Variable label = Away from home - working
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Awy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 76 Variable = WhyS5OAy Variable label = Away from home - other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5OAy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 77 Variable = WhyS5Mar Variable label = Marital breakdown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Mar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 78 Variable = WhyS5Prv Variable label = Previously main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Prv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 79 Variable = WhyS5Otr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhyS5Otr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 80 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West

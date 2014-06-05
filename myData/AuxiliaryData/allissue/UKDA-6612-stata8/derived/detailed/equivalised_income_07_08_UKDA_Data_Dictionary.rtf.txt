@@ -1,0 +1,115 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = equivalised_income_07_08
+Number of variables = 16
+Number of cases = 25574
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = peoplegross Variable label = Quasi grossing factor for individuals in the household
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = BHCinc Variable label = BHC annual household income
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = BHCinceq Variable label = BHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = BHCquint Variable label = BHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCquint
+Value = 1 Label = 1st quintile (lowest)
+Value = 2 Label = 2nd quintile
+Value = 3 Label = 3rd quintile
+Value = 4 Label = 4th quintile
+Value = 5 Label = 5th quintile (highest)
+
+Pos. = 6 Variable = BHCdec Variable label = BHC equivalised income deciles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCdec
+Value = 1 Label = 1st decile (lowest)
+Value = 2 Label = 2nd decile
+Value = 3 Label = 3rd decile
+Value = 4 Label = 4th decile
+Value = 5 Label = 5th decile
+Value = 6 Label = 6th decile
+Value = 7 Label = 7th decile
+Value = 8 Label = 8th decile
+Value = 9 Label = 9th decile
+Value = 10 Label = 10th decile (highest)
+
+Pos. = 7 Variable = BHCmd50 Variable label = below 50% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd50
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 8 Variable = BHCmd60 Variable label = below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd60
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 9 Variable = BHCmd70 Variable label = below 70% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd70
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 10 Variable = AHCinc Variable label = AHC household annual income
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 11 Variable = AHCinceq Variable label = AHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 12 Variable = AHCquint Variable label = AHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCquint
+Value = 1 Label = 1st quintile (lowest)
+Value = 2 Label = 2nd quintile
+Value = 3 Label = 3rd quintile
+Value = 4 Label = 4th quintile
+Value = 5 Label = 5th quintile (highest)
+
+Pos. = 13 Variable = AHCdec Variable label = AHC equivalised income deciles
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCdec
+Value = 1 Label = 1st decile (lowest)
+Value = 2 Label = 2nd decile
+Value = 3 Label = 3rd decile
+Value = 4 Label = 4th decile
+Value = 5 Label = 5th decile
+Value = 6 Label = 6th decile
+Value = 7 Label = 7th decile
+Value = 8 Label = 8th decile
+Value = 9 Label = 9th decile
+Value = 10 Label = 10th decile (highest)
+
+Pos. = 14 Variable = AHCmd50 Variable label = below 50% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd50
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 15 Variable = AHCmd60 Variable label = below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd60
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 16 Variable = AHCmd70 Variable label = below 70% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd70
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold

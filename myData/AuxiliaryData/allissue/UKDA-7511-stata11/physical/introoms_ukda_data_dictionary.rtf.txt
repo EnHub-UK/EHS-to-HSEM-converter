@@ -1,0 +1,322 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = introoms
+Number of variables = 38
+Number of cases = 63815
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2012
+ Value label information for aacode
+
+Pos. = 2 Variable = caseno Variable label = Paired case identity 2012
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for caseno
+
+Pos. = 3 Variable = type Variable label = Room
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for type
+Value = 1.0 Label = Living room
+Value = 2.0 Label = Kitchen
+Value = 3.0 Label = Bedroom
+Value = 4.0 Label = Bathroom
+Value = 5.0 Label = Circulation
+
+Pos. = 4 Variable = Finclgfl Variable label = CEILINGS - Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finclgfl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 5 Variable = Finclgrn Variable label = CEILINGS - take down and renew
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finclgrn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 6 Variable = Finclgrp Variable label = CEILINGS - isolated repair
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finclgrp
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 7 Variable = Finclglv Variable label = CEILINGS - leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finclglv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 8 Variable = Finflrsf Variable label = FLOORS - Solid floors
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finflrsf
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 9 Variable = Finflrfl Variable label = FLOORS - Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finflrfl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 10 Variable = Finflrrn Variable label = FLOORS - replace structure
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finflrrn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 11 Variable = Finflrrp Variable label = FLOORS - Replace only boards or screed
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finflrrp
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 12 Variable = Finflrlv Variable label = FLOORS - leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finflrlv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 13 Variable = Finwlsfl Variable label = WALLS - Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwlsfl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 14 Variable = Finwlsrn Variable label = WALLS - Rebuild partition wall
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwlsrn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 15 Variable = Finwlspl Variable label = WALLS - Hack off, replaster
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwlspl
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 16 Variable = Finwlsrp Variable label = WALLS - Isolated repair, fill cracks
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwlsrp
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 17 Variable = Finwlslv Variable label = WALLS - leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwlslv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 18 Variable = Finwlsii Variable label = WALLS - internal insulation present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwlsii
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 19 Variable = Findrsfl Variable label = DOORS - Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findrsfl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 20 Variable = Findrsrn Variable label = DOORS - Renew
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Findrsrn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 21 Variable = Findrsrp Variable label = DOORS - Repair, rehang
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Findrsrp
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 22 Variable = Finwndfl Variable label = WINDOWS - Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwndfl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 23 Variable = Finwndes Variable label = WINDOWS - Means of escape
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwndes
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 24 Variable = Finwndsi Variable label = WINDOWS - Secondary glazing
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwndsi
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 25 Variable = Finhtgch Variable label = HEATING & SERVICES - CH prog appliance
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finhtgch
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 26 Variable = Finhtgfx Variable label = HEATING & SERVICES - fixed other heater
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finhtgfx
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 27 Variable = Finhtglg Variable label = HEATING & SERVICES - Fluorescent low energy lighting
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finhtglg
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 28 Variable = Findfxrd Variable label = DEFECTS - Rising damp
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxrd
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 29 Variable = Findfxpd Variable label = DEFECTS - Penetrating damp
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxpd
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 30 Variable = Findfxmo Variable label = DEFECTS - Serious condensation
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxmo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 31 Variable = Findfxnl Variable label = DEFECTS - inadequate natural light
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxnl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 32 Variable = Findfxal Variable label = DEFECTS - Inadequate artificial light
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxal
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 33 Variable = Findfxrv Variable label = DEFECTS - Inadequate room ventilation
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxrv
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 34 Variable = Findfxvt Variable label = DEFECTS - Inadequate appliance ventilation
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxvt
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 35 Variable = Findfxin Variable label = DEFECTS - wood boring insect attack
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxin
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 36 Variable = Findfxrt Variable label = DEFECTS - Dry/wet rot
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findfxrt
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 37 Variable = Finverms Variable label = RATS & MICE - evidence of mice
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finverms
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 38 Variable = Finverat Variable label = RATS & MICE - evidence of rats
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finverat
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown

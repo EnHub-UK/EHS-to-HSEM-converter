@@ -1,0 +1,108 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = dimensions_09plus10
+Number of variables = 28
+Number of cases = 16670
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = Key field
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = FloorArea Variable label = Total floor area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = FloorAreaEnergy Variable label = Total floor area + 50% external wall
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = Floorpar Variable label = Floor area occupied by partition walls
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = Floorstr Variable label = Floor area occupied by stairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 6 Variable = Floorbal Variable label = Floor area occupied by balconies
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 7 Variable = Floorgar Variable label = Floor area occupied by garages
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 8 Variable = Intwalar Variable label = Internal wall area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 9 Variable = nflorm Variable label = Number of floors in the main part
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 10 Variable = nflora Variable label = Number of floors in the additional part
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 999
+ Value label information for nflora
+Value = 999 Label = No additional part
+
+Pos. = 11 Variable = flmlow Variable label = Lowest floor of main part
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 12 Variable = flmhigh Variable label = Highest floor of main part
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 13 Variable = flalow Variable label = Lowest floor of additional part
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 999
+ Value label information for flalow
+Value = 999 Label = No additional part
+
+Pos. = 14 Variable = flahigh Variable label = Highest floor of additional part
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 999
+ Value label information for flahigh
+Value = 999 Label = No additional part
+
+Pos. = 15 Variable = efwalar Variable label = External front wall area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 16 Variable = ebwalar Variable label = External back wall area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 17 Variable = efwinar Variable label = External front window area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = ebwinar Variable label = External back window area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 19 Variable = efdpcpe Variable label = External front DPC perimeter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = ebdpcpe Variable label = External back DPC perimeter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 21 Variable = efrfpar Variable label = External front roof plan area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 22 Variable = ebrfpar Variable label = External back roof plan area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 23 Variable = efrfsar Variable label = External front roof slope area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 24 Variable = ebrfsar Variable label = External backroof slope area
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 25 Variable = efevepe Variable label = External front eaves perimeter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 26 Variable = ebevepe Variable label = External back eaves perimeter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 27 Variable = emeveht Variable label = External main eaves height
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 28 Variable = eaeveht Variable label = External back eaves height
+This variable is numeric, the SPSS measurement level is scale.

@@ -1,0 +1,169 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = identity
+Number of variables = 15
+Number of cases = 34685
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = PERSNO Variable label = Person identifier
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PERSNO
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 3 Variable = HRP Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HRP
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 4 Variable = PersProx Variable label = Interview in person_proxy
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PersProx
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = in person
+Value = 2 Label = by someone else
+
+Pos. = 5 Variable = ProxyNum Variable label = Person no of respondent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ProxyNum
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 6 Variable = Cry01 Variable label = Country of birth
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cry01
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 156 Label = China
+Value = 344 Label = Hong Kong
+Value = 372 Label = Republic of Ireland
+Value = 921 Label = England
+Value = 922 Label = Northern Ireland
+Value = 923 Label = Scotland
+Value = 924 Label = Wales
+Value = 926 Label = UK
+Value = 997 Label = other
+
+Pos. = 7 Variable = CameYr Variable label = Year arrived in UK
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CameYr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1930 Label = 1930 or earlier
+
+Pos. = 8 Variable = CONTUK Variable label = Lived in UK continuously
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CONTUK
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 9 Variable = CameY2 Variable label = Year last arrived in the UK
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CameY2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1960 Label = 1960 or earlier
+
+Pos. = 10 Variable = EthE Variable label = Ethnic Group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for EthE
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = English, Welsh, Scottish, Northern Ireland
+Value = 2 Label = Irish
+Value = 3 Label = Gypsy or Irish Traveller
+Value = 4 Label = Any Other White background
+Value = 5 Label = White and Black Caribbean
+Value = 6 Label = White and Black African
+Value = 7 Label = White and Asian
+Value = 8 Label = Any other Mixed multiple ethnic background
+Value = 9 Label = Indian
+Value = 10 Label = Pakistani
+Value = 11 Label = Bangladeshi
+Value = 12 Label = Chinese
+Value = 13 Label = Any other Asian background
+Value = 14 Label = African
+Value = 15 Label = Caribbean
+Value = 16 Label = Any other Black African Caribbean background
+Value = 17 Label = Arab
+Value = 18 Label = Any other ethnic group
+
+Pos. = 11 Variable = DVResTme Variable label = Years at this address
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DVResTme
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 12 months
+Value = 2 Label = 12 months but less than 2 years
+Value = 3 Label = 2 years but less than 3 years
+Value = 4 Label = 3 years but less than 5 years
+Value = 5 Label = 5 years but less than 10 years
+Value = 6 Label = 10 years or more
+
+Pos. = 12 Variable = ResTme2 Variable label = Years at this address
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ResTme2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 80 Label = 80 or more
+
+Pos. = 13 Variable = DVHLong1 Variable label = Time at this address
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DVHLong1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = 10 years but less than 20 years
+Value = 2 Label = 20 years but less than 30 years
+Value = 3 Label = 30 years but less than 40 years
+Value = 4 Label = 40 years or longer
+
+Pos. = 14 Variable = ResMth2 Variable label = Months at this address
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ResMth2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 15 Variable = Miles Variable label = Distance from previous home
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Miles
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = under 1 mile
+Value = 2 Label = 1 mile but less than 2 miles
+Value = 3 Label = 2 miles but less than 5 miles
+Value = 4 Label = 5 miles but less than 10 miles
+Value = 5 Label = 10 miles but less than 20 miles
+Value = 6 Label = 20 miles but less than 50 miles
+Value = 7 Label = 50 miles or more
+Value = 8 Label = Northern Ireland
+Value = 9 Label = abroad (incl Isle of Man, Channel Islands)

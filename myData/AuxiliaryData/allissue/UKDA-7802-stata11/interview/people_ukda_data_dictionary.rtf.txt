@@ -1,0 +1,1167 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = people
+Number of variables = 85
+Number of cases = 28546
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = persno Variable label = Person identifier
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for persno
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = HRP Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HRP
+
+Pos. = 4 Variable = HRPPart Variable label = Person no of HRP's partner
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HRPPart
+Value = -7.0 Label = no partner
+
+Pos. = 5 Variable = DVHsize Variable label = No of people in hhld
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for DVHsize
+Value = 9.0 Label = Nine or more
+
+Pos. = 6 Variable = Sex Variable label = Sex
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Sex
+Value = -8.0 Label = no answer
+Value = 1.0 Label = male
+Value = 2.0 Label = female
+Value = -9.0 Label = does not apply
+
+Pos. = 7 Variable = AgeIf Variable label = Age (if DOB unknown)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AgeIf
+Value = -8.0 Label = no answer
+Value = 85.0 Label = 85 or above
+Value = -9.0 Label = does not apply
+
+Pos. = 8 Variable = AGE Variable label = Age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AGE
+Value = -8.0 Label = no answer
+Value = 85.0 Label = 85 or above
+Value = -9.0 Label = does not apply
+
+Pos. = 9 Variable = HallRes Variable label = Living in halls of residence
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HallRes
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 10 Variable = xMarSta2 Variable label = Legal marital status (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for xMarSta2
+Value = 1.0 Label = single, that is never married and never registered in a same
+Value = 2.0 Label = married,
+Value = 3.0 Label = separated, but still legally married,
+Value = 4.0 Label = divorced,
+Value = 5.0 Label = widowed,
+Value = 6.0 Label = in a registered same-sex civil partnership,
+Value = 7.0 Label = separated, but still legally in a same-sex civil partnership
+Value = 8.0 Label = formerly in a same-sex civil partnership which is now legall
+Value = 9.0 Label = or a surviving partner from a same-sex civil partnership?
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 11 Variable = MarChk Variable label = Husband/wife/partner in hhld
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MarChk
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 12 Variable = LivWth Variable label = Living together as a couple
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LivWth
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = Spontaneous only - Same-sex couple (but not in a formal registered Civil Partnership) (2012-13 only)
+Value = -9.0 Label = does not apply
+
+Pos. = 13 Variable = HRPId Variable label = Personally owns/rents accom
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HRPId
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 14 Variable = Hhldr Variable label = Sole/joint hhldr
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Hhldr
+Value = -8.0 Label = no answer
+Value = 1.0 Label = this person alone
+Value = 3.0 Label = this person jointly
+Value = 5.0 Label = not owner renter
+Value = -9.0 Label = does not apply
+
+Pos. = 15 Variable = HiHNum Variable label = Joint hhldr with highest income
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HiHNum
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 16 Variable = JntEldA Variable label = Eldest joint hhldr with highest income
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for JntEldA
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 17 Variable = JntEldB Variable label = Eldest joint hhldr
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for JntEldB
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 18 Variable = RR01 Variable label = Relationship to P1 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR01
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 19 Variable = RR02 Variable label = Relationship to P2 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR02
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 20 Variable = RR03 Variable label = Relationship to P3 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR03
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 21 Variable = RR04 Variable label = Relationship to P4 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR04
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 22 Variable = RR05 Variable label = Relationship to P5 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR05
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 23 Variable = RR06 Variable label = Relationship to P6 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR06
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 24 Variable = RR07 Variable label = Relationship to P7 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR07
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 25 Variable = RR08 Variable label = Relationship to P8 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR08
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 26 Variable = RR09 Variable label = Relationship to P9 (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RR09
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = sondaughter (incl. adopted)
+Value = 5.0 Label = step-sondaughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = sondaughter-in-law
+Value = 8.0 Label = parentguardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brothersister (incl. adopted)
+Value = 13.0 Label = step-brothersister
+Value = 14.0 Label = foster brothersister
+Value = 15.0 Label = brothersister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 27 Variable = DVBenU Variable label = Benefit Unit
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for DVBenU
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 28 Variable = AFAM Variable label = Family unit
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AFAM
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 29 Variable = reltohrp2 Variable label = Relationship to hrp (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for reltohrp2
+Value = 0.0 Label = HRP
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = son/daughter
+Value = 5.0 Label = step-son/daughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = son/daughter-in-law
+Value = 8.0 Label = parent/guardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brother/sister
+Value = 13.0 Label = step brother/sister
+Value = 14.0 Label = foster brother/sister
+Value = 15.0 Label = brother/sister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 30 Variable = reltop2 Variable label = Relationship to partner (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for reltop2
+Value = 0.0 Label = partner
+Value = 1.0 Label = spouse
+Value = 2.0 Label = civil partner
+Value = 3.0 Label = cohabitee
+Value = 4.0 Label = son/daughter
+Value = 5.0 Label = step-son/daughter
+Value = 6.0 Label = foster child
+Value = 7.0 Label = son/daughter-in-law
+Value = 8.0 Label = parent/guardian
+Value = 9.0 Label = step-parent
+Value = 10.0 Label = foster parent
+Value = 11.0 Label = parent-in-law
+Value = 12.0 Label = brother/sister
+Value = 13.0 Label = step brother/sister
+Value = 14.0 Label = foster brother/sister
+Value = 15.0 Label = brother/sister-in-law
+Value = 16.0 Label = grandchild
+Value = 17.0 Label = grandparent
+Value = 18.0 Label = other relative
+Value = 19.0 Label = other non-relative
+Value = -7.0 Label = no partner
+
+Pos. = 31 Variable = Lodger Variable label = Whether pays rent as a lodger
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Lodger
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 32 Variable = WhInform Variable label = Why is person living here
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for WhInform
+Value = 1.0 Label = their home and have no plans to move
+Value = 2.0 Label = living here temporarily while looking for work
+Value = 3.0 Label = would like to buy or rent but can't afford it at the moment
+Value = 4.0 Label = looking to buy or rent something affordable
+Value = 5.0 Label = soon moving into own accommodation
+Value = 6.0 Label = going to college or going travelling on extended holiday
+Value = 7.0 Label = au pair, or carer for another household member
+Value = 8.0 Label = is being cared for by parent(s)
+Value = 9.0 Label = buying renting property together with householder
+Value = 10.0 Label = other reason
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 33 Variable = NumNonR2 Variable label = Number of people not directly related to HRP
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NumNonR2
+
+Pos. = 34 Variable = WhoLodNo Variable label = Number of paying lodgers in household
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for WhoLodNo
+
+Pos. = 35 Variable = EconFull Variable label = Working 30 hrs/wk or more
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconFull
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 36 Variable = EconPart Variable label = Working less than 30 hrs/wk
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconPart
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 37 Variable = EconGovT Variable label = Working government training scheme
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconGovT
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 38 Variable = EconSick Variable label = Not working due to long term sickness
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconSick
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 39 Variable = EconRgUn Variable label = Registered unemployed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconRgUn
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 40 Variable = EconSkng Variable label = Not registered unemployed but seeking work
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconSkng
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 41 Variable = EconNSkg Variable label = At home not seeking work
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconNSkg
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 42 Variable = EconRtrd Variable label = Retired (inc early retired)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconRtrd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 43 Variable = EconStdt Variable label = Full-time student
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconStdt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 44 Variable = EconOthr Variable label = Other work status
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EconOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 45 Variable = DVWork Variable label = DV: In paid work?
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for DVWork
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 46 Variable = NoOfHrsR Variable label = Hours normally worked/wk
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NoOfHrsR
+Value = -8.0 Label = no answer
+Value = 1.0 Label = up to 15 hours,
+Value = 2.0 Label = 16-29 hours
+Value = -9.0 Label = does not apply
+
+Pos. = 47 Variable = SrcIEmpy2 Variable label = Earnings from employment/government training scheme income
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIEmpy2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 48 Variable = SrcISelf Variable label = Earnings from self-employment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcISelf
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 49 Variable = SrcIFemp Variable label = Pension from former employer
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIFemp
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 50 Variable = SrcIPPen Variable label = Personal Pension
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIPPen
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 51 Variable = SrcISPen Variable label = State Pension
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcISPen
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 52 Variable = SrcICBen Variable label = Child benefit
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcICBen
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 53 Variable = SrcIISup Variable label = Income Support
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIISup
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 54 Variable = SrcITxCr Variable label = Tax Credits
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcITxCr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 55 Variable = SrcIOBen2 Variable label = Other state benefits
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIOBen2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 56 Variable = SrcISvng Variable label = Interest from savings
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcISvng
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 57 Variable = SrcIInvt Variable label = Interest from investments
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIInvt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 58 Variable = SrcIAllw Variable label = Other regular allowance
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIAllw
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 59 Variable = SrcIRent Variable label = Income from rent
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIRent
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 60 Variable = SrcIOthr2 Variable label = Other income sources
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcIOthr2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 61 Variable = SrcINone Variable label = No source of income
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SrcINone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 62 Variable = GrossTel Variable label = Total personal income before deductions
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for GrossTel
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+Value = 99999999.0 Label = 15,000 per week or more
+
+Pos. = 63 Variable = GrssTime Variable label = Personal gross income - period
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for GrssTime
+Value = -8.0 Label = no answer
+Value = 1.0 Label = weekly
+Value = 2.0 Label = monthly
+Value = 3.0 Label = annually
+Value = -9.0 Label = does not apply
+
+Pos. = 64 Variable = TelBand Variable label = Band representing total personal income before all deductions
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TelBand
+Value = 1.0 Label = less than 100 a week
+Value = 2.0 Label = 100 but less than 200 a week
+Value = 3.0 Label = 200 but less than 300 a week
+Value = 4.0 Label = 300 but less than 400 a week
+Value = 5.0 Label = 400 but less than 500 a week
+Value = 6.0 Label = 500 but less than 600 a week
+Value = 7.0 Label = 600 but less than 700 a week
+Value = 8.0 Label = 700 but less than 800 a week
+Value = 9.0 Label = 800 but less than 900 a week
+Value = 10.0 Label = 900 but less than 1000 a week
+Value = 11.0 Label = over 1000 a week
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 65 Variable = TelDV Variable label = DV for weekly amount
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TelDV
+Value = -8.0 Label = no answer
+Value = 15000.0 Label = 15,000 per week or more
+Value = -9.0 Label = does not apply
+
+Pos. = 66 Variable = IncProx Variable label = Income proxy for HRP/Partner
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for IncProx
+Value = -8.0 Label = no answer
+Value = 1.0 Label = in person
+Value = 2.0 Label = by someone else
+Value = -9.0 Label = does not apply
+
+Pos. = 67 Variable = InPrxTwo Variable label = Income proxy for other hhld members
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for InPrxTwo
+Value = -8.0 Label = no answer
+Value = 1.0 Label = in person
+Value = 2.0 Label = by someone else
+Value = -9.0 Label = does not apply
+
+Pos. = 68 Variable = EdQCrt Variable label = Educational qualifications for which received a certificate
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EdQCrt
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 69 Variable = PRFCrt Variable label = Professional, vocational or other work-related qualifications for which received a certificate
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PRFCrt
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 70 Variable = HiQual Variable label = Highest qualification
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HiQual
+Value = -8.0 Label = no answer
+Value = 1.0 Label = at degree level or above,
+Value = 2.0 Label = or another kind of qualification?
+Value = -9.0 Label = does not apply
+
+Pos. = 71 Variable = EnrolCor Variable label = Enrolled on FT/PT course
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EnrolCor
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 72 Variable = EdAgeCor Variable label = Age finished full-time education
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EdAgeCor
+Value = -8.0 Label = no answer
+Value = 96.0 Label = not yet completed
+Value = -9.0 Label = does not apply
+Value = 97.0 Label = none
+
+Pos. = 73 Variable = QualChk Variable label = Qual currently working for
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for QualChk
+Value = -8.0 Label = no answer
+Value = 1.0 Label = ...up to A level or equivalent
+Value = 2.0 Label = or degree level or equivalent
+Value = -9.0 Label = does not apply
+
+Pos. = 74 Variable = xMarSta Variable label = Legal marital status (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for xMarSta
+Value = 1.0 Label = single, ie never married
+Value = 2.0 Label = married and living with husband/wife
+Value = 3.0 Label = civil partner (legally-recognised)
+Value = 4.0 Label = married but separated from husband/wife
+Value = 5.0 Label = divorced
+Value = 6.0 Label = widowed
+Value = 7.0 Label = legally-recognised Civil Partnership separated from partner
+Value = 8.0 Label = former civil partner, Civil Partnership legally dissolved
+Value = 9.0 Label = surviving civil partner, partner having died
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 75 Variable = R01 Variable label = Relationship to P1 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R01
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 76 Variable = R02 Variable label = Relationship to P2 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R02
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 77 Variable = R03 Variable label = Relationship to P3 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R03
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 78 Variable = R04 Variable label = Relationship to P4 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R04
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 79 Variable = R05 Variable label = Relationship to P5 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R05
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 80 Variable = R06 Variable label = Relationship to P6 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R06
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 81 Variable = R07 Variable label = Relationship to P7 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R07
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 82 Variable = R08 Variable label = Relationship to P8 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R08
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 83 Variable = R09 Variable label = Relationship to P9 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for R09
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter (incl. adopted)
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister (incl. adopted)
+Value = 12.0 Label = step-brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = 99.0 Label = (office use only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 84 Variable = reltohrp Variable label = Relationship to hrp (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for reltohrp
+Value = 0.0 Label = HRP
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister
+Value = 12.0 Label = step brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 85 Variable = reltop Variable label = Relationship to partner (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for reltop
+Value = 0.0 Label = partner
+Value = 1.0 Label = spouse
+Value = 2.0 Label = cohabitee
+Value = 3.0 Label = son/daughter
+Value = 4.0 Label = step-son/daughter
+Value = 5.0 Label = foster child
+Value = 6.0 Label = son/daughter-in-law
+Value = 7.0 Label = parent/guardian
+Value = 8.0 Label = step-parent
+Value = 9.0 Label = foster parent
+Value = 10.0 Label = parent-in-law
+Value = 11.0 Label = brother/sister
+Value = 12.0 Label = step brother/sister
+Value = 13.0 Label = foster brother/sister
+Value = 14.0 Label = brother/sister-in-law
+Value = 15.0 Label = grandchild
+Value = 16.0 Label = grandparent
+Value = 17.0 Label = other relative
+Value = 18.0 Label = other non-relative
+Value = 20.0 Label = civil partner
+Value = -7.0 Label = no partner

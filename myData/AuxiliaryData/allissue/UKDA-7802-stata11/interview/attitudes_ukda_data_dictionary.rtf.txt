@@ -1,0 +1,266 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = attitudes
+Number of variables = 24
+Number of cases = 12008
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = IfCarNew Variable label = Number of cars owned / available
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for IfCarNew
+Value = 0.0 Label = 0
+Value = 1.0 Label = 1
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4 or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 3 Variable = Hasintr Variable label = Introduction to accommodation satisfaction questions
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Hasintr
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Continue
+Value = -9.0 Label = does not apply
+
+Pos. = 4 Variable = HSatis Variable label = Satisfaction with accommodation
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HSatis
+Value = 1.0 Label = Very satisfied
+Value = 2.0 Label = Fairly satisfied
+Value = 3.0 Label = Neither satisfied nor dissatisfied
+Value = 4.0 Label = Slightly dissatisfied
+Value = 5.0 Label = Very dissatisfied
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 5 Variable = Satten Variable label = Satisfied with current tenure
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Satten
+Value = 1.0 Label = Strongly agree
+Value = 2.0 Label = Tend to agree
+Value = 3.0 Label = Neither agree nor disagree
+Value = 4.0 Label = Tend to disagree
+Value = 5.0 Label = Strongly disagree
+Value = 6.0 Label = No opinion (Spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 6 Variable = HAS44 Variable label = Satisfied with area
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HAS44
+Value = 1.0 Label = Very satisfied
+Value = 2.0 Label = Fairly satisfied
+Value = 3.0 Label = Neither satisfied nor dissatisfied
+Value = 4.0 Label = Slightly dissatisfied
+Value = 5.0 Label = Very dissatisfied
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 7 Variable = BetWors Variable label = Change in area
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for BetWors
+Value = 1.0 Label = Area has got better
+Value = 2.0 Label = Area has got worse
+Value = 3.0 Label = Area has not changed much
+Value = 4.0 Label = Lived here less than two years
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 8 Variable = ManIntr Variable label = Opinion about how accommodation is managed by landlord
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ManIntr
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Press <1> To Continue
+Value = -9.0 Label = does not apply
+
+Pos. = 9 Variable = LldSat Variable label = Satisfaction with repairs/maintenance
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LldSat
+Value = 1.0 Label = Very satisfied
+Value = 2.0 Label = Fairly satisfied
+Value = 3.0 Label = Neither satisfied nor dissatisfied
+Value = 4.0 Label = Slightly dissatisfied
+Value = 5.0 Label = Very dissatisfied
+Value = 6.0 Label = Landlord not responsible for maintaining/repairing home
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 10 Variable = lldsatre Variable label = main reason for LL R&M dissatisfaction
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for lldsatre
+Value = 1.0 Label = Landlord does not bother
+Value = 2.0 Label = Landlord does emergency repairs only
+Value = 3.0 Label = Landlord difficult to contact
+Value = 4.0 Label = Work done of poor quality
+Value = 5.0 Label = Landlord does bare minimum
+Value = 6.0 Label = Landlord slow to get things done
+Value = 7.0 Label = Landlord becomes hostile when issues raised
+Value = 8.0 Label = Other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 11 Variable = HAS238N Variable label = Taking everything into account, how satisfied are you with the housing services provided by your landlord/freeholder
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HAS238N
+Value = 1.0 Label = Very satisfied
+Value = 2.0 Label = Fairly satisfied
+Value = 3.0 Label = Neither satisfied nor dissatisfied
+Value = 4.0 Label = Slightly dissatisfied
+Value = 5.0 Label = Very dissatisfied
+Value = 6.0 Label = Landlord not responsible for maintaining/repairing home
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 12 Variable = FreMajWk Variable label = Over the last 3 years has your freeholder undertaken any major work to the shared/common areas of this block of flats - eg the roof, lifts, communal heating system
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FreMajWk
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 13 Variable = FreWkSatis Variable label = How satisfied were you with the work that was undertaken
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FreWkSatis
+Value = 1.0 Label = Very satisfied
+Value = 2.0 Label = Fairly satisfied
+Value = 3.0 Label = Neither satisfied nor dissatisfied
+Value = 4.0 Label = Slightly dissatisfied
+Value = 5.0 Label = Very dissatisfied
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 14 Variable = FreWkCon Variable label = Were you consulted about this work by your freeholder before the work was undertaken
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FreWkCon
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 15 Variable = FrWkBill Variable label = Did you receive a bill(s) from your freeholder for these works
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkBill
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 16 Variable = FrWkCost Variable label = How much in total was your household charged for this work
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkCost
+Value = 1.0 Label = Less than 1000
+Value = 2.0 Label = 1000 to less than 2000
+Value = 3.0 Label = 2000 to less than 5000
+Value = 4.0 Label = 5000 to less than 10,000
+Value = 5.0 Label = 10,000 or more
+Value = 6.0 Label = 20,000 to less than 30,000
+Value = 7.0 Label = 30,000 to less than 40,000
+Value = 8.0 Label = 40,000 to less than 50,000
+Value = 9.0 Label = Over 50,000
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 17 Variable = FrWkPay Variable label = How easy did you find it to settle this/these bills
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkPay
+Value = 1.0 Label = Very easy
+Value = 2.0 Label = Fairly easy
+Value = 3.0 Label = Neither easy or dificult
+Value = 4.0 Label = Fairly difficult
+Value = 5.0 Label = Very difficult
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 18 Variable = FrWkDisc Variable label = Early payment discount
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkDisc
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 19 Variable = FrWkSprd Variable label = Spread cost over a specified period
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkSprd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 20 Variable = FrWkLoan Variable label = Loan
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkLoan
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 21 Variable = FrWkTen Variable label = Became a tenant after freeholder purchased property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkTen
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 22 Variable = FrWkSOwn Variable label = Became a shared owner after freeholder purchased a share of property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkSOwn
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 23 Variable = FrWkInfo Variable label = Information on government scheme to waive/reduce bill
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrWkInfo
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 24 Variable = TenBW Variable label = Change in housing service
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TenBW
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Better
+Value = 2.0 Label = Worse
+Value = 3.0 Label = Not changed much
+Value = -9.0 Label = does not apply

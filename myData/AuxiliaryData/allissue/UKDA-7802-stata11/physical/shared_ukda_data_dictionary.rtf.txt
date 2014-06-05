@@ -1,0 +1,843 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = shared
+Number of variables = 80
+Number of cases = 12498
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2013
+ Value label information for aacode
+
+Pos. = 2 Variable = Ffcshare Variable label = SHARED FACILITIES Do shared facilities services exist?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcshare
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 3 Variable = Ffctenpr Variable label = STORES & COMMON ROOMS Tenant stores - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffctenpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 4 Variable = Ffctenlo Variable label = STORES & COMMON ROOMS Tenant stores - Location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffctenlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 5 Variable = Ffctenac Variable label = STORES & COMMON ROOMS Tenant stores - Action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffctenac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 6 Variable = Ffcbinpr Variable label = STORES & COMMON ROOMS Bin stores - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcbinpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 7 Variable = Ffcbinlo Variable label = STORES & COMMON ROOMS Bin stores - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcbinlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 8 Variable = Ffcbinac Variable label = STORES & COMMON ROOMS Bin stores - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcbinac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 9 Variable = Ffcpalpr Variable label = STORES & COMMON ROOMS Paladin stores - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpalpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 10 Variable = Ffcpallo Variable label = STORES & COMMON ROOMS Paladin stores - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpallo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 11 Variable = Ffcpalac Variable label = STORES & COMMON ROOMS Paladin stores - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpalac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 12 Variable = Ffclaupr Variable label = STORES & COMMON ROOMS Laundry -present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclaupr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 13 Variable = Ffclaulo Variable label = STORES & COMMON ROOMS Laundry - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclaulo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 14 Variable = Ffclauac Variable label = STORES & COMMON ROOMS Laundry - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclauac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 15 Variable = Ffcdrypr Variable label = STORES & COMMON ROOMS Drying room - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcdrypr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 16 Variable = Ffcdrylo Variable label = STORES & COMMON ROOMS Drying room - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcdrylo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 17 Variable = Ffcdryac Variable label = STORES & COMMON ROOMS Drying room - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcdryac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 18 Variable = Ffccompr Variable label = STORES & COMMON ROOMS Community room - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccompr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 19 Variable = Ffccomlo Variable label = STORES & COMMON ROOMS Community room - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccomlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 20 Variable = Ffccomac Variable label = STORES & COMMON ROOMS Community room - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccomac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 21 Variable = Ffcwarpr Variable label = STORES & COMMON ROOMS Warden caretaker office - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcwarpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 22 Variable = Ffcwarlo Variable label = STORES & COMMON ROOMS Warden caretaker office - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcwarlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 23 Variable = Ffcwarac Variable label = STORES & COMMON ROOMS Warden caretaker office - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcwarac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 24 Variable = Ffcgarpr Variable label = COMMUNAL PARKING FACILITIES Garages - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgarpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 25 Variable = Ffcgarlo Variable label = COMMUNAL PARKING FACILITIES Garages - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgarlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 26 Variable = Ffcgarac Variable label = COMMUNAL PARKING FACILITIES Garages - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgarac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 27 Variable = Ffcmulpr Variable label = COMMUNAL PARKING FACILITIES Multi-storey parking - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcmulpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 28 Variable = Ffcmullo Variable label = COMMUNAL PARKING FACILITIES Multi-storey parking - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcmullo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 29 Variable = Ffcmulac Variable label = COMMUNAL PARKING FACILITIES Multi-storey parking - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcmulac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 30 Variable = Ffcundpr Variable label = COMMUNAL PARKING FACILITIES Underground parking - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcundpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 31 Variable = Ffcundlo Variable label = COMMUNAL PARKING FACILITIES Underground parking - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcundlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 32 Variable = Ffcundac Variable label = COMMUNAL PARKING FACILITIES Underground parking - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcundac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 33 Variable = Ffcroopr Variable label = COMMUNAL PARKING FACILITIES Roof parking - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcroopr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 34 Variable = Ffcroolo Variable label = COMMUNAL PARKING FACILITIES Roof parking - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcroolo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 35 Variable = Ffcrooac Variable label = COMMUNAL PARKING FACILITIES Roof parking - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcrooac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 36 Variable = Ffccovpr Variable label = COMMUNAL PARKING FACILITIES Other covered parking - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccovpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 37 Variable = Ffccovlo Variable label = COMMUNAL PARKING FACILITIES Other covered parking - location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccovlo
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Integral
+Value = 2.0 Label = Not integral
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 38 Variable = Ffccovac Variable label = COMMUNAL PARKING FACILITIES Other covered parking - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccovac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 39 Variable = Ffcairpr Variable label = COMMUNAL PARKING FACILITIES Open air parking bays - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcairpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 40 Variable = Ffcairac Variable label = COMMUNAL PARKING FACILITIES Open air parking bays - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcairac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 41 Variable = Ffcvand Variable label = CONTRIBUTION TO PROBLEMS IN CONDITION Vandalism
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcvand
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 42 Variable = Ffcgraff Variable label = CONTRIBUTION TO PROBLEMS IN CONDITION Graffiti
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgraff
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 43 Variable = Ffclittr Variable label = CONTRIBUTION TO PROBLEMS IN CONDITION Litter rubbish
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclittr
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 44 Variable = Ffcastep Variable label = ACCESSIBILITY : number of steps from pavement to entrance of module
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Ffcastep
+Value = 1.0 Label = 1 Step
+Value = 2.0 Label = 2 Step
+Value = 3.0 Label = 3 or more steps
+Value = 7.0 Label = No step but slope >1:20
+Value = 8.0 Label = Level access
+Value = 77.0 Label = Section Not Applicable
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 45 Variable = Ffcaramp Variable label = ACCESSIBILITY : space for ramp
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Ffcaramp
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 99.0 Label = Unknown
+Value = 8.0 Label = Not applicable
+Value = 88.0 Label = Question Not Applicable
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 46 Variable = Ffcafirm Variable label = ACCESSIBILITY : is path firm and even?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcafirm
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 47 Variable = Ffcalit Variable label = ACCESSIBILITY : is entrance adequately lit?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcalit
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 48 Variable = Ffcacovr Variable label = ACCESSIBILITY : is entrance covered?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcacovr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 49 Variable = Ffccctpr Variable label = COMMON ELECTRICAL SERVICES CCTV - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccctpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 50 Variable = Ffccctac Variable label = COMMON ELECTRICAL SERVICES CCTV - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffccctac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 51 Variable = Ffctvrpr Variable label = COMMON ELECTRICAL SERVICES TV reception - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffctvrpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 52 Variable = Ffctvrac Variable label = COMMON ELECTRICAL SERVICES TV reception - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffctvrac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 53 Variable = Ffchtgpr Variable label = COMMON ELECTRICAL SERVICES Lightning conductors - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchtgpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 54 Variable = Ffchtgac Variable label = COMMON ELECTRICAL SERVICES Lightning conductors - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchtgac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 55 Variable = Ffcheapr Variable label = COMMON ELECTRICAL SERVICES Communal heating - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcheapr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 56 Variable = Ffcheaac Variable label = COMMON ELECTRICAL SERVICES Communal heating - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcheaac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 57 Variable = Ffcburpr Variable label = COMMON ELECTRICAL SERVICES Burglar alarm system - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcburpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 58 Variable = Ffcburac Variable label = COMMON ELECTRICAL SERVICES Burglar alarm system - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcburac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 59 Variable = Ffclitpr Variable label = COMMON ELECTRICAL SERVICES External lighting - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclitpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 60 Variable = Ffclitac Variable label = COMMON ELECTRICAL SERVICES External lighting - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffclitac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 61 Variable = Ffcdarpr Variable label = SURFACES & FENCES Drying areas - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcdarpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 62 Variable = Ffcdarac Variable label = SURFACES & FENCES Drying areas - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcdarac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 63 Variable = Ffcplapr Variable label = SURFACES & FENCES Children s play areas - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcplapr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 64 Variable = Ffcplaac Variable label = SURFACES & FENCES Children s play areas - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcplaac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 65 Variable = Ffcrdspr Variable label = SURFACES & FENCES Unadopted estate roads - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcrdspr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 66 Variable = Ffcrdsac Variable label = SURFACES & FENCES Unadopted estate roads - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcrdsac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 67 Variable = Ffcpatpr Variable label = LANDSCAPING Paths - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpatpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 68 Variable = Ffcpatac Variable label = LANDSCAPING Paths - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpatac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 69 Variable = Ffcwalpr Variable label = LANDSCAPING Walls fences - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcwalpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 70 Variable = Ffcwalac Variable label = LANDSCAPING Walls fences - Action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcwalac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 71 Variable = Ffchrdpr Variable label = LANDSCAPING Hard landscaping -present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchrdpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 72 Variable = Ffchrdac Variable label = LANDSCAPING Hard landscaping - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchrdac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 73 Variable = Ffcgrapr Variable label = LANDSCAPING Grass planting - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgrapr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 74 Variable = Ffcgraac Variable label = LANDSCAPING Grass planting - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcgraac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor
+Value = 3.0 Label = Major
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 75 Variable = Ffcpat90 Variable label = DESIGN of Landscaping PATHS - At least 900mm wide
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpat90
+Value = 8.0 Label = Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 76 Variable = Ffcpatgr Variable label = DESIGN of Landscaping PATHS - Gradient gentler than 1 in 12
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpatgr
+Value = 8.0 Label = Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 77 Variable = Ffcpatad Variable label = DESIGN of Landscaping PATHS - Projected from adjacent drops
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffcpatad
+Value = 8.0 Label = Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 78 Variable = Ffchsstr Variable label = HEALTH AND SAFTEY - falls on stairs
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchsstr
+Value = 1.0 Label = Lower than average
+Value = 2.0 Label = Average
+Value = 3.0 Label = Higher than average
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 79 Variable = Ffchslvl Variable label = HEALTH AND SAFTEY - falls on the level
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchslvl
+Value = 1.0 Label = Lower than average
+Value = 2.0 Label = Average
+Value = 3.0 Label = Higher than average
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 80 Variable = Ffchsbtw Variable label = HEALTH AND SAFTEY - falls between levels
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Ffchsbtw
+Value = 1.0 Label = Lower than average
+Value = 2.0 Label = Average
+Value = 3.0 Label = Higher than average
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown

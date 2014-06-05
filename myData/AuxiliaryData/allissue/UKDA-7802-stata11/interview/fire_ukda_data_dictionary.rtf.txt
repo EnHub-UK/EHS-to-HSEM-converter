@@ -1,0 +1,603 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = fire
+Number of variables = 60
+Number of cases = 12008
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = NumAla Variable label = Number of smoke alarms
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NumAla
+Value = -8.0 Label = no answer
+Value = 1.0 Label = One
+Value = 2.0 Label = Two
+Value = 3.0 Label = Three or more
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = Ownala Variable label = Working order of smoke alarms
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ownala
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes - (all) in full working order
+Value = 2.0 Label = Some in full working order, some not
+Value = 3.0 Label = No - (all) not working for some reason
+Value = -9.0 Label = does not apply
+
+Pos. = 4 Variable = FirsAlrm Variable label = Current fire safety: Smoke alarm
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsAlrm
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 5 Variable = FirsBlnk Variable label = Current fire safety: Fire blanket
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsBlnk
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 6 Variable = FirsExtg Variable label = Current fire safety: Fire extinguisher
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsExtg
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 7 Variable = FirsFrDr Variable label = Current fire safety: Fire door
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsFrDr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 8 Variable = FirsLddr Variable label = Current fire safety: Ladder/rope
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsLddr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 9 Variable = FirsEscp Variable label = Current fire safety: Fire escape/wide opening windows
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsEscp
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 10 Variable = FirsPrac Variable label = Current fire safety: Practice fire drill/planned escape route
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsPrac
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 11 Variable = FirsSnsr Variable label = Current fire safety: Heat sensor
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsSnsr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 12 Variable = FirsSprk Variable label = Current fire safety: Sprinkler system
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsSprk
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 13 Variable = FirsOthr Variable label = Current fire safety: Other fire safety measures
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 14 Variable = FirsNone Variable label = Current fire safety: None of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirsNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 15 Variable = AlaWMain Variable label = How smoke alarm(s) powered: Wired to the mains/mains powered
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWMain
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 16 Variable = AlaWMsSy Variable label = How smoke alarm(s) powered: Part of a mains powered security system
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWMsSy
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 17 Variable = AlaWByMs Variable label = How smoke alarm(s) powered: Battery and mains
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWByMs
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 18 Variable = AlaWBty1 Variable label = How smoke alarm(s) powered: Battery - ordinary (1-year)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWBty1
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 19 Variable = AlaWBy10 Variable label = How smoke alarm(s) powered: Battery (10-year)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWBy10
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 20 Variable = AlaWByUn Variable label = How smoke alarm(s) powered: Battery - type unknown
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWByUn
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 21 Variable = AlaWLght Variable label = How smoke alarm(s) powered: Plugs into light fitting
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWLght
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 22 Variable = AlaWUnsu Variable label = How smoke alarm(s) powered: Unsure
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AlaWUnsu
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 23 Variable = ChppnUsr Variable label = Frequency of using chip pan (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChppnUsr
+Value = 1.0 Label = At least once per week
+Value = 2.0 Label = 2 or 3 times a month
+Value = 3.0 Label = Once a month
+Value = 4.0 Label = Once every 3 months
+Value = 5.0 Label = Once or twice a year
+Value = 6.0 Label = Less than once a year
+Value = 7.0 Label = Never
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 24 Variable = CndlUser Variable label = Frequency of lighting candles in the home (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CndlUser
+Value = 1.0 Label = At least once per week
+Value = 2.0 Label = 2 or 3 times a month
+Value = 3.0 Label = Once a month
+Value = 4.0 Label = Once every 3 months
+Value = 5.0 Label = Once or twice a year
+Value = 6.0 Label = Less than once a year
+Value = 7.0 Label = Never
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 25 Variable = FireUser Variable label = Frequency of having open fire, or using free standing room heaters (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FireUser
+Value = 1.0 Label = At least once per week
+Value = 2.0 Label = 2 or 3 times a month
+Value = 3.0 Label = Once a month
+Value = 4.0 Label = Once every 3 months
+Value = 5.0 Label = Once or twice a year
+Value = 6.0 Label = Less than once a year
+Value = 7.0 Label = Never
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 26 Variable = AnyFire Variable label = Outbreak of fire in last 12 months (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AnyFire
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 27 Variable = NumFires Variable label = Numbero of outbreaks (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NumFires
+Value = 1.0 Label = One
+Value = 2.0 Label = Two
+Value = 3.0 Label = Three
+Value = 4.0 Label = Four
+Value = 5.0 Label = Five or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 28 Variable = HomeFire Variable label = Whether outbreak of fire year before (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HomeFire
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 29 Variable = CauFire Variable label = Cause of most recent outbreak of fire (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CauFire
+Value = 1.0 Label = Arson
+Value = 2.0 Label = Pan of oil/fat catching fire
+Value = 3.0 Label = Grill pan catching fire
+Value = 4.0 Label = Something catching fire that was left too close to the cooke
+Value = 5.0 Label = Other accidents while cooking (including using toasters and
+Value = 6.0 Label = Accidents with cigarettes, cigars, or pipe
+Value = 7.0 Label = Accidents with matches or cigarette lighters
+Value = 8.0 Label = Children playing with fire other than matches or cigarette l
+Value = 9.0 Label = Electrical equipment/wiring (including electric blankets)
+Value = 10.0 Label = Heating appliances/equipment and domestic fires (including c
+Value = 11.0 Label = Blow lamps
+Value = 12.0 Label = Candles
+Value = 13.0 Label = Natural occurrences (lightning etc.)
+Value = 14.0 Label = Bonfires
+Value = 15.0 Label = Fireworks
+Value = 16.0 Label = Barbecue
+Value = 17.0 Label = Other
+Value = 18.0 Label = Not known Spontaneous only
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 30 Variable = FirStar1 Variable label = First fire started inside or outside house/flat (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FirStar1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Inside the house/flat
+Value = 2.0 Label = Outside the house/flat
+Value = -9.0 Label = does not apply
+
+Pos. = 31 Variable = TimeStar Variable label = Time of day fire discovered (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TimeStar
+Value = 1.0 Label = Between midnight and 6am
+Value = 2.0 Label = Between 6am and midday
+Value = 3.0 Label = Between midday and 6pm
+Value = 4.0 Label = Between 6pm and midnight
+Value = 5.0 Label = Not known/can t remember
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 32 Variable = InsidFi1 Variable label = Where inside house/flat fire began (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for InsidFi1
+Value = 1.0 Label = Kitchen
+Value = 2.0 Label = Lounge, living room, dining room
+Value = 3.0 Label = Bedroom/bedsitting room
+Value = 4.0 Label = Hallway or landing
+Value = 5.0 Label = Toilet/bathroom
+Value = 6.0 Label = Loft/roof
+Value = 7.0 Label = Cellar/basement
+Value = 8.0 Label = Conservatory
+Value = 9.0 Label = Elsewhere in house
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 33 Variable = OutsidH1 Variable label = Where outside house/flat fire began (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OutsidH1
+Value = 1.0 Label = Garage
+Value = 2.0 Label = Shed or greenhouse
+Value = 3.0 Label = Garden
+Value = 4.0 Label = Dustbin
+Value = 5.0 Label = Communal area
+Value = 6.0 Label = Neighbour s house/garden/garage
+Value = 7.0 Label = Elsewhere outside house
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 34 Variable = HowDAlrm Variable label = How discovered: Smoke alarm went off (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDAlrm
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 35 Variable = HowDSmlt Variable label = How discovered: Smelt smoke (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDSmlt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 36 Variable = HowDRoom Variable label = How discovered: They were in the room when it started (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDRoom
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 37 Variable = HowDHapp Variable label = How discovered: Just happened to find it (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDHapp
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 38 Variable = HowDSmke Variable label = How discovered: Saw smoke/flames/sparks (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDSmke
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 39 Variable = HowDNois Variable label = How discovered: Heard noise (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDNois
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 40 Variable = HowDBrnt Variable label = How discovered: Burnt clothes/self (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDBrnt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 41 Variable = HowDNgbr Variable label = How discovered: Seen by a neighbour/passer by (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDNgbr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 42 Variable = HowDOthr Variable label = How discovered: Other (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowDOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 43 Variable = Smkala1 Variable label = Smoke alarm installed at time of fire (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Smkala1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 44 Variable = Smkala2 Variable label = Smoke alarm went off at all (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Smkala2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 45 Variable = Smkala3 Variable label = Reason smoke alarm did't go off (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Smkala3
+Value = 1.0 Label = No battery installed/not working/switched off
+Value = 2.0 Label = Fire too far away from the smoke alarm
+Value = 3.0 Label = Fire put out before the smoke alarm triggered
+Value = 4.0 Label = Fire outside the house
+Value = 5.0 Label = Don t know
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 46 Variable = Smkala4 Variable label = Had smoke alarm installed since this fire (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Smkala4
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 47 Variable = FBrigCal Variable label = Fire & Rescue Service called (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FBrigCal
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 48 Variable = Firefig1 Variable label = Anyone else fight fire (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Firefig1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 49 Variable = ActEFrRs Variable label = Who put out fire: Fire & Rescue Service (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ActEFrRs
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 50 Variable = ActEResp Variable label = Who put out fire: Respondent (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ActEResp
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 51 Variable = ActEHdMr Variable label = Who put out fire: Someone else living in the/your household (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ActEHdMr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 52 Variable = ActEOtSd Variable label = Who put out fire: Someone from outside the home (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ActEOtSd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 53 Variable = ActEWOut Variable label = Who put out fire: Went out by itself (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ActEWOut
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 54 Variable = FrInBrse Variable label = Anyone else in household suffer injuries: Bruises (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInBrse
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 55 Variable = FrInCuts Variable label = Anyone else in household suffer injuries: Scratches/cuts (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInCuts
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 56 Variable = FrInBnes Variable label = Anyone else in household suffer injuries: Broken bones (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInBnes
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 57 Variable = FrInBrns Variable label = Anyone else in household suffer injuries: Burns/scalds (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInBrns
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 58 Variable = FrInInhl Variable label = Anyone else in household suffer injuries: Smoke inhalation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInInhl
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 59 Variable = FrInInjr Variable label = Anyone else in household suffer injuries: Other injuries
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInInjr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 60 Variable = FrInNone Variable label = Anyone else in household suffer injuries: No one in household injured
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrInNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned

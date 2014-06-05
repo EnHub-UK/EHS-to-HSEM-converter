@@ -1,0 +1,406 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = vacant
+Number of variables = 44
+Number of cases = 22522
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = VNSTAWSL Variable label = Current status: Awaiting sale
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTAWSL
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Awaiting sale
+
+Pos. = 3 Variable = VNSTSDNO Variable label = Current status: Sold but awaiting new occupants
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTSDNO
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Sold awaiting new occupants
+
+Pos. = 4 Variable = VNSTAWLT Variable label = Current status: Awaiting letting
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTAWLT
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Awaiting letting
+
+Pos. = 5 Variable = VNSTAWNW Variable label = Current status: Awaiting (new) tenants
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTAWNW
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Awaiting tenants
+
+Pos. = 6 Variable = VNSTRNMD Variable label = Current status: Undergoing renovation/modernisation
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTRNMD
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Being renovated/modernised
+
+Pos. = 7 Variable = VNSTDRDM Variable label = Current status: Derelict or awaiting demolition
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTDRDM
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Derelict or awaiting demolition
+
+Pos. = 8 Variable = VNSTOTHR Variable label = Current status: Other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTOTHR
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Other
+
+Pos. = 9 Variable = VNSTNONE Variable label = Current status: None of these
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTNONE
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = None of these
+
+Pos. = 10 Variable = VNSTDKRF Variable label = Current status: Don't know/ refused
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNSTDKRF
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Don't know/refused
+
+Pos. = 11 Variable = Vnever Variable label = Ever occupied
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vnever
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes, used occupied
+Value = 2 Label = No, never used occupied
+
+Pos. = 12 Variable = Vnlstuse Variable label = Last use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vnlstuse
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Someones home
+Value = 2 Label = Non-residential use
+
+Pos. = 13 Variable = VNMVDIED Variable label = Why moved: Died
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVDIED
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Died
+
+Pos. = 14 Variable = VNMVHCI Variable label = Why moved: Went into hospital/care/institution
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVHCI
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Went into hospital/care/institution
+
+Pos. = 15 Variable = VNMVEVIC Variable label = Why moved: Evicted/property reposessed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVEVIC
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Evicted/Property reposessed
+
+Pos. = 16 Variable = VNMVOTMV Variable label = Why moved: Moved - other reason
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVOTMV
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Moved - other reason
+
+Pos. = 17 Variable = VNMVDKMV Variable label = Why moved: Moved, don't know reason
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVDKMV
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Moved - Dont know reason
+
+Pos. = 18 Variable = VNMVDAMG Variable label = Why moved: Property damaged (eg fire/flood)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVDAMG
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Property damaged
+
+Pos. = 19 Variable = VNMVRPMD Variable label = Why moved: Property needed repair/modernisation/renovation
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVRPMD
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Property needed repair
+
+Pos. = 20 Variable = VNMVOTHR Variable label = Why moved: Other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVOTHR
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Other
+
+Pos. = 21 Variable = VNMVDKRF Variable label = Why moved: Refused/dont know
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNMVDKRF
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Refused/Dont know
+
+Pos. = 22 Variable = VNCRNEVR Variable label = Why currently unoccupied: Property will never be occupied again (e.g. derelict)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRNEVR
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Property will never be occupied again
+
+Pos. = 23 Variable = VNCRRMR Variable label = Why currently unoccupied: Currently being repaired/modernised/renovated
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRRMR
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Currently being repaired
+
+Pos. = 24 Variable = VNCRMDRQ Variable label = Why currently unoccupied: Repairs/modernisation required but not being conducted
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRMDRQ
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Repairs/modernisation required
+
+Pos. = 25 Variable = VNCRNGEQ Variable label = Why currently unoccupied: In negative equity/waiting for value of property to rise
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRNGEQ
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = In negative equity
+
+Pos. = 26 Variable = VNCROWMB Variable label = Why currently unoccupied: Waiting for owner to move back in the future
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCROWMB
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Waiting for owner to move back in
+
+Pos. = 27 Variable = VNCRFRMV Variable label = Why currently unoccupied: Waiting for owners friends/relatives to move in
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRFRMV
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Waiting for owners friends/relatives to move in
+
+Pos. = 28 Variable = VNCRAWSL Variable label = Why currently unoccupied: Awaiting sale
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRAWSL
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Awaiting sale
+
+Pos. = 29 Variable = VNCRSOLD Variable label = Why currently unoccupied: Sold, but new owners not yet moved in
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRSOLD
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Sold but new owners not yet moved in
+
+Pos. = 30 Variable = VNCRAWLT Variable label = Why currently unoccupied: Awaiting letting
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRAWLT
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Awaiting letting
+
+Pos. = 31 Variable = VNCRLET Variable label = Why currently unoccupied: Let, but new tenants not moved in
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRLET
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Let but new tenants not moved in
+
+Pos. = 32 Variable = VNCROTHR Variable label = Why currently unoccupied: Other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCROTHR
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Other
+
+Pos. = 33 Variable = VNCRDKRF Variable label = Why currently unoccupied: Refused/dont know
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VNCRDKRF
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Refused/dont know
+
+Pos. = 34 Variable = Vnlstyr Variable label = Year last occupied
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vnlstyr
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 35 Variable = Vnseas Variable label = Month last occupied
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vnseas
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Jan-Mar
+Value = 2 Label = Apr-June
+Value = 3 Label = July-Sept
+Value = 4 Label = Oct-Dec
+
+Pos. = 36 Variable = Vnlstten Variable label = Tenure when last occupied
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -9 and -8 and -2
+ Value label information for Vnlstten
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = -2 Label = Not asked for a particular quarter
+Value = 1 Label = Rented (including rent free)
+Value = 2 Label = Owned (including buying with a mortgage)
+Value = 3 Label = Other (please specify)
+
+Pos. = 37 Variable = Vnllrd Variable label = Landlord when last occupied
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -9 and -8 and -2
+ Value label information for Vnllrd
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = -2 Label = Not asked for a particular quarter
+Value = 1 Label = the local authority or council
+Value = 2 Label = a housing association, co-operative
+Value = 3 Label = someone else
+
+Pos. = 38 Variable = Vnchange Variable label = Changes in ownership
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vnchange
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Changed
+Value = 2 Label = Not changed
+
+Pos. = 39 Variable = Vncrnton Variable label = Current owner
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Vncrnton
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = A local authority or council
+Value = 2 Label = A housing association, co-operative
+Value = 3 Label = A developer
+Value = 4 Label = Someone else (please specify)
+
+Pos. = 40 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 41 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 42 Variable = Vnlstten2 Variable label = Tenure when last occupied
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Vnlstten2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = Not asked 2008 Q1/2
+Value = 1 Label = owned (including buying with a mortgage)
+Value = 2 Label = rented (including rent free)
+Value = 3 Label = other (please specify)
+
+Pos. = 43 Variable = Vntenin Variable label = Likely tenure when last occupied
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Vntenin
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = Not asked 2008 Q1/2
+Value = 1 Label = probably owner occupied
+Value = 2 Label = probably rented privately
+Value = 3 Label = probably rented from a LA/HA
+
+Pos. = 44 Variable = Vnllrd2 Variable label = Landlord when last occupied
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Vnllrd2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = Not asked 2008 Q1/2
+Value = 1 Label = LA/council
+Value = 2 Label = HA/co-operative
+Value = 3 Label = private landlord

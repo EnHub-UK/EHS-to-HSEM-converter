@@ -1,0 +1,517 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = common
+Number of variables = 48
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = FcpPres Variable label = Do common parts exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for FcpPres
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Fcplftex Variable label = LIFTS - does access area exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcplftex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 4 Variable = Fcplftsz Variable label = LIFTS - Spacious Average Tight
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcplftsz
+Value = 1 Label = Spacious
+Value = 2 Label = Average
+Value = 3 Label = Tight
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 5 Variable = Fcplftin Variable label = LIFTS - In module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcplftin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 6 Variable = Fcplftwk Variable label = LIFTS - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcplftwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 7 Variable = Fcprefex Variable label = REFUSE CHUTES - does access area exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcprefex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 8 Variable = Fcprefsz Variable label = REFUSE CHUTES - spacious average tight
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcprefsz
+Value = 1 Label = Spacious
+Value = 2 Label = Average
+Value = 3 Label = Tight
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 9 Variable = Fcprefin Variable label = REFUSE CHUTES - in module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcprefin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 10 Variable = Fcprefwk Variable label = REFUSE CHUTES - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcprefwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 11 Variable = Fcpacces Variable label = SECURITY - Type of access
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpacces
+Value = 1 Label = Multiple access
+Value = 2 Label = Single access
+Value = 3 Label = Restricted access
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 12 Variable = Fcpconpr Variable label = SECURITY - Concierge system present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpconpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Fcpconwk Variable label = SECURITY - Concierge system working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpconwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 14 Variable = Fcpconin Variable label = SECURITY - Concierge system in module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpconin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 15 Variable = Fcpentpr Variable label = SECURITY - Door entry system present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpentpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 16 Variable = Fcpentwk Variable label = SECURITY - Door entry system working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpentwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Fcpentin Variable label = SECURITY - Door entry system in module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpentin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 18 Variable = Fcpescap Variable label = FIRE SAFETY - Escape route from flat surveyed to final exit from building
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpescap
+Value = 1 Label = Flat is final exit
+Value = 2 Label = Through another flat
+Value = 3 Label = Through another flat and common areas
+Value = 4 Label = Through common areas
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fcppropr Variable label = FIRE PRECAUTIONS - Protection to stairs lobbies - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcppropr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Fcpproac Variable label = FIRE PRECAUTIONS - Protection to stairs lobbies - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpproac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew install
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 21 Variable = Fcpclopr Variable label = FIRE PRECAUTIONS - Self closing fire doors - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpclopr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 22 Variable = Fcpcloac Variable label = FIRE PRECAUTIONS - Self closing fire doors - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpcloac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew install
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 23 Variable = Fcpextpr Variable label = FIRE PRECAUTIONS - Fire extinguishers - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpextpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Fcpextac Variable label = FIRE PRECAUTIONS - Fire extinguishers - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpextac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew install
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 25 Variable = Fcpemlpr Variable label = FIRE PRECAUTIONS - Emergency lighting - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpemlpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 26 Variable = Fcpemlac Variable label = FIRE PRECAUTIONS - Emergency lighting - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpemlac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew install
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 27 Variable = Fcpsgnpr Variable label = FIRE PRECAUTIONS - Sign posting - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpsgnpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Fcpsgnac Variable label = FIRE PRECAUTIONS - Sign posting - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpsgnac
+Value = 1 Label = None
+Value = 4 Label = Renew
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 29 Variable = Fcpsafpr Variable label = FIRE PRECAUTIONS - Safe practices - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpsafpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 30 Variable = Fcpaltpr Variable label = FIRE PRECAUTIONS - Alternative route - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpaltpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 31 Variable = Fcpalmpr Variable label = FIRE PRECAUTIONS - Alarm system - Present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpalmpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 32 Variable = Fcpalmac Variable label = FIRE PRECAUTIONS - Alarm system - Action?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpalmac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew install
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Fcpweart Variable label = CONTRIBUTION TO PROBLEMS - Normal wear & tear
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpweart
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 34 Variable = Fcpinadm Variable label = CONTRIBUTION TO PROBLEMS - Inadequate maintenance
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpinadm
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 35 Variable = Fcpinapp Variable label = CONTRIBUTION TO PROBLEMS - inappropriate use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpinapp
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 36 Variable = Fcpdesig Variable label = CONTRIBUTION TO PROBLEMS - Poor design specification
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpdesig
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 37 Variable = Fcpvanda Variable label = CONTRIBUTION TO PROBLEMS - Vandalism
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpvanda
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 38 Variable = Fcpgraff Variable label = CONTRIBUTION TO PROBLEMS - Graffiti
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcpgraff
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 39 Variable = Fcplittr Variable label = CONTRIBUTION TO PROBLEMS - Litter rubbish
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcplittr
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 40 Variable = Fcphsstr Variable label = HEALTH AND SAFETY - falls on stairs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsstr
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 41 Variable = Fcphslvl Variable label = HEALTH AND SAFETY - falls on the level
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphslvl
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 42 Variable = Fcphsbtw Variable label = HEALTH AND SAFETY - falls between levels
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsbtw
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 43 Variable = Fcphsfir Variable label = HEALTH AND SAFETY - fire
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsfir
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 44 Variable = Fcphshot Variable label = HEALTH AND SAFETY - hot surfaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphshot
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 45 Variable = Fcphsdam Variable label = HEALTH AND SAFETY - damp and mould
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsdam
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section N A
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 46 Variable = Fcphsent Variable label = HEALTH AND SAFETY - entry by intruders
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsent
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section N A
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 47 Variable = Fcphsnoi Variable label = HEALTH AND SAFETY - noise
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphsnoi
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section N A
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 48 Variable = Fcphscen Variable label = HEALTH AND SAFETY - collision and entrapment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fcphscen
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section N A
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown

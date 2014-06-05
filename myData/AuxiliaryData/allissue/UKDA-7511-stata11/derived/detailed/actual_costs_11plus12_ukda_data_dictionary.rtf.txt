@@ -1,0 +1,353 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = actual_costs_11plus12
+Number of variables = 68
+Number of cases = 12763
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = key field
+ Value label information for aacode
+
+Pos. = 2 Variable = NCEIf Variable label = internal ceiling costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NCEIf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 3 Variable = NFLOf Variable label = internal floor costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NFLOf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 4 Variable = NWALf Variable label = internal walls costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NWALf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 5 Variable = NDOORf Variable label = internal door costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NDOORf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 6 Variable = NSTAf Variable label = internal stair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NSTAf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 7 Variable = BAMCf Variable label = bathroom costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for BAMCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 8 Variable = KAMCf Variable label = kitchen costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for KAMCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 9 Variable = SRVRf Variable label = services costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for SRVRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 10 Variable = XCHIUf Variable label = chimneys urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XCHIUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 11 Variable = XCHIBf Variable label = chimneys basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XCHIBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 12 Variable = XCHIRf Variable label = chimneys comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XCHIRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 13 Variable = XRUSUf Variable label = roof structure urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUSUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 14 Variable = XRUSBf Variable label = roof structure basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUSBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 15 Variable = XRUSRf Variable label = roof structure comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUSRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 16 Variable = XRUCUf Variable label = roof covering urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUCUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 17 Variable = XRUCBf Variable label = roof covering basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUCBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 18 Variable = XRUCRf Variable label = roof covering comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUCRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 19 Variable = XRUFUf Variable label = roof features urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUFUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 20 Variable = XRUFBf Variable label = roof features basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUFBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 21 Variable = XRUFRf Variable label = roof features comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XRUFRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 22 Variable = XWASUf Variable label = wall structure urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWASUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 23 Variable = XWASBf Variable label = wall struc basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWASBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 24 Variable = XWASRf Variable label = wall structure comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWASRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 25 Variable = XWAFUf Variable label = wall finish urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWAFUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 26 Variable = XWAFBf Variable label = wall finish basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWAFBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 27 Variable = XWAFRf Variable label = wall finish comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWAFRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 28 Variable = XBAYUf Variable label = dormers & bays urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XBAYUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 29 Variable = XBAYBf Variable label = dormers & bays basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XBAYBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 30 Variable = XBAYRf Variable label = dormers & bays comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XBAYRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 31 Variable = XWINUf Variable label = windows urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWINUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 32 Variable = XWINBf Variable label = windows basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWINBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 33 Variable = XWINRf Variable label = windows comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XWINRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 34 Variable = XDOOUf Variable label = external doors urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDOOUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 35 Variable = XDOOBf Variable label = external doors basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDOOBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 36 Variable = XDOORf Variable label = external doors comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDOORf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 37 Variable = XDAMUf Variable label = dpc urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDAMUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 38 Variable = XDAMBf Variable label = dpc basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDAMBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 39 Variable = XDAMRf Variable label = dpc comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XDAMRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 40 Variable = XPLOBf Variable label = plot levels basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for XPLOBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 41 Variable = xnomuf Variable label = urgent external costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for xnomuf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 42 Variable = xnombf Variable label = basic external costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for xnombf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 43 Variable = xnomcf Variable label = comprehensive external costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for xnomcf
+Value = 30000.0 Label = 30,000 or more
+
+Pos. = 44 Variable = NNOMf Variable label = total internal fabric costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for NNOMf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 45 Variable = ANOMf Variable label = total amenities costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for ANOMf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 46 Variable = CNOMf Variable label = total common parts and shared facilities costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CNOMf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 47 Variable = AXCUf Variable label = access costs for urgent repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for AXCUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 48 Variable = AXCBf Variable label = access costs for basic repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for AXCBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 49 Variable = AXCRf Variable label = access costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for AXCRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 50 Variable = UPCUf Variable label = uplift costs for urgent repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for UPCUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 51 Variable = UPCBf Variable label = uplift costs for basic repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for UPCBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 52 Variable = UPCRf Variable label = uplift costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for UPCRf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 53 Variable = PREUf Variable label = prelim costs for urgent repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for PREUf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 54 Variable = PREBf Variable label = prelim costs for basic repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for PREBf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 55 Variable = PRERf Variable label = prelim costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for PRERf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 56 Variable = CFIRCf Variable label = fire precautions to common parts costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CFIRCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 57 Variable = SHARCf Variable label = shared facilities costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for SHARCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 58 Variable = strucf Variable label = structural works costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for strucf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 59 Variable = CFLOCf Variable label = common parts floor repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CFLOCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 60 Variable = CWALCf Variable label = common parts wall repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CWALCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 61 Variable = CCEICf Variable label = common parts ceiling repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CCEICf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 62 Variable = CDOOCf Variable label = common parts doors repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CDOOCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 63 Variable = CWINCf Variable label = common parts windows repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CWINCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 64 Variable = CLITCf Variable label = common parts lighting repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CLITCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 65 Variable = CBALCf Variable label = common parts balustrades repair costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for CBALCf
+Value = 20000.0 Label = 20,000 or more
+
+Pos. = 66 Variable = TECOUf Variable label = total urgent costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for TECOUf
+Value = 50000.0 Label = 50,000 or more
+
+Pos. = 67 Variable = TECOBf Variable label = total basic costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for TECOBf
+Value = 50000.0 Label = 50,000 or more
+
+Pos. = 68 Variable = TECORf Variable label = total comprehensive costs
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for TECORf
+Value = 50000.0 Label = 50,000 or more

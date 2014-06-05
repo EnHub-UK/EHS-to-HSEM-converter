@@ -1,0 +1,225 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = standardised_costs_10plus11
+Number of variables = 70
+Number of cases = 14951
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = 2011/12 aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = NCEIe Variable label = internal ceiling costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = NFLOe Variable label = internal floor costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = NWALe Variable label = internal walls costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = NDOORe Variable label = internal door costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 6 Variable = NSTAe Variable label = internal stair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 7 Variable = BAMCe Variable label = bathroom costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 8 Variable = KAMCe Variable label = kitchen costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 9 Variable = KXSNe Variable label = kitchen installation costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 10 Variable = BXSNe Variable label = bathroom installation costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 11 Variable = SRVRe Variable label = services costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 12 Variable = XCHIUe Variable label = chimneys urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 13 Variable = XCHIBe Variable label = chimneys basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 14 Variable = XCHIRe Variable label = chimneys comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 15 Variable = XRUSUe Variable label = roof structure urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 16 Variable = XRUSBe Variable label = roof structure basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 17 Variable = XRUSRe Variable label = roof structure comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = XRUCUe Variable label = roof covering urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 19 Variable = XRUCBe Variable label = roof covering basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = XRUCRe Variable label = roof covering comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 21 Variable = XRUFUe Variable label = roof features urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 22 Variable = XRUFBe Variable label = roof features basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 23 Variable = XRUFRe Variable label = roof features comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 24 Variable = XWASUe Variable label = wall structure urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 25 Variable = XWASBe Variable label = wall struc basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 26 Variable = XWASRe Variable label = wall structure comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 27 Variable = XWAFUe Variable label = wall finish urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 28 Variable = XWAFBe Variable label = wall finish basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 29 Variable = XWAFRe Variable label = wall finish comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 30 Variable = XBAYUe Variable label = dormers & bays urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 31 Variable = XBAYBe Variable label = dormers & bays basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 32 Variable = XBAYRe Variable label = dormers & bays comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 33 Variable = XWINUe Variable label = windows urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 34 Variable = XWINBe Variable label = windows basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 35 Variable = XWINRe Variable label = windows comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 36 Variable = XDOOUe Variable label = external doors urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 37 Variable = XDOOBe Variable label = external doors basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 38 Variable = XDOORe Variable label = external doors comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 39 Variable = XDAMUe Variable label = dpc urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 40 Variable = XDAMBe Variable label = dpc basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 41 Variable = XDAMRe Variable label = dpc comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 42 Variable = XPLOBe Variable label = plot levels basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 43 Variable = xnomue Variable label = urgent external costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 44 Variable = xnombe Variable label = basic external costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 45 Variable = xnomrce Variable label = comprehensive external costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 46 Variable = NNOMe Variable label = total internal fabric costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 47 Variable = ANOMe Variable label = total amenities costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 48 Variable = CNOMe Variable label = total common parts and shared facilities costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 49 Variable = AXCUe Variable label = access costs for urgent repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 50 Variable = AXCBe Variable label = access costs for basic repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 51 Variable = AXCRe Variable label = access costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 52 Variable = UPCUe Variable label = uplift costs for urgent repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 53 Variable = UPCBe Variable label = uplift costs for basic repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 54 Variable = UPCRe Variable label = uplift costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 55 Variable = PREUe Variable label = prelim costs for urgent repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 56 Variable = PREBe Variable label = prelim costs for basic repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 57 Variable = PRERe Variable label = prelim costs for comprehensive repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 58 Variable = CFIRCe Variable label = fire precautions to common parts costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 59 Variable = SHARCe Variable label = shared facilities costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 60 Variable = struce Variable label = structural works costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 61 Variable = CFLOCe Variable label = common parts floor repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 62 Variable = CWALCe Variable label = common parts wall repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 63 Variable = CCEICe Variable label = common parts ceiling repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 64 Variable = CDOOCe Variable label = common parts doors repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 65 Variable = CWINCe Variable label = common parts windows repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 66 Variable = CLITCe Variable label = common parts lighting repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 67 Variable = CBALCe Variable label = common parts balustrades repair costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 68 Variable = TECOUe Variable label = total urgent costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 69 Variable = TECOBe Variable label = total basic costs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 70 Variable = TECORe Variable label = total comprehensive costs
+This variable is numeric, the SPSS measurement level is scale.

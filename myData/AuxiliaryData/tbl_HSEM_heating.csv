@@ -1,0 +1,16 @@
+Main Space Heating,Domestic Hot Water,Secondary Space Heating
+Gas standard,Gas standard,No secondary system
+Gas - combi,Gas - combi (storage),Gas fire
+Gas back boiler, Gas - combi (instantaneous),Gas Coal effect fire
+Oil standard,Gas back boiler, Electric room heaters
+ Solid boiler (house coal/anthracite), Oil standard,Open fire
+Electric boiler,Solid boiler (house coal/anthracite),
+ Electric storage, Biomass boiler,
+Electric room heater,Electric boiler,
+ Warm air - gas fired,Other electric,
+Warm air - electric, Community heating without CHP,
+ Community heating without CHP,Community heating with CHP,
+Community heating with CHP,,
+ Biomass boiler,,
+Ground source heat pump,,
+Air source heat pump,,

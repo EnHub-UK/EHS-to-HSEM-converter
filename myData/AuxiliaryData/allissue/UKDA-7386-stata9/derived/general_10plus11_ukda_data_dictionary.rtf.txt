@@ -1,0 +1,158 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = general_10plus11
+Number of variables = 15
+Number of cases = 14951
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = Key field
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = aagpd1011 Variable label = 2 year Dwelling weight - revised Dec 2012 to correct New builds
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = aagph1011 Variable label = 2 year Household weight - revised Dec 2012 to correct New builds
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = tenure8x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure8x
+Value = 1 Label = owner occupied - occupied
+Value = 2 Label = private rented - occupied
+Value = 3 Label = local authority - occupied
+Value = 4 Label = RSL - occupied
+Value = 5 Label = owner occupied - vacant
+Value = 6 Label = private rented - vacant
+Value = 7 Label = local authority - vacant
+Value = 8 Label = RSL - vacant
+
+Pos. = 5 Variable = tenure4x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure4x
+Value = 1 Label = owner occupied
+Value = 2 Label = private rented
+Value = 3 Label = local authority
+Value = 4 Label = RSL
+
+Pos. = 6 Variable = tenure2x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure2x
+Value = 1 Label = private
+Value = 2 Label = social
+
+Pos. = 7 Variable = vacantx Variable label = Type of vacancy
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for vacantx
+Value = 1 Label = occupied
+Value = 2 Label = vacant
+
+Pos. = 8 Variable = vaclngth Variable label = Length of vacancy
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for vaclngth
+Value = -9 Label = not applicable - occupied
+Value = -8 Label = vacant but unknown duration
+Value = 1 Label = short term (less than 6 months)
+Value = 2 Label = long term (6 months or more)
+
+Pos. = 9 Variable = gorEHCS Variable label = Statistical regions
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for gorEHCS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = North East
+Value = 2 Label = Yorkshire and the Humber
+Value = 3 Label = North West
+Value = 4 Label = East Midlands
+Value = 5 Label = West Midlands
+Value = 6 Label = South West
+Value = 7 Label = Eastern England
+Value = 8 Label = South East
+Value = 9 Label = London
+
+Pos. = 10 Variable = GorEHS Variable label = Statistical region - EHS order
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 11 Variable = region3x Variable label = Overall region of England
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for region3x
+Value = 1 Label = northern regions
+Value = 2 Label = London and south east regions
+Value = 3 Label = rest of England
+
+Pos. = 12 Variable = rumorph Variable label = Rurality - morphology (COA)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for rumorph
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = urban > 10k
+Value = 2 Label = town and fringe
+Value = 3 Label = village
+Value = 4 Label = hamlets and isolated dwellings
+
+Pos. = 13 Variable = rucontxt Variable label = Rurality - context (COA)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for rucontxt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = less sparse
+Value = 1 Label = sparse
+
+Pos. = 14 Variable = rucombin Variable label = Rurality -combined (COA)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for rucombin
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = urban > 10k - sparse
+Value = 2 Label = town and fringe - sparse
+Value = 3 Label = village - sparse
+Value = 4 Label = hamlet and isolated dwellings - sparse
+Value = 5 Label = urban > 10k - less sparse
+Value = 6 Label = town and fringe - less sparse
+Value = 7 Label = village - less sparse
+Value = 8 Label = hamlet and isolated dwellings - less sparse
+
+Pos. = 15 Variable = Imd1010 Variable label = IMD 2011 decile ranking of areas (lower layer SOA)
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Imd1010
+Value = 1 Label = most deprived 10% of areas
+Value = 2 Label = 2nd
+Value = 3 Label = 3rd
+Value = 4 Label = 4th
+Value = 5 Label = 5th
+Value = 6 Label = 6th
+Value = 7 Label = 7th
+Value = 8 Label = 8th
+Value = 9 Label = 9th
+Value = 10 Label = least deprived 10% of areas

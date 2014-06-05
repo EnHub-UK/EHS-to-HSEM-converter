@@ -1,0 +1,245 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = dormers
+Number of variables = 28
+Number of cases = 87486
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2013
+ Value label information for aacode
+
+Pos. = 2 Variable = type Variable label = Type of Dormer/Bay
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for type
+Value = 1.0 Label = Bays- single Storey
+Value = 2.0 Label = Bays- multi storey
+Value = 3.0 Label = Dormers- standard
+Value = 4.0 Label = Dormers- roof extension
+Value = 5.0 Label = Porches
+Value = 6.0 Label = Conservatories
+Value = 7.0 Label = Balconies
+
+Pos. = 3 Variable = Fexdb1pr Variable label = FRONT : Present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb1pr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 4 Variable = Fexdb1no Variable label = FRONT : Number
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1no
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 5 Variable = Fexdb1ag Variable label = FRONT : Age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0
+ Value label information for Fexdb1ag
+Value = 88.0 Label = Original
+Value = 98.0 Label = 100 or more
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable
+
+Pos. = 6 Variable = Fexdb1fl Variable label = FRONT : Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb1fl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 7 Variable = Fexdb1rw Variable label = FRONT : rebuild roof & walls
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1rw
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 8 Variable = Fexdb1ro Variable label = FRONT : Rebuild roof only
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1ro
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 9 Variable = Fexdb1wo Variable label = FRONT : rebuild wall only
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1wo
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 10 Variable = Fexdb1mj Variable label = FRONT : major repairs
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1mj
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 11 Variable = Fexdb1mn Variable label = FRONT : Minor repairs
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1mn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 12 Variable = Fexdb1de Variable label = FRONT : Demolish
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1de
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 13 Variable = Fexdb1lv Variable label = FRONT : Leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb1lv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 14 Variable = Fexdb1ur Variable label = FRONT : Urgent
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb1ur
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 15 Variable = Fexdb1tm Variable label = FRONT : Replacement period
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0 and 88.0
+ Value label information for Fexdb1tm
+Value = 88.0 Label = Not relevant
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable
+
+Pos. = 16 Variable = Fexdb2pr Variable label = BACK : Present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb2pr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 17 Variable = Fexdb2no Variable label = BACK : Number
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2no
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 18 Variable = Fexdb2ag Variable label = BACK : Age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0
+ Value label information for Fexdb2ag
+Value = 88.0 Label = Original
+Value = 98.0 Label = 100 or more
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable
+
+Pos. = 19 Variable = Fexdb2fl Variable label = BACK : Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb2fl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 20 Variable = Fexdb2rw Variable label = BACK : rebuild roof & walls
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2rw
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 21 Variable = Fexdb2ro Variable label = BACK : Rebuild roof only
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2ro
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 22 Variable = Fexdb2wo Variable label = BACK : rebuild wall only
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2wo
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 23 Variable = Fexdb2mj Variable label = BACK : major repairs
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2mj
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 24 Variable = Fexdb2mn Variable label = BACK : Minor repairs
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2mn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 25 Variable = Fexdb2de Variable label = BACK : Demolish
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2de
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 26 Variable = Fexdb2lv Variable label = BACK : Leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdb2lv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 27 Variable = Fexdb2ur Variable label = BACK : Urgent
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdb2ur
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 28 Variable = Fexdb2tm Variable label = BACK : Replacement period
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0 and 88.0
+ Value label information for Fexdb2tm
+Value = 88.0 Label = Not relevant
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable

@@ -1,0 +1,355 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = hhldtype
+Number of variables = 30
+Number of cases = 16047
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Non-resp: office refusals
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Inel: not worked
+Value = 23 Label = Unused casecat
+
+Pos. = 3 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 4 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2009
+Value = 2 Label = July-September 2009
+Value = 3 Label = October-December 2009
+Value = 4 Label = January-March 2010
+
+Pos. = 5 Variable = Ten1 Variable label = Tenure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Ten1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = own outright
+Value = 2 Label = buying with mortgage/loan
+Value = 3 Label = pay rent/part mort (shared ownership)
+Value = 4 Label = rent it
+Value = 5 Label = live here rent-free (excluding squatting)
+Value = 6 Label = squatting
+
+Pos. = 6 Variable = WhoOwns Variable label = Person owning/buying accom
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhoOwns
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = HRP only
+Value = 2 Label = partner/spouse of HRP only
+Value = 3 Label = HRP and partner/spouse
+Value = 4 Label = HRP and someone else in household
+Value = 5 Label = someone else in household only
+Value = 6 Label = someone outside the household
+
+Pos. = 7 Variable = Tied Variable label = Accom tied to job
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Tied
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 8 Variable = LLord Variable label = Landlord type
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LLord
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA/council /Scottish Homes
+Value = 2 Label = HA, charit trust/ local housing company
+Value = 3 Label = employer (organisation) of hhld member
+Value = 4 Label = other organisation
+Value = 5 Label = relative/friend of hhld member
+Value = 6 Label = employer (individual) of hhld member
+Value = 7 Label = other individual private landlord?
+
+Pos. = 9 Variable = LlordSh Variable label = Landlord type for shared owners
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for LlordSh
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = not asked 2009 Q1
+Value = 1 Label = LA/council / Scottish Homes
+Value = 2 Label = HA, charit trust/ local housing company
+Value = 3 Label = employer (organisation) of hhld member
+Value = 4 Label = other organisation
+Value = 5 Label = relative/friend of hhold member
+Value = 6 Label = employer (individual) of hhld member
+Value = 7 Label = other individual private landlord
+
+Pos. = 10 Variable = Furn Variable label = Whether furnished
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Furn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = furnished,
+Value = 2 Label = partly furnished
+Value = 3 Label = unfurnished
+
+Pos. = 11 Variable = Dvtenset Variable label = Grouped Tenure Set
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Dvtenset
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = owner
+Value = 2 Label = shared owner
+Value = 3 Label = not owner
+
+Pos. = 12 Variable = Occtypea Variable label = Whole or part dwelling
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Occtypea
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = whole dwelling (accom self-contained)
+Value = 2 Label = part dwelling (e.g. bedsit/flatlet)
+
+Pos. = 13 Variable = Occtypep Variable label = Occupancy- part-dwelling
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Occtypep
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = hostel or B&B
+Value = 2 Label = purpose built with shared amenities
+Value = 3 Label = converted/used as shared accom
+
+Pos. = 14 Variable = Occtypew Variable label = Occupancy- whole-dwelling
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Occtypew
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = one-person hhld
+Value = 2 Label = couple (HRP & partner/spouse/cohab)
+Value = 3 Label = family (incl extended families)
+Value = 4 Label = joint owners, some unrelated
+Value = 5 Label = hhld with lodger(s) paying rent who are part of hhold
+Value = 6 Label = hhld with lodger(s) paying rent who are not part of hhold
+Value = 7 Label = tenants sharing, some unrelated
+
+Pos. = 15 Variable = dvocc Variable label = Occupancy type
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for dvocc
+Value = -8 Label = not answered
+Value = 1 Label = one-person hhld
+Value = 2 Label = couple (HRP & partner/spouse/cohab)
+Value = 3 Label = family (incl extended families)
+Value = 4 Label = joint owners, some unrelated
+Value = 5 Label = hhld with lodger(s) paying rent who are part of hhold
+Value = 6 Label = hhld with lodger(s) paying rent who are not part of hhold
+Value = 7 Label = tenants sharing, some unrelated
+Value = 8 Label = converted/used as shared accom
+Value = 9 Label = purpose built with shared amenities
+Value = 10 Label = hostel or B&B
+
+Pos. = 16 Variable = CTpaid Variable label = Pays council tax
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CTpaid
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+Value = 3 Label = not liable for CT
+
+Pos. = 17 Variable = CTDiscH Variable label = Single person discount
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CTDiscH
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 18 Variable = CTBenft Variable label = Council tax benefit
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CTBenft
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 19 Variable = CTBenft1 Variable label = Benefit covers all/part of Council Tax
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CTBenft1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = all of the council tax
+Value = 2 Label = part of the council tax
+
+Pos. = 20 Variable = Hmpyelec Variable label = Electricity payment method
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Hmpyelec
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = direct debit
+Value = 2 Label = standing order
+Value = 3 Label = monthly/quarterly bill
+Value = 4 Label = pre-payment (keycard/token) meters
+Value = 5 Label = included in rent
+Value = 6 Label = frequent cash payt (more than 1/month)
+Value = 7 Label = fuel direct/direct from benefits
+Value = 8 Label = fixed annual bill (regardless of use)
+Value = 9 Label = other (specify)
+Value = 88 Label = not applicable
+Value = 99 Label = don't know
+
+Pos. = 21 Variable = Hmpygas Variable label = Gas payment method
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Hmpygas
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = direct debit
+Value = 2 Label = standing order
+Value = 3 Label = monthly/quarterly bill
+Value = 4 Label = pre-payment (keycard/token) meters
+Value = 5 Label = included in rent
+Value = 6 Label = frequent cash payment (more 1/month)
+Value = 7 Label = fuel direct/direct from benefits
+Value = 8 Label = fixed annual bill (regardless of use)
+Value = 9 Label = other (please specify)
+Value = 88 Label = no mains gas
+Value = 99 Label = don't know
+
+Pos. = 22 Variable = HmAllday Variable label = Home all day/all the time
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmAllday
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 23 Variable = HmWkMorn Variable label = Weekday morning (9am-12pm)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWkMorn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 24 Variable = HmWkLun Variable label = Weekday lunchtime (12pm-2pm)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWkLun
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 25 Variable = HmWkAft Variable label = Weekday afternoon (2pm-5pm)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWkAft
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 26 Variable = HmWkEve Variable label = Weekday evenings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWkEve
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 27 Variable = HmWendDy Variable label = Weekend daytimes
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWendDy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 28 Variable = HmWendEv Variable label = Weekend evenings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWendEv
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 29 Variable = HmHiVar Variable label = When home: highly variable
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmHiVar
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 30 Variable = HmWintDk Variable label = When home: don't know
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HmWintDk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes

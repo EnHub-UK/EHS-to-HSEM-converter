@@ -1,0 +1,124 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = numflats
+Number of variables = 10
+Number of cases = 12763
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2012
+ Value label information for aacode
+
+Pos. = 2 Variable = Fnoflats Variable label = Number of flats in module
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 777.0 thru 888.0 and 999.0
+ Value label information for Fnoflats
+Value = 888.0 Label = Question Not Applicable
+Value = 777.0 Label = Section Not Applicable
+Value = 300.0 Label = 300 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 3 Variable = Fnolowes Variable label = Level of lowest flat
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 77 thru 88
+ Value label information for Fnolowes
+Value = 77 Label = Section Not Applicable
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+
+Pos. = 4 Variable = Fnogruse Variable label = Use of ground floor
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fnogruse
+Value = 1.0 Label = Dwelling only
+Value = 2.0 Label = Dwelling and services
+Value = 3.0 Label = Services only
+Value = 4.0 Label = Dwelling and non-residential
+Value = 5.0 Label = Non-residential only
+Value = 6.0 Label = Dwelling and void
+Value = 7.0 Label = Other
+Value = 77.0 Label = Section Not Applicable
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 5 Variable = Fnobsuse Variable label = Use of basement
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fnobsuse
+Value = 1.0 Label = Dwelling only
+Value = 2.0 Label = Dwelling and services
+Value = 3.0 Label = Services only
+Value = 4.0 Label = Dwelling and non-residential
+Value = 5.0 Label = Non-residential only
+Value = 6.0 Label = Dwelling and void
+Value = 7.0 Label = Other
+Value = 8.0 Label = No basement
+Value = 77.0 Label = Section Not Applicable
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 6 Variable = Fnoresar Variable label = NON RESIDENTIAL USE If non-residential: % total floor area in non-residential use
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 777.0 thru 888.0 and 999.0
+ Value label information for Fnoresar
+Value = 88.0 Label = No non residential
+Value = 777.0 Label = Section Not Applicable
+Value = 888.0 Label = Question Not Applicable
+Value = 999.0 Label = Unknown
+
+Pos. = 7 Variable = Fnoreuse Variable label = If dwelling with non-residential: non-residential use
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fnoreuse
+Value = 1.0 Label = Shop business
+Value = 2.0 Label = Office
+Value = 3.0 Label = Industrial institutional
+Value = 4.0 Label = Surgery
+Value = 5.0 Label = Public house
+Value = 6.0 Label = Hotel
+Value = 7.0 Label = Other -specify
+Value = 8.0 Label = Not dwelling with non residential
+Value = 77.0 Label = Section Not Applicable
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 8 Variable = Fnoresfd Variable label = Does non-residential use include handling of food?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fnoresfd
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 3.0 Label = Unknown
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 9 Variable = Fnoother Variable label = OTHER FLATS IN MODULE Are they ...?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fnoother
+Value = 1.0 Label = Mostly same as survey dwelling
+Value = 2.0 Label = Mostly small flats
+Value = 3.0 Label = Mostly large flats
+Value = 4.0 Label = Mix of small large flats
+Value = 5.0 Label = Mix of flats maisonettes
+Value = 7.0 Label = Section Not Applicable
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 10 Variable = Fnovacnt Variable label = OTHER FLATS IN MODULE Approx. number of vacant flats in module
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 777.0 thru 888.0 and 999.0
+ Value label information for Fnovacnt
+Value = 888.0 Label = Question Not Applicable
+Value = 777.0 Label = Section Not Applicable
+Value = 50.0 Label = 50 or more
+Value = 999.0 Label = Unknown

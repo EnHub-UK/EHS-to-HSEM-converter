@@ -1,0 +1,1028 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = services
+Number of variables = 100
+Number of cases = 12498
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 12/13
+ Value label information for aacode
+
+Pos. = 2 Variable = Fingaspr Variable label = Gas system - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fingaspr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 3 Variable = Fingasms Variable label = Gas system - mains supply
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fingasms
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 4 Variable = Fingasac Variable label = Gas system - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fingasac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 5 Variable = finhsung Variable label = HEALTH AND SAFETY - uncombusted gas
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for finhsung
+Value = 1.0 Label = Lower than average risk
+Value = 2.0 Label = Average risk
+Value = 3.0 Label = Higher than average risk
+Value = 4.0 Label = Extreme risk
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 6 Variable = finhsexp Variable label = HEALTH AND SAFETY - explosions
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for finhsexp
+Value = 1.0 Label = Lower than average risk
+Value = 2.0 Label = Average risk
+Value = 3.0 Label = Higher than average risk
+Value = 4.0 Label = Extreme risk
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 7 Variable = Finelepr Variable label = Electrical system - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelepr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 8 Variable = Finelems Variable label = Electrical system - normal mains supply
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelems
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 9 Variable = Finopele Variable label = Electrical system - off peak supply
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finopele
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 10 Variable = Fineledc Variable label = Electrical system - location of distribution
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fineledc
+Value = 1.0 Label = Under stairs or on wall
+Value = 2.0 Label = Special cupboard
+Value = 3.0 Label = External access to meter
+Value = 4.0 Label = Mixture
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 11 Variable = Finelewi Variable label = Electrical system - type of wiring
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelewi
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Lead or rubber covering
+Value = 2.0 Label = PVC sheathed
+Value = 4.0 Label = Mixture
+Value = 9.0 Label = Unknown
+
+Pos. = 12 Variable = Fineleea Variable label = Electrical system - earthing of wires
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fineleea
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Unsheathed or green cover
+Value = 2.0 Label = Yellow and green sheath
+Value = 4.0 Label = Mixture
+Value = 9.0 Label = Unknown
+
+Pos. = 13 Variable = Finelecu Variable label = Electrical system - consumer unit arrangment
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelecu
+Value = 1.0 Label = Separate fuse boxes for each circuit
+Value = 2.0 Label = One or two covered boxes
+Value = 3.0 Label = One or two accessible boxes
+Value = 4.0 Label = Mixture
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 14 Variable = Fineleop Variable label = Electrical system - overload protection
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fineleop
+Value = 1.0 Label = Wire fuses
+Value = 2.0 Label = Cartridge fuses
+Value = 3.0 Label = MCBs
+Value = 4.0 Label = Mixture
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 15 Variable = Finelepp Variable label = Electrical system - personal protection
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelepp
+Value = 1.0 Label = No RCDs
+Value = 2.0 Label = RCD in consumer unit
+Value = 3.0 Label = Separate RCDs
+Value = 4.0 Label = Mixture
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 16 Variable = Fineleps Variable label = Electrical system - power sockets
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fineleps
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Round 2 or 3 pin
+Value = 2.0 Label = Square 3 pin
+Value = 4.0 Label = Mixture
+Value = 9.0 Label = Unknown
+
+Pos. = 17 Variable = Finelelc Variable label = Electrical system - lighting circuits
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finelelc
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Wooden mounting blocks
+Value = 2.0 Label = Flush mounted switches or roses
+Value = 4.0 Label = Mixture
+Value = 9.0 Label = Unknown
+
+Pos. = 18 Variable = Fineleac Variable label = Electrical system- action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fineleac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 5.0 Label = Install
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 19 Variable = finhsels Variable label = HEALTH AND SAFETY - electrical safety
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for finhsels
+Value = 1.0 Label = Lower than average risk
+Value = 2.0 Label = Average risk
+Value = 3.0 Label = Higher than average risk
+Value = 4.0 Label = Extreme risk
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 20 Variable = fincwime Variable label = Evidence of CWI in electricy or gas meters?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for fincwime
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 21 Variable = finnofir Variable label = Total number of open fireplaces
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for finnofir
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 5.0 Label = 5 or more
+
+Pos. = 22 Variable = Fincheat Variable label = Primary heating present?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fincheat
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 23 Variable = Finchphs Variable label = Primary heating system - main heat source
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchphs
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 24 Variable = Finchloc Variable label = Primary heating system - location of system
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchloc
+Value = 1.0 Label = Individual
+Value = 2.0 Label = Communal system - estate
+Value = 3.0 Label = Communal system - block
+Value = 4.0 Label = Communal system - group of dwellings
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 25 Variable = Finchnod Variable label = Communal system - number of dwellings
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8888.0 thru 9999.0
+ Value label information for Finchnod
+Value = 8888.0 Label = Question Not Applicable
+Value = 300.0 Label = 300 or more
+Value = 9999.0 Label = Unknown
+
+Pos. = 26 Variable = Finchtyp Variable label = Primary heating system - type of system
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchtyp
+Value = 1.0 Label = Central heating (wet with rads)
+Value = 2.0 Label = Storage heaters
+Value = 3.0 Label = Warm air
+Value = 4.0 Label = Communal/CHP
+Value = 5.0 Label = Electric ceiling/underfloor
+Value = 6.0 Label = Room heaters
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 27 Variable = Findisty Variable label = Primary heating system - distribution type
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Findisty
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Radiators
+Value = 2.0 Label = Underfloor
+Value = 9.0 Label = Unknown
+
+Pos. = 28 Variable = Finmhfue Variable label = Main heating fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finmhfue
+Value = 1.0 Label = Gas - Mains
+Value = 2.0 Label = Gas - Bulk/LPG
+Value = 3.0 Label = Gas - bottled
+Value = 4.0 Label = Oil
+Value = 5.0 Label = Solid fuel - coal
+Value = 6.0 Label = Solid fuel - smokeless fuel
+Value = 7.0 Label = Solid fuel - anthracite
+Value = 8.0 Label = Solid fuel - wood
+Value = 9.0 Label = Electricity - standard
+Value = 10.0 Label = Electricity - 7hr tariff
+Value = 11.0 Label = Electricity - 10hr tariff
+Value = 12.0 Label = Electricity - 24hr tariff
+Value = 13.0 Label = Communal - CHP/Waste heat
+Value = 14.0 Label = Communal - from boiler
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 29 Variable = Finmhboi Variable label = Boiler group
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finmhboi
+Value = 1.0 Label = Standard
+Value = 2.0 Label = Back boiler
+Value = 3.0 Label = Combination
+Value = 4.0 Label = Condensing
+Value = 5.0 Label = Condensing combi
+Value = 6.0 Label = Combined primary storage unit
+Value = 7.0 Label = No boiler
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 30 Variable = Finchbcd Variable label = Boiler - code
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7777.0 thru 8888.0 and 9999.0
+ Value label information for Finchbcd
+Value = 8888.0 Label = Question Not Applicable
+Value = 7777.0 Label = Optical reader error
+Value = 9999.0 Label = Unknown
+
+Pos. = 31 Variable = Finchbac Variable label = Boiler - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchbac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 32 Variable = Finchbag Variable label = Boiler - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finchbag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 33 Variable = Finchdac Variable label = Central heating distribution - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchdac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 34 Variable = Finchdag Variable label = Central heating distribution - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finchdag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 35 Variable = Finchbma Variable label = Boiler - manufacturer name
+ Value label information for Finchbma
+
+Pos. = 36 Variable = Finchbmo Variable label = Boiler - model name/number
+ Value label information for Finchbmo
+
+Pos. = 37 Variable = Finchoff Variable label = Primary heating controls - overall on/off
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchoff
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 38 Variable = Finchthe Variable label = Primary heating controls - boiler thermostat
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchthe
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 39 Variable = Finchtim Variable label = Primary heating controls - central timer
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchtim
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 40 Variable = Finchove Variable label = Primary heating controls - manual override
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchove
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 41 Variable = Finchrom Variable label = Primary heating controls - room thermostat
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchrom
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 42 Variable = Finchcon Variable label = Primary heating controls - radiator controls
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchcon
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 43 Variable = Finchtrv Variable label = Primary heating controls - thermostatic radiator valves
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchtrv
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 44 Variable = Finchtzc Variable label = Primary heating controls - time and temp zone control
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchtzc
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 45 Variable = Finchdst Variable label = Primary heating controls - delayed start thermostat
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchdst
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 46 Variable = Finchmcc Variable label = Storage heating controls - manual charge
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchmcc
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 47 Variable = Finchacc Variable label = Storage heating controls - automatic charge
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchacc
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 48 Variable = Finchctc Variable label = Storage heating controls - celect type control
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finchctc
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 49 Variable = Finoheat Variable label = Other heating - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finoheat
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 50 Variable = Finohphs Variable label = Other heating - main heat source in winter
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finohphs
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 51 Variable = Finohtyp Variable label = Other heating - type of system
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finohtyp
+Value = 1.0 Label = Mains gas - open flue
+Value = 2.0 Label = Mains gas - balances flue
+Value = 3.0 Label = Mains gas - fan assisted
+Value = 4.0 Label = Mains gas - condensing
+Value = 5.0 Label = Mains gas - live effect - sealed to chim
+Value = 6.0 Label = Mains gas - live effect - fan assisted f
+Value = 7.0 Label = Mains gas - decorative - open to chimney
+Value = 8.0 Label = Mains gas - flueless
+Value = 9.0 Label = Mains gas - unknown
+Value = 10.0 Label = LPG - fixed heaters
+Value = 11.0 Label = Electric heaters - panel/convector or ra
+Value = 12.0 Label = Electric heaters - portable
+Value = 13.0 Label = Electric heaters - individual storage he
+Value = 14.0 Label = Solid fuel heaters - open fire
+Value = 15.0 Label = Solid fuel heaters - stove/space heater
+Value = 16.0 Label = Paraffin - portable heaters
+Value = 17.0 Label = Other
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 52 Variable = Finohact Variable label = Other heating - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finohact
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 53 Variable = Finohage Variable label = Other heating - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finohage
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 54 Variable = Finhsco Variable label = HEALTH AND SAFETY - carbon monoxide
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finhsco
+Value = 1.0 Label = Lower than average risk
+Value = 2.0 Label = Average risk
+Value = 3.0 Label = Higher than average risk
+Value = 4.0 Label = Extreme risk
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 55 Variable = Finwheat Variable label = Hot water system - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwheat
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 56 Variable = Finwhcpr Variable label = Boiler with Central heating - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhcpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 57 Variable = Finwhopr Variable label = Boiler (water heating only) - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhopr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 58 Variable = Finwhoty Variable label = Boiler (water heating only) - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwhoty
+Value = 1.0 Label = Mains gas
+Value = 2.0 Label = Bulk LPG
+Value = 3.0 Label = Bottled gas
+Value = 4.0 Label = Oil
+Value = 5.0 Label = Coal
+Value = 6.0 Label = Smokeless
+Value = 7.0 Label = Anthracite
+Value = 8.0 Label = Wood
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 59 Variable = Finwhoac Variable label = Boiler (water heating only) - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhoac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 60 Variable = Finwhoag Variable label = Boiler (water heating only) - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwhoag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 61 Variable = Finwhxpr Variable label = Back boiler - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhxpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 62 Variable = Finwhxty Variable label = Back boiler - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwhxty
+Value = 1.0 Label = Mains gas
+Value = 2.0 Label = Bulk LPG
+Value = 3.0 Label = Bottled gas
+Value = 4.0 Label = Oil
+Value = 5.0 Label = Coal
+Value = 6.0 Label = Smokeless
+Value = 7.0 Label = Anthracite
+Value = 8.0 Label = Wood
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 63 Variable = Finwhxac Variable label = Back boiler - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhxac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 64 Variable = Finwhxag Variable label = Back boiler - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwhxag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 65 Variable = Finwsipr Variable label = Single Immersion heater - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwsipr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 66 Variable = Finwsity Variable label = Single Immersion heater - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwsity
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+Value = 9.0 Label = Standard
+Value = 10.0 Label = 7hr tariff
+Value = 11.0 Label = 10hr tariff
+Value = 12.0 Label = 24hr tariff
+
+Pos. = 67 Variable = Finwsiac Variable label = Single Immersion heater - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwsiac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 68 Variable = Finwsiag Variable label = Single Immersion heater - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwsiag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 69 Variable = Finwdipr Variable label = Dual Immersion heater - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwdipr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 70 Variable = Finwdity Variable label = Dual Immersion heater - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwdity
+Value = 88.0 Label = Question Not Applicable
+Value = 11.0 Label = 10hr tariff
+Value = 10.0 Label = 7hr tariff
+Value = 99.0 Label = Unknown
+Value = 12.0 Label = 24hr tariff
+
+Pos. = 71 Variable = Finwdiac Variable label = Dual Immersion heater - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwdiac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 72 Variable = Finwdiag Variable label = Dual Immersion heater - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwdiag
+Value = 88.0 Label = Same age as dwelling
+Value = 888.0 Label = Question not applicable
+Value = 60.0 Label = 60 or more
+Value = 999.0 Label = Unknown
+
+Pos. = 73 Variable = Finwsppr Variable label = Separate instantaneous heater single point - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwsppr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 74 Variable = Finwspty Variable label = Separate instantaneous heater single point - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwspty
+Value = 99.0 Label = Unknown
+Value = 1.0 Label = Mains gas
+Value = 2.0 Label = Bulk LPG
+Value = 3.0 Label = Bottled gas
+Value = 4.0 Label = Oil
+Value = 88.0 Label = Question Not Applicable
+Value = 9.0 Label = Standard
+
+Pos. = 75 Variable = Finwspac Variable label = Separate instantaneous heater single point - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwspac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 76 Variable = Finwspag Variable label = Separate instantaneous heater single point - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwspag
+Value = 88.0 Label = Same age as dwelling
+Value = 777.0 Label = Section not applicable
+Value = 60.0 Label = 60 or more
+Value = 888.0 Label = Question not applicable
+Value = 999.0 Label = Unknown
+
+Pos. = 77 Variable = Finwmppr Variable label = Separate instantaneous heater multi point - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwmppr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 78 Variable = Finwmpty Variable label = Separate instantaneous heater multi point - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwmpty
+Value = 99.0 Label = Unknown
+Value = 1.0 Label = Mains gas
+Value = 2.0 Label = Bulk LPG
+Value = 3.0 Label = Bottled gas
+Value = 4.0 Label = Oil
+Value = 88.0 Label = Question Not Applicable
+Value = 9.0 Label = Standard
+
+Pos. = 79 Variable = Finwmpac Variable label = Separate instantaneous heater multi point - action
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwmpac
+Value = 1.0 Label = None
+Value = 2.0 Label = Minor repair
+Value = 3.0 Label = Major repair
+Value = 4.0 Label = Replace
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 80 Variable = Finwmpag Variable label = Separate instantaneous heater multi point - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwmpag
+Value = 88.0 Label = Same age as dwelling
+Value = 777.0 Label = Section not applicable
+Value = 60.0 Label = 60 or more
+Value = 888.0 Label = Question not applicable
+Value = 999.0 Label = Unknown
+
+Pos. = 81 Variable = Finwhlpr Variable label = Communal - present?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhlpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 82 Variable = Finwhlty Variable label = Communal - type/fuel
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwhlty
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 13.0 Label = CHP/Waste
+Value = 14.0 Label = From boiler
+
+Pos. = 83 Variable = Finwhlag Variable label = Communal - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwhlag
+Value = 88.0 Label = Same age as dwelling
+Value = 777.0 Label = Section not applicable
+Value = 60.0 Label = 60 or more
+Value = 888.0 Label = Question not applicable
+Value = 999.0 Label = Unknown
+
+Pos. = 84 Variable = Finwotpr Variable label = Other - present?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwotpr
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 85 Variable = Finwotfu Variable label = Hot water system - Other fuel code
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwotfu
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 86 Variable = Finwotag Variable label = Other - age
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 888.0 thru 999.0
+ Value label information for Finwotag
+Value = 88.0 Label = Same age as dwelling
+Value = 777.0 Label = Section not applicable
+Value = 60.0 Label = 60 or more
+Value = 888.0 Label = Question not applicable
+Value = 999.0 Label = Unknown
+
+Pos. = 87 Variable = Finwhcyl Variable label = Cylinder - present
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhcyl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 88 Variable = Finwhsiz Variable label = Cylinder - size/volume
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhsiz
+Value = 1.0 Label = 450 x 900mm (110 l)
+Value = 2.0 Label = 450 x 1050mm (140 l)
+Value = 3.0 Label = 450 x 1500mm (210 l)
+Value = 4.0 Label = 450 X 1650mm (245 l)
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 89 Variable = Finwhins Variable label = Hot water cylinder - insulation
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhins
+Value = 1.0 Label = Foam
+Value = 2.0 Label = Jacket
+Value = 3.0 Label = Other
+Value = 4.0 Label = None
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 90 Variable = Finwhmms Variable label = Hot water cylinder - thickness (mms)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Finwhmms
+Value = 1.0 Label = 0
+Value = 2.0 Label = 12.5mm
+Value = 3.0 Label = 25 mm
+Value = 4.0 Label = 38 mm
+Value = 5.0 Label = 50 mm
+Value = 6.0 Label = 80 mm
+Value = 7.0 Label = 100 mm
+Value = 8.0 Label = 150 mm
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 91 Variable = Finwhcen Variable label = Water heating controls: time clock for water heating
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhcen
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 92 Variable = Finwhthe Variable label = Water heating controls: cylinder thermostat
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Finwhthe
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 93 Variable = Finlopos Variable label = Dwelling type
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Finlopos
+Value = 1.0 Label = House/Bungalow
+Value = 2.0 Label = Top Floor Flat
+Value = 3.0 Label = Mid Floor Flat
+Value = 4.0 Label = Ground floor flat
+Value = 5.0 Label = Basement Flat
+Value = 9.0 Label = Unknown
+
+Pos. = 94 Variable = Flitypes Variable label = Loft - type
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Flitypes
+Value = 1.0 Label = Fully boarded
+Value = 2.0 Label = No boarding or partial boarding
+Value = 3.0 Label = Rooms(s) with permanent stairs
+Value = 4.0 Label = No loft - flat or very shallow pitch
+Value = 7.0 Label = Section N/A
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 95 Variable = Fliinsul Variable label = Roof insulation above living space
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fliinsul
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section N/A
+Value = 9.0 Label = Unknown
+
+Pos. = 96 Variable = Finintyp Variable label = Type of loft insulation
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Finintyp
+Value = 1.0 Label = Mineral wool/fibre glass
+Value = 2.0 Label = Vermiculite beads
+Value = 3.0 Label = High performance quilt
+Value = 4.0 Label = Rigid foam board
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 97 Variable = Flithick Variable label = Loft - approx thickness
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Flithick
+Value = 0.0 Label = No insulation
+Value = 1.0 Label = 25mm
+Value = 2.0 Label = 50mm
+Value = 3.0 Label = 75mm
+Value = 4.0 Label = 100mm
+Value = 5.0 Label = 125mm
+Value = 6.0 Label = 150mm
+Value = 7.0 Label = 200mm
+Value = 8.0 Label = 250mm
+Value = 9.0 Label = 300mm
+Value = 10.0 Label = >300mm
+Value = 77.0 Label = ------------
+Value = 99.0 Label = Don t know thickness
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 98 Variable = Fliinfor Variable label = Loft - information from
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0
+ Value label information for Fliinfor
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Inspection
+Value = 2.0 Label = Occupant
+Value = 7.0 Label = Section N/A
+Value = 9.0 Label = No information
+
+Pos. = 99 Variable = Fliprobs Variable label = Loft - any roof structure problems
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fliprobs
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section N/A
+Value = 9.0 Label = Unknown
+
+Pos. = 100 Variable = flicwiev Variable label = Evidence of CWI in the loft?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for flicwiev
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown

@@ -1,0 +1,27 @@
+Name,Efficiency,Code
+No hot water system present - electric immersion assumed,100,999
+From main heating system  / Back boiler (hot water only) gas,65,901
+From main heating system  / Circulator built into a gas warm air system (pre 1998),65,901
+From main heating system  / Circulator built into a gas warm air system (1998 or later),73,901
+From secondary system / Back boiler (hot water only) gas,65,902
+Electric immersion,100,903
+Single-point gas water heater (instantaneous at point of use),70,907
+Multi-point gas water heater (instantaneous serving several taps),65,908
+Electric instantaneous at point of use,100,909
+Gas boiler/circulator for water heating only,65,911
+Oil boiler/circulator for water heating only,70,912
+Solid fuel boiler/circulator for water heating only,55,913
+Range cooker with boiler for water heating only / Gas single burner with permanent pilot,46,921
+Range cooker with boiler for water heating only / Gas single burner with automatic ignition,50,922
+Range cooker with boiler for water heating only / Gas twin burner with permanent pilot pre 1998,60,923
+Range cooker with boiler for water heating only / Gas twin burner with automatic ignition pre 1998,65,924
+Range cooker with boiler for water heating only / Gas twin burner with permanent pilot 1998 or later,65,925
+Range cooker with boiler for water heating only / Gas twin burner with automatic ignition 1998 or later,70,926
+Range cooker with boiler for water heating only / Oil single burner,60,927
+Range cooker with boiler for water heating only / Oil twin burner pre 1998,70,928
+Range cooker with boiler for water heating only / Oil twin burner 1998 or later,75,929
+Range cooker with boiler for water heating only / Solid fuel integral oven and boiler,45,930
+Range cooker with boiler for water heating only / Solid fuel independent oven and boiler,55,931
+Hot-water only community scheme (RdSAP) - boilers,80,950
+Hot-water only community scheme (RdSAP) - CHP,75,951
+Hot-water only community scheme (RdSAP) - heat pump,300,952

@@ -1,0 +1,192 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = hhsrs_07_08
+Number of variables = 31
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = Key field
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = hsrstair Variable label = Health & safety rating - falls on stairs
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrstair
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 3 Variable = hsronlev Variable label = Health & safety rating - falls on the level
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsronlev
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 4 Variable = hsrbtlev Variable label = Health & safety rating - falls between levels
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrbtlev
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 5 Variable = hsrbath Variable label = HHSRS falls asstd with baths- rating
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrbath
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 6 Variable = hsrfire Variable label = Health & safety rating - fire
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrfire
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 7 Variable = hsrhotsf Variable label = Health & safety rating - hot surfaces
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrhotsf
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 8 Variable = hsrdamp Variable label = HHSRS damp and mould - rating
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrdamp
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 9 Variable = hsrentry Variable label = HHSRS entry by intruders - rating
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrentry
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 10 Variable = hsrnoise Variable label = HHSRS Noise - rating
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrnoise
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 11 Variable = hsrcoll Variable label = HHSRS Collision and entrapment - rating
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrcoll
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 12 Variable = hsrcld Variable label = Health & Safety rating - cold homes
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrcld
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 13 Variable = hsrcrowd Variable label = Health & safety rating - overcrowding
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrcrowd
+Value = 0 Label = OK
+Value = 1 Label = fails
+
+Pos. = 14 Variable = hsrlead Variable label = Health & safety rating - lead
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrlead
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 15 Variable = hsrradon Variable label = Health & safety rating - radon
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrradon
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 16 Variable = hsrexht Variable label = Health & safety rating - excess heat
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrexht
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 17 Variable = hsrlight Variable label = Health & safety rating - lighting
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrlight
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 18 Variable = hsrwater Variable label = Health & Safety rating - water supply
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrwater
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 19 Variable = hsrfood Variable label = Health & safety rating - food safety
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrfood
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 20 Variable = hsrphyg Variable label = Health & Safety rating - sanitation
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrphyg
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 21 Variable = hsrergo Variable label = Health & safety rating - ergonomics
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrergo
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 22 Variable = hsrungas Variable label = Health & safety rating - uncombusted fuel gas
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrungas
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 23 Variable = hsrexplo Variable label = Health & safety rating - explosions
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrexplo
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 24 Variable = hsrelec Variable label = Health & safety rating - electrical problems
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrelec
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 25 Variable = hsrco Variable label = Health & safety rating - carbon monoxide
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrco
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 26 Variable = hsrdhyg Variable label = Health & safety rating - domestic hygiene
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrdhyg
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 27 Variable = hsrstruc Variable label = Health & safety rating - structural collapse
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrstruc
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 28 Variable = nhsr_26 Variable label = Number of hhsrs hazards failed (26 hazard defn)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 29 Variable = nhsr_15 Variable label = Number of hhsrs hazards failed (15 hazard defn)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 30 Variable = hsrall_15 Variable label = HHSRS: overall - 15 hazards
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrall_15
+Value = 0 Label = OK
+Value = 1 Label = Fails
+
+Pos. = 31 Variable = hsrall_26 Variable label = HHSRS: overall - 26 hazards
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for hsrall_26
+Value = 0 Label = OK
+Value = 1 Label = Fails

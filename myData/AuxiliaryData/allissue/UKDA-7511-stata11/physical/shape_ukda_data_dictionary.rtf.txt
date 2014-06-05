@@ -1,0 +1,439 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = shape
+Number of variables = 41
+Number of cases = 12763
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2012
+ Value label information for aacode
+
+Pos. = 2 Variable = Fshaddit Variable label = MODULE SHAPE Additional part: location
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fshaddit
+Value = 1.0 Label = Front elevation: Left
+Value = 2.0 Label = Front elevation: Centre
+Value = 3.0 Label = Front elevation: Right
+Value = 4.0 Label = Back elevation: Left
+Value = 5.0 Label = Back elevation: Centre
+Value = 6.0 Label = Back elevation: Right
+Value = 7.0 Label = Left elevation: Front
+Value = 8.0 Label = Left elevation: Centre
+Value = 9.0 Label = Left elevation: Back
+Value = 10.0 Label = Right elevation: Front
+Value = 11.0 Label = Right elevation: Centre
+Value = 12.0 Label = Right elevation: Back
+Value = 77.0 Label = No additional part
+Value = 99.0 Label = Unknown
+Value = 88.0 Label = Question Not Applicable
+
+Pos. = 3 Variable = Fshattic Variable label = HOUSE MODULE SHAPE: Attic basement in house module
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fshattic
+Value = 1.0 Label = Attic only
+Value = 2.0 Label = Basement only
+Value = 3.0 Label = Both
+Value = 4.0 Label = Neither
+Value = 8.0 Label = Question Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 4 Variable = Fshentry Variable label = HOUSE MODULE SHAPE: Entry floor to house module
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 8 thru 9 
+ Value label information for Fshentry
+Value = 9 Label = Unknown
+Value = 8 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 5 Variable = Fdhmflrs Variable label = EXTERNAL DIMENSIONS OF HOUSE MODULE Main structure - number of floors
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fdhmflrs
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 20.0 Label = 20 or more
+
+Pos. = 6 Variable = Fdhmlev1 Variable label = MAIN 1ST LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhmlev1
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 7 Variable = Fdhmwid1 Variable label = MAIN 1ST LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmwid1
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 8 Variable = Fdhmdep1 Variable label = MAIN 1ST LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmdep1
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 9 Variable = Fdhmlev2 Variable label = MAIN 2ND LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhmlev2
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 10 Variable = Fdhmwid2 Variable label = MAIN 2ND LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmwid2
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 11 Variable = Fdhmdep2 Variable label = MAIN 2ND LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmdep2
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 12 Variable = Fdhmlev3 Variable label = MAIN 3RD LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhmlev3
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 13 Variable = Fdhmwid3 Variable label = MAIN 3RD LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmwid3
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 14 Variable = Fdhmdep3 Variable label = MAIN 3RD LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhmdep3
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 15 Variable = Fdhaflrs Variable label = ADDITIONAL PART: Additional part - number of floors
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhaflrs
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 16 Variable = Fdhalev1 Variable label = ADDITIONAL 1ST LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhalev1
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 17 Variable = Fdhawid1 Variable label = ADDITIONAL 1ST LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhawid1
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 18 Variable = Fdhadep1 Variable label = ADDITIONAL 1ST LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhadep1
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 19 Variable = Fdhalev2 Variable label = ADDITIONAL 2ND LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhalev2
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 20 Variable = Fdhawid2 Variable label = ADDITIONAL 2ND LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhawid2
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 21 Variable = Fdhadep2 Variable label = ADDITIONAL 2ND LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhadep2
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 22 Variable = Fdhalev3 Variable label = ADDITIONAL 3RD LEVEL: Level
+This variable is other, ( not numeric or string ).
+SPSS user missing values = 88 thru 99
+ Value label information for Fdhalev3
+Value = 99 Label = Unknown
+Value = 88 Label = Question Not Applicable
+Value = 20 Label = 20 or more
+
+Pos. = 23 Variable = Fdhawid3 Variable label = ADDITIONAL 3RD LEVEL: Width
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhawid3
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 24 Variable = Fdhadep3 Variable label = ADDITIONAL 3RD LEVEL: Depth
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.8 thru 99.9
+ Value label information for Fdhadep3
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 25 Variable = Fmtconst Variable label = MATERIAL AND CONSTRUCTION OF HOUSE MODULE
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fmtconst
+Value = 1.0 Label = Masonry, Boxwall, Solid
+Value = 2.0 Label = Masonry, Boxwall, Cavity
+Value = 3.0 Label = Masonry, Crosswall
+Value = 4.0 Label = Concrete, Boxwall, In-situ
+Value = 5.0 Label = Concrete, Boxwall, Precast panel <1m wid
+Value = 6.0 Label = Concrete, Boxwall, Precast panel >1m wid
+Value = 7.0 Label = Concrete, Crosswall, In-situ
+Value = 8.0 Label = Concrete, Crosswall, Precast panel
+Value = 9.0 Label = Concrete, Frame, In-situ
+Value = 10.0 Label = Concrete, Frame, Precast
+Value = 11.0 Label = Timber, Frame, Pre 1919
+Value = 12.0 Label = Timber, Frame, Post 1919
+Value = 13.0 Label = Metal, Frame
+Value = 14.0 Label = Other, please specify if known
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 26 Variable = Fmtprops Variable label = MATERIAL CONSTRUCTION: Proprietary system
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fmtprops
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 27 Variable = Falmored Variable label = IMPROVEMENTS ALTERATIONS Conversion to more than 1 dwelling
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falmored
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 28 Variable = Falhmoed Variable label = IMPROVEMENTS ALTERATIONS Conversion to HMO use
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falhmoed
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 29 Variable = Falnores Variable label = IMPROVEMENTS ALTERATIONS Conversion from non-residential use
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falnores
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 30 Variable = Falcombi Variable label = IMPROVEMENTS ALTERATIONS Two or more dwellings combined
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falcombi
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 31 Variable = Falrefur Variable label = IMPROVEMENTS ALTERATIONS Complete refurbishment
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falrefur
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 32 Variable = Falspace Variable label = IMPROVEMENTS ALTERATIONS Rearrangement of internal space
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falspace
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 33 Variable = Falextam Variable label = IMPROVEMENTS ALTERATIONS Extension added for amenities
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falextam
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 34 Variable = Falexliv Variable label = IMPROVEMENTS ALTERATIONS Extension added for living space
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falexliv
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 35 Variable = Falapear Variable label = IMPROVEMENTS ALTERATIONS Alteration of external appearance
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falapear
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 36 Variable = Faloroof Variable label = IMPROVEMENTS ALTERATIONS Over-roofing
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Faloroof
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 37 Variable = Faloclad Variable label = IMPROVEMENTS ALTERATIONS Over-cladding
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Faloclad
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 38 Variable = Falstruc Variable label = IMPROVEMENTS ALTERATIONS Structure replaced
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Falstruc
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 39 Variable = Fallofts Variable label = IMPROVEMENTS ALTERATIONS Loft conversion
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for Fallofts
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown
+
+Pos. = 40 Variable = falyelco Variable label = IMPROVEMENTS ALTERATIONS Exact year of loft conversion
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8888.0 thru 9999.0
+ Value label information for falyelco
+Value = 8888.0 Label = Question Not Applicable
+Value = 1900.0 Label = 1900 or earlier
+Value = 9999.0 Label = Unknown
+
+Pos. = 41 Variable = fallrad Variable label = IMPROVEMENTS ALTERATIONS Radon remedial works
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 9.0 thru None
+ Value label information for fallrad
+Value = 1.0 Label = None
+Value = 2.0 Label = Pre 1945
+Value = 3.0 Label = 1945 - 1964
+Value = 4.0 Label = 1965 - 1984
+Value = 5.0 Label = 1985 - 1990
+Value = 6.0 Label = 1991 - 1995
+Value = 7.0 Label = 1996 - 2007
+Value = 8.0 Label = In progress
+Value = 9.0 Label = Unknown

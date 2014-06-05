@@ -1,0 +1,834 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = around
+Number of variables = 83
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Fexpltyp Variable label = Type of Plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fexpltyp
+Value = 1 Label = Private plot exist
+Value = 2 Label = No private or shared plot
+Value = 3 Label = Shared plot only
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Fexplotf Variable label = Does front plot exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexplotf
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 4 Variable = Fexp1fdp Variable label = Front plot depth
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fexp1fdp
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 5 Variable = Fexwidth Variable label = Width of plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 99
+ Value label information for Fexwidth
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Same as dwelling
+Value = 99 Label = Unknown
+
+Pos. = 6 Variable = Fexplotr Variable label = Does rear plot exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexplotr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 7 Variable = Fexp2fdp Variable label = Rear plot depth
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fexp2fdp
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 8 Variable = Fexdstep Variable label = ACCESSIBILITY : number of steps from pavement/gate to entrance
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 thru 99
+ Value label information for Fexdstep
+Value = 1 Label = 1 step
+Value = 2 Label = 2 step
+Value = 3 Label = 3 or more steps
+Value = 7 Label = No steps but slop >1:20
+Value = 8 Label = Level Access
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 9 Variable = Fexdramp Variable label = ACCESSIBILITY : space for ramp
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 thru 99
+ Value label information for Fexdramp
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Not Applicable
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 10 Variable = Fexdfirm Variable label = ACCESSIBILITY : is path firm and even?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexdfirm
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 11 Variable = Fexdeswi Variable label = ACCESSIBILITY : is path at least 900mm wide?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexdeswi
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 12 Variable = Fexdesgr Variable label = ACCESSIBILITY : is gradient less than 1:12?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexdesgr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Fexdesfe Variable label = ACCESSIBILITY : is entrance adequately lit?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexdesfe
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 14 Variable = Fexdcovr Variable label = ACCESSIBILITY : is entrance adequately covered?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexdcovr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 15 Variable = Fexhsstr Variable label = Falls on stairs/steps
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhsstr
+Value = 1 Label = Lower risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 16 Variable = Fexhslvl Variable label = Falls on level
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhslvl
+Value = 1 Label = Lower risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Fexhsbtw Variable label = Falls between levels
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhsbtw
+Value = 1 Label = Lower risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 18 Variable = Fexhsdam Variable label = HHSRS - Damp and Mould
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhsdam
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fexhsent Variable label = HHSRS - Entry by Intruders
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhsent
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Fexhscen Variable label = HHSRS - Collision and entrapment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fexhscen
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 21 Variable = Fcudrain Variable label = UNDERGROUND DRAINAGE - Drainage system
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8
+ Value label information for Fcudrain
+Value = 1 Label = Mains
+Value = 2 Label = Septic tank
+Value = 3 Label = Cess pool
+Value = 4 Label = Private sewage system
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 22 Variable = Fcufault Variable label = DRAINAGE - Faults
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcufault
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 23 Variable = Fcublock Variable label = DRAINAGE - Blockage
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcublock
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Fcuother Variable label = DRAINAGE - Other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuother
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 25 Variable = Fcuothsp Variable label = DRAINAGE - Other fault specified
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 26 Variable = Fexhsphy Variable label = HHSRS - Personal Hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fexhsphy
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 27 Variable = Fculittr Variable label = Litter rubbish around house module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fculittr
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Fexhsdhy Variable label = HHSRS - Domestic Hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fexhsdhy
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 29 Variable = Fcuintpr Variable label = PARKING PROVISION OF SURVEY DWELLING Integral garage - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuintpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 30 Variable = Fcuintlo Variable label = PARKING PROVISION OF SURVEY DWELLING On plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuintlo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 31 Variable = Fcuintsp Variable label = PARKING PROVISION OF SURVEY DWELLING Car spaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fcuintsp
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 32 Variable = Fcuintac Variable label = PARKING - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuintac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Fcuintow Variable label = PARKING - who owns garage parking?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuintow
+Value = 1 Label = Household
+Value = 2 Label = Local authority
+Value = 3 Label = Other landlord
+Value = 4 Label = Other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 34 Variable = Fcuattpr Variable label = PARKING - Attached garage - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuattpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 35 Variable = Fcuattlo Variable label = PARKING - on plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuattlo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 36 Variable = Fcuattsp Variable label = PARKING - car spaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fcuattsp
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 37 Variable = Fcuattac Variable label = PARKING - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuattac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew
+Value = 5 Label = Demolish
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 38 Variable = Fcuattow Variable label = PARKING - who owns attached garage parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuattow
+Value = 1 Label = Household
+Value = 2 Label = Local authority
+Value = 3 Label = Other landlord
+Value = 4 Label = Other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 39 Variable = Fcudetpr Variable label = PARKING - detached garage - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcudetpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 40 Variable = Fcudetlo Variable label = PARKING - on plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcudetlo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 41 Variable = Fcudetsp Variable label = PARKING - car spaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fcudetsp
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 42 Variable = Fcudetac Variable label = PARKING - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcudetac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew
+Value = 5 Label = Demolish
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 43 Variable = Fcudetow Variable label = PARKING - who owns detached garage parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcudetow
+Value = 1 Label = Household
+Value = 2 Label = Local authority
+Value = 3 Label = Other landlord
+Value = 4 Label = Other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 44 Variable = Fcuporpr Variable label = PARKING - car port - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuporpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 45 Variable = Fcuporlo Variable label = PARKING - on plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuporlo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 46 Variable = Fcuporsp Variable label = PARKING - car spaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fcuporsp
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 47 Variable = Fcuporac Variable label = PARKING - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuporac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew
+Value = 5 Label = Demolish
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 48 Variable = Fcuporow Variable label = PARKING - who owns car plot parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuporow
+Value = 1 Label = Household
+Value = 2 Label = Local authority
+Value = 3 Label = Other landlord
+Value = 4 Label = Other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 49 Variable = Fcuspapr Variable label = PARKING - designated parking - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuspapr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 50 Variable = Fcuspalo Variable label = PARKING - on plot
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuspalo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 51 Variable = Fcuspasp Variable label = PARKING - car spaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fcuspasp
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 52 Variable = Fcuspaac Variable label = PARKING - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuspaac
+Value = 1 Label = None
+Value = 2 Label = Minor
+Value = 3 Label = Major
+Value = 4 Label = Renew
+Value = 5 Label = Demolish
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 53 Variable = Fcuspaow Variable label = PARKING - who owns designated parking space
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuspaow
+Value = 1 Label = Household
+Value = 2 Label = Local authority
+Value = 3 Label = Other landlord
+Value = 4 Label = Other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 54 Variable = Fcustr Variable label = PARKING - steet parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcustr
+Value = 1 Label = Adequate
+Value = 2 Label = Inadequate
+Value = 3 Label = None
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 55 Variable = Fcuexpos Variable label = EXPOSURE Is the dwelling in an exposed position?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fcuexpos
+Value = 1 Label = Not exposed
+Value = 2 Label = Slightly exposed
+Value = 3 Label = Exposed
+Value = 4 Label = Very exposed
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 56 Variable = Fblblock Variable label = Number of houses modules in block
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fblblock
+Value = 1 Label = Detached House/Module
+Value = 75 Label = More than 50
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 57 Variable = Fbldefec Variable label = Approx number of seriously defective houses modules in block
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fbldefec
+Value = 77 Label = Question Not Applicable
+Value = 88 Label = House/module is block
+Value = 99 Label = Unknown
+
+Pos. = 58 Variable = Fblsitua Variable label = Situation of block
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fblsitua
+Value = 1 Label = Major trunk road
+Value = 2 Label = Main road
+Value = 3 Label = Side road
+Value = 4 Label = Cul de sac crescent
+Value = 5 Label = Private road
+Value = 6 Label = Unmade no road
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 59 Variable = Farnatur Variable label = Nature of area
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farnatur
+Value = 1 Label = City centre
+Value = 2 Label = Urban
+Value = 3 Label = Suburban residential
+Value = 4 Label = Rural residential
+Value = 5 Label = Village centre
+Value = 6 Label = Rural
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 60 Variable = Fardwell Variable label = Number of dwellings in area
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fardwell
+Value = 1 Label = Under 25
+Value = 2 Label = 25-49
+Value = 3 Label = 50-99
+Value = 4 Label = 100-299
+Value = 5 Label = 300-499
+Value = 6 Label = 500+
+Value = 7 Label = Isolated
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 61 Variable = Farprage Variable label = Predominant age
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Farprage
+Value = 1 Label = Pre 1850
+Value = 2 Label = 1850-1899
+Value = 3 Label = 1900-1918
+Value = 4 Label = 1919-1944
+Value = 5 Label = 1945-1964
+Value = 6 Label = 1965-1980
+Value = 7 Label = Post 1980
+Value = 8 Label = None
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 62 Variable = Fartypes Variable label = Predominant residential building type
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Fartypes
+Value = 1 Label = Terraced
+Value = 2 Label = Semi-detached
+Value = 3 Label = Detached
+Value = 4 Label = Mixed houses
+Value = 5 Label = Low rise
+Value = 6 Label = High rise
+Value = 7 Label = With commercial
+Value = 8 Label = Mixed flats
+Value = 9 Label = Mixed houses and flats
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 63 Variable = Fartenur Variable label = Predominant tenure
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8
+ Value label information for Fartenur
+Value = 1 Label = Privately built
+Value = 2 Label = Local authority built
+Value = 3 Label = Housing association built
+Value = 4 Label = Mixed tenure
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Impossible to ascertain
+
+Pos. = 64 Variable = Farestat Variable label = Number of dwellings on estate
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Farestat
+Value = 1 Label = Same as area
+Value = 2 Label = Under 25
+Value = 3 Label = 26-49
+Value = 4 Label = 50-99
+Value = 5 Label = 100-299
+Value = 6 Label = 300-499
+Value = 7 Label = 500+
+Value = 8 Label = Not on estate
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 65 Variable = Farrtb Variable label = If area is LA estate, % of RTB dwellings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Farrtb
+Value = 1 Label = None (0%)
+Value = 2 Label = 1-10%
+Value = 3 Label = 11-25%
+Value = 4 Label = 26-50%
+Value = 5 Label = 51-75%
+Value = 6 Label = 76-99%
+Value = 7 Label = 100%
+Value = 8 Label = Not on LA estate
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 66 Variable = Farquali Variable label = Visual quality of local area
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farquali
+Value = 1 Label = Best
+Value = 7 Label = Worst
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 67 Variable = Farlittr Variable label = PROBLEMS IN LOCAL AREA Litter rubblish
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farlittr
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 68 Variable = Fargraff Variable label = PROBLEMS IN LOCAL AREA Graffiti
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fargraff
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 69 Variable = Farvanda Variable label = PROBLEMS IN LOCAL AREA Vandalism
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farvanda
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 70 Variable = Farexcre Variable label = PROBLEMS IN LOCAL AREA Dog other excrement
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farexcre
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 71 Variable = Farcond Variable label = PROBLEMS IN LOCAL AREA Condition of dwellings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farcond
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 72 Variable = Farsites Variable label = PROBLEMS IN LOCAL AREA Vacant sites
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farsites
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 73 Variable = Farindus Variable label = PROBLEMS IN LOCAL AREA Intrusive industry
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farindus
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 74 Variable = Farnocon Variable label = PROBLEMS IN LOCAL AREA Non-conforming uses
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farnocon
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 75 Variable = Farvacnt Variable label = PROBLEMS IN LOCAL AREA Vacant boarded-up buildings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farvacnt
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 76 Variable = Farairqu Variable label = PROBLEMS IN LOCAL AREA Ambient air quality
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farairqu
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 77 Variable = Fartraff Variable label = PROBLEMS IN LOCAL AREA Heavy traffic
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fartraff
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 78 Variable = Farmotor Variable label = PROBLEMS IN LOCAL AREA Intrusion from motorways arterial roads
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farmotor
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 79 Variable = Farrails Variable label = PROBLEMS IN LOCAL AREA Railway aircraft noise
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farrails
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 80 Variable = Farparks Variable label = PROBLEMS IN LOCAL AREA Nuisance from street parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farparks
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 81 Variable = Fargrdns Variable label = PROBLEMS IN LOCAL AREA Scruffy gardens landscaping
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fargrdns
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 82 Variable = Farbldgs Variable label = PROBLEMS IN LOCAL AREA /Scruffy/ neglected buildings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farbldgs
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Don't Know
+
+Pos. = 83 Variable = Farroads Variable label = PROBLEMS IN LOCAL AREA /Condition of road/pavements and street furniture
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Farroads
+Value = 1 Label = No problems
+Value = 5 Label = Major problems
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Don't Know

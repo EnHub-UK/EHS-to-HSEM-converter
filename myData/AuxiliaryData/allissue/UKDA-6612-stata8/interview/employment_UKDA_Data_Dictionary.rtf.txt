@@ -1,0 +1,1145 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = employment
+Number of variables = 88
+Number of cases = 27449
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = MANAGEP Variable label = Whether partner has managerial duties
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for MANAGEP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Manager
+Value = 2 Label = Foreman/supervisor
+Value = 3 Label = Not manager/supervisor
+
+Pos. = 3 Variable = hrp Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = EVERWKH Variable label = Whether HRP has ever had a paid job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for EVERWKH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 5 Variable = DTJBLMH Variable label = Month HRP left last job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLMH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = January
+Value = 2 Label = February
+Value = 3 Label = March
+Value = 4 Label = April
+Value = 5 Label = May
+Value = 6 Label = June
+Value = 7 Label = July
+Value = 8 Label = August
+Value = 9 Label = September
+Value = 10 Label = October
+Value = 11 Label = November
+Value = 12 Label = December
+
+Pos. = 6 Variable = DTJBLYH Variable label = Year HRP left last job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLYH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 7 Variable = DTJBLNH Variable label = Date HRP left last job not known
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLNH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Dont know
+Value = 2 Label = Question complete
+
+Pos. = 8 Variable = STATUSH Variable label = Whether HRP employed or self-employed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for STATUSH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Employee
+Value = 2 Label = Self-employed
+
+Pos. = 9 Variable = MANAGEH Variable label = Whether HRP has managerial duties
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for MANAGEH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Manager
+Value = 2 Label = Foreman/supervisor
+Value = 3 Label = Not manager/supervisor
+
+Pos. = 10 Variable = EMPNOH Variable label = Number of employees at HRP workplace
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for EMPNOH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = 1 to 24
+Value = 2 Label = 25 or more
+
+Pos. = 11 Variable = SOLOH Variable label = Whether HRP works on own or has employees
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SOLOH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = On own/with partner but no employees
+Value = 2 Label = With employees
+
+Pos. = 12 Variable = SEMPNOH Variable label = Number of employees HRP employs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SEMPNOH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = 1 to 24 employees
+Value = 2 Label = 25 or more
+
+Pos. = 13 Variable = ETHNICH Variable label = HRP ethnic origin
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for ETHNICH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = White British
+Value = 2 Label = White -Irish
+Value = 3 Label = Any other White background
+Value = 4 Label = Mixed - White and Black Caribbean
+Value = 5 Label = Mixed - White and Black African
+Value = 6 Label = Mixed - White and Asian
+Value = 7 Label = Any other Mixed background
+Value = 8 Label = Asian or Asian British - Indian
+Value = 9 Label = Asian or Asian British - Pakistani
+Value = 10 Label = Asian or Asian British - Bangladeshi
+Value = 11 Label = Asian or Asian British - Any other Asian
+Value = 12 Label = Black or Black British - Black Caribbean
+Value = 13 Label = Black or Black British - Black African
+Value = 14 Label = Black or Black British - Any other Black
+Value = 15 Label = Chinese
+Value = 16 Label = Any other ethnic group
+
+Pos. = 14 Variable = NSSECH Variable label = NS-SEC CODING FOR HRP
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NSSECH
+Value = -9 Label = Does not apply
+Value = 1 Label = Employers in large organisations
+Value = 2 Label = Higher managerial
+Value = 3 Label = Higher professional occupations - Class 1.2
+Value = 3.1 Label = Higher professional (traditional) - employees
+Value = 3.2 Label = Higher professional (new) - employees
+Value = 3.3 Label = Higher professional (traditional) - self-employed
+Value = 3.4 Label = Higher professional (new) - self-employed
+Value = 4.1 Label = Lower profsnl & higher technical (tradtnl)employees
+Value = 4.2 Label = Lower profsnl & higher technical (new) employees
+Value = 4.3 Label = Lower profsnl & higher technical (tradtnl) self-employed
+Value = 4.4 Label = Lower profsnl & higher technical (new) self-employed
+Value = 5 Label = Lower managerial
+Value = 6 Label = Higher supervisory
+Value = 7.1 Label = Intermediate clerical and administrative
+Value = 7.2 Label = Intermediate sales and service
+Value = 7.3 Label = Intermediate technical and auxiliary
+Value = 7.4 Label = Intermediate engineering
+Value = 8.1 Label = Employers (small organisations, non-professional)
+Value = 8.2 Label = Employers (small - agriculture)
+Value = 9.1 Label = Own account workers (non-professional)
+Value = 9.2 Label = Own account workers (agriculture)
+Value = 10 Label = Lower supervisory
+Value = 11.1 Label = Lower technical craft
+Value = 11.2 Label = Lower technical process operative
+Value = 12 Label = Semi-routine Occupations - Class 6
+Value = 12.1 Label = Semi-routine sales
+Value = 12.2 Label = Semi-routine service
+Value = 12.3 Label = Semi-routine technical
+Value = 12.4 Label = Semi-routine operative
+Value = 12.5 Label = Semi-routine agricultural
+Value = 12.6 Label = Semi-routine clerical
+Value = 12.7 Label = Semi-routine childcare
+Value = 13 Label = Routine occupations - Class 7
+Value = 13.1 Label = Routine sales and service
+Value = 13.2 Label = Routine production
+Value = 13.3 Label = Routine technical
+Value = 13.4 Label = Routine operative
+Value = 13.5 Label = Routine agricultural
+Value = 16 Label = Occupations not stated/inadqtly described
+
+Pos. = 15 Variable = SEGH Variable label = SEG of HRP
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SEGH
+Value = -9 Label = Does not apply
+Value = 1.1 Label = Employers in industry, commerce, etc - large establishments
+Value = 1.2 Label = Managers in industry, commerce etc - large establishments
+Value = 2.1 Label = Employers in industry, commerce, etc - small establishments
+Value = 2.2 Label = Managers in industry, commerce etc - small establishments
+Value = 3 Label = Professional workers - self-employed
+Value = 4 Label = Professional workers - employees
+Value = 5.1 Label = Ancillary workers and artists
+Value = 5.2 Label = Foremen and supervisors non-manual
+Value = 6 Label = Junior non-manual workers
+Value = 7 Label = Personal service workers
+Value = 8 Label = Foremen and supervisors manual
+Value = 9 Label = Skilled manual workers
+Value = 10 Label = Semi-skilled manual workers
+Value = 11 Label = Unskilled manual workers
+Value = 12 Label = Own account workers other than professional
+Value = 13 Label = Farmers - employers and managers
+Value = 14 Label = Farmers - own account
+Value = 15 Label = Agricultural workers
+Value = 16 Label = Members of the armed forces
+Value = 17 Label = Inadequately described and not stated occupations
+
+Pos. = 16 Variable = HRPPart Variable label = Partner of HRP
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HRPPart
+Value = -9 Label = No partner
+
+Pos. = 17 Variable = EVERWKP Variable label = Whether partner has ever had a paid job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for EVERWKP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 18 Variable = DTJBLMP Variable label = Month partner left last job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLMP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = January
+Value = 2 Label = February
+Value = 3 Label = March
+Value = 4 Label = April
+Value = 5 Label = May
+Value = 6 Label = June
+Value = 7 Label = July
+Value = 8 Label = August
+Value = 9 Label = September
+Value = 10 Label = October
+Value = 11 Label = November
+Value = 12 Label = December
+
+Pos. = 19 Variable = DTJBLYP Variable label = Year partner left last job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLYP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 20 Variable = DTJBLNP Variable label = Date partner left last job not known
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DTJBLNP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Dont know
+Value = 2 Label = Question complete
+
+Pos. = 21 Variable = STATUSP Variable label = Whether partner employed or self-employed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for STATUSP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Employee
+Value = 2 Label = Self-employed
+
+Pos. = 22 Variable = EMPNOP Variable label = Number of employees at partner workplace
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for EMPNOP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = 1 to 24
+Value = 2 Label = 25 or more
+
+Pos. = 23 Variable = SOLOP Variable label = Whether partner works on own or has employees
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SOLOP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = On own/with partner but no employees
+Value = 2 Label = With employees
+
+Pos. = 24 Variable = SEMPNOP Variable label = Number of employees partner employs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SEMPNOP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = 1 to 24 employees
+Value = 2 Label = 25 or more
+
+Pos. = 25 Variable = ETHNICP Variable label = Partner ethnic origin
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for ETHNICP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = White British
+Value = 2 Label = White -Irish
+Value = 3 Label = Any other White background
+Value = 4 Label = Mixed - White and Black Caribbean
+Value = 5 Label = Mixed - White and Black African
+Value = 6 Label = Mixed - White and Asian
+Value = 7 Label = Any other Mixed background
+Value = 8 Label = Asian or Asian British - Indian
+Value = 9 Label = Asian or Asian British - Pakistani
+Value = 10 Label = Asian or Asian British - Bangladeshi
+Value = 11 Label = Asian or Asian British - Any other Asian
+Value = 12 Label = Black or Black British - Black Caribbean
+Value = 13 Label = Black or Black British - Black African
+Value = 14 Label = Black or Black British - Any other Black
+Value = 15 Label = Chinese
+Value = 16 Label = Any other ethnic group
+
+Pos. = 26 Variable = NSSECP Variable label = NS-SEC CODING FOR PARTNER
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NSSECP
+Value = -9 Label = Does not apply
+Value = 1 Label = Employers in large organisations
+Value = 2 Label = Higher managerial
+Value = 3 Label = Higher professional occupations - Class 1.2
+Value = 3.1 Label = Higher professional (traditional) - employees
+Value = 3.2 Label = Higher professional (new) - employees
+Value = 3.3 Label = Higher professional (traditional) - self-employed
+Value = 3.4 Label = Higher professional (new) - self-employed
+Value = 4.1 Label = Lower profsnl & higher technical (tradtnl)employees
+Value = 4.2 Label = Lower profsnl & higher technical (new) employees
+Value = 4.3 Label = Lower profsnl & higher technical (tradtnl) self-employed
+Value = 4.4 Label = Lower profsnl & higher technical (new) self-employed
+Value = 5 Label = Lower managerial
+Value = 6 Label = Higher supervisory
+Value = 7.1 Label = Intermediate clerical and administrative
+Value = 7.2 Label = Intermediate sales and service
+Value = 7.3 Label = Intermediate technical and auxiliary
+Value = 7.4 Label = Intermediate engineering
+Value = 8.1 Label = Employers (small organisations, non-professional)
+Value = 8.2 Label = Employers (small - agriculture)
+Value = 9.1 Label = Own account workers (non-professional)
+Value = 9.2 Label = Own account workers (agriculture)
+Value = 10 Label = Lower supervisory
+Value = 11.1 Label = Lower technical craft
+Value = 11.2 Label = Lower technical process operative
+Value = 12 Label = Semi-routine Occupations - Class 6
+Value = 12.1 Label = Semi-routine sales
+Value = 12.2 Label = Semi-routine service
+Value = 12.3 Label = Semi-routine technical
+Value = 12.4 Label = Semi-routine operative
+Value = 12.5 Label = Semi-routine agricultural
+Value = 12.6 Label = Semi-routine clerical
+Value = 12.7 Label = Semi-routine childcare
+Value = 13 Label = Routine occupations - Class 7
+Value = 13.1 Label = Routine sales and service
+Value = 13.2 Label = Routine production
+Value = 13.3 Label = Routine technical
+Value = 13.4 Label = Routine operative
+Value = 13.5 Label = Routine agricultural
+Value = 16 Label = Occupations not stated/inadqtly described
+
+Pos. = 27 Variable = SEGP Variable label = SEG of partner
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for SEGP
+Value = -9 Label = Does not apply
+Value = 1.1 Label = Employers in industry, commerce, etc - large establishments
+Value = 1.2 Label = Managers in industry, commerce etc - large establishments
+Value = 2.1 Label = Employers in industry, commerce, etc - small establishments
+Value = 2.2 Label = Managers in industry, commerce etc - small establishments
+Value = 3 Label = Professional workers - self-employed
+Value = 4 Label = Professional workers - employees
+Value = 5.1 Label = Ancillary workers and artists
+Value = 5.2 Label = Foremen and supervisors non-manual
+Value = 6 Label = Junior non-manual workers
+Value = 7 Label = Personal service workers
+Value = 8 Label = Foremen and supervisors manual
+Value = 9 Label = Skilled manual workers
+Value = 10 Label = Semi-skilled manual workers
+Value = 11 Label = Unskilled manual workers
+Value = 12 Label = Own account workers other than professional
+Value = 13 Label = Farmers - employers and managers
+Value = 14 Label = Farmers - own account
+Value = 15 Label = Agricultural workers
+Value = 16 Label = Members of the armed forces
+Value = 17 Label = Inadequately described and not stated occupations
+
+Pos. = 28 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 29 Variable = PERSNO Variable label = Person identifier
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PERSNO
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 30 Variable = Schm08 Variable label = On Govt Training Scheme in last week
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Schm08
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = work-based training for young people
+Value = 2 Label = new deal
+Value = 3 Label = work based learning for adults training for work
+Value = 10 Label = job skills
+Value = 15 Label = worktrack
+Value = 21 Label = entry to employment
+Value = 50 Label = any other training scheme,
+Value = 66 Label = none of these
+Value = 97 Label = just 16 and non-response this time
+
+Pos. = 31 Variable = NDType4 Variable label = Type of new deal scheme
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NDType4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = new deal for disabled people
+Value = 3 Label = new deal for lone parents
+Value = 4 Label = new deal for young people
+Value = 5 Label = new deal for 25+
+Value = 6 Label = new deal for 50+
+Value = 7 Label = new deal for partners
+Value = 8 Label = none of these
+Value = 9 Label = don't know
+
+Pos. = 32 Variable = NewDea4 Variable label = New Deal options
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NewDea4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = still on the gateway or having advisory interviews
+Value = 3 Label = working for an employer in the public or private sector 
+Value = 4 Label = working for the voluntary sector
+Value = 5 Label = working for an environmental task force
+Value = 6 Label = In full-time study on an approved course
+Value = 7 Label = receiving help setting up as self-employed
+Value = 8 Label = basic employment training (BET)
+Value = 9 Label = education and training opportunities (ETO)
+Value = 19 Label = on the follow through scheme
+Value = 97 Label = don't know
+
+Pos. = 33 Variable = TecLec4 Variable label = Type of training scheme
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TecLec4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = government scheme in England or Wales
+Value = 2 Label = a scheme in Scotland run by a local enterprise company (LEC)
+Value = 3 Label = some other scheme
+
+Pos. = 34 Variable = YTEtMp Variable label = Activity on government training scheme
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for YTEtMp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = employer providing work experience/practical training
+Value = 2 Label = project providing work experience/practical training
+Value = 3 Label = college/training centre
+Value = 4 Label = temporarily away from an employer/project
+Value = 5 Label = temporarily away from college/training centre
+
+Pos. = 35 Variable = YTEtJb Variable label = On government scheme: other paid work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for YTEtJb
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 36 Variable = Wrking Variable label = Any paid work in last 7 days
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wrking
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 37 Variable = JbAway Variable label = Whether away from a job or business in the last week
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for JbAway
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+Value = 3 Label = waiting to take up a new job/business already obtained
+
+Pos. = 38 Variable = OwnBus Variable label = Unpaid work in that week for own business
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OwnBus
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 39 Variable = RelBus Variable label = Unpaid work for relative's business
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for RelBus
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 40 Variable = EverWk Variable label = Ever had paid work, apart from casual or holiday work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for EverWk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 41 Variable = LeftYr Variable label = Year left last paid job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LeftYr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 42 Variable = LeftM Variable label = Month left last paid job
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LeftM
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = January'
+Value = 2 Label = February
+Value = 3 Label = March
+Value = 4 Label = April
+Value = 5 Label = May
+Value = 6 Label = June
+Value = 7 Label = July
+Value = 8 Label = August
+Value = 9 Label = September
+Value = 10 Label = October
+Value = 11 Label = November
+Value = 12 Label = December
+
+Pos. = 43 Variable = IState Variable label = Questions referring to time spent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for IState
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Press <1> to continue
+
+Pos. = 44 Variable = Sector Variable label = Sector
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Sector
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = private firm or business, limited company 
+Value = 2 Label = some other kind of organisation
+
+Pos. = 45 Variable = Sectro03 Variable label = Type of non-private organisation
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Sectro03
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = public limited company (PLC)
+Value = 2 Label = nationalised industry state corporation
+Value = 3 Label = central government or civil service
+Value = 4 Label = local government or council
+Value = 5 Label = university/other grant funded establishment
+Value = 6 Label = health authority or NHS trust
+Value = 7 Label = charity, voluntary organisation or trust
+Value = 8 Label = the armed forces
+Value = 9 Label = some other kind of organisation
+
+Pos. = 46 Variable = Stat Variable label = Employee or self-employed
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Stat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = employee
+Value = 2 Label = self-employed
+Value = 3 Label = government scheme
+Value = 4 Label = unpaid family worker
+
+Pos. = 47 Variable = PdWage Variable label = Paid salary or wage by employer
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PdWage
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 48 Variable = SelfAgcy Variable label = Paid salary or wage by an agency
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfAgcy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 49 Variable = SelfSole Variable label = Sole director of own limited business
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfSole
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 50 Variable = SelfPrac Variable label = Running business/professional practice
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfPrac
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 51 Variable = SelfPart Variable label = Partner in business/professional practice
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfPart
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 52 Variable = SelfOwnS Variable label = Working for self
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfOwnS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 53 Variable = SelfSbCr Variable label = Sub-contractor
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfSbCr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 54 Variable = SelfFree Variable label = Doing freelance work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfFree
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 55 Variable = SelfNone Variable label = None of the above
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SelfNone
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 56 Variable = Solo Variable label = Whether have employees
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Solo
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = on own/with partner(s) but no employees
+Value = 2 Label = with employees
+
+Pos. = 57 Variable = FtPtWk Variable label = Main job: Full or Part-time
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FtPtWk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = full-time
+Value = 2 Label = part-time
+
+Pos. = 58 Variable = YPtJob Variable label = Why part-time not full-time job
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for YPtJob
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = student/at school
+Value = 2 Label = ill/disabled
+Value = 3 Label = could not find a full-time job
+Value = 4 Label = did not want a full-time job
+
+Pos. = 59 Variable = Supvis Variable label = Whether supervise the work of other employees
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Supvis
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 60 Variable = Manage Variable label = Managerial duties - type
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Manage
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = manager
+Value = 2 Label = foreman/supervisor
+Value = 3 Label = not manager/supervisor
+
+Pos. = 61 Variable = MpnE02 Variable label = Number of employees at workplace
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for MpnE02
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = 1-10
+Value = 2 Label = 11-19
+Value = 3 Label = 20-24
+Value = 4 Label = don't know but under 25
+Value = 5 Label = 25-49
+Value = 6 Label = 50-249
+Value = 7 Label = 250-499
+Value = 8 Label = don't know between 50 and 499
+Value = 9 Label = 500 or more
+
+Pos. = 62 Variable = MpnS02 Variable label = Number of people employs
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for MpnS02
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = 1-10
+Value = 2 Label = 11-19
+Value = 3 Label = 20-24
+Value = 4 Label = don't know but under 25
+Value = 5 Label = 25-49
+Value = 6 Label = 50-249
+Value = 7 Label = 250-499
+Value = 8 Label = don't know between 50 and 499
+Value = 9 Label = 500 or more
+
+Pos. = 63 Variable = Look4 Variable label = Whether looking for paid work in the last 4 weeks
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Look4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 64 Variable = LkYt4 Variable label = Whether looking for a place on a government scheme
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LkYt4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 65 Variable = Wait Variable label = Whether waiting to take up a job already obtained
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wait
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 66 Variable = LikeWk Variable label = Whether would you like to have a regular paid job at the moment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LikeWk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 67 Variable = NoLoAppl Variable label = Waiting for results of job application/being assessed by ET training agent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoAppl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 68 Variable = NoLoStnt Variable label = Student
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoStnt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 69 Variable = NoLoHome Variable label = Looking after family/home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoHome
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 70 Variable = NoLoTSck Variable label = Temporarily sick/injured
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoTSck
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 71 Variable = NoLoLSck Variable label = Long-term sick/disabled
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoLSck
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 72 Variable = NoLoNoJb Variable label = Believes no jobs available
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoNoJb
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 73 Variable = NoLoNtSt Variable label = Not yet started looking for work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoNtSt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 74 Variable = NoLoNoNd Variable label = Doesn't need employment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoNoNd
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 75 Variable = NoLoRtre Variable label = Retired from paid work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoRtre
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 76 Variable = NoLoOthr Variable label = Other reason
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLoOthr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 77 Variable = NoLWM Variable label = Main reason did not look for work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoLWM
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = waiting for results of application / being assessed
+Value = 2 Label = student
+Value = 3 Label = looking after the family home
+Value = 4 Label = temporarily sick/injured
+Value = 5 Label = long-term sick/disabled
+Value = 6 Label = believes no jobs available
+Value = 7 Label = not yet started looking
+Value = 8 Label = doesn't need employment
+Value = 9 Label = retired from paid work
+Value = 10 Label = any other reason
+
+Pos. = 78 Variable = Start Variable label = Whether could start job/government scheme in 2 weeks
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Start
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 79 Variable = YStart Variable label = Reason unable to start in 2 weeks
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for YStart
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = must complete education
+Value = 2 Label = cannot leave present job within 2 weeks
+Value = 3 Label = looking after family home
+Value = 4 Label = temporarily sick/injured
+Value = 5 Label = long-term sick/disabled
+Value = 6 Label = other reason
+
+Pos. = 80 Variable = YStrtF Variable label = Main reason could not start work
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for YStrtF
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = caring for children below school age
+Value = 2 Label = caring for other chidren
+Value = 3 Label = caring for dependent adult relative
+Value = 4 Label = some other reason
+
+Pos. = 81 Variable = LkTimA Variable label = Looking for work/place on government scheme:time spent looking
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LkTimA
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not yet started
+Value = 2 Label = less than 1 month
+Value = 3 Label = 1 month but less than 3 months
+Value = 4 Label = 3 months but less than 6 months
+Value = 5 Label = 6 months but less than 12 months
+Value = 6 Label = 12 months but less than 18 months
+Value = 7 Label = 18 months but less than 2 years
+Value = 8 Label = 2 years but less than 3 years
+Value = 9 Label = 3 years but less than 4 years
+Value = 10 Label = 4 years but less than 5 years
+Value = 11 Label = 5 years or more
+
+Pos. = 82 Variable = LkTimB Variable label = Waiting to take up job/government scheme placement: Time spent looking
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LkTimB
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = not yet started
+Value = 2 Label = less than 1 month
+Value = 3 Label = 1 month but less than 3 months
+Value = 4 Label = 3 months but less than 6 months
+Value = 5 Label = 6 months but less than 12 months
+Value = 6 Label = 12 months but less than 18 months
+Value = 7 Label = 18 months but less than 2 years
+Value = 8 Label = 2 years but less than 3 years
+Value = 9 Label = 3 years but less than 4 years
+Value = 10 Label = 4 years but less than 5 years
+Value = 11 Label = 5 years or more
+
+Pos. = 83 Variable = Statr Variable label = Employment status in main job - reported
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Statr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = employee
+Value = 2 Label = self-employed
+Value = 3 Label = government scheme
+Value = 4 Label = unpaid family worker
+Value = 9 Label = does not apply
+
+Pos. = 84 Variable = Inecaca Variable label = Economic activity - International definition
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Inecaca
+Value = 1 Label = employee
+Value = 2 Label = self-employed
+Value = 3 Label = government employment and training programmes
+Value = 4 Label = unpaid family worker
+Value = 5 Label = ILO unemployed
+Value = 6 Label = inactive - seeking, unavailable, student
+Value = 7 Label = inactive - seeking, unavailable, looking after family home
+Value = 8 Label = inactive - seeking, unavailable, temporarily sick or injured
+Value = 9 Label = inactive - seeking, unavailable, long-term sick or disabled
+Value = 10 Label = inactive - seeking, unavailable, other reason
+Value = 11 Label = inactive - seeking, unavailable, no reason given
+Value = 12 Label = inactive - not seeking, like work, applied
+Value = 13 Label = inactive - not seeking, like work, student
+Value = 14 Label = inactive - not seeking, like work, looking after home
+Value = 15 Label = inactive - not seeking, like work, temporarily sick
+Value = 16 Label = inactive - not seeking, like work, long-term sick
+Value = 17 Label = inactive - not seeking, like work, no jobs available
+Value = 18 Label = inactive - not seeking, like work, not started looking
+Value = 19 Label = inactive - not seeking, like work, not need employment
+Value = 20 Label = inactive - not seeking like work, retired from paid work
+Value = 21 Label = inactive - not seeking, like work, other
+Value = 22 Label = inactive - not seeking, like work, no reason
+Value = 23 Label = inactive - not seeking, not like, applied
+Value = 24 Label = inactive - not seeking, not like, student
+Value = 25 Label = inactive - not seeking, not like, looking after home
+Value = 26 Label = inactive - not seeking, not like, temporarily sick
+Value = 27 Label = inactive - not seeking, not like, long-term sick
+Value = 28 Label = inactive - not seeking, not like, no jobs available
+Value = 29 Label = inactive - not seeking, not like, not started looking
+Value = 30 Label = inactive - not seeking, not like, not need employment
+Value = 31 Label = inactive - not seeking, not like, retired from paid work
+Value = 32 Label = inactive - not seeking, not like, other reason
+Value = 33 Label = inactive - not seeking, not like, no reason given
+Value = 34 Label = under 16
+
+Pos. = 85 Variable = Ilodefr Variable label = Economic activity - reported
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Ilodefr
+Value = 1 Label = in employment
+Value = 2 Label = ILO unemployed
+Value = 3 Label = inactive
+Value = 4 Label = under 16 years
+
+Pos. = 86 Variable = ES2000 Variable label = Employment status
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for ES2000
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = self-employed : large establishment (25+ employees)
+Value = 2 Label = self-employed : small establishment (1-24 employees)
+Value = 3 Label = self-employed : no employees
+Value = 4 Label = manager : large establishment (25+ employees)
+Value = 5 Label = manager : small establishment (1-24 employees)
+Value = 6 Label = foreman or supervisor
+Value = 7 Label = employee (not elsewhere classified)
+Value = 8 Label = no employment status info given
+
+Pos. = 87 Variable = NSSEC Variable label = National Statistics Socio-Economic Classification (NS-SEC) - long version
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NSSEC
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = employers in large organisations
+Value = 2 Label = higher managerial
+Value = 3 Label = higher professional occupations - Class 1.2
+Value = 3.1 Label = higher professional (traditional) - employees
+Value = 3.2 Label = higher professional (new) - employees
+Value = 3.3 Label = higher professional (traditional) - self-employed
+Value = 3.4 Label = higher professional (new) - self-employed
+Value = 4.1 Label = lower profsnl & higher technical (tradtnl)employees
+Value = 4.2 Label = lower profsnl & higher technical (new) employees
+Value = 4.3 Label = lower profsnl & higher technical (tradtnl) self-employed
+Value = 4.4 Label = lower profsnl & higher technical (new) self-employed
+Value = 5 Label = lower managerial
+Value = 6 Label = higher supervisory
+Value = 7.1 Label = intermediate clerical and administrative
+Value = 7.2 Label = intermediate sales and service
+Value = 7.3 Label = intermediate technical and auxiliary
+Value = 7.4 Label = intermediate engineering
+Value = 8.1 Label = employers (small organisations, non-professional)
+Value = 8.2 Label = employers (small - agriculture)
+Value = 9.1 Label = own account workers (non-professional)
+Value = 9.2 Label = own account workers (agriculture)
+Value = 10 Label = lower supervisory
+Value = 11.1 Label = lower technical craft
+Value = 11.2 Label = lower technical process operative
+Value = 12 Label = semi-routine occupations - class 6
+Value = 12.1 Label = semi-routine sales
+Value = 12.2 Label = semi-routine service
+Value = 12.3 Label = semi-routine technical
+Value = 12.4 Label = semi-routine operative
+Value = 12.5 Label = semi-routine agricultural
+Value = 12.6 Label = semi-routine clerical
+Value = 12.7 Label = semi-routine childcare
+Value = 13 Label = routine occupations - Class 7
+Value = 13.1 Label = routine sales and service
+Value = 13.2 Label = routine production
+Value = 13.3 Label = routine technical
+Value = 13.4 Label = routine operative
+Value = 13.5 Label = routine agricultural
+Value = 16 Label = occupations not stated/inadqtly described
+
+Pos. = 88 Variable = SEG Variable label = Socio-Economic Group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SEG
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1.1 Label = employers in industry, commerce, etc - large establishments
+Value = 1.2 Label = managers in industry, commerce etc - large establishments
+Value = 2.1 Label = employers in industry, commerce, etc - small establishments
+Value = 2.2 Label = managers in industry, commerce etc - small establishments
+Value = 3 Label = professional workers - self-employed
+Value = 4 Label = professional workers - employees
+Value = 5.1 Label = ancillary workers and artists
+Value = 5.2 Label = foremen and supervisors non-manual
+Value = 6 Label = junior non-manual workers
+Value = 7 Label = personal service workers
+Value = 8 Label = foremen and supervisors manual
+Value = 9 Label = skilled manual workers
+Value = 10 Label = semi-skilled manual workers
+Value = 11 Label = unskilled manual workers
+Value = 12 Label = own account workers other than professional
+Value = 13 Label = farmers - employers and managers
+Value = 14 Label = farmers - own account
+Value = 15 Label = agricultural workers
+Value = 16 Label = members of the armed forces
+Value = 17 Label = inadequately described and not stated occupations

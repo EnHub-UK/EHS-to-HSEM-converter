@@ -1,0 +1,591 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = contact
+Number of variables = 66
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 3 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 4 Variable = DwelType Variable label = Contact: Sample address is:
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DwelType
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a single dwelling
+Value = 2 Label = part of a dwelling
+Value = 3 Label = more than one dwelling
+Value = 9 Label = don't know/refused?
+
+Pos. = 5 Variable = PAFLstSp2 Variable label = More than one dwelling - whether any dwellings listed separately on the PAF
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PAFLstSp2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes, all extra dwellings listed separately
+Value = 2 Label = yes, some extra dwellings listed separately
+Value = 3 Label = no, only sample address exists in PAF
+
+Pos. = 6 Variable = PAFLstSp3 Variable label = Whether need to select a dwelling for interview
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PAFLstSp3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = no, sample address not listed first on PAF
+Value = 2 Label = yes, sample address listed first on PAF
+
+Pos. = 7 Variable = NumDwel2 Variable label = Number of separate dwellings at sample address
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumDwel2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 8 Variable = DwelSel Variable label = Selected dwelling number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DwelSel
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 9 Variable = NumPDwel Variable label = Part-dwelling: number of PAF listed addresses at whole dwelling
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumPDwel
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 10 Variable = DwOcVac Variable label = Whether occupied
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DwOcVac
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = occupied
+Value = 2 Label = vacant and or derelict
+Value = 3 Label = could not identify whether occupied or vacant
+
+Pos. = 11 Variable = DwelOut Variable label = Outcome at dwelling
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DwelOut
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = no contact made
+Value = 2 Label = refusal
+Value = 3 Label = contact made
+
+Pos. = 12 Variable = NumHRes Variable label = Whether more than one household
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumHRes
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = one household
+Value = 2 Label = more than one household
+Value = 3 Label = refused to say
+
+Pos. = 13 Variable = NumHhld Variable label = Number of households
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumHhld
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 14 Variable = HousSel Variable label = Household number selected
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HousSel
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 15 Variable = NClHhld Variable label = Number of visits made to the sampled address
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NClHhld
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 16 Variable = OthHome Variable label = Any other homes
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for OthHome
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = this home only
+Value = 2 Label = more than one home (incl second and holiday homes)
+Value = 3 Label = refused to say/don t know?
+
+Pos. = 17 Variable = SecHome Variable label = Main/second/holiday home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SecHome
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = main home
+Value = 2 Label = second home
+Value = 3 Label = on holiday here - owners/renters not resident
+Value = 4 Label = on holiday here - staying with owners/renters
+Value = 5 Label = refused to say
+
+Pos. = 18 Variable = HolHome1 Variable label = Holiday home: whether owner/renter's main home
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HolHome1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+Value = 3 Label = don't know/refused to say
+
+Pos. = 19 Variable = Vnocpnc1 Variable label = Neighbour info: Reason unoccupied
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Vnocpnc1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = second home/holiday home
+Value = 2 Label = some other reason
+Value = 3 Label = don't know/refused
+
+Pos. = 20 Variable = Addrsame Variable label = Whether address of partial dwelling where interview conducted is same as sample address
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Addrsame
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = same as sample address
+Value = 2 Label = different from sample address
+
+Pos. = 21 Variable = DwelCk1 Variable label = Dwelling Review: Whether the original dwelling type identified is correct
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DwelCk1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 22 Variable = RvDwelTp Variable label = Dwelling Review: Sample address is:
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for RvDwelTp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a single dwelling
+Value = 2 Label = part of a dwelling
+Value = 3 Label = more than one dwelling
+
+Pos. = 23 Variable = HowMany3 Variable label = Part dwelling: number of other parts in whole dwelling
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HowMany3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 24 Variable = HowMany4 Variable label = More than one dwelling: total number of dwellings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HowMany4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 25 Variable = Resp Variable label = Who interviewed
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Resp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = HRP
+Value = 2 Label = HRP's partner
+Value = 3 Label = proxy for the HRP
+Value = 4 Label = proxy for the Partner
+
+Pos. = 26 Variable = Proxy Variable label = Person number of proxy
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Proxy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 27 Variable = DVElig Variable label = Eligibility for physical survey (occupied)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DVElig
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = eligible occupied
+Value = 2 Label = ineligible occupied
+
+Pos. = 28 Variable = DVVacElg Variable label = Eligibility for physical survey (vacants)
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DVVacElg
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = eligible vacant
+Value = 2 Label = ineligible vacant
+
+Pos. = 29 Variable = Willing Variable label = Willing to agree to surveyor visit
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Willing
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 30 Variable = HMORem Variable label = HMO household
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HMORem
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = HMO
+
+Pos. = 31 Variable = FutEHS Variable label = Ok for CLG/their contractors to contact in future
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FutEHS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+Value = 3 Label = yes, with conditions (Please specify)
+
+Pos. = 32 Variable = UnWillSurv Variable label = Reason unwilling to take part in physical survey
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 33 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 34 Variable = DUNo Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 35 Variable = DuOccV Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 36 Variable = DUNo2 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 37 Variable = DuOccV2 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 38 Variable = DUNo3 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 39 Variable = DuOccV3 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 40 Variable = DUNo4 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 41 Variable = DuOccV4 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 42 Variable = DUNo5 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 43 Variable = DuOccV5 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 44 Variable = DUNo6 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo6
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 45 Variable = DuOccV6 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV6
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 46 Variable = DUNo7 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo7
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 47 Variable = DuOccV7 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV7
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 48 Variable = DUNo8 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo8
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 49 Variable = DuOccV8 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV8
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 50 Variable = DUNo9 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo9
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 51 Variable = DuOccV9 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV9
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 52 Variable = DUNo10 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo10
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 53 Variable = DuOccV10 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV10
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 54 Variable = DUNo11 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo11
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 55 Variable = DuOccV11 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV11
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 56 Variable = DUNo12 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo12
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 57 Variable = DuOccV12 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV12
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 58 Variable = DUNo13 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo13
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 59 Variable = DuOccV13 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV13
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 60 Variable = DUNo14 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo14
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 61 Variable = DuOccV14 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV14
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 62 Variable = DUNo15 Variable label = Code the dwelling unit number
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DUNo15
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 63 Variable = DuOccV15 Variable label = Is the dwelling unit occupied or vacant
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DuOccV15
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = dwelling unit is occupied
+Value = 2 Label = dwelling unit is vacant
+
+Pos. = 64 Variable = RvNumDw Variable label = Is the number of self-contained dwellings correct?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for RvNumDw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 65 Variable = ANTnDECC Variable label = DECC consent given
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ANTnDECC
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = introduced Q3 2009 onwards
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 66 Variable = FutEHS1 Variable label = Ok for CLG/their contractors to contact in future
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FutEHS1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = -2 Label = introduced Q3 onwards 2009 - replaced FutEHS
+Value = 1 Label = yes
+Value = 2 Label = no
+Value = 3 Label = yes, with conditions (Please specify)

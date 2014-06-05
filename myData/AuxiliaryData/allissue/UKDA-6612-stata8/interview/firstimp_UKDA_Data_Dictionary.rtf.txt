@@ -1,0 +1,136 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = firstimp
+Number of variables = 10
+Number of cases = 29070
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = corecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for corecat
+Value = 1 Label = Core: IS and PS achieved
+Value = 2 Label = Core: vacant at IS and PS achieved
+Value = 3 Label = Core: derelict at IS and PS achieved
+Value = 4 Label = Non-core: IS and PS ref or non-cont
+Value = 5 Label = Non-core: vac at IS and PS ref or non-cont
+Value = 6 Label = Non-core: derelict at IS and occup non-con at PS
+Value = 7 Label = Non-core: IS non-con and referred for PS
+Value = 8 Label = Non-core: IS non-cont and not referred for PS
+Value = 9 Label = Non-core: refused at IS
+Value = 10 Label = Inel: vac sec/hol homes
+Value = 11 Label = Inel: sec/hol homes
+Value = 12 Label = Inel: vac at IS and derelict at PS
+Value = 13 Label = Inel: derelict at IS and derelict at PS
+Value = 14 Label = Inel: non-res at IS
+Value = 15 Label = Inel: demolished at IS
+Value = 16 Label = Inel: address not found
+Value = 17 Label = Inel: sifted out
+
+Pos. = 3 Variable = FrstImpN Variable label = Neighbourhood score- first impressions
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for FrstImpN
+Value = -9 Label = Coded N/A -isolated etc
+Value = -8 Label = No answer
+Value = 1 Label = Best
+Value = 4 Label = Average
+Value = 7 Label = Worst
+
+Pos. = 4 Variable = FrstImpb Variable label = Building score- first impressions
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for FrstImpb
+Value = -9 Label = Coded N/A -demolished/not found etc
+Value = -8 Label = No answer
+Value = 1 Label = Best
+Value = 4 Label = Average
+Value = 7 Label = Worst
+
+Pos. = 5 Variable = PropTyp Variable label = Property type - first impressions
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for PropTyp
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = House/bungalow- detached
+Value = 2 Label = House/bungalow- semi-detached
+Value = 3 Label = House/bungalow- mid terrace
+Value = 4 Label = House/bungalow- end terrace
+Value = 5 Label = Flat/maisonette- purpose built
+Value = 6 Label = Flat/masionette- conversion
+Value = 7 Label = Hostel or bed and breakfast
+Value = 8 Label =  Caravan/mobile home/chalet/houseboat
+Value = 9 Label = Other
+
+Pos. = 6 Variable = Floors Variable label = Number of floors in building containing sample address
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Floors
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Less than six
+Value = 2 Label = Six or more
+
+Pos. = 7 Variable = PropNonR Variable label = Whether sample address contains non residential units
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for PropNonR
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 8 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 9 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 10 Variable = Smplnel Variable label = Address eligible
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for Smplnel
+Value = 1 Label = = 'ineligible'
+Value = 2 Label = = 'eligible'

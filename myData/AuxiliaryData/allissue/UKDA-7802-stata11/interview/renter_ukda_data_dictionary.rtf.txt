@@ -1,0 +1,1049 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = renter
+Number of variables = 96
+Number of cases = 7194
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = EverCLHA2 Variable label = Ever council/HA house/flat
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EverCLHA2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes, council house/flat
+Value = 2.0 Label = Yes, HA house/flat
+Value = 3.0 Label = No, neither
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = TenTyp2 Variable label = Tenancy type (PRS) (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TenTyp2
+Value = 1.0 Label = Assured shorthold
+Value = 2.0 Label = Assured
+Value = 3.0 Label = Regulated (started 1988 or earlier)
+Value = 4.0 Label = Resident landlord
+Value = 5.0 Label = Let by educational institution
+Value = 6.0 Label = Other type of let
+Value = 7.0 Label = Don't know (spontaneous only)
+Value = 8.0 Label = Refusal (spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 4 Variable = TenTypSR Variable label = Tenancy type (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TenTypSR
+Value = 1.0 Label = Secure tenancy
+Value = 2.0 Label = Flexible tenancy (offered from April 2012)
+Value = 3.0 Label = Introductory tenancy/Housing Association
+Value = 4.0 Label = Assured tenancy
+Value = 5.0 Label = Secure tenancy
+Value = 6.0 Label = Fixed term tenancy (from April 2011)
+Value = 7.0 Label = Starter tenancy
+Value = 8.0 Label = Other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 5 Variable = Ldcmpsit Variable label = Complex renting situation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldcmpsit
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Not complex
+Value = 2.0 Label = Complex
+Value = -9.0 Label = does not apply
+
+Pos. = 6 Variable = Ldacmown Variable label = Rent paid to owner
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldacmown
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 7 Variable = OthTypea Variable label = Letting type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OthTypea
+Value = 1.0 Label = Crown tenancy/licence (includes H.M. Forces)
+Value = 2.0 Label = Service occupancy (excludes H.M. Forces)
+Value = 3.0 Label = Business or agricultural tenancy
+Value = 4.0 Label = Assured agricultural occupancy
+Value = 5.0 Label = Asylum seeker let (issued by NASS)
+Value = 6.0 Label = Holiday let
+Value = 7.0 Label = Other type of let
+Value = 8.0 Label = Don t know
+Value = 9.0 Label = Refused
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 8 Variable = LowShort Variable label = Low season let
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LowShort
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 9 Variable = ResTen Variable label = Resident when tenancy acquired
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ResTen
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 10 Variable = LivTen Variable label = Acquired tenancy when living with someone who was a tenant
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LivTen
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 11 Variable = WhoPrTn Variable label = Relationship of previous tenant/person you were living with
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for WhoPrTn
+Value = 1.0 Label = Husband, wife or partner
+Value = 2.0 Label = Mother or father
+Value = 3.0 Label = Other relative
+Value = 4.0 Label = Someone else you were looking after
+Value = 5.0 Label = Other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 12 Variable = ReasTen Variable label = Reason behind tenancy acquisition
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ReasTen
+Value = 1.0 Label = Death of tenant
+Value = 2.0 Label = Tenants move to residential home or other institution
+Value = 3.0 Label = On divorce/separation
+Value = 4.0 Label = Other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 13 Variable = tenstrt2 Variable label = Year tenancy started
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for tenstrt2
+Value = 0.0 Label = 2000
+Value = 1.0 Label = 2001
+Value = 2.0 Label = 2002
+Value = 3.0 Label = 2003
+Value = 4.0 Label = 2004
+Value = 5.0 Label = 2005
+Value = 6.0 Label = 2006
+Value = 7.0 Label = 2007
+Value = 8.0 Label = 2008
+Value = 9.0 Label = 2009
+Value = 10.0 Label = 2010
+Value = 11.0 Label = 2011
+Value = 12.0 Label = 2012
+Value = 13.0 Label = 2013
+Value = 14.0 Label = 2014
+Value = 15.0 Label = 2015
+Value = 16.0 Label = 2016
+Value = 89.0 Label = 1989 or earlier
+Value = 94.0 Label = 1990 to 1994
+Value = 99.0 Label = 1995 to 1999
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 14 Variable = LngthTn Variable label = Time at property before acquiring tenancy
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LngthTn
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Less than twelve months
+Value = 2.0 Label = Twelve months or more
+Value = -9.0 Label = does not apply
+
+Pos. = 15 Variable = CAgree Variable label = Council/HA agreed to your acquiring the tenancy
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CAgree
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 16 Variable = TransHA Variable label = Tenancy transferred from LA
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TransHA
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 17 Variable = DVPRnt Variable label = Treated as private rented household
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for DVPRnt
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 18 Variable = YrHA Variable label = Year became HA tenant
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrHA
+Value = -8.0 Label = no answer
+Value = 1950.0 Label = 1950 or earlier
+Value = -9.0 Label = does not apply
+
+Pos. = 19 Variable = SRCheck2 Variable label = Accepted as homeless
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SRCheck2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 20 Variable = SRWaitL Variable label = Length of wait
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SRWaitL
+Value = 1.0 Label = Less than 3 months
+Value = 2.0 Label = 3 months but less than 6 months
+Value = 3.0 Label = 6 months but less than 1 year
+Value = 4.0 Label = 1 year but less than 2 years
+Value = 5.0 Label = 2 years but less than 3 years
+Value = 6.0 Label = 3 years but less than 5 years
+Value = 7.0 Label = 5 years but less than 10 years
+Value = 8.0 Label = More than 10 years
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 21 Variable = IntHB Variable label = Housing benefit and rent
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for IntHB
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Continue
+Value = -9.0 Label = does not apply
+
+Pos. = 22 Variable = Ldjoint Variable label = Tenants: Division of rent payment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldjoint
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Respondent responsible for full amount
+Value = 2.0 Label = Someone else responsible for full amount
+Value = 3.0 Label = Some/all adults pay separately
+Value = -9.0 Label = does not apply
+
+Pos. = 23 Variable = RentHBAn Variable label = Answering HB/LHA for whole household
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RentHBAn
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes - whole household
+Value = 2.0 Label = No - just self
+Value = -9.0 Label = does not apply
+
+Pos. = 24 Variable = HbenHB Variable label = Housing Benefit (2013-14 only)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HbenHB
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioend
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 25 Variable = HBenLHA Variable label = Local Housing Allowance (2013-14 only)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HBenLHA
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioend
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 26 Variable = HBenNone Variable label = No help with paying rent (2013-14 only)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HBenNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioend
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 27 Variable = Ldhsbam3 Variable label = Amount of rent covered
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldhsbam3
+Value = -8.0 Label = no answer
+Value = 1.0 Label = it exactly covers the rent
+Value = 2.0 Label = it covers some of the rent
+Value = 4.0 Label = don't know
+Value = -9.0 Label = does not apply
+
+Pos. = 28 Variable = Ldrnhb1a Variable label = Tenants: Fll HB: Amt HB
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnhb1a
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 29 Variable = Ldpdhb1a Variable label = Tenants: Fll HB: HB per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdhb1a
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 30 Variable = Ldrnhb1b Variable label = Tenants: Prt HB: Amt HB rcv
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnhb1b
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 31 Variable = Ldpdhb1b Variable label = Tenants: Prt HB: HB rcv per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdhb1b
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 32 Variable = Ldrsel1b Variable label = Tenants: Prt HB: Amt rent pd
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrsel1b
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 33 Variable = LdpdSe1b Variable label = Tenants: Prt HB: Amt rent pd per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LdpdSe1b
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 34 Variable = Totalb Variable label = Total weekly rent (part HB)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Totalb
+Value = -8.0 Label = no answer
+Value = 10.0 Label = 10 or less
+Value = -9.0 Label = does not apply
+
+Pos. = 35 Variable = Ldrnto1b Variable label = Tenants: Prt HB: Fll rent chk
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnto1b
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 36 Variable = Ldrnto12 Variable label = Tenants: Prt HB: fll amt rent chrg
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnto12
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 37 Variable = Ldpdto1b Variable label = Tenants: Prt HB: rent chrg per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdto1b
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 38 Variable = Ldrnam1c Variable label = Tenants: DK HB: Amt rent chrg
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnam1c
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 39 Variable = Ldperd1c Variable label = Tenants: DK HB: rent chrg per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldperd1c
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 40 Variable = Ldrsel1c Variable label = Tenants: DK HB: Amt rent pd
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrsel1c
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 41 Variable = Ldpdse1c Variable label = Tenants: DK HB: rent pd per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdse1c
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 42 Variable = Ldrnto2 Variable label = Tenants: No HB: Amt rent pd
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnto2
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 43 Variable = Ldpdto2 Variable label = Tenants: No HB: rent pd per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdto2
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 44 Variable = Ldrnto3 Variable label = Tenants: Unsure HB: Amt rent chrg
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrnto3
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 45 Variable = Ldpdto3 Variable label = Tenants: Unsure HB: rent chrg per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdto3
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 46 Variable = Ldrsel3 Variable label = Tenants: Unsure HB: Amt rent pd
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldrsel3
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 47 Variable = Ldpdsel3 Variable label = Tenants: Unsure HB: rent pd per
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ldpdsel3
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 48 Variable = WholSha2 Variable label = Rent/HB amounts given for whole accommodation or just your share
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for WholSha2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Whole house/flat
+Value = 2.0 Label = My/our share only
+Value = -9.0 Label = does not apply
+
+Pos. = 49 Variable = TotAmt Variable label = Total amount of rent
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TotAmt
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 50 Variable = TotPer Variable label = Rent payment period
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TotPer
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One-off lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 51 Variable = SeriCTax Variable label = Included in rent: council tax
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriCTax
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 52 Variable = SeriHeat Variable label = Included in rent: heating
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriHeat
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 53 Variable = SeriWter Variable label = Included in rent: water and sewerage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriWter
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 54 Variable = SeriLght Variable label = Included in rent: lighting
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriLght
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 55 Variable = SeriHWtr Variable label = Included in rent: hot water
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriHWtr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 56 Variable = SeriFuel Variable label = Included in rent: fuel for cooking
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriFuel
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 57 Variable = SeriMeal Variable label = Included in rent: regular meals
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriMeal
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 58 Variable = SeriTvLi Variable label = Included in rent: Tv licence fee
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriTvLi
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 59 Variable = SeriNone Variable label = Included in rent: none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeriNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 60 Variable = NetRent Variable label = Total Rent excl services before HB/LHA
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NetRent
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 61 Variable = Netper Variable label = Net rent period
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Netper
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 62 Variable = PHA2292 Variable label = How easy is it to pay your rent after benefits
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PHA2292
+Value = 1.0 Label = Very easy
+Value = 2.0 Label = Fairly easy
+Value = 3.0 Label = Fairly difficult
+Value = 4.0 Label = Very difficult
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 63 Variable = ArrPR1 Variable label = Up to date with rent payments
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrPR1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 64 Variable = ArrPR2 Variable label = Fallen behind with rent payments over the last 12 months
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrPR2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 65 Variable = ArrRent3 Variable label = Increase in rent (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrRent3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 66 Variable = ArrUnEmp3 Variable label = Unemployment (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrUnEmp3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 67 Variable = ArrLhOt3 Variable label = Working fewer hours/less overtime (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrLhOt3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 68 Variable = ArrIll3 Variable label = Illness (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrIll3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 69 Variable = ArrOther3 Variable label = Other debts or responsibilities (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrOther3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 70 Variable = ArrBen3 Variable label = Reduction in or problems with Housing Benefit/Local Housing Allowance/Universal Credit (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 71 Variable = ArrDom3 Variable label = Domestic problems (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrDom3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 72 Variable = ArrUnexp3 Variable label = Unexpected council tax or utility bills (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrUnexp3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 73 Variable = ArrNone3 Variable label = Reduction in Housing Benefit/Local Housing Allowance (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrNone3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 74 Variable = ArrBen3P1 Variable label = Problems: Under-occupying (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3P1
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 75 Variable = ArrBen3P2 Variable label = Problems: New benefits system/caps (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3P2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 76 Variable = ArrBen3P3 Variable label = Problems: Reduced for other reasons (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3P3
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 77 Variable = ArrBen3P4 Variable label = Problems: Delays (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3P4
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 78 Variable = ArrBen3P5 Variable label = Problems: Other reasons (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen3P5
+Value = -8.0 Label = no answer
+Value = 0.0 Label = Not mentioned
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = Mentioned
+
+Pos. = 79 Variable = RentHola Variable label = Rent Holiday
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RentHola
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 80 Variable = RentHolW Variable label = For how many weeks do you have a rent holiday?
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RentHolW
+Value = -8.0 Label = no answer
+Value = 10.0 Label = 10 weeks or more
+Value = -9.0 Label = does not apply
+
+Pos. = 81 Variable = HBstart Variable label = Receiving HB/LH Allowance when current tenancy started
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HBstart
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 3.0 Label = Don't know
+Value = -9.0 Label = does not apply
+
+Pos. = 82 Variable = SmAg1 Variable label = No. of lodger agreements
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SmAg1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = All covered by same agreement
+Value = 2.0 Label = Some member(s) of household covered by separate agreement(s)
+Value = -9.0 Label = does not apply
+
+Pos. = 83 Variable = SmAg Variable label = One or more agreements with landlord
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SmAg
+Value = -8.0 Label = no answer
+Value = 1.0 Label = All covered by same agreement
+Value = 2.0 Label = Some member(s) of household covered by separate agreement(s)
+Value = -9.0 Label = does not apply
+
+Pos. = 84 Variable = NumAgr Variable label = No. of agreements within hhld
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for NumAgr
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 85 Variable = TenType Variable label = Tenancy type (PRS) (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TenType
+Value = 1.0 Label = assured shorthold
+Value = 2.0 Label = assured
+Value = 3.0 Label = regulated (started 1988 or earlier)
+Value = 4.0 Label = resident landlord
+Value = 5.0 Label = let by educational institution
+Value = 6.0 Label = other type of let
+Value = 7.0 Label = don't know (spontaneous only)
+Value = 8.0 Label = refusal (spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 86 Variable = Hbena Variable label = Any rent covered by HB/LHA (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Hbena
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know
+Value = -9.0 Label = does not apply
+
+Pos. = 87 Variable = ArrRent2 Variable label = Increase in rent (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrRent2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 88 Variable = ArrUnEmp2 Variable label = Unemployment (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrUnEmp2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 89 Variable = ArrLhOt2 Variable label = Working fewer hours/less overtime (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrLhOt2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 90 Variable = ArrIll2 Variable label = Illness (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrIll2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 91 Variable = ArrOther2 Variable label = Other debts or responsibilities (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrOther2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 92 Variable = ArrBen2 Variable label = Problems with Housing Benefit/Local Housing Allowance (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrBen2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 93 Variable = ArrDom2 Variable label = Domestic problems (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrDom2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 94 Variable = ArrUnexp2 Variable label = Unexpected council tax or utility bills (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrUnexp2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 95 Variable = ArrRed2 Variable label = Reduction in Housing Benefit/Local Housing Allowance (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrRed2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 96 Variable = ArrNone2 Variable label = None of these (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ArrNone2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes

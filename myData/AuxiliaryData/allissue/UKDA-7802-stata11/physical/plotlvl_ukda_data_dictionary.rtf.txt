@@ -1,0 +1,124 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = plotlvl
+Number of variables = 13
+Number of cases = 24996
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2013
+ Value label information for aacode
+
+Pos. = 2 Variable = Type Variable label = Plot
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Type
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Front Plot
+Value = 2.0 Label = Rear Plot
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 3 Variable = Fexpfth Variable label = PLOT: Tenths hard
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfth
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 4 Variable = Fexpfts Variable label = PLOT: Tenths soft
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfts
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 5 Variable = Fexpffl Variable label = PLOT: Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fexpffl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 6 Variable = Fexpfbd Variable label = PLOT: Bridged DPC
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fexpfbd
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 7 Variable = Fexpfin Variable label = PLOT: Inadequate reverse falls
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fexpfin
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown
+
+Pos. = 8 Variable = Fexpfex Variable label = PLOT: Excavation (m3)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfex
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 9 Variable = Fexpfta Variable label = PLOT: Internal tanking (m2)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfta
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 10 Variable = Fexpfrn Variable label = PLOT: Repair renew paving
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfrn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 11 Variable = Fexpfrw Variable label = PLOT: Repair renew retaining wall
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfrw
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 12 Variable = Fexpfrp Variable label = PLOT: Repair renew steps
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 88.0 and 99.0
+ Value label information for Fexpfrp
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Section Not Applicable
+
+Pos. = 13 Variable = Fexpfgu Variable label = PLOT: Install gully
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 7.0 thru 8.0 and 9.0
+ Value label information for Fexpfgu
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 7.0 Label = Section Not Applicable
+Value = 9.0 Label = Unknown

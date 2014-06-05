@@ -1,0 +1,1421 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = owner
+Number of variables = 146
+Number of cases = 4859
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = Lease Variable label = Ownership type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Lease
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Freehold
+Value = 2.0 Label = Commonhold
+Value = 3.0 Label = Leasehold
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = CHLease Variable label = Freehold ownership
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CHLease
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Whole building jointly
+Value = 2.0 Label = Whole building by self,
+Value = 3.0 Label = Just own flat/maisonette?
+Value = -9.0 Label = does not apply
+
+Pos. = 4 Variable = FreeHld1 Variable label = Extent of freehold
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FreeHld1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Whole building as individual
+Value = 2.0 Label = Whole building collectively
+Value = 3.0 Label = Does not own freehold
+Value = -9.0 Label = does not apply
+
+Pos. = 5 Variable = freehl_1 Variable label = Name in which freehold held
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for freehl_1
+Value = -8.0 Label = no answer
+Value = 1.0 Label = In the name of a company
+Value = 2.0 Label = Individual names
+Value = -9.0 Label = does not apply
+
+Pos. = 6 Variable = LgthLF Variable label = Length of full lease on this property
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LgthLF
+Value = 1.0 Label = 21 years or less
+Value = 2.0 Label = 21 years and 1 day to 30 years
+Value = 3.0 Label = 31 to 40 years
+Value = 4.0 Label = 41 to 50 years
+Value = 5.0 Label = 51 to 60 years
+Value = 6.0 Label = 61 to 70 years
+Value = 7.0 Label = 71 to 80 years
+Value = 8.0 Label = 81 to 98 years
+Value = 9.0 Label = 99 years or longer
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 7 Variable = LgthLN Variable label = Length of remaining lease
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LgthLN
+Value = 1.0 Label = 21 years or less
+Value = 2.0 Label = 21 years and 1 day to 30 years
+Value = 3.0 Label = 31 to 40 years
+Value = 4.0 Label = 41 to 50 years
+Value = 5.0 Label = 51 to 60 years
+Value = 6.0 Label = 61 to 70 years
+Value = 7.0 Label = 71 to 80 years
+Value = 8.0 Label = 81 to 98 years
+Value = 9.0 Label = 99 years or longer
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 8 Variable = FrHlder Variable label = Freehold owned by
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrHlder
+Value = 1.0 Label = Private individual,
+Value = 2.0 Label = Company owned by other leaseholders
+Value = 3.0 Label = Any other type of company,
+Value = 4.0 Label = A housing association,
+Value = 5.0 Label = Charity/charitable trust
+Value = 6.0 Label = Local authority/council,
+Value = 7.0 Label = Church commissioners,
+Value = 8.0 Label = Some other organisation
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 9 Variable = Rysvcchg Variable label = Service charge paid
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rysvcchg
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 10 Variable = Rysvper Variable label = Service charge period
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rysvper
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One-off lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 11 Variable = Rysvwk Variable label = Service charge weekly amount
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rysvwk
+Value = -8.0 Label = no answer
+Value = 100.0 Label = 100 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 12 Variable = Ryconrpr Variable label = Contributes to one-off repair/maintenance costs
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ryconrpr
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 13 Variable = Rygrdrnt Variable label = Pays ground rent
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rygrdrnt
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 14 Variable = Rygrdper Variable label = Ground rent period
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rygrdper
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One-off lump sum
+Value = 97.0 Label = None of these
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 15 Variable = Rygrdwk Variable label = Ground rent weekly amount
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Rygrdwk
+Value = -8.0 Label = no answer
+Value = 50.0 Label = 50 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 16 Variable = Oncmpsit Variable label = Complex tenure status
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Oncmpsit
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Not complex
+Value = 2.0 Label = Complex
+Value = -9.0 Label = does not apply
+
+Pos. = 17 Variable = Onbyyear Variable label = Acquired home: year
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onbyyear
+Value = -8.0 Label = no answer
+Value = 1940.0 Label = 1940 or earlier
+Value = 2012.0 Label = 2012 or later
+Value = -9.0 Label = does not apply
+
+Pos. = 18 Variable = Onbyseas Variable label = Acquired home: month
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onbyseas
+Value = 1.0 Label = January - March
+Value = 2.0 Label = April - June
+Value = 3.0 Label = July - September
+Value = 4.0 Label = October - December
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 19 Variable = OnMorg Variable label = Bought with mortgage/loan(s)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnMorg
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 20 Variable = OnPaid Variable label = Bought with cash/paid outright
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnPaid
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 21 Variable = OnDivrc Variable label = Given property in divorce settlement
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnDivrc
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 22 Variable = OnInhrt Variable label = Inherited property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnInhrt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 23 Variable = OnGift Variable label = Acquired as a gift
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnGift
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 24 Variable = OnOthr Variable label = Acquired: other
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 25 Variable = SourSvgs Variable label = Savings
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourSvgs
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 26 Variable = SourSale Variable label = Sale of previous home
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourSale
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 27 Variable = SourLAHA Variable label = Money paid by LA/HA to encourage move
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourLAHA
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 28 Variable = SourLlrd Variable label = Money from private landlord to encourage move
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourLlrd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 29 Variable = SourFmly Variable label = Gift/loan from family/friend
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourFmly
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 30 Variable = SourLoan Variable label = Loan for deposit/bridging loan
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourLoan
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 31 Variable = SourInhr Variable label = Inherited money
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourInhr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 32 Variable = SourWind Variable label = Windfall
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourWind
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 33 Variable = SourOthr Variable label = Other source
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 34 Variable = SourNone Variable label = 100% mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SourNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 35 Variable = Onsellr Variable label = Property bought from
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onsellr
+Value = 1.0 Label = Individual private owner (not family)
+Value = 2.0 Label = Builder/private developer
+Value = 3.0 Label = Council, as sitting tenant
+Value = 4.0 Label = Council, bought on open market
+Value = 5.0 Label = HA, as sitting tenant
+Value = 6.0 Label = HA, bought on open market
+Value = 7.0 Label = Private landlord, as sitting tenant
+Value = 8.0 Label = Building society/bank
+Value = 9.0 Label = Family member
+Value = 10.0 Label = Built it my/ourselves
+Value = 11.0 Label = Other
+Value = 12.0 Label = Question not applicable (spontaneous only)
+Value = 13.0 Label = Not answered
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 36 Variable = Onpurpc Variable label = Purchase price of home
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onpurpc
+Value = -8.0 Label = no answer
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 37 Variable = Ondownpm Variable label = Original cash payment: pounds/percent
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ondownpm
+Value = 1.0 Label = Zero down payment
+Value = 2.0 Label = Answering in pounds
+Value = 3.0 Label = Answering as % value
+Value = 4.0 Label = Question not applicable
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 38 Variable = Ondeppnd Variable label = Deposit: in s
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ondeppnd
+Value = -8.0 Label = no answer
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 39 Variable = Ondepper Variable label = Deposit: as a %
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Ondepper
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 40 Variable = SOEQShr1 Variable label = Percentage equity share at time of purchase
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SOEQShr1
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 41 Variable = SOEQShr2 Variable label = Percentage equity share now
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SOEQShr2
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 42 Variable = everclha Variable label = Ever council/HA house/flat
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for everclha
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes - a council house/flat
+Value = 2.0 Label = Yes - a housing association house/flat
+Value = 3.0 Label = No, neither
+Value = -9.0 Label = does not apply
+
+Pos. = 43 Variable = Valued Variable label = Valued in last 12 months
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Valued
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 44 Variable = PrptVal1 Variable label = Property valued at
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PrptVal1
+Value = -8.0 Label = no answer
+Value = 10000.0 Label = 10000 or less
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 45 Variable = PrptVal2 Variable label = Householder's view on property value
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PrptVal2
+Value = -8.0 Label = no answer
+Value = 10000.0 Label = 10000 or less
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 46 Variable = Prpchng1 Variable label = By how much do you think your home has changed in value over the past year
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Prpchng1
+Value = 1.0 Label = Risen a lot
+Value = 2.0 Label = Risen a little
+Value = 3.0 Label = Stayed about the same
+Value = 4.0 Label = Fallen a little
+Value = 5.0 Label = Fallen a lot
+Value = 6.0 Label = Don't know whether it has risen, stayed the same or fallen
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 47 Variable = Prpchng2 Variable label = By how much do you think your home will change in value over the next 12 months
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Prpchng2
+Value = 1.0 Label = Rise a lot
+Value = 2.0 Label = Rise a little
+Value = 3.0 Label = Stay about the same
+Value = 4.0 Label = Fall a little
+Value = 5.0 Label = Fall a lot
+Value = 6.0 Label = Don't know whether it will rise, stay the same or fall
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 48 Variable = OnOutMrg Variable label = Whether outstanding mortgage/loan
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnOutMrg
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes, ordinary loan/mortgage
+Value = 2.0 Label = Yes, equity release mortgage
+Value = 3.0 Label = None outstanding
+Value = -9.0 Label = does not apply
+
+Pos. = 49 Variable = PurcLoan Variable label = Number of mortgages/loans on property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PurcLoan
+Value = -8.0 Label = no answer
+Value = 1.0 Label = One
+Value = 2.0 Label = Two or more loans
+Value = -9.0 Label = does not apply
+
+Pos. = 50 Variable = Onorgmrg Variable label = Current mortgage - original amount
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onorgmrg
+Value = -8.0 Label = no answer
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 51 Variable = Yrmorgst Variable label = Year current mortgage taken out
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Yrmorgst
+Value = -8.0 Label = no answer
+Value = 2012.0 Label = 2012 or later
+Value = -9.0 Label = does not apply
+
+Pos. = 52 Variable = MorgLnth Variable label = Length of mortgage: years
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MorgLnth
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 53 Variable = MorgTyp1 Variable label = Type of mortgage/loan
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MorgTyp1
+Value = 1.0 Label = Endowment (interest only)
+Value = 2.0 Label = Repayment (interest & part of loan)
+Value = 3.0 Label = Both endowment & repayment
+Value = 4.0 Label = Other interest only, with linked investments
+Value = 5.0 Label = Interest only, no linked investment
+Value = 6.0 Label = Another type
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 54 Variable = RePaEdmt Variable label = Payments into an endowment policy
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaEdmt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 55 Variable = RePaRMrg Variable label = Payments on repayment mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaRMrg
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 56 Variable = RePaPnsn Variable label = Payments into pension mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaPnsn
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 57 Variable = RePaPEP Variable label = Payments into ISA
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaPEP
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 58 Variable = RePaTrst Variable label = Payments into Unit/Investment Trust
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaTrst
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 59 Variable = RePaSchm Variable label = Payments into other savings/investment scheme
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaSchm
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 60 Variable = RePaNone Variable label = Repay: none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RePaNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 61 Variable = REndPnsn Variable label = Payments into pension mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndPnsn
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 62 Variable = REndPEP Variable label = Payments into ISA
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndPEP
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 63 Variable = REndTrst Variable label = Payments into Unit/Investment Trust
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndTrst
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 64 Variable = REndSvgs Variable label = Payments into other savings/investment scheme
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndSvgs
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 65 Variable = REndSale Variable label = Sale of existing house only
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndSale
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 66 Variable = REndNone Variable label = Endowment & none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for REndNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 67 Variable = HowPayM Variable label = Interest only: expected repayment method
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HowPayM
+Value = 1.0 Label = Sale of this house flat
+Value = 2.0 Label = Sale of other property
+Value = 3.0 Label = Savings/other investments
+Value = 4.0 Label = Take out investment with mortgage
+Value = 5.0 Label = Expected inheritance
+Value = 6.0 Label = Change to repayment mortgage
+Value = 7.0 Label = Other
+Value = 8.0 Label = Don't know
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 68 Variable = Inttype4 Variable label = Current interest rate deal
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Inttype4
+Value = 1.0 Label = Fixed, for less than 2 years
+Value = 2.0 Label = Fixed, for between 2 years and less than 5 years
+Value = 3.0 Label = Fixed, for 5 years or more
+Value = 4.0 Label = Lenders standard variable rate
+Value = 5.0 Label = Discounted variable rate (relative to lenders standard variable rate; can change at any time)
+Value = 6.0 Label = Capped variable rate (variable rate but fixed not to go above a set level)
+Value = 7.0 Label = Tracker (moves up and down relative to benchmark such as Bank of Englands minimum lending rate)
+Value = 8.0 Label = Other
+Value = 98.0 Label = Don't know
+Value = 99.0 Label = REFUSED
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 69 Variable = Intchnge Variable label = How do you expect the interest rate for the mortgage on your home to change over the next 12 months
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Intchnge
+Value = 1.0 Label = Rise a lot
+Value = 2.0 Label = Rise a little
+Value = 3.0 Label = Stay about the same
+Value = 4.0 Label = Fall a little
+Value = 5.0 Label = Fall a lot
+Value = 6.0 Label = Don't know whether it will rise, stay the same or fall
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 70 Variable = Onchmrg Variable label = Changed type of mortgage on the property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Onchmrg
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Same
+Value = 2.0 Label = Different
+Value = 3.0 Label = Don't know
+Value = -9.0 Label = does not apply
+
+Pos. = 71 Variable = CurrAcc Variable label = All-in-one account mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CurrAcc
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 72 Variable = AllOne Variable label = Current account or offset mortgage
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for AllOne
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Current account
+Value = 2.0 Label = Offset
+Value = -9.0 Label = does not apply
+
+Pos. = 73 Variable = CurrBal Variable label = Amount of negative balance/overdraft on current a/c mortgage
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CurrBal
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 74 Variable = Outstand Variable label = Amount outstanding on main mortgage/loan
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Outstand
+Value = -8.0 Label = no answer
+Value = 1000000.0 Label = 1000000 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 75 Variable = Othloan Variable label = Amount borrowed in addition to main mortgage
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Othloan
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 76 Variable = Outsta_2 Variable label = Amount outstanding on other loans
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Outsta_2
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 77 Variable = EqSdDebt Variable label = Paying off debts
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdDebt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 78 Variable = EqSdSavd Variable label = Invested/saved the money
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdSavd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 79 Variable = EqSdHome Variable label = Home improvements/renovations
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdHome
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 80 Variable = EqSdGood Variable label = New goods for the property
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdGood
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 81 Variable = EqSdBtUK Variable label = Purchase of another property in UK
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdBtUK
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 82 Variable = EqSdBtAd Variable label = Purchase of another property abroad
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdBtAd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 83 Variable = EqSdBtFy Variable label = Purchase of property for family member
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdBtFy
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 84 Variable = EqSdVhcl Variable label = Bought car/other vehicle
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdVhcl
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 85 Variable = EqSdHldy Variable label = Paid for holiday
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdHldy
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 86 Variable = EqSdFees Variable label = Paid for school fees
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdFees
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 87 Variable = EqSdUniv Variable label = Paid for university costs
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdUniv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 88 Variable = EqSdMedi Variable label = Paid for medical fees/nursing home
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdMedi
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 89 Variable = EqSdBusi Variable label = Started business
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdBusi
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 90 Variable = EqSdOthr Variable label = Spent equity: other
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdOthr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 91 Variable = EqSdDKnw Variable label = Spent equity: don't know how
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EqSdDKnw
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 92 Variable = MorgPayU Variable label = Usual payment on all mortgages/loans
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MorgPayU
+Value = -8.0 Label = no answer
+Value = 5000.0 Label = 5000 or more
+Value = 10.0 Label = 10 or less
+Value = -9.0 Label = does not apply
+
+Pos. = 93 Variable = MorgPer2 Variable label = Mortgage payment period
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MorgPer2
+Value = 1.0 Label = One week
+Value = 2.0 Label = Two weeks
+Value = 3.0 Label = Three weeks
+Value = 4.0 Label = Four weeks
+Value = 5.0 Label = Calendar month
+Value = 7.0 Label = Two calendar months
+Value = 8.0 Label = Eight times a year
+Value = 9.0 Label = Nine times a year
+Value = 10.0 Label = Ten times a year
+Value = 13.0 Label = Three months/13 weeks
+Value = 26.0 Label = Six months/26 weeks
+Value = 90.0 Label = Less than one week
+Value = 95.0 Label = One off/lump sum
+Value = 97.0 Label = None of these (EXPLAIN IN A NOTE)
+Value = 52.0 Label = One year/12 months/52 weeks
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 94 Variable = OnArrear Variable label = Repayment of arrears
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnArrear
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 95 Variable = OnEndPol Variable label = Endowment policy premium
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnEndPol
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 96 Variable = OnBldIns Variable label = Building insurance
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnBldIns
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 97 Variable = OnConIns Variable label = Contents insurance
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnConIns
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 98 Variable = OnMrtPP Variable label = Mortgage protection plan
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnMrtPP
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 99 Variable = OnOther Variable label = Other payment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnOther
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 100 Variable = OnNone Variable label = None of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 101 Variable = OnDtKnow Variable label = Don't know
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OnDtKnow
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 102 Variable = MrgArN2 Variable label = How mortgage paid (1st option that applies)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArN2
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Making all payments themselves
+Value = 2.0 Label = DWP paying some/all interest
+Value = 3.0 Label = Someone else making some/all payments
+Value = -9.0 Label = does not apply
+
+Pos. = 103 Variable = DSSMorg Variable label = Amount of mortgage interest paid by DWP
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for DSSMorg
+Value = -8.0 Label = no answer
+Value = 1.0 Label = In full
+Value = 2.0 Label = In part
+Value = -9.0 Label = does not apply
+
+Pos. = 104 Variable = MrgPrtPd Variable label = Only part of regular morgage paid
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgPrtPd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 105 Variable = MrgRgMis Variable label = One or more regular payments missed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgRgMis
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 106 Variable = MrgFalse Variable label = Mortgage acct shows behind, not true
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgFalse
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 107 Variable = MrgPPLow Variable label = Mortgage protection plan insufficient
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgPPLow
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 108 Variable = MrgNone Variable label = None of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 109 Variable = MrgArN2A Variable label = Have you been able to pay the mortgage interest not paid by DWP
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArN2A
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 110 Variable = MrgArN2B Variable label = Have you been able to pay the rest of the mortgage payment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArN2B
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 111 Variable = MrgArN2C Variable label = Are there any mortgage payments outstanding from before DWP started contributing
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArN2C
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 112 Variable = MrgArr Variable label = Current mortgage repayment situation
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArr
+Value = 1.0 Label = Up to date with payments
+Value = 2.0 Label = Less than 3 months behind
+Value = 3.0 Label = 3 months to 6 months behind
+Value = 4.0 Label = Over 6 months behind
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 113 Variable = MrgAr21 Variable label = Any difficulties keeping up with mortgage payments in the last 12 months
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgAr21
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Have had no difficulty in keeping up
+Value = 2.0 Label = Have found it rather difficult to keep up
+Value = 3.0 Label = Found it very difficult to keep up
+Value = -9.0 Label = does not apply
+
+Pos. = 114 Variable = MgAAcLnd2 Variable label = Contacted lender (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcLnd2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 115 Variable = MgAAcOrg2 Variable label = Contacted independent advice organisation (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcOrg2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 116 Variable = MgAAcLA2 Variable label = Contacted local authority (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcLA2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 117 Variable = MgAAcWeb2 Variable label = Contacted a Government, local authority or other website (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcWeb2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 118 Variable = MgAAcOthr2 Variable label = Contacted another source of help or advice (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcOthr2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 119 Variable = MgAAcNone2 Variable label = No help or advice sought (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MgAAcNone2
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 120 Variable = MrgHol Variable label = Mortgage holiday agreed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgHol
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 121 Variable = MrgExt Variable label = Extension to loan period agreed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgExt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 122 Variable = MrgInt Variable label = Interest only payments agreed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgInt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 123 Variable = MrgRed Variable label = Reduced monthly payment agreed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgRed
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 124 Variable = MrgNAgre Variable label = No agreement made
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgNAgre
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 125 Variable = MrgAr21c Variable label = Are you considering contacting your lender for help
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgAr21c
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 126 Variable = MrgAr4 Variable label = Any earlier mortgage payments outstanding
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgAr4
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 127 Variable = MrgAr5 Variable label = How long ago did you first fall behind with repayments
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgAr5
+Value = 1.0 Label = Less than three months ago
+Value = 2.0 Label = Three months, but less than six months ago
+Value = 3.0 Label = Six months but less than a year ago
+Value = 4.0 Label = One but less than two years ago
+Value = 5.0 Label = Two years ago or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 128 Variable = MrgAr6 Variable label = Were you behind with payments for this property before the present arrears
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgAr6
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 129 Variable = MrgArN4 Variable label = How are you coping with payments at the moment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgArN4
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Falling further behind
+Value = 2.0 Label = Keeping up with regular payments but still owe some arrears
+Value = -9.0 Label = does not apply
+
+Pos. = 130 Variable = MrgLHD Variable label = spouse/partner left home or died
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for MrgLHD
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 131 Variable = MrgLeft Variable label = Contributor left home
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgLeft
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 132 Variable = MrgBaby Variable label = Contributor pregnant/baby
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgBaby
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 133 Variable = MrgSkInj Variable label = Lost earnings from sickness/injury
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgSkInj
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 134 Variable = MrgSeInc Variable label = Self employed income reduced
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgSeInc
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 135 Variable = MrgRdUem Variable label = Redundancy/unemployment
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgRdUem
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 136 Variable = MrgOtRh Variable label = Lost overtime/worked reduced hours
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgOtRh
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 137 Variable = mrglespa Variable label = Same hours for less pay
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for mrglespa
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 138 Variable = MrgIncPt Variable label = Mortgage payments increased
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgIncPt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 139 Variable = MrgIncOt Variable label = Other payments increased
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgIncOt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 140 Variable = MrgOther Variable label = Other reason
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgOther
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 141 Variable = MrgLegal Variable label = Is your mortgage lender currently taking legal action to repossess your home
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgLegal
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 3.0 Label = Don't know
+Value = -9.0 Label = does not apply
+
+Pos. = 142 Variable = PolSKUn Variable label = Have an insurance policy to pay mortgage in event of accident, sickness or unemployment/redundancy
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PolSKUn
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = -9.0 Label = does not apply
+
+Pos. = 143 Variable = MPolCov Variable label = What does the insurance policy cover
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MPolCov
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Unemployment only
+Value = 2.0 Label = Accident or sickness
+Value = 3.0 Label = Both unemployment and accident or sickness
+Value = -9.0 Label = does not apply
+
+Pos. = 144 Variable = MrgDisc Variable label = Discussions with lender (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgDisc
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 145 Variable = MrgMoved Variable label = Moved to new lender (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgMoved
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 146 Variable = MrgNoAct Variable label = No action taken (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for MrgNoAct
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes

@@ -1,0 +1,141 @@
+###  Translation from RTF performed by UnRTF, version 0.21.9 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = fuel_poverty_dataset_2008
+Number of variables = 35
+Number of cases = 15523
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = fpbasinc Variable label = Annual basic household income ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = fpfullinc Variable label = Annual full household income ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = fuelexpn Variable label = Total fuel costs ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = wathcost Variable label = Cost of energy to heat water ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 6 Variable = spahcost Variable label = Total space heating cost ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 7 Variable = litecost Variable label = Total cost for lights and appliance use ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 8 Variable = cookcost Variable label = Total energy cost for cooking ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 9 Variable = elecMOP Variable label = Method of payment - electricity
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for elecMOP
+Value = 1 Label = Direct debit
+Value = 2 Label = Standard credit
+Value = 3 Label = Pre payment
+
+Pos. = 10 Variable = gasMOP Variable label = Method of payment - gas
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for gasMOP
+Value = 1 Label = Direct debit
+Value = 2 Label = Standard credit
+Value = 3 Label = Pre payment
+Value = 88 Label = n/a = No gas
+
+Pos. = 11 Variable = fpindb Variable label = Fuel poverty index - basic income definition
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 12 Variable = fpflgb Variable label = Fuel poverty flag - basic income definition
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for fpflgb
+Value = 0 Label = Not in FP - basic income definition
+Value = 1 Label = In FP - basic income definition
+
+Pos. = 13 Variable = fpindf Variable label = Fuel poverty index - full income definition
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 14 Variable = fpflgf Variable label = Fuel poverty flag - full income definition
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for fpflgf
+Value = 0 Label = Not in FP - full income definition
+Value = 1 Label = In FP - full income definition
+
+Pos. = 15 Variable = fpvuln Variable label = Vulnerable flag - fuel poverty definition
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for fpvuln
+Value = 0 Label = Not Vulnerable
+Value = 1 Label = Vulnerable
+
+Pos. = 16 Variable = Unoc Variable label = Under occupancy
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for Unoc
+Value = 0 Label = Not under occupying
+Value = 1 Label = Under occupying
+
+Pos. = 17 Variable = aagph78 Variable label = Household weight (core cases 2007-8 & 2008-9)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = Annualbasichouseholdincome Variable label = Annual basic household income ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 19 Variable = Annualfullhouseholdincome Variable label = Annual full household income ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = Totalfuelcosts Variable label = Total fuel costs ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 21 Variable = Costofenergytoheatwater Variable label = Cost of energy to heat water ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 22 Variable = Totalspaceheatingcost Variable label = Total space heating cost ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 23 Variable = Totalcostforlightsandapplianceuse Variable label = Total cost for lights and appliance use ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 24 Variable = Totalenergycostforcooking Variable label = Total energy cost for cooking ()
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 25 Variable = Methodofpaymentelectricity Variable label = Method of payment - electricity
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 26 Variable = Methodofpaymentgas Variable label = Method of payment - gas
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 27 Variable = Fuelpovertyindexbasicincomedefinition Variable label = Fuel poverty index - basic income definition
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 28 Variable = Fuelpovertyflagbasicincomedefinition Variable label = Fuel poverty flag - basic income definition
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 29 Variable = Fuelpovertyindexfullincomedefinition Variable label = Fuel poverty index - full income definition
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 30 Variable = Fuelpovertyflagfullincomedefinition Variable label = Fuel poverty flag - full income definition
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 31 Variable = Vulnerableflagfuelpovertydefinition Variable label = Vulnerable flag - fuel poverty definition
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 32 Variable = Underoccupancy Variable label = Under occupancy
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 33 Variable = Householdweightcorecases2007820089 Variable label = Household weight (core cases 2007-8 & 2008-9)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 34 Variable = Fullincomedecile Variable label = Full income decile
+This variable is numeric, the SPSS measurement level is nominal.
+
+Pos. = 35 Variable = Basicincomedecile Variable label = Basic income decile
+This variable is numeric, the SPSS measurement level is nominal.

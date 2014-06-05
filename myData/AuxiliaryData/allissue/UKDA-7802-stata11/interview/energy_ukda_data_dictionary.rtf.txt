@@ -1,0 +1,806 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = energy
+Number of variables = 85
+Number of cases = 12008
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = HmHeatOn Variable label = Can you keep living room warm
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HmHeatOn
+Value = -8.0 Label = no answer
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 4.0 Label = Don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = HmHtNo Variable label = Reason can not keep living room warm
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HmHtNo
+Value = 1.0 Label = Costs too much to keep your heating on
+Value = 2.0 Label = Not possible to heat the room to a comfortable standard
+Value = 3.0 Label = Both of the above (spontaneous only)
+Value = 4.0 Label = Neither
+Value = 6.0 Label = Don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 4 Variable = HmHtCst Variable label = How easy is it to meet heating/fuel costs
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HmHtCst
+Value = 1.0 Label = Very easy
+Value = 2.0 Label = Fairly easy
+Value = 3.0 Label = Neither easy nor difficult
+Value = 4.0 Label = Fairly difficult
+Value = 5.0 Label = Very difficult
+Value = 6.0 Label = Don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 5 Variable = YrEngNew Variable label = Last 12 month - put in central heating/storage radiator
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngNew
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 6 Variable = YrEngRepl Variable label = Last 12 month - replaced central heating boiler
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngRepl
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 7 Variable = YrEngServ Variable label = Last 12 month - serviced central heating boiler
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngServ
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 8 Variable = YrEngFuel Variable label = Last 12 month - changed main heating fuel
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngFuel
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 9 Variable = YrEngExtr Variable label = Last 12 month - put in one or more extra radiators/storage heaters
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngExtr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 10 Variable = YrEngStor Variable label = Last 12 month - replaced old storage heaters
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngStor
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 11 Variable = YrEngWAir Variable label = Last 12 month - replaced old warm air heating units
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngWAir
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 12 Variable = YrEngValv Variable label = Last 12 month - put new thermostatic valve on at least half of radiators
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngValv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 13 Variable = YrEngTher Variable label = Last 12 month - replaced central heating thermostat
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngTher
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 14 Variable = YrEngTime Variable label = Last 12 month - replaced central heating time clock/programmer
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngTime
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 15 Variable = YrEngBio Variable label = Last 12 month - put in biomass boiler/wood pellet stove
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngBio
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 16 Variable = YrEngNone Variable label = Last 12 month - none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 17 Variable = YrEngCndr Variable label = Last 12 month - replaced hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngCndr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 18 Variable = YrEngJckt Variable label = Last 12 month - fitted/thicker jacket to hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngJckt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 19 Variable = YrEngThst Variable label = Last 12 month - fitted/new thermostat to hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngThst
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 20 Variable = YrEngLoft Variable label = Last 12 month - put in/extra loft insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngLoft
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 21 Variable = YrEngCvty Variable label = Last 12 month - put in cavity wall insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngCvty
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 22 Variable = YrEngSold Variable label = Last 12 month - put in solid wall insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngSold
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 23 Variable = YrEngGlaz Variable label = Last 12 month - replaced single glazing with double glazing
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngGlaz
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 24 Variable = YrEngScnd Variable label = Last 12 month - fitted secondary glazing
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngScnd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 25 Variable = YrEngSwh Variable label = Last 12 month - put in solar water heating
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngSwh
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 26 Variable = YrEngSpv Variable label = Last 12 month - put in solar photovoltaic (PV) panels
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngSpv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 27 Variable = YrEngBNne Variable label = Last 12 month - none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for YrEngBNne
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 28 Variable = ChpHeaNew Variable label = Make cheaper - put in central heating/storage radiator
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaNew
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 29 Variable = ChpHeaRepl Variable label = Make cheaper - replace central heating boiler
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaRepl
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 30 Variable = ChpHeaServ Variable label = Make cheaper - service central heating boiler
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaServ
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 31 Variable = ChpHeaFuel Variable label = Make cheaper - change main heating fuel
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaFuel
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 32 Variable = ChpHeaExtr Variable label = Make cheaper - put in one or more extra radiators/storage heaters
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaExtr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 33 Variable = ChpHeaStor Variable label = Make cheaper - replace old storage heaters
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaStor
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 34 Variable = ChpHeaWAir Variable label = Make cheaper - replace old warm air heating units
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaWAir
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 35 Variable = ChpHeaValv Variable label = Make cheaper - put new thermostatic valve on at least half of radiators
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaValv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 36 Variable = ChpHeaTher Variable label = Make cheaper - replace central heating thermostat
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaTher
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 37 Variable = ChpHeaTime Variable label = Make cheaper - replace central heating time clock/programmer
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaTime
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 38 Variable = ChpHeaBio Variable label = Make cheaper - put in biomass boiler/wood pellet stove
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaBio
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 39 Variable = ChpHeaNone Variable label = Make cheaper - none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 40 Variable = ChpHeaCndr Variable label = Make cheaper - replace hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaCndr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 41 Variable = ChpHeaJckt Variable label = Make cheaper - fit/thicker jacket to hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaJckt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 42 Variable = ChpHeaThst Variable label = Make cheaper - fit/new thermostat to hot water cylinder
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaThst
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 43 Variable = ChpHeaLoft Variable label = Make cheaper - put in/extra loft insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaLoft
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 44 Variable = ChpHeaCvty Variable label = Make cheaper - put in cavity wall insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaCvty
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 45 Variable = ChpHeaSold Variable label = Make cheaper - put in solid wall insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaSold
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 46 Variable = ChpHeaGlaz Variable label = Make cheaper - replace single glazing with double glazing
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaGlaz
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 47 Variable = ChpHeaScnd Variable label = Make cheaper - fit secondary glazing
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaScnd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 48 Variable = ChpHeaSwh Variable label = Make cheaper - put in solar water heating
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaSwh
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 49 Variable = ChpHeaSpv Variable label = Make cheaper - put in solar photovoltaic (PV) panels
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaSpv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 50 Variable = ChpHeaBNne Variable label = Make cheaper - none of these
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ChpHeaBNne
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 51 Variable = LiveHere Variable label = Moved in before October 2008 (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LiveHere
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 52 Variable = SeeEPC Variable label = Did you see an EPC (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SeeEPC
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 53 Variable = TalkEPC Variable label = Did you discuss EPC (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TalkEPC
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 54 Variable = InflEPC Variable label = How far did the EPC influence your property choice (2012/13 only)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for InflEPC
+Value = 1.0 Label = a lot
+Value = 2.0 Label = quite a lot
+Value = 3.0 Label = a little
+Value = 4.0 Label = not at all
+Value = 5.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 55 Variable = KnowBand Variable label = Do you know Energy Efficiency Rating Band current home was in (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for KnowBand
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 56 Variable = EffBand Variable label = Energy Efficiency Rating Band current home was in (2012/13 only)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EffBand
+Value = 1.0 Label = A
+Value = 2.0 Label = B
+Value = 3.0 Label = C
+Value = 4.0 Label = D
+Value = 5.0 Label = E
+Value = 6.0 Label = F
+Value = 7.0 Label = G
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 57 Variable = EstBand Variable label = Energy Efficiency Rating Band estimate for current home (2012/13 only)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EstBand
+Value = 1.0 Label = A
+Value = 2.0 Label = B
+Value = 3.0 Label = C
+Value = 4.0 Label = D
+Value = 5.0 Label = E
+Value = 6.0 Label = F
+Value = 7.0 Label = G
+Value = 8.0 Label = don't know
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 58 Variable = EPCRecc Variable label = Did EPC recommend work to improve energy efficiency (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EPCRecc
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 59 Variable = OwnDnJb Variable label = Has household done any jobs recommended on the EPC (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for OwnDnJb
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = 3.0 Label = don't know (spontaneous only)
+Value = -9.0 Label = does not apply
+
+Pos. = 60 Variable = TenAskJb Variable label = Have you asked landlord/freeholder to do any jobs recommended on the EPC (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for TenAskJb
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 61 Variable = EpcHhNew Variable label = EPC work hhold - put in central heating/storage radiator (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhNew
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 62 Variable = EpcHhRepl Variable label = EPC work hhold - replaced central heating boiler (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhRepl
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 63 Variable = EpcHhServ Variable label = EPC work hhold - serviced central heating boiler (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhServ
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 64 Variable = EpcHhFuel Variable label = EPC work hhold - changed main heating fuel (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhFuel
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 65 Variable = EpcHhExtr Variable label = EPC work hhold - put in one or more extra radiators/storage heaters (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhExtr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 66 Variable = EpcHhStor Variable label = EPC work hhold - replaced old storage heaters (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhStor
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 67 Variable = EpcHhWAir Variable label = EPC work hhold - replaced old warm air heating units (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhWAir
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 68 Variable = EpcHhValv Variable label = EPC work hhold - put new thermostatic valve on at least half of radiators (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhValv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 69 Variable = EpcHhTher Variable label = EPC work hhold - replaced central heating thermostat (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhTher
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 70 Variable = EpcHhTime Variable label = EPC work hhold - replaced central heating time clock/programmer (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhTime
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 71 Variable = EpcHhBio Variable label = EPC work hhold - put in biomass boiler/wood pellet stove (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhBio
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 72 Variable = EpcHhNone Variable label = EPC work hhold - none of these (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhNone
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 73 Variable = EpcHhCndr Variable label = EPC work hhold - replaced hot water cylinder (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhCndr
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 74 Variable = EpcHhJckt Variable label = EPC work hhold - fitted/thicker jacket to hot water cylinder (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhJckt
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 75 Variable = EpcHhThst Variable label = EPC work hhold - fitted/new thermostat to hot water cylinder (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhThst
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 76 Variable = EpcHhLoft Variable label = EPC work hhold - put in/extra loft insulation (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhLoft
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 77 Variable = EpcHhCvty Variable label = EPC work hhold - put in cavity wall insulation (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhCvty
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 78 Variable = EpcHhSold Variable label = EPC work hhold - put in solid wall insulation (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhSold
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 79 Variable = EpcHhGlaz Variable label = EPC work hhold - replaced single glazing with double glazing (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhGlaz
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 80 Variable = EpcHhScnd Variable label = EPC work hhold - fitted secondary glazing (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhScnd
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 81 Variable = EpcHhSwh Variable label = EPC work hhold - put in solar water heating (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhSwh
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 82 Variable = EpcHhSpv Variable label = EPC work hhold - put in solar photovoltaic (PV) panels (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhSpv
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 83 Variable = EpcHhBNne Variable label = EPC work hhold - none of these (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for EpcHhBNne
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no
+Value = -9.0 Label = does not apply
+Value = 1.0 Label = yes
+
+Pos. = 84 Variable = LFDnAny Variable label = Has landlord/freeholder done any jobs recommended on the EPC (2012/13 only)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LFDnAny
+Value = -8.0 Label = no answer
+Value = 1.0 Label = done all of these jobs
+Value = 2.0 Label = done some (but not all) of these jobs
+Value = 3.0 Label = not done any of these jobs
+Value = -9.0 Label = does not apply
+
+Pos. = 85 Variable = LFJbToDo Variable label = What has landlord/freeholder said about recommended jobs (2012/13 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for LFJbToDo
+Value = 1.0 Label = plans to do all of them
+Value = 2.0 Label = plans to do some of them/will do what they can afford
+Value = 3.0 Label = refused to do any of them
+Value = 4.0 Label = said it was not their responsibility
+Value = 5.0 Label = not responded/not clear what they plan to do
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer

@@ -1,0 +1,211 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = identity
+Number of variables = 18
+Number of cases = 28546
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = persno Variable label = Person identifier
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for persno
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 3 Variable = HRP Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HRP
+
+Pos. = 4 Variable = PersProx Variable label = Interview in person_proxy
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PersProx
+Value = -8.0 Label = no answer
+Value = 1.0 Label = in person
+Value = 2.0 Label = by someone else
+Value = -9.0 Label = does not apply
+
+Pos. = 5 Variable = ProxyNum Variable label = Person no of respondent
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ProxyNum
+Value = -8.0 Label = no answer
+Value = 19.0 Label = Not a household member
+Value = -9.0 Label = does not apply
+
+Pos. = 6 Variable = Cry01 Variable label = Country of birth
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Cry01
+Value = 1.0 Label = England
+Value = 2.0 Label = Scotland
+Value = 3.0 Label = Wales
+Value = 4.0 Label = Northern Ireland
+Value = 5.0 Label = Republic of Ireland
+Value = 6.0 Label = UK
+Value = 7.0 Label = Elsewhere outside of UK
+Value = -9.0 Label = Not applicable
+Value = -8.0 Label = No answer
+
+Pos. = 7 Variable = CameYr Variable label = Year arrived in UK
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CameYr
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 8 Variable = CONTUK Variable label = Lived in UK continuously
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CONTUK
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 9 Variable = CameY2 Variable label = Year last arrived in the UK
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for CameY2
+Value = -8.0 Label = no answer
+Value = 1960.0 Label = 1960 or earlier
+Value = -9.0 Label = does not apply
+
+Pos. = 10 Variable = ethe Variable label = Ethnic Group
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for ethe
+Value = 1.0 Label = White
+Value = 2.0 Label = Mixed/ Multiple ethnic groups
+Value = 3.0 Label = Asian/ Asian British
+Value = 4.0 Label = Black/ African/ Caribbean/ Black British
+Value = 5.0 Label = Other ethnic group
+Value = -8.0 Label = No answer
+
+Pos. = 11 Variable = QSatis Variable label = Satisfaction with life nowadays (HRP) (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for QSatis
+Value = 1.0 Label = 1
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7
+Value = 8.0 Label = 8
+Value = 9.0 Label = 9
+Value = 10.0 Label = 10
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 12 Variable = QWorth Variable label = Things done in life are worthwhile (HRP) (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for QWorth
+Value = 1.0 Label = 1
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7
+Value = 8.0 Label = 8
+Value = 9.0 Label = 9
+Value = 10.0 Label = 10
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 13 Variable = QHappy Variable label = How happy yesterday (HRP) (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for QHappy
+Value = 1.0 Label = 1
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7
+Value = 8.0 Label = 8
+Value = 9.0 Label = 9
+Value = 10.0 Label = 10
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 14 Variable = QAnxious Variable label = How anxious yesterday (HRP) (2013-14 only)
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for QAnxious
+Value = 1.0 Label = 1
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7
+Value = 8.0 Label = 8
+Value = 9.0 Label = 9
+Value = 10.0 Label = 10
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 15 Variable = RestMe3 Variable label = Years at this address
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for RestMe3
+Value = 1.0 Label = Less than 12 months
+Value = 2.0 Label = 12 months but less than 2 years
+Value = 3.0 Label = 2 years but less than 3 years
+Value = 4.0 Label = 3 years but less than 5 years
+Value = 5.0 Label = 5 years but less than 10 years
+Value = 6.0 Label = 10 years or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 16 Variable = HLong3 Variable label = Time at this address
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for HLong3
+Value = 1.0 Label = 10 years but less than 20 years
+Value = 2.0 Label = 20 years but less than 30 years
+Value = 3.0 Label = 30 years but less than 40 years
+Value = 4.0 Label = 40 years or longer
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 17 Variable = resmth2 Variable label = Months at this address
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for resmth2
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 18 Variable = Miles Variable label = Distance from previous home
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Miles
+Value = 1.0 Label = under 1 mile
+Value = 2.0 Label = 1 mile but less than 2 miles
+Value = 3.0 Label = 2 miles but less than 5 miles
+Value = 4.0 Label = 5 miles but less than 10 miles
+Value = 5.0 Label = 10 miles but less than 20 miles
+Value = 6.0 Label = 20 miles but less than 50 miles
+Value = 7.0 Label = 50 miles or more
+Value = 8.0 Label = Northern Ireland
+Value = 9.0 Label = abroad (incl Isle of Man, Channel Islands)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer

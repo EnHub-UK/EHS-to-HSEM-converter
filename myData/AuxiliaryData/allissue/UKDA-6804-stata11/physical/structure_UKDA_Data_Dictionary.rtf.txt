@@ -1,0 +1,1230 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = structure
+Number of variables = 130
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Fstpres Variable label = SECTION 21 STRUCTURAL DEFECTS /Defects present?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstpres
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Fstsagde Variable label = Roof sagging - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsagde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 4 Variable = Fstsagac Variable label = Roof sagging - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsagac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 5 Variable = Fstsagmn Variable label = Roof sagging - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsagmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 6 Variable = Fstsagel Variable label = Roof sagging - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsagel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 7 Variable = Fsthumde Variable label = Roof humping - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsthumde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 8 Variable = Fsthumac Variable label = Roof humping - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsthumac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 9 Variable = Fsthummn Variable label = Roof humping - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsthummn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 10 Variable = Fsthumel Variable label = Roof humping - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsthumel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 11 Variable = Fstsprde Variable label = Roof spreading - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 12 Variable = Fstsprac Variable label = Roof spreading - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Fstsprmn Variable label = Roof spreading - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 14 Variable = Fstsprel Variable label = Roof spreading - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 15 Variable = Fstsulde Variable label = Sulphate attack - present
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 16 Variable = Fstsulac Variable label = Sulphate attack - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Fstsulmn Variable label = Sulphate attack - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 18 Variable = Fstsulel Variable label = Sulphate attack - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fstparde Variable label = Unstable parapets - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstparde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Fstparac Variable label = Unstable parapets - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstparac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 21 Variable = Fstparmn Variable label = Unstable parapets - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstparmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 22 Variable = Fstparel Variable label = Unstable parapets - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstparel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 23 Variable = Fstbulde Variable label = Wall bulging- Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Fstbulac Variable label = Wall bulging - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 25 Variable = Fstbulmn Variable label = Wall bulging - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 26 Variable = Fstbulel Variable label = Wall bulging - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 27 Variable = Fstmovde Variable label = Differential movement - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Fstmovac Variable label = Differential movement - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 29 Variable = Fstmovmn Variable label = Differential movement - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 30 Variable = Fstmovel Variable label = Differential movement - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 31 Variable = Fstlinde Variable label = Lintel failure - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstlinde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 32 Variable = Fstlinac Variable label = Lintel failure - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstlinac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Fstlinmn Variable label = Lintel failure - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstlinmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 34 Variable = Fstlinel Variable label = Lintel failure - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstlinel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 35 Variable = Fsttiede Variable label = Wall tie feature - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsttiede
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 36 Variable = Fsttieac Variable label = Wall tie failure - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsttieac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 37 Variable = Fsttiemn Variable label = Wall tie feature - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsttiemn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 38 Variable = Fsttieel Variable label = Wall tie feature - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsttieel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 39 Variable = Fstunsde Variable label = Unstable floors etc - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstunsde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 40 Variable = Fstunsac Variable label = Unstable floors etc - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstunsac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 41 Variable = Fstunsmn Variable label = Unstable floors etc - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstunsmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 42 Variable = Fstunsel Variable label = Unstable floors etc - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstunsel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 43 Variable = Fstrotde Variable label = Dry rot/ wet rot - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrotde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 44 Variable = Fstrotac Variable label = Dry rot/ wet rot - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrotac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 45 Variable = Fstrotmn Variable label = Dry rot/ wet rot - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrotmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 46 Variable = Fstrotel Variable label = Dry rot/ wet rot - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrotel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 47 Variable = Fstborde Variable label = Wood borer infestation - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstborde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 48 Variable = Fstborac Variable label = Wood borer infestation - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstborac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 49 Variable = Fstbormn Variable label = Wood borer infestation - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbormn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 50 Variable = Fstborel Variable label = Wood borer infestation - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstborel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 51 Variable = Fstbalde Variable label = Adequacy of balconies - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 52 Variable = Fstbalac Variable label = Adequacy of balconies - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 53 Variable = Fstbalmn Variable label = Adequacy of balconies - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 54 Variable = Fstbalel Variable label = Adequacy of balconies - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 55 Variable = Fstfoude Variable label = Foundation settlement - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfoude
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 56 Variable = Fstfouac Variable label = Foundation settlement - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfouac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 57 Variable = Fstfoumn Variable label = Foundation settlement - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfoumn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 58 Variable = Fstfouel Variable label = Foundation settlement - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfouel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 59 Variable = Fstisfde Variable label = Integrity of frame - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 60 Variable = Fstisfac Variable label = Integrity of frame - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 61 Variable = Fstisfmn Variable label = Integrity of frame - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 62 Variable = Fstisfel Variable label = Integrity of frame - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 63 Variable = Fstiwpde Variable label = Integrity of wall panels -Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwpde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 64 Variable = Fstiwpac Variable label = Integrity of wall panels - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwpac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 65 Variable = Fstiwpmn Variable label = Integrity of wall panels - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwpmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 66 Variable = Fstiwpel Variable label = Integrity of wall panels - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwpel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 67 Variable = Fstbwhde Variable label = Boundary wall unsafe height - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwhde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 68 Variable = Fstbwhac Variable label = Boundary wall unsafe height - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwhac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 69 Variable = Fstbwhmn Variable label = Boundary wall unsafe height - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwhmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 70 Variable = Fstbwhel Variable label = Boundary wall unsafe height - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwhel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 71 Variable = Fstbwpde Variable label = Boundary wall out of plumb - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwpde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 72 Variable = Fstbwpac Variable label = Boundary wall out of plumb - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwpac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 73 Variable = Fstbwpmn Variable label = Boundary wall out of plumb - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwpmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 74 Variable = Fstbwpel Variable label = Boundary wall out of plumb - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwpel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 75 Variable = Fstbwcde Variable label = Boundary wall horizontal cracking - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwcde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 76 Variable = Fstbwcac Variable label = Boundary wall horizontal cracking - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwcac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 77 Variable = Fstbwcmn Variable label = Boundary wall horizontal cracking - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwcmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 78 Variable = Fstbwcel Variable label = Boundary wall horizontal cracking - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbwcel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 79 Variable = Fstretde Variable label = Unstable retaining wall - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstretde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 80 Variable = Fstretac Variable label = Unstable retaining wall - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstretac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 81 Variable = Fstretmn Variable label = Unstable retaining wall - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstretmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 82 Variable = Fstretel Variable label = Unstable retaining wall - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstretel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 83 Variable = Fstothde Variable label = Any other problems - Defect
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstothde
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 84 Variable = Fstothac Variable label = Any other problems - Action required
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstothac
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 85 Variable = Fstothmn Variable label = Any other problems - Monitor/ examine further
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstothmn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 86 Variable = Fstothel Variable label = Any other problems - Action described elsewhere
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstothel
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 87 Variable = Fstsprti Variable label = Roof spreading - Tie-ing - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprti
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 88 Variable = Fstsprno Variable label = Roof spreading - Tie-ing - number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstsprno
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 89 Variable = Fstsprot Variable label = Roof spreading - Other - treatnent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsprot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 90 Variable = Fstsprsp Variable label = Roof spreading - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 91 Variable = Fstsulcl Variable label = Sulphate attack - Chimney liner - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulcl
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 92 Variable = Fstsullm Variable label = Sulphate attack - Chimney-liner - Linear metres
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstsullm
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 93 Variable = Fstsulot Variable label = Sulphate attack - Other - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstsulot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 94 Variable = Fstsulsp Variable label = Sulphate attack - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 95 Variable = Fstbultr Variable label = Wall bulging - Tie rods - Treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbultr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 96 Variable = Fstbultn Variable label = Wall bulging - Tie rods - number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstbultn
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 97 Variable = Fstbulst Variable label = Wall bulging - Strapping - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulst
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 98 Variable = Fstbulsn Variable label = Wall bulging - Strapping - number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstbulsn
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 99 Variable = Fstbulot Variable label = Wall bulging - Other -treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbulot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 100 Variable = Fstbulsp Variable label = Wall bulging - Other -specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 101 Variable = Fstmovmj Variable label = Differential movement - Joint - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovmj
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 102 Variable = Fstmovlm Variable label = Differential movement - Joint - linear metres
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstmovlm
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 103 Variable = Fstmovot Variable label = Differential movement - Other - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstmovot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 104 Variable = Fstmovsp Variable label = Differential movement - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 105 Variable = Fstlinrn Variable label = Lintel failure - Replace lintels - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstlinrn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 106 Variable = Fstlinno Variable label = Lintel failure - Replace lintels - number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstlinno
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 107 Variable = Fsttiein Variable label = Wall tie failure - Insert wall ties - treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsttiein
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 108 Variable = Fsttiewa Variable label = Wall tie failure - Insert wall ties - wall area
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fsttiewa
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 109 Variable = Fstrottr Variable label = Dry rot/wet rot - Wall & timber treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrottr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 110 Variable = Fstrotex Variable label = Dry rot/wet rot - Extent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstrotex
+Value = 1 Label = Basement
+Value = 2 Label = One room
+Value = 3 Label = One floor
+Value = 4 Label = Loft
+Value = 5 Label = Most building
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 111 Variable = Fstbortr Variable label = Wood borer infestation - Timber treatment
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbortr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 112 Variable = Fstborex Variable label = Wood borer infestation - Extent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstborex
+Value = 1 Label = Basement
+Value = 2 Label = One room
+Value = 3 Label = One floor
+Value = 4 Label = Loft
+Value = 5 Label = Most building
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 113 Variable = Fstbalrn Variable label = Adequacy of balconies - Replace fixings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalrn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 114 Variable = Fstbalno Variable label = Adequacy of balconies - total number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstbalno
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 115 Variable = Fstbalot Variable label = Adequacy of balconies - Other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstbalot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 116 Variable = Fstbalsp Variable label = Adequacy of balconies - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 117 Variable = Fstfouun Variable label = Foundation settlement - Underpin
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfouun
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 118 Variable = Fstfoulm Variable label = Foundation settlement - Underpin - linear metres
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstfoulm
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 119 Variable = Fstfouot Variable label = Foundation settlement - Other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstfouot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 120 Variable = Fstfousp Variable label = Foundation settlement - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 121 Variable = Fstisfmg Variable label = Integrity of frame - Making good
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfmg
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 122 Variable = Fstisfwa Variable label = Integrity of frame - Wall area
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstisfwa
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 123 Variable = Fstisfrn Variable label = Integrity of frame - Replace
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstisfrn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 124 Variable = Fstiwprn Variable label = Integrity of wall panels - Replace fixings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwprn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 125 Variable = Fstiwpno Variable label = Integrity of wall panels - total number
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fstiwpno
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 126 Variable = Fstiwpot Variable label = Integrity of wall panels - Other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fstiwpot
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 127 Variable = Fstiwpsp Variable label = Integrity of wall panels - Other - specify
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 128 Variable = Fstothst Variable label = Any other problems - Specify treatment
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 129 Variable = Fstothse Variable label = Any other problems - Specify extent
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 130 Variable = Fsthssco Variable label = HHSRS - structural collapse
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fsthssco
+Value = 1 Label = lower than average risk
+Value = 2 Label = average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label =  Extreme risk
+Value = 7 Label = section not applicable
+Value = 8 Label = question not applicable
+Value = 9 Label = Unknown
