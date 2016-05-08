@@ -27,7 +27,7 @@ fnGetOS <- function(...) {
 
 fnPrepareEnHubOutputFolders <- function(dirs){
   dirs <- as.character(dirs)
-  type <- c('outForModel','outReport')
+  type <- c('outForModel','outReport','outForProfiles')
   out.folder <- 'public'
 
   assignDir <- function(name, outtype, folder){
@@ -38,6 +38,7 @@ fnPrepareEnHubOutputFolders <- function(dirs){
 
   lapply(dirs, assignDir, type[1], out.folder)
   lapply(dirs, assignDir, type[2], out.folder)
+  lapply(dirs, assignDir, type[3], out.folder)
 }
 
 fnMakeDir <- function(pathNew, myPath=path.EHS, myOS=fnGetOS()){

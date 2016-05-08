@@ -231,16 +231,7 @@ dtaModD$main.wall[grep('mixed',dtaModD$typewstr2)] <- 'Filled cavity / Cavity wi
 dtaModD$main.wall[grep('cavity',dtaModD$typewstr2)] <- 'Cavity (as built)'
 dtaModD$wall.cav <- ifelse(dtaModD$Felcavff=='Yes', TRUE, ifelse(dtaModD$Felcavlf=='Yes', TRUE, ifelse(dtaModD$Felcavrf=='Yes', TRUE, ifelse(dtaModD$Felcavbf=='Yes', TRUE, FALSE))))
 dtaModD$wall.ins <- ifelse(dtaModD$Felextff=='Yes', TRUE, ifelse(dtaModD$Felextlf=='Yes', TRUE, ifelse(dtaModD$Felextrf=='Yes', TRUE, ifelse(dtaModD$Felextbf=='Yes', TRUE, FALSE))))
-dtaModD$wall.typ <-
-  ifelse(dtaModD$main.wall=='Stone: granite or whin (as built)',
-                           ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Stone/solid brick (external insulation)', 'Stone: granite or whin (as built)'),
-                           ifelse(dtaModD$main.wall=='Solid brick (as built)',
-                                  ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Stone/solid brick (internal insulation)','Solid brick (as built)'),
-                                  ifelse(dtaModD$main.wall=='Timber frame',
-                                         ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Filled cavity / Cavity with insulation (internal/external)','Timber frame'),
-                                         ifelse(dtaModD$main.wall=='Cob (as built)', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Cob (external insulation)','Cob (as built)'),
-                                                ifelse(dtaModD$main.wall=='System build (as built)',
-                                                       ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Filled cavity / Cavity with insulation (internal/external)', 'System build (as built)'),'Cavity (as built)')))))
+dtaModD$wall.typ <- ifelse(dtaModD$main.wall=='Stone: granite or whin (as built)', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Stone/solid brick (external insulation)', 'Stone: granite or whin (as built)'), ifelse(dtaModD$main.wall=='Solid brick (as built)', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Stone/solid brick (internal insulation)','Solid brick (as built)'), ifelse(dtaModD$main.wall=='Timber frame', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Filled cavity / Cavity with insulation (internal/external)','Timber frame'), ifelse(dtaModD$main.wall=='Cob (as built)', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Cob (external insulation)','Cob (as built)'), ifelse(dtaModD$main.wall=='System build (as built)', ifelse(dtaModD$wall.cav==T | dtaModD$wall.ins==T, 'Filled cavity / Cavity with insulation (internal/external)', 'System build (as built)'),'Cavity (as built)')))))
 dtaModD$ehs.no <- as.integer(dtaModD$fodconst)
 dtaModD$sap.no <- fnGetAgeBands(dtaModD$fodconac)
 dtaModD$wall.th <- unlist(pblapply(dtaModD$aacode, fnGetThick, dtaModD))

@@ -8,11 +8,13 @@
 
 This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables.
 
-The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, users should request the appropriate datasets on their own from [UK-Data-Service](https://www.ukdataservice.ac.uk).
+The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, users should request access to the relevant datasets from [UK-Data-Service](https://www.ukdataservice.ac.uk).
 
 <p align="center">
   <img src="public/UKDS Logos_Col_Grey_300dpi.png" width="30%">
 </p>
+
+Once granted, these can be copied (or redirected) as shown at the bottom of this page. (Only the *documentation files* are copied to `/myData` because these are converted into plain text.)
 
 Another reason is that the EHS information is employed along different projects, and so the datasets can be stored in a central repository.
 
