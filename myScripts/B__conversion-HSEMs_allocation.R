@@ -14,7 +14,7 @@
 #'   + In the original methodology, when **apartments** are adapted for the
 #'     CHM format, they lose their relative position in the building
 #'     (ie. top floor, ground floor). Here the values are maintained,
-#'     as in the EHS, and then their positions are later exported.
+#'     as in the EHS, and then their positions are later exported and adjusted.
 #'
 #'   + Heat pumps' CoPs are expressed as percentages (>100%)
 #'
@@ -22,7 +22,7 @@
 #'     published for CHM; see the following examples:
 #'      I0304210 / coded as Electric in the exported dataset, however,
 #'        although it has indeed an electric space heating system, the
-#'        survey specifies a separate instantaneous heater supplied with gas
+#'        survey specifies separate instantaneous heater supplied with gas
 #'      I0193407 / coded as Gas in the exported dataset, however the survey
 #'        indicates solar panels supplying the DHW.
 #'      I0064104 / coded as Oil in the exported dataset, however,
@@ -329,10 +329,13 @@ dtaWb <- subset(dtaWb, select=c(aacode, SrfcWind, DblGlz))
 
 dtaModF <- join(dtaModF, dtaWb, by='aacode')
 dtaModF <- join(dtaModF, dtaYb, by='aacode')
-dtaModF$SrfcWind <- dtaModF$SrfcWind * dtaModF$SrfcWll_Area_unAttach
-dtaModF$SrfcWll_Area_unAttach <- with(dtaModF, SrfcWll_Area_unAttach - SrfcWind - SrfcDoor)
-dtaModF$SrfcWind_sin <- with(dtaModF, SrfcWind * (1-DblGlz))
-dtaModF$SrfcWind_dbl <- with(dtaModF, SrfcWind * DblGlz)
+dtaModF$OpenArea <- dtaModF$SrfcWind * dtaModF$SrfcWll_Area_unAttach
+dtaModF$SrfcDoors <- with(dtaModF, ifelse(SrfcDoor > OpenArea & OpenArea > 0, OpenArea, ifelse(SrfcDoor<=0, 1.85, SrfcDoor)))
+dtaModF$SrfcDoors <- with(dtaModF, ifelse(SrfcDoors >= OpenArea, 1.85, SrfcDoors))
+dtaModF$WinArea <- with(dtaModF, ifelse(SrfcDoors >= OpenArea, SrfcDoors, OpenArea - SrfcDoors))
+dtaModF$SrfcWll_Area_unAttach <- with(dtaModF, SrfcWll_Area_unAttach - WinArea)
+dtaModF$SrfcWind_sin <- with(dtaModF, WinArea * (1-DblGlz))
+dtaModF$SrfcWind_dbl <- with(dtaModF, WinArea * DblGlz)
 dtaModF$HeatLossAT <- with(dtaModF, ifelse(ATa>0, ATa + SrfcWll_AreaAT, 0))
 dtaModF$Exp_PerBB <-  with(dtaModF, ifelse(SrfcWll_AreaBB>0, SrfcWll_AreaBB / BsHeight, 0))
 dtaModF$Exp_PerGG <-  with(dtaModF, SrfcWll_AreaGG / GfHeight)
@@ -559,6 +562,8 @@ dtaModA$sec.heat[grep("open fire",dtaModA$Finohtyp)] <- "Open fire"
 dtaModA$sec.heat <- factor(dtaModA$sec.heat)
 dtaModA$sec.heat <- as.integer(factor(dtaModA$sec.heat,levels(dtaModA$sec.heat)[c(4,3,2,1,5)]))
 tbl.Aux.MSH <- dtaModA
+dtaModA$heat.code <- as.integer(dtaModA$heat.code)
+dtaModA$heat.flue <- as.integer(dtaModA$heat.flue)
 dtaModA <-
   dtaModA[,c('aacode','heat.code','tariff.ele','tariff.cmn','fuel.cmn',
              'fraction.cmn', 'fuel.chp','heat.flue','heat.emitter',
@@ -902,4 +907,3 @@ dtaM <- join(dtaM, dtaMc, by='aacode')
 colnames(dtaM) <- tolower(colnames(dtaM))
 lst.M <- as_tibble(dtaM)
 rm(list=ls()[grep("dta\\w+",ls())])
-

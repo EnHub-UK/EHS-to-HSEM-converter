@@ -8,15 +8,15 @@
 
 This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables.
 
-The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, users should request access to the relevant datasets from [UK-Data-Service](https://www.ukdataservice.ac.uk).
+The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, upon accessing the sources for the first time, users must request access to the relevant datasets from [UK-Data-Service](https://www.ukdataservice.ac.uk).
 
 <p align="center">
   <img src="public/UKDS Logos_Col_Grey_300dpi.png" width="30%">
 </p>
 
-Once granted, these can be copied (or redirected) as shown at the bottom of this page. (Only the *documentation files* are copied to `/myData` because these are converted into plain text.)
+Once granted, the datasets need to be copied (or redirected) as shown at the bottom of this page. (Only the *documentation files* are copied to `/myData` because these files are converted into plain text, so these can be accessed using *regular expressions* within the scripts).
 
-Another reason is that the EHS information is employed along different projects, and so the datasets can be stored in a central repository.
+Another reason is that the EHS information is employed along different projects, and so the datasets can be stored and shared in a central repository.
 
 
 ### Data Sources
@@ -43,25 +43,29 @@ Another reason is that the EHS information is employed along different projects,
 |         |   Ministry of Housing, Communities and Local Government. (2018). English Housing Survey, 2016: Housing Stock Data. [data collection]. UK Data Service. SN: 8350, http://doi.org/10.5255/UKDA-SN-8350-1                                              |
 |   2017  |   Study Number **8494 - English Housing Survey, 2017: Housing Stock Data**                                                                                                                                                                          |
 |         |   Ministry of Housing, Communities and Local Government. (2019). English Housing Survey, 2017: Housing Stock Data. [data collection]. UK Data Service. SN: 8494, http://doi.org/10.5255/UKDA-SN-8494-1                                              |
-
+|   2018  |   Study Number **8670 - English Housing Survey, 2018: Housing Stock Data**                                                                                                                                                                          |
+|         |   Ministry of Housing, Communities and Local Government. (2020). English Housing Survey, 2018: Housing Stock Data. [data collection]. UK Data Service. SN: 8670, http://doi.org/10.5255/UKDA-SN-8670-1   
 
 ----
+
 ### *myScript* structure
 
 - `myScript/A__initialAnalysis.R` loads multiple EHS (raw) sources, converts them into *tibbles* and performs descriptive and survey analysis.
 
-- `myScript/B__conversion-HSEMs__export.R` converts the chosen raw dataset into a format employed by HSEMs [see methodology].
+- `myScript/B__conversion-HSEMs__export.R` & `myScript/B__conversion-HSEMs__allocation.R` convert the chosen raw dataset into a format employed by HSEMs, following the same methodology applied in the CHM
 
     > Hughes, M., Armitage, P., Palmer, J., & Stone, A. (2012). Converting English Housing Survey Data for Use in Energy Models.
 
-- `myScript/C__households` extracts detailed information regarding household members to be then used in the generation of profiles.
+- `myScript/C__households` extracts detailed information regarding household members for generating profiles.
 
 - `myScript/D__predictive.R` combines all the data sources into a single tables, with only common variables, to be used in predictive analysis (eg. random forests, j48, glm, ...)
+
+- `myScript/__setup` & `myScript/Aux` define libraries, functions and project variables.
 
 
 ### *myData* Structure
 
-The EHS datasets are requested in `.stata` format, and need to be copied to `../myData/` (see below).
+The EHS datasets need to be requested in `.stata` format, and copied to `../myData/` (as indicated below).
 
 ```sh
 .
@@ -194,14 +198,23 @@ The EHS datasets are requested in `.stata` format, and need to be copied to `../
 │   │   ├── excel
 │   │   └── pdf
 │   └── stata11
-└── UKDA-8494-stata
+├── UKDA-8494-stata
+│   ├── mrdoc
+│   │   ├── UKDA
+│   │   ├── excel
+│   │   └── pdf
+│   └── stata
+│       └── stata11
+└── UKDA-8670-stata
     ├── mrdoc
     │   ├── UKDA
     │   ├── excel
     │   └── pdf
     └── stata
-        └── stata11
-
+        └── stata12
+          ├── general_17and18_eul.dta
+          ├── interview_17and18_eul.dta
+          └── physical_17and18_eul.dta
 ```
 ---
 

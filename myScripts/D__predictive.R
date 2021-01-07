@@ -20,6 +20,8 @@ rm(list = ls(a = TRUE))
 .proj.Mode <- 'D_predictive'
 source('myScripts/__setup_Project.R', verbose = FALSE)
 
+file.merged <- paste0(path.EHS,"/public/outForProfiles/all_merged.rds")
+file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common.rds")
 
 
 # Auxiliary Functions (internal) ----
@@ -128,12 +130,11 @@ fnRestoreClasses <- function(varEval, lstRef, lstEnd){
 
 
 
-# Project Parameters -----------------------------------------------------------
+# Combination Project ---------------------------------------------------------
 
 path.EHS <- path.expand(getwd())
-var.EHSdata <- data.frame(name = list.files(path = paste0(path.EHS,"/myData"),
-                                            pattern = "^UKDA"))
-file.merged <- paste0(path.EHS,"/public/outForProfiles/all_merged.rds")
+var.EHSdata <- data.frame(name = list.files(
+  path = paste0(path.EHS,"/myData"), pattern = "^UKDA"))
 
 lst.EHS.all <- pblapply(var.EHSdata$name, fnLoadOneYear)
 names(lst.EHS.all) <- gsub("-","_",var.EHSdata$name)
@@ -143,7 +144,9 @@ saveRDS(lst.EHS.all, file=file.merged)
 
 
 
-# Combination ------------------------------------------------------------------
+
+
+# Common Project --------------------------------------------------------------
 
 lst.vars <- pblapply(lst.EHS.all, function(x) colnames(x))
 lst.EHS.common <- pblapply(lst.EHS.all, function(x)
@@ -154,14 +157,9 @@ lst.EHS.common <- pblapply(colnames(lst.EHS.common), fnRestoreClasses,
 lst.EHS.common <- as_tibble(do.call("cbind", lst.EHS.common))
 lst.EHS.common$aacode <- NULL
 
-
-
-# Export Data ------------------------------------------------------------------
-
-file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common.rds")
-
 saveRDS(lst.EHS.common,  file=file.common)
 # lst.EHS.common <- readRDS(file=file.common)
+
 
 
 

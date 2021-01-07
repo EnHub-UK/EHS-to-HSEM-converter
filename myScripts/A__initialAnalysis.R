@@ -43,7 +43,7 @@ findDocStrings("Kitchen")
 findDocStrings("Orientation")
 findDocStrings("income")
 findDocStrings("Conservatories")
-findDocStrings("Finbedcl")
+findDocStrings("Felfenfw")
 
 head(shape)
 describe(shape)
