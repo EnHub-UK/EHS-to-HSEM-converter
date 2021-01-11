@@ -330,9 +330,9 @@ dtaWb <- subset(dtaWb, select=c(aacode, SrfcWind, DblGlz))
 dtaModF <- join(dtaModF, dtaWb, by='aacode')
 dtaModF <- join(dtaModF, dtaYb, by='aacode')
 dtaModF$OpenArea <- dtaModF$SrfcWind * dtaModF$SrfcWll_Area_unAttach
-dtaModF$SrfcDoors <- with(dtaModF, ifelse(SrfcDoor > OpenArea & OpenArea > 0, OpenArea, ifelse(SrfcDoor<=0, 1.85, SrfcDoor)))
-dtaModF$SrfcDoors <- with(dtaModF, ifelse(SrfcDoors >= OpenArea, 1.85, SrfcDoors))
-dtaModF$WinArea <- with(dtaModF, ifelse(SrfcDoors >= OpenArea, SrfcDoors, OpenArea - SrfcDoors))
+dtaModF$OpenArea_eff <- dtaModF$OpenArea + dtaModF$SrfcDoor
+dtaModF$WinArea <- with(dtaModF, ifelse(SrfcDoor == OpenArea_eff, 0.65, OpenArea))
+dtaModF$SrfcDoor_eff <- with(dtaModF, ifelse((OpenArea_eff - WinArea)<1.85, 1.85, OpenArea_eff - WinArea))
 dtaModF$SrfcWll_Area_unAttach <- with(dtaModF, SrfcWll_Area_unAttach - WinArea)
 dtaModF$SrfcWind_sin <- with(dtaModF, WinArea * (1-DblGlz))
 dtaModF$SrfcWind_dbl <- with(dtaModF, WinArea * DblGlz)
@@ -347,7 +347,7 @@ dtaZb$semi.flts <- with(dtaZb, Fdffroia/10 + Fdfbckia/10 + Fdflftia/10 + Fdfrigi
 
 dtaModF <- join(dtaModF, dtaZb, by='aacode')
 dtaModF <-
-  dtaModF[,c('aacode','SrfcWll_Area_Attach', 'SrfcDoor', 'SrfcWind_sin',
+  dtaModF[,c('aacode','SrfcWll_Area_Attach', 'SrfcDoor_eff', 'SrfcWind_sin',
              'SrfcWind_dbl', 'SrfcWll_Area_unAttach', 'SrfcWll_AreaBB',
              'HeatLossAT', 'Exp_PerBB', 'Exp_PerGG', 'semi.flts')]
 colnames(dtaModF) <-
@@ -840,7 +840,7 @@ dtaModE <- subset(tbl.Aux.Tenths, select=c(aacode,storeyx,Fdffloor,Finlopos))
 dtaModE <- join(dtaModE, tbl.Aux.TFA, by='aacode')
 dtaModE <- join(dtaModE, dtaHh, by='aacode')
 dtaModE$doortyp <- as.factor(ifelse(dtaModE$typ.door.fro==dtaModE$typ.door.bck, dtaModE$typ.door.fro, 'mixed'))
-dtaModE$glaz.ratio <- dtaModE$SrfcWind / dtaModE$SrfcWll_Area
+dtaModE$glaz.ratio <- dtaModE$WinArea / dtaModE$SrfcWll_Area
 dtaModE$fcuosdw <- as.factor(ifelse(is.na(dtaModE$fcuosdw), "-", as.character(dtaModE$fcuosdw)))
 dtaModE$fcuosmr <- as.factor(ifelse(is.na(dtaModE$fcuosmr), "-", as.character(dtaModE$fcuosmr)))
 levels(dtaModE$fcuosdw) <- c('-','-','>80%','20%-60%','<20%','60%-80%')
