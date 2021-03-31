@@ -1,10 +1,10 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                             {Table Converter}
 #'
-#' @file `B__conversion-HSEMs_allocation.R` converts EHS tables
-#'       following the method described in:
+#' This converts EHS tables following the method described in:
 #'         > Hughes, M., Armitage, P., Palmer, J., & Stone, A. (2012).
 #'           Converting English Housing Survey Data for Use in Energy Models.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
@@ -14,7 +14,8 @@
 #'   + In the original methodology, when **apartments** are adapted for the
 #'     CHM format, they lose their relative position in the building
 #'     (ie. top floor, ground floor). Here the values are maintained,
-#'     as in the EHS, and then their positions are later exported and adjusted.
+#'     as in the EHS, and then their positions are later exported and adjusted
+#'     during the EnergyPlus file generation in EnHub.
 #'
 #'   + Heat pumps' CoPs are expressed as percentages (>100%)
 #'

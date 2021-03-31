@@ -1,7 +1,9 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                {Auxiliary / Charts Functions}
 #'
-#' @file `_aux_PlotFunctions.R` contains auxiliary functions to plot EHS data
+#' This contains auxiliary functions to plot EHS data.
+#' (For the initial analysis stage.)
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
@@ -233,15 +235,6 @@ drawFourFold <- function(dtaToPlot, varA, varB){
   dtaToPlot <- svytable(as.formula(varFml), dtaToPlot)
   dtaToPlot <- dtaToPlot[,c(3:4)]
   fourfoldplot(dtaToPlot)
-}
-
-drawGLMsurvey <- function(dtaToPlot, vars, var.main){
-
-  varFml <- paste(var.main, "~",paste(vars, collapse = "+"))
-  g.model <- svyglm(as.formula(varFml), design=dtaToPlot)
-
-  par(mfrow = c(2,2))
-  plot(g.model)
 }
 
 drawPyramid <- function(dtaToPlot, weight, varA, varB){

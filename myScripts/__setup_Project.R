@@ -1,8 +1,9 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                                       {Setup}
 #'
-#' @file `__setup_Project.R` loads required libraries, system variables,
-#'       and loads basic datasets, functions and global variables.
+#' This loads required libraries, system variables,
+#' and loads basic datasets, functions and global variables.
+#' 
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser

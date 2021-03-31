@@ -1,8 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                        {Conversion Requester}
 #'
-#' @file `B__conversion-HSEMs__export.R` requests the conversion of EHS
-#'       tables into the suitable HSEM format.
+#' This second stage converts EHS tables into the suitable HSEM format.
+#' 
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
@@ -11,6 +11,7 @@
 #' @run   `Rscript myScripts/B__conversion-HSEMs__export.R 'extended'`
 #'
 #' @notes  + The conversion works with the 2011 version only.
+#'         + see `<root>/README` file
 #'
 
 

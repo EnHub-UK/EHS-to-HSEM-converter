@@ -6,7 +6,9 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables.
+This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables, following the same methodology applied in the CHM:
+
+  > Hughes, M., Armitage, P., Palmer, J., & Stone, A. (2012). Converting English Housing Survey Data for Use in Energy Models.
 
 The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, upon accessing the sources for the first time, users must request access to the relevant datasets from [UK-Data-Service](https://www.ukdataservice.ac.uk).
 
@@ -14,10 +16,11 @@ The main reason for having a dedicated *EHS project* is <u>to comply with licens
   <img src="public/UKDS Logos_Col_Grey_300dpi.png" width="30%">
 </p>
 
-Once granted, the datasets need to be copied (or redirected) as shown at the bottom of this page. (Only the *documentation files* are copied to `/myData` because these files are converted into plain text, so these can be accessed using *regular expressions* within the scripts).
+Once granted, the datasets need to be stored (or redirected) as shown at the bottom of this page. (Only the *documentation files* are hard copied to `/myData` because these files are converted into plain text, so these can be accessed using *regular expressions* within the scripts).
 
-Another reason is that the EHS information is employed along different projects, and so the datasets can be stored and shared in a central repository.
+Another reason for having a dedicated *repo* is that the *EHS* information is employed along different projects, and so the datasets can be stored and shared in a central repository.
 
+<span style="background-color: #ffb82e"> Please note that...</span> **a)** the implementation (ie. stage B) has not been optimised for `R` , and so its performance may be relatively poor in some cases; and **b)** this repo is not supported anymore, as it will be replaced by a more comprehensive converter destined to process survey data from the four UK countries.
 
 ### Data Sources
 
@@ -52,13 +55,13 @@ Another reason is that the EHS information is employed along different projects,
 
 - `myScript/A__initialAnalysis.R` loads multiple EHS (raw) sources, converts them into *tibbles* and performs descriptive and survey analysis.
 
-- `myScript/B__conversion-HSEMs__export.R` & `myScript/B__conversion-HSEMs__allocation.R` convert the chosen raw dataset into a format employed by HSEMs, following the same methodology applied in the CHM
+- `myScript/B__conversion-HSEMs__export.R` & `myScript/B__conversion-HSEMs__allocation.R` convert the chosen raw dataset into a format employed by HSEMs.
 
-    > Hughes, M., Armitage, P., Palmer, J., & Stone, A. (2012). Converting English Housing Survey Data for Use in Energy Models.
+  A latest addition has extracted more contextual variables as those proposed in the employed methodology (eg. *'V568_RoofObstruction', 'V569_AccessSteps', 'V570_Exposition', 'V571_Rows', 'V572_Street', 'V573_Urbanity', 'V538_FrontEavesHeight','V539_RearEavesHeight', 'V515_IMD_Decile', 'V516_HouseholdComposition'*, etc. — see *Section H: Additional* in the script).
 
-- `myScript/C__households` extracts detailed information regarding household members for generating profiles.
+- `myScript/C__households` extracts detailed information regarding household members. This is also used for generating profiles.
 
-- `myScript/D__predictive.R` combines all the data sources into a single tables, with only common variables, to be used in predictive analysis (eg. random forests, j48, glm, ...)
+- `myScript/D__predictive.R` combines all the data sources into a single tables, considering only those with common variables. This is meant be used in predictive analysis (eg. random forests, j48, glm, ...)
 
 - `myScript/__setup` & `myScript/Aux` define libraries, functions and project variables.
 
@@ -68,7 +71,7 @@ Another reason is that the EHS information is employed along different projects,
 The EHS datasets need to be requested in `.stata` format, and copied to `../myData/` (as indicated below).
 
 ```sh
-.
+ myData
 ├── AuxiliaryData
 │   ├── CHM-data
 │   └── allissue

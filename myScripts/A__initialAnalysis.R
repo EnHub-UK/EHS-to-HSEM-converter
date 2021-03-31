@@ -1,7 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                         {Descriptive Analysis}
 #'
-#' @file `A__initialAnalysis.R` performs an initial descriptive analysis.
+#' This first stage performs an initial descriptive analysis.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
@@ -307,9 +308,6 @@ rownames(tbl.typologies.indices) <- NULL
 
 fnExportTable(tbl.typologies.indices,
               "/svytfa")
-fnExportFigure(drawGLMsurvey(tbl.survey,var.typologies,'EPcuse09e'),
-               "/svyglm", 12, 12)
-capture.output(summary(lm.typologies), file=paste0(path.EHS.report,"/_svyglm.txt"))
 fnExportFigure(drawScatter(tbl.typologies.indices, 'FloorArea','EPcuse09e','dwtype8x','dwage9x', F),
                "/svyscatter", 12, 12)
 
@@ -372,8 +370,6 @@ fnExportFigure(drawMosaic(dta.EHS.survey, 'gorehs', 'dwtype8x', var.style="dens"
                "/Mosaic_dens", 12, 12)
 fnExportFigure(drawFourFold(dta.EHS.survey, 'tenure2x', 'agehrp2x'),
                "/FourFold", 6, 6)
-fnExportFigure(drawGLMsurvey(dta.EHS.survey, c("tenure4x","dwtype8x", "heat4x"), "allincx"),
-               "/GLMsurvey", 16, 12)
 
 capture.output(log., file=paste0(path.EHS.report,"/_general.txt"))
 

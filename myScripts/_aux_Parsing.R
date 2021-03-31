@@ -1,7 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                    {Auxiliary / Data Parsers}
 #'
-#' @file `_aux_Parsing.R` contains auxiliary functions for parsing tables
+#' This file contains auxiliary functions process tables and extract info.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser

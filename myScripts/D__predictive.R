@@ -1,8 +1,9 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                              {Merger for predictive analysis}
 #'
-#' @file `D__predictive.R` combines multiple EHS version for developing
-#'       a predictor of archetype circumstances
+#' This testing file combines multiple EHS version for later developing
+#' a predictor of archetype circumstances.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
@@ -26,7 +27,9 @@ file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common.rds")
 
 # Auxiliary Functions (internal) ----
 
-fnLoadOneYear <- function(varStudy){
+fnLoadOneYear <- function(varStudy, varTable=''){
+  # varTable <- 'people'
+  # varStudy=var.EHSdata$name[7]
 
   print(getStudyName(varStudy))
 
@@ -47,21 +50,37 @@ fnLoadOneYear <- function(varStudy){
 
   # (1) Process main datasets --------------------------------------------------
 
-  if(any(grepl(var.reg <- "general(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
-    lst.EHS.sets[['general']] <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
-    lst.EHS.sets[['general']]  <- fnGetControlVariables(lst.EHS.sets[['general']])
-  }
-  if(any(grepl(var.reg <- "physical(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
-    lst.EHS.sets[['physical']]  <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
-    lst.EHS.sets[['physical']] <- fnGetControlVariables(lst.EHS.sets[['physical']])
-  }
-  if(any(grepl(var.reg <- "interview(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
-    lst.EHS.sets[['interview']] <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
-    lst.EHS.sets[['interview']] <- fnGetControlVariables(lst.EHS.sets[['interview']])
+  if(varTable=='' | varTable=='default'){
+
+    if(any(grepl(var.reg <- "general(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
+      lst.EHS.sets[['general']] <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
+      lst.EHS.sets[['general']]  <- fnGetControlVariables(lst.EHS.sets[['general']])
+    }
+    if(any(grepl(var.reg <- "physical(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
+      lst.EHS.sets[['physical']]  <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
+      lst.EHS.sets[['physical']] <- fnGetControlVariables(lst.EHS.sets[['physical']])
+    }
+    if(any(grepl(var.reg <- "interview(_|*plus|fs*)", ls(pos = ".GlobalEnv")))){
+      lst.EHS.sets[['interview']] <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
+      lst.EHS.sets[['interview']] <- fnGetControlVariables(lst.EHS.sets[['interview']])
+    }
+
+    dta.EHS.wide <- as_tibble(join_all(lst.EHS.sets, by=c("aacode")))
+
+  }else{
+
+    if(any(grepl(var.reg <- varTable, ls(pos = ".GlobalEnv")))){
+      dta.EHS.wide <- get(ls(pattern = var.reg, pos = ".GlobalEnv"))
+      dta.EHS.wide <- fnGetControlVariables(dta.EHS.wide)
+    }else{
+      dta.EHS.wide <- ""
+      warning("No data available!")
+    }
+
   }
 
+
   # (2) Combine main datasets --------------------------------------------------
-  dta.EHS.wide <- as_tibble(join_all(lst.EHS.sets, by=c("aacode")))
 
   if(('weightdwell' %in% colnames(dta.EHS.wide)) &
      (!'weighthshld' %in% colnames(dta.EHS.wide))){
@@ -130,9 +149,10 @@ fnRestoreClasses <- function(varEval, lstRef, lstEnd){
 
 
 
-# Combination Project ---------------------------------------------------------
+# [A] Combine MAIN tables -----------------------------------------------------
 
-path.EHS <- path.expand(getwd())
+#.. Combination Project -------------------------------------------------------
+
 var.EHSdata <- data.frame(name = list.files(
   path = paste0(path.EHS,"/myData"), pattern = "^UKDA"))
 
@@ -144,16 +164,21 @@ saveRDS(lst.EHS.all, file=file.merged)
 
 
 
-
-
-# Common Project --------------------------------------------------------------
+#.. Common Project ------------------------------------------------------------
 
 lst.vars <- pblapply(lst.EHS.all, function(x) colnames(x))
 lst.EHS.common <- pblapply(lst.EHS.all, function(x)
   data.matrix(subset(x, select=Reduce(intersect, lst.vars))))
+
+lst.EHS.common$UKDA_6612_stata8[,'aacode'] <- lst.EHS.all$UKDA_6612_stata8$aacode
+lst.EHS.common$UKDA_6804_stata11[,'aacode'] <- lst.EHS.all$UKDA_6804_stata11$aacode
+lst.EHS.common$UKDA_7039_stata9[,'aacode'] <- lst.EHS.all$UKDA_7039_stata9$aacode
+lst.EHS.common$UKDA_7386_stata9[,'aacode'] <- lst.EHS.all$UKDA_7386_stata9$aacode
+lst.EHS.common$UKDA_7511_stata11[,'aacode'] <- lst.EHS.all$UKDA_7511_stata11$aacode
+
 lst.EHS.common <- do.call("rbind", lst.EHS.common)
 lst.EHS.common <- pblapply(colnames(lst.EHS.common), fnRestoreClasses,
-                           lst.EHS.all$UKDA_8494_stata, lst.EHS.common)
+                           lst.EHS.all$UKDA_7511_stata11, lst.EHS.common)
 lst.EHS.common <- as_tibble(do.call("cbind", lst.EHS.common))
 lst.EHS.common$aacode <- NULL
 
@@ -163,16 +188,46 @@ saveRDS(lst.EHS.common,  file=file.common)
 
 
 
-# ~~~~ Python excerpt / Mathilde's project ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-#
-# general = pd.read_csv('general.csv',sep=';')
-# interview = pd.read_csv('interview.csv',sep=';')
-# physical = pd.read_csv('physical.csv',sep=';')
-#
-# ehstot = ehstot[['aacode','area3x','dwtypenx','NBedsX','gorEHCS','sexhrp',
-#                  'emphrpx','agehrpx','tenure4x','hhincx', 'hhtype6',
-#                  'agepartx','hhsizex','ndepchild','pyngbx','empprtx']]
-#
-# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+# [B] Combine selected tables -------------------------------------------------
+
+var.selection <- 'people'
+file.merged <- paste0(path.EHS,"/public/outForProfiles/all_merged_",var.selection,".rds")
+file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common_",var.selection,".rds")
+
+# Combination Project ---------------------------------------------------------
+
+var.EHSdata <- data.frame(name = list.files(
+  path = paste0(path.EHS,"/myData"), pattern = "^UKDA"))
+
+lst.EHS.all <- pblapply(var.EHSdata$name[1:5], fnLoadOneYear, var.selection)
+names(lst.EHS.all) <- gsub("-","_",var.EHSdata$name[1:5])
+
+lst.EHS.all <- lst.EHS.all[lengths(lst.EHS.all) > 1]
+
+saveRDS(lst.EHS.all, file=file.merged)
+# lst.EHS.all <- readRDS(file=file.merged)
+
+
+# Common Project --------------------------------------------------------------
+
+lst.vars <- pblapply(lst.EHS.all, function(x) colnames(x))
+lst.EHS.common <- pblapply(lst.EHS.all, function(x)
+  data.matrix(subset(x, select=Reduce(intersect, lst.vars))))
+
+lst.EHS.common$UKDA_6612_stata8[,'aacode'] <- lst.EHS.all$UKDA_6612_stata8$aacode
+lst.EHS.common$UKDA_6804_stata11[,'aacode'] <- lst.EHS.all$UKDA_6804_stata11$aacode
+lst.EHS.common$UKDA_7039_stata9[,'aacode'] <- lst.EHS.all$UKDA_7039_stata9$aacode
+lst.EHS.common$UKDA_7386_stata9[,'aacode'] <- lst.EHS.all$UKDA_7386_stata9$aacode
+lst.EHS.common$UKDA_7511_stata11[,'aacode'] <- lst.EHS.all$UKDA_7511_stata11$aacode
+
+lst.EHS.common <- do.call("rbind", lst.EHS.common)
+
+lst.EHS.common <- pblapply(colnames(lst.EHS.common), fnRestoreClasses,
+                           lst.EHS.all$UKDA_7511_stata11, lst.EHS.common)
+lst.EHS.common <- as_tibble(do.call("cbind", lst.EHS.common))
+
+saveRDS(lst.EHS.common,  file=file.common)
+# lst.EHS.common <- readRDS(file=file.common)
+
 
 # End --------------------------------------------------------------------------

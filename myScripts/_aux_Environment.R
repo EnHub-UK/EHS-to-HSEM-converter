@@ -1,8 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                   {Auxiliary / R Environment}
 #'
-#' @file `_aux_Environment.R` contains auxiliary functions for the
-#'       project environment
+#' This contains auxiliary functions for the project environment.
+#' 
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser

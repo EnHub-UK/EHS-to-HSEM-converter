@@ -1,8 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                                 {Auxiliary / Data Conversion}
 #'
-#' @file `_aux_Conversion.R` contains auxiliary functions to process
-#'       survey data
+#' This file contains auxiliary functions to process survey data.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser

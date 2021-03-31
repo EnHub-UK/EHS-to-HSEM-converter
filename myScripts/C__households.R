@@ -1,7 +1,8 @@
 #' -----------------------------------------------------------------------------
 #' EHS Converter                               {Deeper Analysis of households}
 #'
-#' @file `C__households.R` explores individual/household values
+#' This stage explores individual/household values and generates a new list.
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
