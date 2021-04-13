@@ -69,6 +69,9 @@ if(setExp=='basic'){
 
   lst.HSEMs[['complementary']] <- lst.H
   dtaHSEMS <- join(dtaHSEMS, lst.H, by='V001_HousingCode')
+  
+  lst.HSEMs[['summarised']] <- lst.I
+  dtaHSEMS <- join(dtaHSEMS, lst.I, by='V001_HousingCode')
 
   saveRDS(lst.HSEMs, paste0(path.EHS.datamd, file="/lstHSEMsExt.rds"))
   write.csv(dtaHSEMS, paste0(path.EHS.datamd, "/tblHSEMsext.csv"))

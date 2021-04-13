@@ -76,3 +76,87 @@ fnReadAux <- function(tbl.name, pathAux="myData/AuxiliaryData/", row.lbl=F){
   }
   return(tblAux)
 }
+
+fnGetFactorHubTypo <- function(varToFactor, dtaCom){
+
+  if(varToFactor=='V583_CuboidType'){
+    varFact <- as.character(dtaCom$V583_CuboidType)
+    dtaCom$Hub <-
+      as.factor(sapply(varFact, switch,
+                       'bungalow' = 'bungalow',
+                       'converted flat' = 'apartments',
+                       'detached' = 'detached',
+                       'end terrace' = 'terraced',
+                       'mid terrace' = 'terraced',
+                       'purpose built flat, high rise' = 'apartments',
+                       'purpose built flat, low rise' = 'apartments',
+                       'semi detached' = 'semi-detached'))
+  }else if(varToFactor=='V584_CuboidEpoch'){
+    varFact <- as.character(dtaCom$V584_CuboidEpoch)
+    dtaCom$Hub <- as.factor(sapply(varFact, switch,
+                                       'Pre 1850' = 'a_pre-1919',
+                                       '1850-1899' = 'a_pre-1919',
+                                       '1900-1918' = 'a_pre-1919',
+                                       '1919-1944' = 'b_interwar',
+                                       '1945-1964' = 'c_postwar',
+                                       '1965-1974' = 'd_industrial',
+                                       '1975-1980' = 'd_industrial',
+                                       '1981-1990' = 'e_modern',
+                                       '1991-1995' = 'e_modern',
+                                       '1996-2002' = 'e_modern',
+                                       'Post 2002' = 'f_post-2002'))
+    levels(dtaCom$Hub) <- gsub("\\w_","",levels(dtaCom$Hub))
+  }else if(varToFactor=='D082_MainHeatingSystemType'){
+    varFact <- as.integer(dtaCom$D082_MainHeatingSystemType)
+    dtaCom$Hub <- as.factor(sapply(varFact, switch,
+                                       '1' = "Gas",
+                                       '2' = "Gas",
+                                       '3' = "Gas",
+                                       '4' = "Oil",
+                                       '5' = "Solid",
+                                       '6' = "Electric",
+                                       '7' = "Electric",
+                                       '8' = "Electric",
+                                       '9' = "Air",
+                                       '10' = "Air",
+                                       '11' = "District",
+                                       '12' = "District",
+                                       '13' = "HeatPump and Bio",
+                                       '14' = "HeatPump and Bio",
+                                       '15' = "HeatPump and Bio"))
+  }else if(varToFactor=='D097_DHWSystemType'){
+    varFact <- as.integer(dtaCom$D097_DHWSystemType)
+    dtaCom$Hub <- as.factor(sapply(varFact, switch,
+                                       '1' = "boiler gas",
+                                       '2' = "boiler gas",
+                                       '3' = "boiler gas",
+                                       '4' = "boiler gas",
+                                       '5' = "boiler oil",
+                                       '6' = "boiler solid",
+                                       '7' = "boiler biomass",
+                                       '8' = "boiler electric",
+                                       '9' = "boiler electric",
+                                       '10' = "boiler DH",
+                                       '11' = "boiler DH"))
+  }else{
+    print("These aren't the droids you're looking for...")
+  }
+
+  dtaReFactored <- dtaCom$Hub
+  return(dtaReFactored)
+}
+
+fnGetHeatingCode <- function(idCode, dtaSH, dtaDH){
+  # Heating Configuration Code ---> MSHxDWHx
+
+  dtaMSH <- subset(dtaSH, V001_HousingCode==idCode,
+                   select = c(D082_MainHeatingSystemType))
+  dtaDHW <- subset(dtaDH, V001_HousingCode==idCode,
+                   select = c(D097_DHWSystemType))
+
+  varMSH <- as.integer(dtaMSH$D082_MainHeatingSystemType)
+  varDHW <- as.integer(dtaDHW$D097_DHWSystemType)
+  varCode <- paste0("MSH", varMSH, "DHW", varDHW)
+
+  return(varCode)
+}

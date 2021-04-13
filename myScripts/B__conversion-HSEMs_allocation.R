@@ -897,10 +897,47 @@ rm(list=ls()[grep("dta\\w+",ls())])
 
 
 
+
+# .I [summary]-----------------------------------------------------------------
+dtaX <- lst.H
+dtaY <- lst.E
+dtaW <- lst.F
+
+dtaModA <- dtaX %>%
+  select(V001_HousingCode, V574_CuboidFloors, V575_CuboidLevel,
+         V576_CuboidAttic, V577_CuboidBasement, V578_CuboidAttachmentFront,
+         V579_CuboidAttachmentRear, V580_CuboidAttachmentLeft,
+         V581_CuboidAttachmentRight, V583_CuboidType, V584_CuboidEpoch)
+dtaModA$.attachL <-
+  ifelse(dtaModA$V580_CuboidAttachmentLeft==TRUE |
+           dtaModA$V579_CuboidAttachmentRear==TRUE, TRUE, FALSE)
+dtaModA$.attachR <-
+  ifelse(dtaModA$V581_CuboidAttachmentRight==TRUE |
+           dtaModA$V578_CuboidAttachmentFront==TRUE, TRUE, FALSE)
+dtaModA$.AttachState <-
+  ifelse(dtaModA$.attachL==T & dtaModA$.attachR==T, "B",
+  ifelse(dtaModA$.attachL==T & dtaModA$.attachR==F, "L",
+  ifelse(dtaModA$.attachL==F & dtaModA$.attachR==T, "R", "N")))
+dtaModA$code.floors <- paste0(dtaModA$V574_CuboidFloors,'F')
+dtaModA$code.attach <- paste0(dtaModA$.AttachState,'A')
+dtaModA$code.attic <- ifelse(dtaModA$V576_CuboidAttic==T,'WA','NA')
+dtaModA$code.cellar <- ifelse(dtaModA$V577_CuboidBasement==T,'WB','NB')
+dtaModA$.cubdid <- paste("MOD-", dtaModA$code.floors, dtaModA$code.attic,
+                         dtaModA$code.cellar, dtaModA$code.attach,sep="")
+dtaModA$.heatid <- fnGetHeatingCode(dtaModA$V001_HousingCode, dtaY, dtaW)
+dtaModA$.hubtyp <- fnGetFactorHubTypo('V583_CuboidType', lst.H)
+dtaModA$.hubage <- fnGetFactorHubTypo('V584_CuboidEpoch', lst.H)
+dtaModA <- dtaModA %>% select(V001_HousingCode,.hubtyp,.hubage,.cubdid,.heatid)
+
+lst.I <- as_tibble(dtaModA)
+rm(list=ls()[grep("dta\\w+",ls())])
+
+
+
 # M. [subset]-------------------------------------------------------------------
-dtaMa <- subset(general_plus, select=c(aacode, tenure4x, GorEHS))
-dtaMb <- subset(physical_plus, select=c(aacode, dwtypenx, dwage6x, floor5x, attic, fuelx, dblglaz2, loftins4, heat4x, heat7x, watersys, boiler))
-dtaMc <- subset(interview_plus, select=c(aacode, agehrp4x, sexhrp, hhinc5x, hhcompx, emphrpx))
+dtaMa <- subset(general_plus, select=c(aacode, tenure2x, tenure4x, GorEHS, region3x, vacantx))
+dtaMb <- subset(physical_plus, select=c(aacode, dwtypenx, dwage5x, dwage6x, floor5x, attic, fuelx, dblglaz2, loftins4, heat4x, heat7x, watersys, boiler))
+dtaMc <- subset(interview_plus, select=c(aacode, agehrp4x, agehrp6x, sexhrp, AHCinceq, hhinc5x, hhsizex, hhcompx, emphrpx, NDEPCHILD, ageoldbx, NBedsX))
 levels(dtaMc$agehrp4x) <- gsub("^ *", "", levels(dtaMc$agehrp4x))
 
 dtaM <- join(dtaMa, dtaMb, by='aacode')
@@ -908,3 +945,4 @@ dtaM <- join(dtaM, dtaMc, by='aacode')
 colnames(dtaM) <- tolower(colnames(dtaM))
 lst.M <- as_tibble(dtaM)
 rm(list=ls()[grep("dta\\w+",ls())])
+
