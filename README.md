@@ -8,6 +8,7 @@
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
+[![DOI](https://zenodo.org/badge/308007860.svg)](https://zenodo.org/badge/latestdoi/308007860)
 
 This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables, following the same methodology applied in the CHM:
 
