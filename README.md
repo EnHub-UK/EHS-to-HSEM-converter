@@ -6,6 +6,9 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+
 This `R` project converts original **English Housing Survey** (EHS) data sources into **Housing Stock Energy Model** (HSEM) tables, following the same methodology applied in the CHM:
 
   > Hughes, M., Armitage, P., Palmer, J., & Stone, A. (2012). Converting English Housing Survey Data for Use in Energy Models.
