@@ -136,7 +136,7 @@ drawBars <- function(dtaToPlot, weight, varA, varB,
 
 drawNotchs <- function(dtaToPlot, weight, varA, varB,
                        varC="", varD="", varE="", axLog=FALSE){
-
+  
   if(varE==""&varD==""&varC==""){
     dtaToPlot <- subset(dtaToPlot, select=c(weight,varA,varB))
     colnames(dtaToPlot) <- c('weight','varA', 'varB')
@@ -159,6 +159,9 @@ drawNotchs <- function(dtaToPlot, weight, varA, varB,
     loc <- "B"
   }
 
+  dtaToPlot$varC <- dtaToPlot$varC %>% as.factor()
+  dtaToPlot <- dtaToPlot %>% tibble()
+  
   cbbPalette <- wes_palette(cbbPalette, name="FantasticFox1", type="continuous")
 
   if(varE==""&varD==""&varC==""){
@@ -167,12 +170,10 @@ drawNotchs <- function(dtaToPlot, weight, varA, varB,
     p <- ggplot(dtaToPlot, aes(x=varA, y=weight, fill=as.factor(varB))) +
          facet_grid( ~ varC)
   }else if(varE==""){
-    p <- ggplot(dtaToPlot, aes(x=varA, y=varB,
-                               weight=weight, fill=as.factor(varC))) +
+    p <- ggplot(dtaToPlot, aes(x=varA, y=varB * weight,fill=as.factor(varC))) +
          facet_grid( ~ varD)
   }else{
-    p <- ggplot(dtaToPlot, aes(x=varA, y=varB,
-                               weight=weight, fill=as.factor(varC))) +
+    p <- ggplot(dtaToPlot, aes(x=varA, y=varB * weight, fill=as.factor(varC))) +
          facet_grid(varD ~ varE)
   }
 

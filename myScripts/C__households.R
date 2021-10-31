@@ -121,3 +121,6 @@ fnExportTable(table(dtaA$PERSNO, dtaA$Sex),
 
 saveRDS(lstHouseholds, paste0(path.EHS.datamd, file="/lstHhds.rds"))
 # lstHouseholds <- readRDS(paste0(path.EHS.datamd, file="/lstHhds.rds"))
+
+cat("\014")
+message(cat(paste("Exported data in:\n",path.EHS.datamd)))

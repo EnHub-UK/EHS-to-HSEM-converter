@@ -21,8 +21,10 @@ rm(list = ls(a = TRUE))
 .proj.Mode <- 'D_predictive'
 source('myScripts/__setup_Project.R', verbose = FALSE)
 
-file.merged <- paste0(path.EHS,"/public/outForProfiles/all_merged.rds")
-file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common.rds")
+path.profile <- "/public/outForProfiles"
+file.merged <- paste0(path.EHS, path.profile, "/all_merged.rds")
+file.common <- paste0(path.EHS, path.profile, "/all_merged_common.rds")
+
 
 
 # Auxiliary Functions (internal) ----
@@ -187,12 +189,11 @@ saveRDS(lst.EHS.common,  file=file.common)
 
 
 
-
 # [B] Combine selected tables -------------------------------------------------
 
 var.selection <- 'people'
-file.merged <- paste0(path.EHS,"/public/outForProfiles/all_merged_",var.selection,".rds")
-file.common <- paste0(path.EHS,"/public/outForProfiles/all_merged_common_",var.selection,".rds")
+file.merged <- paste0(path.EHS,path.profile,"/all_merged_",var.selection,".rds")
+file.common <- paste0(path.EHS,path.profile,"/all_merged_common_",var.selection,".rds")
 
 # Combination Project ---------------------------------------------------------
 
@@ -231,3 +232,6 @@ saveRDS(lst.EHS.common,  file=file.common)
 
 
 # End --------------------------------------------------------------------------
+
+cat("\014")
+message(cat(paste("Exported data in:\n",file.merged,"\n",file.common)))

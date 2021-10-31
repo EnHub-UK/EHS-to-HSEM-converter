@@ -57,9 +57,11 @@ Another reason for having a dedicated *repo* is that the *EHS* information is em
 
 ### *myScript* structure
 
+- `myScript/__Main.R` processes/selects `A` to `D`
+
 - `myScript/A__initialAnalysis.R` loads multiple EHS (raw) sources, converts them into *tibbles* and performs descriptive and survey analysis.
 
-- `myScript/B__conversion-HSEMs__export.R` & `myScript/B__conversion-HSEMs__allocation.R` convert the chosen raw dataset into a format employed by HSEMs.
+- `myScript/B__conversion-HSEMs__allocation.R` converts the chosen raw dataset into a format employed by HSEMs.
 
   A latest addition has extracted more contextual variables as those proposed in the employed methodology (eg. *'V568_RoofObstruction', 'V569_AccessSteps', 'V570_Exposition', 'V571_Rows', 'V572_Street', 'V573_Urbanity', 'V538_FrontEavesHeight','V539_RearEavesHeight', 'V515_IMD_Decile', 'V516_HouseholdComposition'*, etc. — see *Section H: Additional* in the script).
 

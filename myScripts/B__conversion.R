@@ -939,6 +939,7 @@ dtaMa <- subset(general_plus, select=c(aacode, tenure2x, tenure4x, GorEHS, regio
 dtaMb <- subset(physical_plus, select=c(aacode, dwtypenx, dwage5x, dwage6x, floor5x, attic, fuelx, dblglaz2, loftins4, heat4x, heat7x, watersys, boiler))
 dtaMc <- subset(interview_plus, select=c(aacode, agehrp4x, agehrp6x, sexhrp, AHCinceq, hhinc5x, hhsizex, hhcompx, emphrpx, NDEPCHILD, ageoldbx, NBedsX))
 levels(dtaMc$agehrp4x) <- gsub("^ *", "", levels(dtaMc$agehrp4x))
+levels(dtaMc$agehrp6x) <- gsub("^ *", "", levels(dtaMc$agehrp6x))
 
 dtaM <- join(dtaMa, dtaMb, by='aacode')
 dtaM <- join(dtaM, dtaMc, by='aacode')

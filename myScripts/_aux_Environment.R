@@ -38,7 +38,7 @@ fnPrepareEnHubOutputFolders <- function(dirs){
 
   lapply(dirs, assignDir, type[1], out.folder)
   lapply(dirs, assignDir, type[2], out.folder)
-  lapply(dirs, assignDir, type[3], out.folder)
+  fnMakeDir(paste(out.folder, type[3], sep="/"))
 }
 
 fnMakeDir <- function(pathNew, myPath=path.EHS, myOS=fnGetOS()){
@@ -102,7 +102,7 @@ fnMoveFile <- function(varFrom, varTo, myPath=path.EHS, myOS=fnGetOS()){
 fnDisplayActiveData <- function(lbl){
   tblStudies <- data.frame(info=unlist(lapply(lbl, getStudyName)), code=lbl)
   cat("\014")
-  message("Avaiable EHS datasets --- note these are symlinks ↯ ")
+  message("Avaiable EHS datasets --- note these are symlinks \u21AF ")
   message(paste0(capture.output(tblStudies), collapse = "\n"))
 }
 

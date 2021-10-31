@@ -2,13 +2,13 @@
 #' EHS Converter                                        {Conversion Requester}
 #'
 #' This second stage converts EHS tables into the suitable HSEM format.
-#' 
+#'
 #' -----------------------------------------------------------------------------
 #' @author g.sousa
 #' @keywords stock, statistics, survey, parser
 #' @repository github.com/EnHub-UK/EHS-to-HSEM-converter
 #'
-#' @run   `Rscript myScripts/B__conversion-HSEMs__export.R 'extended'`
+#' @run   `Rscript myScripts/__Main.R 'conversion'`
 #'
 #' @notes  + The conversion works with the 2011 version only.
 #'         + see `<root>/README` file
@@ -27,9 +27,9 @@ if (length(args)==0) {
 (setExp = as.character(args[1]))
 
 #' @Test:
-#' setExp='extended'
+#' setExp='conversion'
 
-if(setExp!='basic' & setExp!='extended' & setExp!='matching'){
+if(setExp!='conversion' & setExp!='households' & setExp!='predictive'){
   stop("Please check again the mode!")
 }else{
   cat("\014")
@@ -50,35 +50,54 @@ source('myScripts/_aux_GetData.R')       # data collection (~ 10 sec)
 
 #.. additional workflows ----
 source('myScripts/_aux_Conversion.R', verbose = FALSE)
-source('myScripts/B__conversion-HSEMs_allocation.R', verbose = FALSE)
+
 
 
 
 # [2] Generate Datasets --------------------------------------------------------
 
-lst.HSEMs <- pblapply(ls()[grep("lst\\.[A-G]$",ls())], get)
-names(lst.HSEMs) <- lblHSEMs
-dtaHSEMS <- join_all(by='V001_HousingCode', lst.HSEMs)
+if(setExp=='conversion'){
 
-if(setExp=='basic'){
+  source('myScripts/B__conversion.R', verbose = FALSE)
+
+  lst.HSEMs <- pblapply(ls()[grep("lst\\.[A-I]$",ls())], get)
+  names(lst.HSEMs) <- lblHSEMs
+  dtaHSEMS <- join_all(by='V001_HousingCode', lst.HSEMs)
+
+  #.. basic conversion
 
   saveRDS(lst.HSEMs, paste0(path.EHS.datamd, file="/lstHSEMs.rds"))
   write.csv(dtaHSEMS, paste0(path.EHS.datamd, "/tblHSEMs.csv"))
 
-}else if(setExp=='extended'){
+  #.. additional conversion (incl. contextual data and household info)
 
   lst.HSEMs[['complementary']] <- lst.H
   dtaHSEMS <- join(dtaHSEMS, lst.H, by='V001_HousingCode')
-  
+
   lst.HSEMs[['summarised']] <- lst.I
   dtaHSEMS <- join(dtaHSEMS, lst.I, by='V001_HousingCode')
 
   saveRDS(lst.HSEMs, paste0(path.EHS.datamd, file="/lstHSEMsExt.rds"))
   write.csv(dtaHSEMS, paste0(path.EHS.datamd, "/tblHSEMsext.csv"))
 
-}else{
+  #.. generate subset with matching variables
 
   write.csv(lst.M, paste0(path.EHS.datamd, "/tblHSEMsMatch.csv"))
+
+  cat("\014")
+  message(cat(paste("Exported data in:\n",path.EHS.datamd)))
+
+}else if(setExp=='households'){
+
+  source('myScripts/C__households.R', verbose = FALSE, echo = FALSE)
+
+}else if(setExp=='predictive'){
+
+  source('myScripts/D__predictive.R', verbose = FALSE, echo = FALSE)
+
+}else{
+
+  warning("nothing selected!")
 
 }
 
