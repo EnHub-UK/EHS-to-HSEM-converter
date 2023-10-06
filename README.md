@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.jpg" width="100%">
+  <img src="assets/logo.jpg" width="100%">
 </p>
 
 # EHS ➦ HSEM | converter
@@ -17,10 +17,10 @@ This `R` project converts original **English Housing Survey** (EHS) data sources
 The main reason for having a dedicated *EHS project* is <u>to comply with licensing rules</u>. Therefore, upon accessing the sources for the first time, users must request access to the relevant datasets from [UK-Data-Service](https://www.ukdataservice.ac.uk).
 
 <p align="center">
-  <img src="public/UKDS Logos_Col_Grey_300dpi.png" width="30%">
+  <img src="assets/UKDS Logos_Col_Grey_300dpi.png" width="30%">
 </p>
 
-Once granted, the datasets need to be stored (or redirected) as shown at the bottom of this page. (Only the *documentation files* are hard copied to `/myData` because these files are converted into plain text, so these can be accessed using *regular expressions* within the scripts).
+Once granted, the datasets need to be stored (or redirected) as shown at the bottom of this page. (Only the *documentation files* are hard copied to `/data` because these files are converted into plain text, so these can be accessed using *regular expressions* within the scripts).
 
 Another reason for having a dedicated *repo* is that the *EHS* information is employed along different projects, and so the datasets can be stored and shared in a central repository.
 
@@ -31,201 +31,81 @@ Another reason for having a dedicated *repo* is that the *EHS* information is em
 |         |                                                                                                                                                                                                                                                     |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   2008  |   Study Number **6612 - English Housing Survey, 2008: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government, English Housing Survey, 2008: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], November 2010. SN: 6612 , http://dx.doi.org/10.5255/UKDA-SN-6612-1           |
+|         |   Department for Communities and Local Government, English Housing Survey, 2008: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], November 2010. SN: 6612 , doi.org/10.5255/UKDA-SN-6612-1           |
 |   2009  |   Study Number **6804 - English Housing Survey, 2009: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2009: Housing Stock Data. [data collection]. 3rd Edition. UK Data Service. SN: 6804, http://doi.org/10.5255/UKDA-SN-6804-3                                       |
+|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2009: Housing Stock Data. [data collection]. 3rd Edition. UK Data Service. SN: 6804, doi.org/10.5255/UKDA-SN-6804-3                                       |
 |   2010  |   Study Number **7039 - English Housing Survey, 2010: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government, English Housing Survey, 2010: Housing Stock Data [computer file]. 4th Edition. Colchester, Essex: UK Data Archive [distributor], March 2013. SN: 7039, http://dx.doi.org/10.5255/UKDA-SN-7039-4  |
+|         |   Department for Communities and Local Government, English Housing Survey, 2010: Housing Stock Data [computer file]. 4th Edition. Colchester, Essex: UK Data Archive [distributor], March 2013. SN: 7039, doi.org/10.5255/UKDA-SN-7039-4  |
 |   2011  |   Study Number **7386 - English Housing Survey, 2011: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government, English Housing Survey, 2011: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], August 2013. SN: 7386, http://dx.doi.org/10.5255/UKDA-SN-7386-1              |
+|         |   Department for Communities and Local Government, English Housing Survey, 2011: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], August 2013. SN: 7386, doi.org/10.5255/UKDA-SN-7386-1              |
 |   2012  |   Study Number **7511 - English Housing Survey, 2012: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government, English Housing Survey, 2012: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], July 2014. SN: 7511, http://dx.doi.org/10.5255/UKDA-SN-7511-1                |
+|         |   Department for Communities and Local Government, English Housing Survey, 2012: Housing Stock Data [computer file]. Colchester, Essex: UK Data Archive [distributor], July 2014. SN: 7511, doi.org/10.5255/UKDA-SN-7511-1                |
 |   2013  |   Study Number **7802 - English Housing Survey, 2013: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2013: Housing Stock Data. [data collection]. 2nd Edition. UK Data Service. SN: 7802, http://doi.org/10.5255/UKDA-SN-7802-2                                       |
+|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2013: Housing Stock Data. [data collection]. 2nd Edition. UK Data Service. SN: 7802, doi.org/10.5255/UKDA-SN-7802-2                                       |
 |   2014  |   Study Number **8010 - English Housing Survey, 2014: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2014: Housing Stock Data. [data collection]. 4th Edition. UK Data Service. SN: 8010, http://doi.org/10.5255/UKDA-SN-8010-4                                       |
+|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2014: Housing Stock Data. [data collection]. 4th Edition. UK Data Service. SN: 8010, doi.org/10.5255/UKDA-SN-8010-4                                       |
 |   2015  |   Study Number **8186 - English Housing Survey, 2015: Housing Stock Data**                                                                                                                                                                          |
-|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2015: Housing Stock Data. [data collection]. UK Data Service. SN: 8186, http://doi.org/10.5255/UKDA-SN-8186-1                                                    |
+|         |   Department for Communities and Local Government. (2017). English Housing Survey, 2015: Housing Stock Data. [data collection]. UK Data Service. SN: 8186, doi.org/10.5255/UKDA-SN-8186-1                                                    |
 |   2016  |   Study Number **8350 - English Housing Survey, 2016: Housing Stock Data**                                                                                                                                                                          |
-|         |   Ministry of Housing, Communities and Local Government. (2018). English Housing Survey, 2016: Housing Stock Data. [data collection]. UK Data Service. SN: 8350, http://doi.org/10.5255/UKDA-SN-8350-1                                              |
+|         |   Ministry of Housing, Communities and Local Government. (2018). English Housing Survey, 2016: Housing Stock Data. [data collection]. UK Data Service. SN: 8350, doi.org/10.5255/UKDA-SN-8350-1                                              |
 |   2017  |   Study Number **8494 - English Housing Survey, 2017: Housing Stock Data**                                                                                                                                                                          |
-|         |   Ministry of Housing, Communities and Local Government. (2019). English Housing Survey, 2017: Housing Stock Data. [data collection]. UK Data Service. SN: 8494, http://doi.org/10.5255/UKDA-SN-8494-1                                              |
+|         |   Ministry of Housing, Communities and Local Government. (2019). English Housing Survey, 2017: Housing Stock Data. [data collection]. UK Data Service. SN: 8494, doi.org/10.5255/UKDA-SN-8494-1                                              |
 |   2018  |   Study Number **8670 - English Housing Survey, 2018: Housing Stock Data**                                                                                                                                                                          |
-|         |   Ministry of Housing, Communities and Local Government. (2020). English Housing Survey, 2018: Housing Stock Data. [data collection]. UK Data Service. SN: 8670, http://doi.org/10.5255/UKDA-SN-8670-1   
+|         |   Ministry of Housing, Communities and Local Government. (2020). English Housing Survey, 2018: Housing Stock Data. [data collection]. UK Data Service. SN: 8670, doi.org/10.5255/UKDA-SN-8670-1   
+|   2019  |   Study Number **8670 - English Housing Survey, 2018: Housing Stock Data**                                                                                                                                                                          |
+|         |   Ministry of Housing, Communities and Local Government. (2022). English Housing Survey, 2019: Housing Stock Data. [data collection]. UK Data Service. SN: 8923, DOI: 10.5255/UKDA-SN-8923-1
+|   2020  |   Study Number **8670 - English Housing Survey, 2018: Housing Stock Data**                                                                                                                                                                          |
+|         |   Ministry of Housing, Communities and Local Government. (2023). English Housing Survey, 2020: Housing Stock Data. [data collection]. UK Data Service. SN: 9058, doi: 10.5255/UKDA-SN-9058-1
+
 
 ----
 
 ### *myScript* structure
 
-- `myScript/__Main.R` processes/selects `A` to `D`
+- `scripts/main.R` serves as selector of workflows and modules
 
-- `myScript/A__initialAnalysis.R` loads multiple EHS (raw) sources, converts them into *tibbles* and performs descriptive and survey analysis.
+- `scripts/modules` libraries, functions and project variables.
 
-- `myScript/B__conversion-HSEMs__allocation.R` converts the chosen raw dataset into a format employed by HSEMs.
+- `scripts/workflows/A__initialAnalysis.R` loads multiple EHS (raw) sources, converts them into *tibbles* and performs descriptive and survey-enriched analysis.
 
-  A latest addition has extracted more contextual variables as those proposed in the employed methodology (eg. *'V568_RoofObstruction', 'V569_AccessSteps', 'V570_Exposition', 'V571_Rows', 'V572_Street', 'V573_Urbanity', 'V538_FrontEavesHeight','V539_RearEavesHeight', 'V515_IMD_Decile', 'V516_HouseholdComposition'*, etc. — see *Section H: Additional* in the script).
+- `scripts/workflows/B__conversion-HSEMs__allocation.R` converts the chosen raw dataset into a format suitable for Housing Stock Energy Models.
 
-- `myScript/C__households` extracts detailed information regarding household members. This is also used for generating profiles.
+- `scripts/workflows/C__households` extracts detailed information regarding household members. This is also used for generating profiles.
 
-- `myScript/D__predictive.R` combines all the data sources into a single tables, considering only those with common variables. This is meant be used in predictive analysis (eg. random forests, j48, glm, ...)
-
-- `myScript/__setup` & `myScript/Aux` define libraries, functions and project variables.
+- `scripts/workflows/D__predictive.R` combines all the data sources into single tables, considering only those with common variables; useful for predictive analysis (eg. random forests, j48, glm, ...)
 
 
-### *myData* Structure
 
-The EHS datasets need to be requested in `.stata` format, and copied to `../myData/` (as indicated below).
+
+### *data* Structure
+
+The EHS datasets need to be requested in `.stata` format, and copied to `../data/` (as indicated below).
 
 ```sh
- myData
-├── AuxiliaryData
-│   ├── CHM-data
-│   └── allissue
-├── UKDA-6612-stata8
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── fuel_poverty
-│   │   │   ├── interview
-│   │   │   ├── market_value
-│   │   │   └── physical
-│   │   ├── excel
-│   │   ├── pdf
-│   │   └── stataissue
-│   └── stata8
-│       ├── derived
-│       │   └── detailed
-│       ├── fuel_poverty
-│       ├── interview
-│       ├── market_value
-│       └── physical
-├── UKDA-6804-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── fuel_poverty
-│   │   │   ├── interview
-│   │   │   ├── market_value
-│   │   │   └── physical
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-│       ├── derived
-│       │   └── detailed
-│       ├── fuel_poverty
-│       ├── interview
-│       ├── market_value
-│       └── physical
-├── UKDA-7039-stata9
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── fuel_poverty
-│   │   │   ├── interview
-│   │   │   └── physical
-│   │   ├── excel
-│   │   ├── pdf
-│   │   └── stataissue
-│   └── stata9
-│       ├── derived
-│       │   └── detailed
-│       ├── fuel_poverty
-│       ├── interview
-│       └── physical
-├── UKDA-7386-stata9
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── fuel_poverty
-│   │   │   ├── interview
-│   │   │   └── physical
-│   │   ├── excel
-│   │   ├── pdf
-│   │   └── stataissue
-│   └── stata9
-│       ├── derived
-│       │   └── detailed
-│       ├── fuel_poverty
-│       ├── interview
-│       └── physical
-├── UKDA-7511-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── interview
-│   │   │   └── physical
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-│       ├── derived
-│       │   └── detailed
-│       ├── interview
-│       └── physical
-├── UKDA-7802-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   │   ├── derived
-│   │   │   │   └── detailed
-│   │   │   ├── interview
-│   │   │   └── physical
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-│       ├── derived
-│       │   └── detailed
-│       ├── interview
-│       └── physical
-├── UKDA-8010-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-├── UKDA-8186-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-├── UKDA-8350-stata11
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── allissue
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata11
-├── UKDA-8494-stata
-│   ├── mrdoc
-│   │   ├── UKDA
-│   │   ├── excel
-│   │   └── pdf
-│   └── stata
-│       └── stata11
-└── UKDA-8670-stata
-    ├── mrdoc
-    │   ├── UKDA
-    │   ├── excel
-    │   └── pdf
-    └── stata
-        └── stata12
-          ├── general_17and18_eul.dta
-          ├── interview_17and18_eul.dta
-          └── physical_17and18_eul.dta
+.
+├── assets
+├── data
+│   ├── UKDA-6612-stata11 -> <symlinks>/UKDA-6612-stata11
+│   ├── UKDA-6804-stata11 -> <symlinks>/UKDA-6804-stata11
+│   ├── UKDA-7039-stata11 -> <symlinks>/UKDA-7039-stata11
+│   ├── UKDA-7386-stata11 -> <symlinks>/UKDA-7386-stata11
+│   ├── UKDA-7511-stata11 -> <symlinks>/UKDA-7511-stata11
+│   ├── UKDA-7802-stata11 -> <symlinks>/UKDA-7802-stata11
+│   ├── UKDA-8010-stata11 -> <symlinks>/UKDA-8010-stata11
+│   ├── UKDA-8186-stata11 -> <symlinks>/UKDA-8186-stata11
+│   ├── UKDA-8350-stata11 -> <symlinks>/UKDA-8350-stata11
+│   ├── UKDA-8494-stata -> <symlinks>/UKDA-8494-stata
+│   ├── UKDA-8670-stata -> <symlinks>/UKDA-8670-stata
+│   ├── UKDA-8923-stata -> <symlinks>/UKDA-8923-stata
+│   ├── UKDA-9058-stata -> <symlinks>/UKDA-9058-stata
+│   ├── auxiliary_tables
+│   └── data_dictionaries
+├── export
+└── scripts
+    ├── modules
+    └── workflows
 ```
 ---
 
  **NOTES**
- 1. **myData** folder employs `symlinks` to a centralised database where the original repositories are previously retrieved from [UK-Data-Archive](https://www.ukdataservice.ac.uk/get-data.aspx).
+ 1. **data** folder employs `symlinks` to a centralised database where the original repositories are previously retrieved from [UK-Data-Archive](https://www.ukdataservice.ac.uk/get-data.aspx).

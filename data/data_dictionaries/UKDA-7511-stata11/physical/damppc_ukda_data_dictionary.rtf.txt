@@ -1,0 +1,119 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = damppc
+Number of variables = 14
+Number of cases = 38289
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = PS case identity 2012
+ Value label information for aacode
+
+Pos. = 2 Variable = type Variable label = Type of damp proof course
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for type
+Value = 1.0 Label = Physical barrier
+Value = 2.0 Label = Injection DPC
+Value = 3.0 Label = None
+
+Pos. = 3 Variable = Fexdp1te Variable label = FRONT : Tenths of length
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp1te
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 4 Variable = Fexdp1fl Variable label = FRONT : Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru None
+ Value label information for Fexdp1fl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 3.0 Label = Unknown
+
+Pos. = 5 Variable = Fexdp1rn Variable label = FRONT : Replace install
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp1rn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 6 Variable = Fexdp1lv Variable label = FRONT : Leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp1lv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 7 Variable = Fexdp1ur Variable label = FRONT : urgent
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdp1ur
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 8 Variable = Fexdp1tm Variable label = FRONT : Replacement period
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0 and 88.0
+ Value label information for Fexdp1tm
+Value = 88.0 Label = Not relevant
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable
+
+Pos. = 9 Variable = Fexdp2te Variable label = BACK : Tenths of length
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp2te
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 10 Variable = Fexdp2fl Variable label = BACK : Faults
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru None
+ Value label information for Fexdp2fl
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 3.0 Label = Unknown
+
+Pos. = 11 Variable = Fexdp2rn Variable label = BACK : Replace install
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp2rn
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 12 Variable = Fexdp2lv Variable label = BACK : Leave
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 88.0 thru 99.0
+ Value label information for Fexdp2lv
+Value = 88.0 Label = Question Not Applicable
+Value = 99.0 Label = Unknown
+
+Pos. = 13 Variable = Fexdp2ur Variable label = BACK : urgent
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 8.0 thru 9.0
+ Value label information for Fexdp2ur
+Value = 8.0 Label = Question Not Applicable
+Value = 1.0 Label = Yes
+Value = 2.0 Label = No
+Value = 9.0 Label = Unknown
+
+Pos. = 14 Variable = Fexdp2tm Variable label = BACK : Replacement period
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 77.0 thru 99.0 and 88.0
+ Value label information for Fexdp2tm
+Value = 88.0 Label = Not relevant
+Value = 99.0 Label = Unknown
+Value = 77.0 Label = Question Not Applicable

@@ -1,0 +1,682 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = interview_11plus12
+Number of variables = 70
+Number of cases = 12269
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = agehrpx Variable label = Age of HRP - continuous
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for agehrpx
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+Value = 95.0 Label = 95 or over
+
+Pos. = 3 Variable = agehrp2x Variable label = Age of household reference person - 2 band
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for agehrp2x
+Value = -8.0 Label = no answer
+Value = 1.0 Label =  under 60 years
+Value = 2.0 Label =  60 or over
+Value = -9.0 Label = does not apply
+
+Pos. = 4 Variable = agehrp4x Variable label = Age of household reference person - 4 band
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for agehrp4x
+Value = 1.0 Label =  16 - 29
+Value = 2.0 Label =  30 - 44
+Value = 3.0 Label =  45 - 64
+Value = 4.0 Label =  65 or over
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 5 Variable = agehrp6x Variable label = Age of household reference person - 6 band
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for agehrp6x
+Value = 1.0 Label =  16 - 24
+Value = 2.0 Label =  25 - 34
+Value = 3.0 Label =  35 - 44
+Value = 4.0 Label =  45 - 54
+Value = 5.0 Label =  55 - 64
+Value = 6.0 Label =  65 or over
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 6 Variable = agepartx Variable label = Age of partner - continuous
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for agepartx
+Value = -8.0 Label = no answer
+Value = 0.0 Label = no partner of HRP
+Value = -9.0 Label = does not apply
+Value = 95.0 Label = 95 or over
+
+Pos. = 7 Variable = pyngx Variable label = Age of youngest person in household
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for pyngx
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+Value = 95.0 Label = 95 or over
+
+Pos. = 8 Variable = pyngbx Variable label = Age band of youngest person in household
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for pyngbx
+Value = 1.0 Label = 0 - 4
+Value = 2.0 Label = 5 - 10
+Value = 3.0 Label = 11 - 15
+Value = 4.0 Label = 16 - 24
+Value = 5.0 Label = 25 - 59
+Value = 6.0 Label = 60 - 74
+Value = 7.0 Label = 75 - 84
+Value = 8.0 Label = 85 or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 9 Variable = ageoldx Variable label = Age of oldest person in household
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ageoldx
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+Value = 95.0 Label = 95 or over
+
+Pos. = 10 Variable = ageoldbx Variable label = Age of oldest person in household - banded
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ageoldbx
+Value = 1.0 Label = 16 - 24
+Value = 2.0 Label = 25 - 34
+Value = 3.0 Label = 35 - 49
+Value = 4.0 Label = 50 - 59
+Value = 5.0 Label = 60 - 74
+Value = 6.0 Label = 75 - 84
+Value = 7.0 Label = 85 or more
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 11 Variable = olderx Variable label = No of people aged 60 plus who are HRP or partner
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for olderx
+Value = -8.0 Label = no answer
+Value = -9.0 Label = does not apply
+
+Pos. = 12 Variable = hhcompx Variable label = Household composition
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhcompx
+Value = 1.0 Label = couple, no dependent child(ren) under 60
+Value = 2.0 Label = couple, no dependent child(ren) aged 60 or over
+Value = 3.0 Label = couple with dependent child(ren)
+Value = 4.0 Label = lone parent with dependent child(ren)
+Value = 5.0 Label = other multi-person households
+Value = 6.0 Label = one person under 60
+Value = 7.0 Label = one person aged 60 or over
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 13 Variable = hhtype11 Variable label = Househld type - full 11 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhtype11
+Value = 1.0 Label = couple with no child(ren)
+Value = 2.0 Label = couple with dependent child(ren) only
+Value = 3.0 Label = couple with dependent and independent children
+Value = 4.0 Label = couple with independent child(ren) only
+Value = 5.0 Label = lone parent with dependent child(ren) only
+Value = 6.0 Label = lone parent with dependent and independent children
+Value = 7.0 Label = lone parent with independent child(ren) only
+Value = 8.0 Label = two or more families
+Value = 9.0 Label = lone person sharing with other lone persons
+Value = 10.0 Label = one male
+Value = 11.0 Label = one female
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 14 Variable = hhtype7 Variable label = Household type - 7 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhtype7
+Value = 1.0 Label = couple, no dependent child(ren)
+Value = 2.0 Label = couple with dependent child(ren)
+Value = 3.0 Label = lone parent with dependent child(ren)
+Value = 4.0 Label = other multi-person households
+Value = 5.0 Label = one male
+Value = 6.0 Label = one female
+Value = 7.0 Label = one person (sex unknown)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 15 Variable = hhtype6 Variable label = Household type - 6 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhtype6
+Value = 1.0 Label = couple, no dependent child(ren)
+Value = 2.0 Label = couple with dependent child(ren)
+Value = 3.0 Label = lone parent with dependent child(ren)
+Value = 4.0 Label = other multi-person households
+Value = 5.0 Label = one person under 60
+Value = 6.0 Label = one person aged 60 or over
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 16 Variable = hhsizex Variable label = Number of persons in the household
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhsizex
+Value = -8.0 Label = no answer
+Value = 10.0 Label = 10 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 17 Variable = famnumx Variable label = Number of family units in hhold
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for famnumx
+Value = -8.0 Label = no answer
+Value = 8.0 Label = 8 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 18 Variable = loncoupx Variable label = Single householder or with partner
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for loncoupx
+Value = -8.0 Label = no answer
+Value = 0.0 Label = lone person
+Value = -9.0 Label = does not apply
+Value = 9.0 Label = unsure
+Value = 1.0 Label = couple
+
+Pos. = 19 Variable = ndepchild Variable label = Number of dependent children in household
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ndepchild
+Value = -8.0 Label = no answer
+Value = 8.0 Label = 8 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 20 Variable = otherfam Variable label = Additional families present in household
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for otherfam
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 21 Variable = othfamlp Variable label = Type of additional families in household
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for othfamlp
+Value = -8.0 Label = no answer
+Value = 1.0 Label = no additional families
+Value = 2.0 Label = one person additional families only
+Value = 3.0 Label = other additional families
+Value = -9.0 Label = does not apply
+
+Pos. = 22 Variable = emphrpx Variable label = Employment status (primary) of HRP
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for emphrpx
+Value = 1.0 Label = full time work
+Value = 2.0 Label = part-time work
+Value = 3.0 Label = retired
+Value = 4.0 Label = unemployed
+Value = 5.0 Label = full time education
+Value = 6.0 Label = other inactive
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 23 Variable = emphrp3x Variable label = Working status of HRP (primary) - 3 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for emphrp3x
+Value = -8.0 Label = no answer
+Value = 1.0 Label = working
+Value = 2.0 Label = unemployed
+Value = 3.0 Label = inactive
+Value = -9.0 Label = does not apply
+
+Pos. = 24 Variable = hhempx Variable label = Employment status of HRP and partner combined
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhempx
+Value = 1.0 Label = 1 or more work full time
+Value = 2.0 Label = 1 or more work part time
+Value = 3.0 Label = none working, one or more retired
+Value = 4.0 Label = none working and none retired
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 25 Variable = empprtx Variable label = Employment status (primary) of Partner
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for empprtx
+Value = 1.0 Label = full time work
+Value = 2.0 Label = part-time work
+Value = 3.0 Label = retired
+Value = 4.0 Label = unemployed
+Value = 5.0 Label = full time education
+Value = 6.0 Label = other inactive
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 26 Variable = empprt3x Variable label = Working status of partner (primary) - 3 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for empprt3x
+Value = -8.0 Label = no answer
+Value = 1.0 Label = working
+Value = 2.0 Label = unemployed
+Value = 3.0 Label = inactive
+Value = -9.0 Label = does not apply
+
+Pos. = 27 Variable = workless Variable label = Household with no one of working age employed - ILO defn
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for workless
+Value = -8.0 Label = no answer
+Value = 0.0 Label = not workless
+Value = -9.0 Label = no one of working age in household
+Value = 1.0 Label = workless
+
+Pos. = 28 Variable = ethhrp8x Variable label = Ethnic origin of HRP - 8 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ethhrp8x
+Value = 1.0 Label = white
+Value = 2.0 Label = black
+Value = 3.0 Label = Indian
+Value = 4.0 Label = Pakistani or Bangladeshi
+Value = 5.0 Label = other Asian
+Value = 6.0 Label = Chinese
+Value = 7.0 Label = mixed
+Value = 8.0 Label = other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 29 Variable = ethhrp4x Variable label = Ethnic origin of HRP - 4 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ethhrp4x
+Value = 1.0 Label = white
+Value = 2.0 Label = black
+Value = 3.0 Label = asian
+Value = 4.0 Label = other
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 30 Variable = ethhrp2x Variable label = Ethnic origin of HRP - 2 categories
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for ethhrp2x
+Value = -8.0 Label = no answer
+Value = 1.0 Label = white
+Value = 2.0 Label = ethnic minority
+Value = -9.0 Label = does not apply
+
+Pos. = 31 Variable = sexhrp Variable label = Sex of household reference person
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for sexhrp
+Value = -8.0 Label = no answer
+Value = 1.0 Label = male
+Value = 2.0 Label = female
+Value = -9.0 Label = does not apply
+
+Pos. = 32 Variable = FreeLeas Variable label = Freehold or leasehold
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for FreeLeas
+Value = -8.0 Label = no answer
+Value = 1.0 Label = freehold
+Value = 2.0 Label = leasehold
+Value = -9.0 Label = does not apply
+
+Pos. = 33 Variable = Owntype Variable label = Type of ownership
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for Owntype
+Value = 1.0 Label = freeholder of house
+Value = 2.0 Label = leaseholder - no share of FH
+Value = 3.0 Label = leaseholder owning FH collectively
+Value = 4.0 Label = leaseholder owning FH of whole bldg
+Value = 5.0 Label = freeholder of flat - owning FH of flat only
+Value = 6.0 Label = commonholder (property built as CH)
+Value = 7.0 Label = commonholder (property converted to CH)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 34 Variable = lenresb Variable label = Length of residence
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for lenresb
+Value = 1.0 Label = less than 1 year
+Value = 2.0 Label = one year
+Value = 3.0 Label = two years
+Value = 4.0 Label = 3-4 years
+Value = 5.0 Label = 5-9 years
+Value = 6.0 Label = 10-19 years
+Value = 7.0 Label = 20-29 years
+Value = 8.0 Label = 30+ years
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 35 Variable = lenres Variable label = Length of residence (years)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -7.0 thru -8.0 and -9.0
+ Value label information for lenres
+Value = -8.0 Label = no answer
+Value = -7.0 Label = refer to lenres2
+Value = -9.0 Label = does not apply
+
+Pos. = 36 Variable = lenres2 Variable label = Modelled length of residence (based on 2011 lenres)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -7.0 thru -8.0 and -9.0
+ Value label information for lenres2
+Value = -8.0 Label = no answer
+Value = -7.0 Label = refer to lenres
+Value = -9.0 Label = does not apply
+
+Pos. = 37 Variable = lenown Variable label = Length of ownership (years)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for lenown
+Value = -8.0 Label = no answer
+Value = 80.0 Label = 80 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 38 Variable = lenownb Variable label = Length of ownership to date of survey
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for lenownb
+Value = 1.0 Label = less than 1 year
+Value = 2.0 Label = one year
+Value = 3.0 Label = two years
+Value = 4.0 Label = 3-4 years
+Value = 5.0 Label = 5-9 years
+Value = 6.0 Label = 10-19 years
+Value = 7.0 Label = 20-29 years
+Value = 8.0 Label = 30+ years
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 39 Variable = tenex Variable label = Extended tenure of household
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for tenex
+Value = 1.0 Label = own with mortgage
+Value = 2.0 Label = own outright
+Value = 3.0 Label = privately rent
+Value = 4.0 Label = rent from LA
+Value = 5.0 Label = rent from RSL
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 40 Variable = hhltsick Variable label = Anyone in hhold have long term illness or disability?
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhltsick
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 41 Variable = hpregdis Variable label = HRP or Partner registered disabled?
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hpregdis
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply
+
+Pos. = 42 Variable = bedstdx Variable label = Bedroom standard (2006 definition)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for bedstdx
+Value = 1.0 Label = two or more below standard
+Value = 2.0 Label = one below standard
+Value = 3.0 Label = at standard
+Value = 4.0 Label = one above standard
+Value = 5.0 Label = two or more above standard
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 43 Variable = NBedsX Variable label = Total no of bedrooms household actually has
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for NBedsX
+Value = -8.0 Label = no answer
+Value = 8.0 Label = 8 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 44 Variable = bedrqx Variable label = No. of bedrooms required by the household (2006 definition)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for bedrqx
+Value = -8.0 Label = no answer
+Value = 8.0 Label = 8 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 45 Variable = LHArqx Variable label = No. of bedrooms required by the household (2011 definition)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for LHArqx
+Value = -8.0 Label = no answer
+Value = 8.0 Label = 8 or more
+Value = -9.0 Label = does not apply
+
+Pos. = 46 Variable = LHAstdx Variable label = Bedroom standard (2011 definition)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for LHAstdx
+Value = 1.0 Label = two or more below standard
+Value = 2.0 Label = one below standard
+Value = 3.0 Label = at standard
+Value = 4.0 Label = one above standard
+Value = 5.0 Label = two or more above standard
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 47 Variable = mortwkx Variable label = Weekly mortgage payments
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = 0.0 thru -8.0 and -9.0
+ Value label information for mortwkx
+Value = -8.0 Label = unknown
+Value = 0.0 Label = no payments - own outright
+Value = 1000.0 Label = 1,000 or more
+Value = -9.0 Label = not applicable - tenant
+
+Pos. = 48 Variable = rentwkx Variable label = Total weekly rent payable (rent plus housing benefit)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -9.0 thru None
+ Value label information for rentwkx
+Value = 700.0 Label = 700 or more
+Value = -9.0 Label = question not applicable - owner occupier
+
+Pos. = 49 Variable = rentflg Variable label = Rent/housing benefit changed/imputed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for rentflg
+Value = 0.0 Label = raw rent/HB data used
+Value = 1.0 Label = rent/HB imputed as value missing
+Value = 2.0 Label = rent/HB overwritten as value implausible
+Value = -9.0 Label = question not applicable - owner occupier
+
+Pos. = 50 Variable = rentExS Variable label = Total weekly rent excluding the cost of services
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -9.0 thru None
+ Value label information for rentExS
+Value = 700.0 Label = 700 or more
+Value = -9.0 Label = question not applicable - owner occupier
+
+Pos. = 51 Variable = rentExSflg Variable label = Rent excluding services changed/imputed
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for rentExSflg
+Value = 0.0 Label = value same as rentwkx - rent does not include services
+Value = 1.0 Label = rent excluding services - value provided
+Value = 2.0 Label = rent excluding services - value modelled
+Value = 3.0 Label = rent excluding services - value overwritten as implausible
+Value = -9.0 Label = question not applicable - owner occupier
+
+Pos. = 52 Variable = hhincx Variable label = EHS Basic Income (annual net household income (HRP + Partner) including savings)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for hhincx
+Value = 100000.0 Label = 100,000 or more
+
+Pos. = 53 Variable = hhinc5x Variable label = All households - income in 5 bands
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for hhinc5x
+Value = 1.0 Label = lowest 20%
+Value = 2.0 Label = quintile 2
+Value = 3.0 Label = quintile 3
+Value = 4.0 Label = quintile 4
+Value = 5.0 Label = highest 20%
+Value = -9.0 Label = not applicable
+
+Pos. = 54 Variable = hhincflg Variable label = Imputations used to create net total hhold income
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for hhincflg
+Value = 0.0 Label = none, all data OK
+Value = 1.0 Label = some private sources imputed
+Value = 2.0 Label = some bens imputed or changed
+Value = 3.0 Label = some priv and some bens imputed
+Value = 4.0 Label = household total imputed using group median
+Value = 5.0 Label = was below basic IS/PC - imputed using group median
+Value = 6.0 Label = was below basic IS/PC - imputed using basic IS/PC
+Value = 7.0 Label = was below basic IS/PC - imputed using basic IS/PC plus disab prems
+
+Pos. = 55 Variable = JOINTINCx Variable label = Annual gross income of the HRP and partner
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for JOINTINCx
+Value = 100000.0 Label = 100,000 or more
+
+Pos. = 56 Variable = ALLincx Variable label = Annual gross income of the HRP and partner inc. income from housing benefit and LHA
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for ALLincx
+Value = 100000.0 Label = 100,000 or more
+
+Pos. = 57 Variable = HYEARGRx Variable label = Household gross annual income (inc. income from all adult household members)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for HYEARGRx
+Value = 100000.0 Label = 100,000 or more
+
+Pos. = 58 Variable = amthbenx Variable label = Weekly housing benefit
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -9.0 thru None
+ Value label information for amthbenx
+Value = 400.0 Label = 400 or more
+Value = -9.0 Label =  not applicable - owner occupier
+
+Pos. = 59 Variable = housbenx Variable label = Household (HRP + partner) receives any housing benefit?
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for housbenx
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label =  not applicable - owner occupier
+
+Pos. = 60 Variable = hhbensx Variable label = Household on means tested bens or tax credits with a relevant income below the threshold
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hhbensx
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+
+Pos. = 61 Variable = hhvulx Variable label = Household vulnerable - on means tested or certain disability related benefits?
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hhvulx
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+
+Pos. = 62 Variable = market_rent Variable label = Tenancy types of renters
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for market_rent
+Value = 1.0 Label = local authority
+Value = 2.0 Label = housing association
+Value = 3.0 Label = private rented - market rents
+Value = 4.0 Label = private rented - non-market rents
+Value = 5.0 Label = private rented - rent type unknown
+Value = -9.0 Label = does not apply
+
+Pos. = 63 Variable = equityr Variable label = Equity in home (based on respondent valuation only)
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -88888888.0 thru -99999999.0
+ Value label information for equityr
+Value = -88888888.0 Label = unknown
+Value = -99999999.0 Label = not applicable - tenant
+Value = 1000000.0 Label = 1,000,000 or more
+
+Pos. = 64 Variable = equityr5 Variable label = Equity in home (based on respondent valuation only)
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for equityr5
+Value = 1.0 Label = Less than 50,000
+Value = 2.0 Label = 50,000 to 80,000
+Value = 3.0 Label = 80,000 to 120,000
+Value = 4.0 Label = 120,000 to 180,000
+Value = 5.0 Label = Over 180,000
+Value = -9.0 Label = not applicable - tenant
+Value = -8.0 Label = unknown
+
+Pos. = 65 Variable = BHCinceq Variable label = BHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for BHCinceq
+Value = 1920.0 Label = 1,920 per week or more
+
+Pos. = 66 Variable = BHCinceqv5 Variable label = BHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for BHCinceqv5
+Value = 1.0 Label = 1st quintile (lowest)
+Value = 2.0 Label = 2nd quintile
+Value = 3.0 Label = 3rd quintile
+Value = 4.0 Label = 4th quintile
+Value = 5.0 Label = 5th quintile (highest)
+
+Pos. = 67 Variable = BHCinceqv60h Variable label = BHC: below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for BHCinceqv60h
+Value = 0.0 Label = not below threshold
+Value = 1.0 Label = below threshold
+
+Pos. = 68 Variable = AHCinceq Variable label = AHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for AHCinceq
+Value = 0.0 Label = 0 per week or less
+Value = 1920.0 Label = 1,920 per week or more
+
+Pos. = 69 Variable = AHCinceqv5 Variable label = AHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for AHCinceqv5
+Value = 1.0 Label = 1st quintile (lowest)
+Value = 2.0 Label = 2nd quintile
+Value = 3.0 Label = 3rd quintile
+Value = 4.0 Label = 4th quintile
+Value = 5.0 Label = 5th quintile (highest)
+
+Pos. = 70 Variable = AHCinceqv60h Variable label = AHC: below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for AHCinceqv60h
+Value = 0.0 Label = not below threshold
+Value = 1.0 Label = below threshold

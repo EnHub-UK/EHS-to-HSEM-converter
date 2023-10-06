@@ -1,0 +1,808 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = adaptation
+Number of variables = 81
+Number of cases = 3408
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = dshvin3 Variable label = Interior adaptations have
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dshvin3
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = Graduated floor shower
+Value = 2 Label = Low level bath
+Value = 3 Label = Shower over bath
+Value = 4 Label = Shower replacing bath
+Value = 5 Label = New bath shower room
+Value = 6 Label = Redesign bathroom
+Value = 7 Label = Redesign kitchen
+Value = 8 Label = Relocation of bath or shower
+Value = 9 Label = Provide additional or relocate toilet
+Value = 10 Label = Bath shower seat or other aids
+Value = 11 Label = Special toilet seat raised toilet
+Value = 12 Label = Adjustable bed or other aids
+Value = 13 Label = Other modification of kitchen
+Value = 14 Label = Special adaptations for visually or hearing impaired
+Value = 15 Label = None needed provided
+
+Pos. = 3 Variable = dshvin4 Variable label = Interior adaptations have
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dshvin4
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = Internal ramp
+Value = 2 Label = Grab rail or handrails
+Value = 3 Label = Wide doorways
+Value = 4 Label = Electrical modifications
+Value = 5 Label = Additional heating
+Value = 6 Label = Entry phones
+Value = 7 Label = Individual alarm system
+Value = 8 Label = Hoist
+Value = 9 Label = Stairlift
+Value = 10 Label = Extension to meet needs
+Value = 11 Label = Special adaptations for visually or hearing impaired
+Value = 12 Label = None needed provided
+
+Pos. = 4 Variable = dshvex2 Variable label = Exterior adaptations have
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dshvex2
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = External ramp
+Value = 2 Label = Rail to external steps
+Value = 3 Label = Wide paths
+Value = 4 Label = Wide gateways
+Value = 5 Label = Wheelchair accessible parking
+Value = 6 Label = Other external adaptation
+Value = 7 Label = None needed provided
+
+Pos. = 5 Variable = dsndin3 Variable label = Interior adaptations needed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dsndin3
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = Graduated floor shower
+Value = 2 Label = Low level bath
+Value = 3 Label = Shower over bath
+Value = 4 Label = Shower replacing bath
+Value = 5 Label = New bath shower room
+Value = 6 Label = Redesign bathroom
+Value = 7 Label = Redesign kitchen
+Value = 8 Label = Relocation of bath or shower
+Value = 9 Label = Provide additional or relocate toilet
+Value = 10 Label = Bath shower seat or other aids
+Value = 11 Label = Special toilet seat raised toilet
+Value = 12 Label = Adjustable bed or other aids
+Value = 13 Label = Other modification of kitchen
+Value = 14 Label = Special adaptations for visually or hearing impaired
+Value = 15 Label = None needed provided
+
+Pos. = 6 Variable = dsndin4 Variable label = Interior adaptations needed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dsndin4
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = Internal ramp
+Value = 2 Label = Grab rail or handrails
+Value = 3 Label = Wide doorways
+Value = 4 Label = Electrical modifications
+Value = 5 Label = Additional heating
+Value = 6 Label = Entry phones
+Value = 7 Label = Individual alarm system
+Value = 8 Label = Hoist
+Value = 9 Label = Stairlift
+Value = 10 Label = Extension to meet needs
+Value = 11 Label = Special adaptations for visually or hearing impaired
+Value = 12 Label = None needed provided
+
+Pos. = 7 Variable = dsndex2 Variable label = Exterior adaptations needed
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for dsndex2
+Value = -9 Label = Does not apply
+Value = -8 Label = No Answer
+Value = 1 Label = External ramp
+Value = 2 Label = Rail to external steps
+Value = 3 Label = Wide paths
+Value = 4 Label = Wide gateways
+Value = 5 Label = Wheelchair accessible parking
+Value = 6 Label = Other external adaptation
+Value = 7 Label = None needed provided
+Value = 8 Label = Dont know
+
+Pos. = 8 Variable = fqtr Variable label = Fieldwork Quarter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 9 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 10 Variable = DShvGrad Variable label = Has grad flr shower
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvGrad
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 11 Variable = DShvLBth Variable label = Has low level bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvLBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 12 Variable = DShvSwBh Variable label = Has shower over bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvSwBh
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 13 Variable = DShvShwr Variable label = Has shower repl bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvShwr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 14 Variable = DShvBhRm Variable label = Has new bath/shwr rm
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvBhRm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 15 Variable = DShvDBth Variable label = Has redsgnd bathroom
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvDBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 16 Variable = DShvDKtn Variable label = Has redsgnd kitchen
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvDKtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 17 Variable = DShvRBth Variable label = Has relocated bath/shwr
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvRBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 18 Variable = DShvTlet Variable label = Has addit/reloc toilet
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvTlet
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 19 Variable = DShvSeat Variable label = Has bath/shwr seat/othr aids
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvSeat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 20 Variable = DShvSpcl Variable label = Has spcl toilet seat/raised tlt
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvSpcl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 21 Variable = DShvAdjt Variable label = Has adjst bed/othr aids
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvAdjt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 22 Variable = DShvMKtn Variable label = Has othr kitchen mod
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvMKtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 23 Variable = DShvNon3 Variable label = Has none of DShvIn3 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvNon3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 24 Variable = DShvDKnw Variable label = D/K if has DShvIn3 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvDKnw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 25 Variable = DSndGrad Variable label = Needs grad flr shower
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndGrad
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 26 Variable = DSndLBth Variable label = Needs low level bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndLBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 27 Variable = DSndSwBh Variable label = Needs shower over bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndSwBh
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 28 Variable = DSndShwr Variable label = Needs shower repl bath
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndShwr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 29 Variable = DSndBhRm Variable label = Needs new bath/shwr rm
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndBhRm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 30 Variable = DSndDBth Variable label = Needs redsgnd bathroom
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndDBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 31 Variable = DSndDKtn Variable label = Needs redsgnd kitchen
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndDKtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 32 Variable = DSndRBth Variable label = Needs relocated bath/shwr
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndRBth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 33 Variable = DSndTlet Variable label = Needs addit/reloc toilet
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndTlet
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 34 Variable = DSndSeat Variable label = Needs bath/shwr seat/othr aids
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndSeat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 35 Variable = DSndSpcl Variable label = Needs spcl toilet seat/raised tlt
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndSpcl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 36 Variable = DSndAdjt Variable label = Needs adjst bed/othr aids
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndAdjt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 37 Variable = DSndMKtn Variable label = Needs othr kitchen mod
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndMKtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 38 Variable = DSndNone Variable label = Needs none of DShvIn3 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndNone
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 39 Variable = DSndDKnw Variable label = D/K if needs DShvIn3 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndDKnw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 40 Variable = DShvRamp Variable label = Has internal ramp
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvRamp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 41 Variable = DShvGrab Variable label = Has grab/hand/stair rail
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvGrab
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 42 Variable = DShvWide Variable label = Has wide doorways
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvWide
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 43 Variable = DShvElec Variable label = Has electrical mods
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvElec
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 44 Variable = DShvHeat Variable label = Has addit heating
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvHeat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 45 Variable = DShvEnty Variable label = Has entry phone
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvEnty
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 46 Variable = DShvAlrm Variable label = Has indiv alarm sys
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvAlrm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 47 Variable = DShvHost Variable label = Has hoist
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvHost
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 48 Variable = DShvLift Variable label = Has stairlift
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvLift
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 49 Variable = DShvExtn Variable label = Has extension
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvExtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 50 Variable = DShvImpr Variable label = Has vis/hearing adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvImpr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 51 Variable = DShvNon4 Variable label = Has none of DShvIn4 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvNon4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 52 Variable = DShDKnw Variable label = D/K if has DShvIn4 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShDKnw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 53 Variable = DSndRamp Variable label = Needs internal ramp
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndRamp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 54 Variable = DSndGrab Variable label = Needs grab/hand/stair rail
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndGrab
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 55 Variable = DSndWide Variable label = Needs wide doorways
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndWide
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 56 Variable = DSndElec Variable label = Needs electrical mods
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndElec
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 57 Variable = DSndHeat Variable label = Needs addit heating
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndHeat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 58 Variable = DSndEnty Variable label = Needs entry phone
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndEnty
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 59 Variable = DSndAlrm Variable label = Needs indiv alarm sys
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndAlrm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 60 Variable = DSndHost Variable label = Needs hoist
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndHost
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 61 Variable = DSndLift Variable label = Needs stairlift
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndLift
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 62 Variable = DSndExtn Variable label = Needs extension
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndExtn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 63 Variable = DSndImpr Variable label = Needs vis/hearing adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndImpr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 64 Variable = DSndNon4 Variable label = Needs none of DSndIn4 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndNon4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 65 Variable = DSdDKnw Variable label = D/K if has DSndIn4 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSdDKnw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 66 Variable = DShvERmp Variable label = Has extnl ramp
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvERmp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 67 Variable = DShvRail Variable label = Has rail to extnl steps
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvRail
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 68 Variable = DShvWPth Variable label = Has wide paths
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvWPth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 69 Variable = DShvGate Variable label = Has wide gateways
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvGate
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 70 Variable = DShvWChr Variable label = Has whl/chr accessible parking
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvWChr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 71 Variable = DShvOthr Variable label = Has other extnl adapt
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvOthr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 72 Variable = DShvNon1 Variable label = Has none of DshvEx1 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DShvNon1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 73 Variable = DsDknw Variable label = D/K if has DshvEx1 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsDknw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 74 Variable = DSndERmp Variable label = Needs extnl ramp
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndERmp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 75 Variable = DSndRail Variable label = Needs rail to extnl steps
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndRail
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 76 Variable = DSndWPth Variable label = Needs wide paths
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndWPth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 77 Variable = DSndGate Variable label = Needs wide gateways
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndGate
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 78 Variable = DSndWChr Variable label = Needs whl/chr accessible parking
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndWChr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 79 Variable = DSndOthr Variable label = Needs other extnl adapt
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndOthr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 80 Variable = DSndNon1 Variable label = Needs none of DsndEx1 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSndNon1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 81 Variable = DSdDKn Variable label = D/K if has DsndEx1 adapts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DSdDKn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes

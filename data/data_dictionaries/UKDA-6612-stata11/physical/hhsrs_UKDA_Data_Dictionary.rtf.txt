@@ -1,0 +1,2603 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = hhsrs
+Number of variables = 281
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for aacode
+Value = 99999999 Label = Unknown
+
+Pos. = 2 Variable = Fhsstair Variable label = HHSRS Summary - Falls on stairs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsstair
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Fhsonlev Variable label = HHSRS Summary - Falls on the level
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsonlev
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 4 Variable = Fhsbtlev Variable label = HHSRS Summary - Falls on between levels
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsbtlev
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 5 Variable = Fhsfbath Variable label = HHSRS Summary - Falls asstd wkith baths
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsfbath
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 6 Variable = Fhsfire Variable label = HHSRS Summary - fire
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsfire
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 7 Variable = Fhshotsf Variable label = HHSRS Summary - hot surfaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhshotsf
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 8 Variable = Fhsdamp Variable label = HHSRS Summary - damp and mould
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsdamp
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 9 Variable = Fhsentry Variable label = HHSRS Summary - entry by intruders
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsentry
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 10 Variable = Fhsnoise Variable label = HHSRS Summary - noise
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsnoise
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 11 Variable = Fhscent Variable label = HHSRS Summary - collision and entrapment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhscent
+Value = 1 Label = Significantly lower risk than average
+Value = 2 Label = Average risk
+Value = 3 Label = Significantly higher risk than average
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 12 Variable = Fhsahwa Variable label = Are any hazards significantly higher than average?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsahwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Fhsmeas Variable label = HHSRS Summary - Description of measured hazards
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 14 Variable = Fhsexht Variable label = HHSRS Summary - excess heat
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsexht
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 15 Variable = Fhslight Variable label = HHSRS Summary - lighting
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhslight
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 16 Variable = Fhswater Variable label = HHSRS Summary - water supply
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhswater
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Fhsfood Variable label = HHSRS Summary - food safety
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsfood
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 18 Variable = Fhsphyg Variable label = HHSRS Summary - personal hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsphyg
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fhspoa Variable label = HHSRS Summary - position and operability amenities
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhspoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Fhsungas Variable label = HHSRS Summary - uncombusted gas
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsungas
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 21 Variable = Fhsexplo Variable label = HHSRS Summary - explosions
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsexplo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 22 Variable = Fhsels Variable label = HHSRS Summary - electrical safety
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsels
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 23 Variable = Fhsco Variable label = HHSRS Summary - carbon monoxide
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsco
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Fhsdhyg Variable label = HHSRS Summary - domestic hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsdhyg
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 25 Variable = Fhsscoll Variable label = HHSRS Summary - structural collapse
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fhsscoll
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 26 Variable = Fhsxrisk Variable label = HHSRS Summary - description of extreme risks
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 27 Variable = Fhsstwa Variable label = FALLS ON STAIRS - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Fhsstlik Variable label = FALLS ON STAIRS - probability of a person over 60 having a fall
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsstlik
+Value = 7777 Label = Section Not Applicable
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 29 Variable = Fhsstex Variable label = FALLS ON STAIRS - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsstex
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 30 Variable = Fhsstsv Variable label = FALLS ON STAIRS - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsstsv
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 31 Variable = Fhsstsr Variable label = FALLS ON STAIRS - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsstsr
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 32 Variable = Fhsstiha Variable label = FALLS ON STAIRS - install handrail - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstiha
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Fhsstihd Variable label = FALLS ON STAIRS - install handrail - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstihd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 34 Variable = Fhsstihq Variable label = FALLS ON STAIRS - install handrail - quantity (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsstihq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 35 Variable = Fhsstiba Variable label = FALLS ON STAIRS - install balustrade - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstiba
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 36 Variable = Fhsstibd Variable label = FALLS ON STAIRS - install balustrade - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstibd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 37 Variable = Fhsstibq Variable label = FALLS ON STAIRS - install balustrade - quantity (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsstibq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 38 Variable = Fhsstcva Variable label = FALLS ON STAIRS - cover dangerous balustrade/guarding - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcva
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 39 Variable = Fhsstcvd Variable label = FALLS ON STAIRS - cover dangerous balustrade/guarding - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcvd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 40 Variable = Fhsstcvq Variable label = FALLS ON STAIRS - cover dangerous balustrade/guarding - quantity (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsstcvq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 41 Variable = Fhsstrpa Variable label = FALLS ON STAIRS - repair/replace internal staircase - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstrpa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 42 Variable = Fhsstrpd Variable label = FALLS ON STAIRS - repair/replace internal staircase - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstrpd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 43 Variable = Fhsstrda Variable label = FALLS ON STAIRS - redesign staircase (design not condition) - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstrda
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 44 Variable = Fhsstrdd Variable label = FALLS ON STAIRS - redesign staircase (design not condition) - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstrdd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 45 Variable = Fhsstrdq Variable label = FALLS ON STAIRS - redesign staircase (design not condition) - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsstrdq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 46 Variable = Fhsstcoa Variable label = FALLS ON STAIRS - repair/replace external/common staircase - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 47 Variable = Fhsstcod Variable label = FALLS ON STAIRS - repair/replace external/common staircase - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 48 Variable = Fhsstexa Variable label = FALLS ON STAIRS - repair/replace external steps - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstexa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 49 Variable = Fhsstexd Variable label = FALLS ON STAIRS - repair/replace external steps - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstexd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 50 Variable = Fhsstexq Variable label = FALLS ON STAIRS - repair/replace external steps - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsstexq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 51 Variable = Fhsstcsa Variable label = FALLS ON STAIRS - cover slippery stairs - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcsa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 52 Variable = Fhsstcsd Variable label = FALLS ON STAIRS - cover slippery stairs - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstcsd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 53 Variable = Fhsstcsq Variable label = FALLS ON STAIRS - cover slippery stairs - quantity (flights)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsstcsq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 54 Variable = Fhsstlia Variable label = FALLS ON STAIRS - repair/replace/provide additional lighting - action required?, 
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstlia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 55 Variable = Fhsstlid Variable label = FALLS ON STAIRS - repair/replace/provide additional lighting described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstlid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 56 Variable = Fhsstliq Variable label = FALLS ON STAIRS - repair/replace/provide additional lighting quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsstliq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 57 Variable = Fhsstroa Variable label = FALLS ON STAIRS - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 58 Variable = Fhsstrod Variable label = FALLS ON STAIRS - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsstrod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 59 Variable = Fhsstroq Variable label = FALLS ON STAIRS - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsstroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 60 Variable = Fhslvwa Variable label = FALLS ON THE LEVEL - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 61 Variable = Fhslvlik Variable label = FALLS ON THE LEVEL - probability of a person over 60 having a fall
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhslvlik
+Value = 7777 Label = Section Not Applicable
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 62 Variable = Fhslvex Variable label = FALLS ON THE LEVEL - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhslvex
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 63 Variable = Fhslvsv Variable label = FALLS ON THE LEVEL - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhslvsv
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 64 Variable = Fhslvsr Variable label = FALLS ON THE LEVEL - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhslvsr
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 65 Variable = Fhslvrfa Variable label = FALLS ON THE LEVEL - repair floors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrfa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 66 Variable = Fhslvrfd Variable label = FALLS ON THE LEVEL - repair floors - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrfd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 67 Variable = Fhslvrpa Variable label = FALLS ON THE LEVEL - repair paths/external surfaces - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrpa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 68 Variable = Fhslvrpd Variable label = FALLS ON THE LEVEL - repair paths/external surfaces - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrpd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 69 Variable = Fhslvrta Variable label = FALLS ON THE LEVEL - remove trip steps - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrta
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 70 Variable = Fhslvrtd Variable label = FALLS ON THE LEVEL - remove trip steps - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrtd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 71 Variable = Fhslvrtq Variable label = FALLS ON THE LEVEL - remove trip steps - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhslvrtq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 72 Variable = Fhslvrda Variable label = FALLS ON THE LEVEL - redesign external pathways - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrda
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 73 Variable = Fhslvrdd Variable label = FALLS ON THE LEVEL - redesign external pathways - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrdd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 74 Variable = Fhslvrdq Variable label = FALLS ON THE LEVEL - redesign external pathways - Quantity - Metres
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhslvrdq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 75 Variable = Fhslvcva Variable label = FALLS ON THE LEVEL - cover slippery floors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvcva
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 76 Variable = Fhslvcvd Variable label = FALLS ON THE LEVEL - cover slippery floors - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvcvd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 77 Variable = Fhslvcvq Variable label = FALLS ON THE LEVEL - cover slippery floors - quantity (square metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhslvcvq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 78 Variable = Fhslvlia Variable label = FALLS ON THE LEVEL - repair/replace/provide additional lighting - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvlia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 79 Variable = Fhslvlid Variable label = FALLS ON THE LEVEL - repair/replace/provide additional lighting - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvlid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 80 Variable = Fhslvliq Variable label = FALLS ON THE LEVEL - repair/replace/provide additional lighting - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhslvliq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 81 Variable = Fhslvroa Variable label = FALLS ON THE LEVEL - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 82 Variable = Fhslvrod Variable label = FALLS ON THE LEVEL - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhslvrod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 83 Variable = Fhslvroq Variable label = FALLS ON THE LEVEL - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhslvroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 84 Variable = Fhsbtwa Variable label = FALLS BETWEEN LEVELS - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 85 Variable = Fhsbtlik Variable label = FALLS BETWEEN LEVELS - likelihood of a child under 5 having a fall
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsbtlik
+Value = 7777 Label = Section Not Applicable
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 86 Variable = Fhsbtex Variable label = FALLS BETWEEN LEVELS - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsbtex
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 87 Variable = Fhsbtsv Variable label = FALLS BETWEEN LEVELS - likelihood of extreme servere outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsbtsv
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 88 Variable = Fhsbtsr Variable label = FALLS BETWEEN LEVELS - likelihood of extreme serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsbtsr
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 89 Variable = Fhsbtwca Variable label = FALLS BETWEEN LEVELS - Window safety catches to install - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtwca
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 90 Variable = Fhsbtwcd Variable label = FALLS BETWEEN LEVELS - Window safety catches to install - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtwcd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 91 Variable = Fhsbtwcq Variable label = FALLS BETWEEN LEVELS - Window safety catches to install - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsbtwcq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 92 Variable = Fhsbtlia Variable label = FALLS BETWEEN LEVELS - repair/replace lighting - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtlia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 93 Variable = Fhsbtlid Variable label = FALLS BETWEEN LEVELS - repair/replace lighting - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtlid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 94 Variable = Fhsbtliq Variable label = FALLS BETWEEN LEVELS - repair/replace lighting - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsbtliq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 95 Variable = Fhsbtbua Variable label = FALLS BETWEEN LEVELS - brick-up dangerous opening / raise cill height - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtbua
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 96 Variable = Fhsbtbud Variable label = FALLS BETWEEN LEVELS - brick-up dangerous opening / raise cill height - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtbud
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 97 Variable = Fhsbtbuq Variable label = FALLS BETWEEN LEVELS - brick-up dangerous opening / raise cill height - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsbtbuq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 98 Variable = Fhsbtbaa Variable label = FALLS BETWEEN LEVELS - repair/replace balconies - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtbaa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 99 Variable = Fhsbtbad Variable label = FALLS BETWEEN LEVELS - repair/replace balconies - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtbad
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 100 Variable = Fhsbtpla Variable label = FALLS BETWEEN LEVELS - repairs to plot levels and falls - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtpla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 101 Variable = Fhsbtpld Variable label = FALLS BETWEEN LEVELS - repairs to plot level and falls - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtpld
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 102 Variable = Fhsbtgba Variable label = FALLS BETWEEN LEVELS - repair/replace guarding/balustrading - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtgba
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 103 Variable = Fhsbtgbd Variable label = FALLS BETWEEN LEVELS - repair/replace guarding/balustrading - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtgbd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 104 Variable = Fhsbtgia Variable label = FALLS BETWEEN LEVELS - guard rails to install - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtgia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 105 Variable = Fhsbtgid Variable label = FALLS BETWEEN LEVELS - guard rails to install - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtgid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 106 Variable = Fhsbtgiq Variable label = FALLS BETWEEN LEVELS - guard rails to install - Quantity (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsbtgiq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 107 Variable = Fhsbtroa Variable label = FALLS BETWEEN LEVELS - remove obstacle- action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 108 Variable = Fhsbtrod Variable label = FALLS BETWEEN LEVELS - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsbtrod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 109 Variable = Fhsbtroq Variable label = FALLS BETWEEN LEVELS - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsbtroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 110 Variable = Fhsfbwa Variable label = FALLS ASSTD WITH BATHS - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 111 Variable = Fhsfblik Variable label = FALLS ASSTD WITH BATHS - likelihood of a person over 60 having a fall
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsfblik
+Value = 7777 Label = Section Not Applicable
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 112 Variable = Fhsfbex Variable label = FALLS ASSTD WITH BATHS - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfbex
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 113 Variable = Fhsfbsv Variable label = FALLS ASSTD WITH BATHS - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfbsv
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 114 Variable = Fhsfbsr Variable label = FALLS ASSTD WITH BATHS - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfbsr
+Value = 777.7 Label = Section Not Applicable
+Value = 888.8 Label = Question Not Applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 115 Variable = Fhsfbrpa Variable label = FALLS ASSTD WITH BATHS - repair/replace bath - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrpa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 116 Variable = Fhsfbrpd Variable label = FALLS ASSTD WITH BATHS - repair/replace bath - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrpd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 117 Variable = Fhsfbrpq Variable label = FALLS ASSTD WITH BATHS - repair/replace bath - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbrpq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 118 Variable = Fhsfbgra Variable label = FALLS ASSTD WITH BATHS - provide grabrail - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbgra
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 119 Variable = Fhsfbgrd Variable label = FALLS ASSTD WITH BATHS - provide grabrail - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbgrd
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 120 Variable = Fhsfbgrq Variable label = FALLS ASSTD WITH BATHS - provide grabrail - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbgrq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 121 Variable = Fhsfbraa Variable label = FALLS ASSTD WITH BATHS - rearrange bathroom - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbraa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 122 Variable = Fhsfbrad Variable label = FALLS ASSTD WITH BATHS - rearrange bathroom - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrad
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 123 Variable = Fhsfbraq Variable label = FALLS ASSTD WITH BATHS - rearrange bathroom - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbraq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 124 Variable = Fhsfbrsa Variable label = FALLS ASSTD WITH BATHS - re-site bathroom - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrsa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 125 Variable = Fhsfbrsd Variable label = FALLS ASSTD WITH BATHS - re-site bathroom - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrsd
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 126 Variable = Fhsfbrsq Variable label = FALLS ASSTD WITH BATHS - re-site bathroom - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbrsq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 127 Variable = Fhsfbaha Variable label = FALLS ASSTD WITH BATHS - additional heating - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbaha
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 128 Variable = Fhsfbahd Variable label = FALLS ASSTD WITH BATHS - additional heating - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbahd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 129 Variable = Fhsfbahq Variable label = FALLS ASSTD WITH BATHS - additional heating - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbahq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 130 Variable = Fhsfbrla Variable label = FALLS ASSTD WITH BATHS - repair etc. lighting - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 131 Variable = Fhsfbrld Variable label = FALLS ASSTD WITH BATHS - repair etc. lighting - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrld
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 132 Variable = Fhsfbrlq Variable label = FALLS ASSTD WITH BATHS - repair etc. lighting - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbrlq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 133 Variable = Fhsfbroa Variable label = FALLS ASSTD WITH BATHS - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 134 Variable = Fhsfbrod Variable label = FALLS ASSTD WITH BATHS - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfbrod
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 135 Variable = Fhsfbroq Variable label = FALLS ASSTD WITH BATHS - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfbroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 136 Variable = Fhsfrwa Variable label = FIRE - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 137 Variable = Fhsfrlik Variable label = FIRE - likelihood of a fire occurring if occupied by a person over 60
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsfrlik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 138 Variable = Fhsfrex Variable label = FIRE - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfrex
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 139 Variable = Fhsfrsv Variable label = FIRE - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfrsv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 140 Variable = Fhsfrsr Variable label = FIRE - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsfrsr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 141 Variable = Fhsfrela Variable label = FIRE - repair/replace electrical system - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrela
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 142 Variable = Fhsfreld Variable label = FIRE - repair/replace electrical system - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfreld
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 143 Variable = Fhsfrsoa Variable label = FIRE - provide additional sockets - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrsoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 144 Variable = Fhsfrsod Variable label = FIRE - provide additional sockets - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrsod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 145 Variable = Fhsfrsoq Variable label = FIRE - provide additional sockets - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfrsoq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 146 Variable = Fhsfrhta Variable label = FIRE - repair/replace/reposition heater - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrhta
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 147 Variable = Fhsfrhtd Variable label = FIRE - repair/replace/reposition heater - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrhtd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 148 Variable = Fhsfrhtq Variable label = FIRE - repair/replace/reposition heater - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrhtq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 149 Variable = Fhsfrrca Variable label = FIRE - relocate cooker - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrrca
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 150 Variable = Fhsfrrcd Variable label = FIRE - relocate cooker - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrrcd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 151 Variable = Fhsfrrcq Variable label = FIRE - relocate cooker - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrrcq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 152 Variable = Fhsfrrka Variable label = FIRE - re-fit kitchen - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrrka
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 153 Variable = Fhsfrrkd Variable label = FIRE - re-fit kitchen - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrrkd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 154 Variable = Fhsfrrkq Variable label = FIRE - re-fit kitchen - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrrkq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 155 Variable = Fhsfrcaa Variable label = FIRE - Repair /install precautions to common areas - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrcaa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 156 Variable = Fhsfrcad Variable label = FIRE - Repair /install precautions to common areas - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrcad
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 157 Variable = Fhsfrcaq Variable label = FIRE - Repair /install precautions to common areas - quantity (square metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfrcaq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 158 Variable = Fhsfrpsa Variable label = FIRE - replace non fire resistant/smoke permeable structure - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrpsa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 159 Variable = Fhsfrpsd Variable label = FIRE - replace non fire resistant/smoke permeable structure - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrpsd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 160 Variable = Fhsfrpsq Variable label = FIRE - replace non fire resistant/smoke permeable structure - quantity (square metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfrpsq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 161 Variable = Fhsfrusa Variable label = FIRE - upgrade stairway to protected route - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrusa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 162 Variable = Fhsfrusd Variable label = FIRE - upgrade stairway to protected route - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrusd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 163 Variable = Fhsfrusq Variable label = FIRE - upgrade stairway to protected route - quantity (flights)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrusq
+Value = 77 Label = Section Not Applicable
+Value = 99 Label = Unknown
+Value = 888 Label = Question Not Applicable
+
+Pos. = 164 Variable = Fhsfrfwa Variable label = FIRE - provide fire stop wall to loft space - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrfwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 165 Variable = Fhsfrfwd Variable label = FIRE - provide fire stop wall to loft space - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrfwd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 166 Variable = Fhsfrfwq Variable label = FIRE - provide fire stop wall to loft space - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrfwq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 167 Variable = Fhsfrsca Variable label = FIRE - provide self-closing doors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrsca
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 168 Variable = Fhsfrscd Variable label = FIRE - provide self-closing doors - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrscd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 169 Variable = Fhsfrscq Variable label = FIRE - provide self-closing doors - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfrscq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 170 Variable = Fhsfrida Variable label = FIRE - install smoke detectors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrida
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 171 Variable = Fhsfridd Variable label = FIRE - install smoke detectors - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfridd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 172 Variable = Fhsfridq Variable label = FIRE - install smoke detectors - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfridq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 173 Variable = Fhsfrowa Variable label = FIRE - provide suitable openable windows - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrowa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 174 Variable = Fhsfrowd Variable label = FIRE - provide suitable openable windows - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrowd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 175 Variable = Fhsfrowq Variable label = FIRE - provide suitable openable windows - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsfrowq
+Value = 777 Label = Section Not Applicable
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 176 Variable = Fhsfrfea Variable label = FIRE - provide fire escape - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrfea
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 177 Variable = Fhsfrfed Variable label = FIRE - provide fire escape - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrfed
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 178 Variable = Fhsfrfeq Variable label = FIRE - provide fire escape - quantity (flights)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrfeq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 179 Variable = Fhsfrroa Variable label = FIRE - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 180 Variable = Fhsfrrod Variable label = FIRE - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsfrrod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 181 Variable = Fhsfrroq Variable label = FIRE - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsfrroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 182 Variable = Fhshswa Variable label = HOT SURFACES - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshswa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 183 Variable = Fhshslik Variable label = HOT SURFACES - likelihood of a child under 5 being burnt/scalded
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhshslik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 184 Variable = Fhshsex Variable label = HOT SURFACES - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhshsex
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 185 Variable = Fhshssv Variable label = HOT SURFACES - likelihood of servere outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhshssv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 186 Variable = Fhshssr Variable label = HOT SURFACES - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhshssr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 187 Variable = Fhshsrha Variable label = HOT SURFACES - reposition heater, heating or hot water pipes - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrha
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 188 Variable = Fhshsrhd Variable label = HOT SURFACES - reposition heater, heating or hot water pipes - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrhd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 189 Variable = Fhshsrhq Variable label = HOT SURFACES - reposition heater, heating or hot water pipes - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhshsrhq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 190 Variable = Fhshsrca Variable label = HOT SURFACES - relocate cooker - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrca
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 191 Variable = Fhshsrcd Variable label = HOT SURFACES - relocate cooker - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrcd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 192 Variable = Fhshsrcq Variable label = HOT SURFACES - relocate cooker - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhshsrcq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 193 Variable = Fhshsrka Variable label = HOT SURFACES - re-fit kitchen - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrka
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 194 Variable = Fhshsrkd Variable label = HOT SURFACES - re-fit kitchen - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrkd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 195 Variable = Fhshsrkq Variable label = HOT SURFACES - re-fit kitchen - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhshsrkq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 196 Variable = Fhshsroa Variable label = HOT SURFACES - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 197 Variable = Fhshsrod Variable label = HOT SURFACES - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhshsrod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 198 Variable = Fhshsroq Variable label = HOT SURFACES - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhshsroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 199 Variable = Fhsdawa Variable label = DAMP AND MOULD - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdawa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 200 Variable = Fhsdalik Variable label = DAMP AND MOULD - likelihood of a person under 15 suffering illness
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsdalik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 201 Variable = Fhsdaex Variable label = DAMP AND MOULD - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsdaex
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 202 Variable = Fhsdasv Variable label = DAMP AND MOULD - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsdasv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 203 Variable = Fhsdasr Variable label = DAMP AND MOULD - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsdasr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 204 Variable = Fhsdarda Variable label = DAMP AND MOULD - treat rising damp - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdarda
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 205 Variable = Fhsdardd Variable label = DAMP AND MOULD - treat rising damp - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdardd
+Value = 1 Label = Yes
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 206 Variable = Fhsdapda Variable label = DAMP AND MOULD - treat penetrating damp - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdapda
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 207 Variable = Fhsdapdd Variable label = DAMP AND MOULD - treat penetrating damp - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdapdd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 208 Variable = Fhsdapdq Variable label = DAMP AND MOULD - treat penetrating damp - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsdapdq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 209 Variable = Fhsdaexa Variable label = DAMP AND MOULD - extractor fans - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdaexa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 210 Variable = Fhsdaexd Variable label = DAMP AND MOULD - extractor fans - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdaexd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 211 Variable = Fhsdaexq Variable label = DAMP AND MOULD - extractor fans - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsdaexq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 212 Variable = Fhsdawia Variable label = DAMP AND MOULD - repair/install window - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdawia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 213 Variable = Fhsdawid Variable label = DAMP AND MOULD - repair/install window - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdawid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 214 Variable = Fhsdawiq Variable label = DAMP AND MOULD - repair/install window - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsdawiq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 215 Variable = Fhsdahta Variable label = DAMP AND MOULD - repair/improve heating - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdahta
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 216 Variable = Fhsdahtd Variable label = DAMP AND MOULD - repair/improve heating - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdahtd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 217 Variable = Fhsdahtq Variable label = DAMP AND MOULD - repair/improve heating - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsdahtq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 218 Variable = Fhsdaina Variable label = DAMP AND MOULD - improve insulation - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdaina
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 219 Variable = Fhsdaind Variable label = DAMP AND MOULD - improve insulation - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsdaind
+Value = 1 Label = Yes
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 220 Variable = Fhsenwa Variable label = ENTRY BY INTRUDERS - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsenwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 221 Variable = Fhsenlik Variable label = ENTRY BY INTRUDERS - likelihood of a person being affected
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsenlik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 222 Variable = Fhsenex Variable label = ENTRY BY INTRUDERS - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsenex
+Value = 77 Label = Section Not Applicable
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 223 Variable = Fhsensv Variable label = ENTRY BY INTRUDERS - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsensv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 224 Variable = Fhsensr Variable label = ENTRY BY INTRUDERS - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsensr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 225 Variable = Fhsendoa Variable label = ENTRY BY INTRUDERS - make doors secure - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsendoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 226 Variable = Fhsendod Variable label = ENTRY BY INTRUDERS - make doors secure - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsendod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 227 Variable = Fhsendoq Variable label = ENTRY BY INTRUDERS - make doors secure - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsendoq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 228 Variable = Fhsenwia Variable label = ENTRY BY INTRUDERS - make windows secure - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsenwia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 229 Variable = Fhsenwid Variable label = ENTRY BY INTRUDERS - make windows secure - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsenwid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 230 Variable = Fhsenwiq Variable label = ENTRY BY INTRUDERS - make windows secure - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsenwiq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 231 Variable = Fhsenlta Variable label = ENTRY BY INTRUDERS - additional lighting - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsenlta
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 232 Variable = Fhsenltd Variable label = ENTRY BY INTRUDERS - additional lighting - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsenltd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 233 Variable = Fhsenltq Variable label = ENTRY BY INTRUDERS - additional lighting - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsenltq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 234 Variable = Fhseniaa Variable label = ENTRY BY INTRUDERS - install alarm/CCTV - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhseniaa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 235 Variable = Fhseniad Variable label = ENTRY BY INTRUDERS - install alarm/CCTV - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhseniad
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 236 Variable = Fhsencoa Variable label = ENTRY BY INTRUDERS - concierge or entryphone - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsencoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 237 Variable = Fhsencod Variable label = ENTRY BY INTRUDERS - concierge or entryphone - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsencod
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 238 Variable = Fhsendsa Variable label = ENTRY BY INTRUDERS - defensible space - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsendsa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 239 Variable = Fhsendsd Variable label = ENTRY BY INTRUDERS - defensible space - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsendsd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 240 Variable = Fhsendsq Variable label = ENTRY BY INTRUDERS - defensible space - quantity (sq metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsendsq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 241 Variable = Fhsennpa Variable label = ENTRY BY INTRUDERS - neighbourhood problems - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsennpa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 242 Variable = Fhsnowa Variable label = NOISE - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnowa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 243 Variable = Fhsnolik Variable label = NOISE - likelihood of a person being affected
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhsnolik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 244 Variable = Fhsnoex Variable label = NOISE - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsnoex
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 245 Variable = Fhsnosv Variable label = NOISE - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsnosv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 246 Variable = Fhsnosr Variable label = NOISE - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsnosr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 247 Variable = Fhsnofla Variable label = NOISE - soundproof floors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnofla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 248 Variable = Fhsnofld Variable label = NOISE - soundproof floors - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnofld
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 249 Variable = Fhsnoflq Variable label = NOISE - soundproof floors - quantity (sq metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsnoflq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 250 Variable = Fhsnocea Variable label = NOISE - soundproof ceilings - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnocea
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 251 Variable = Fhsnoced Variable label = NOISE - soundproof ceilings - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnoced
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 252 Variable = Fhsnoceq Variable label = NOISE - soundproof ceilings - quantity (sq metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsnoceq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 253 Variable = Fhsnonma Variable label = NOISE - noisy machinery - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnonma
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 254 Variable = Fhsnonmd Variable label = NOISE - noisy machinery - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnonmd
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 255 Variable = Fhsnonmq Variable label = NOISE - noisy machinery - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsnonmq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 256 Variable = Fhsnopta Variable label = NOISE - soundproof partitions - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnopta
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 257 Variable = Fhsnoptd Variable label = NOISE - soundproof partitions - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnoptd
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 258 Variable = Fhsnoptq Variable label = NOISE - soundproof partitions - quantity (sq metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsnoptq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 259 Variable = Fhsnopwa Variable label = NOISE - soundproof party walls - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnopwa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 260 Variable = Fhsnopwd Variable label = NOISE - soundproof party walls - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnopwd
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 261 Variable = Fhsnopwq Variable label = NOISE - soundproof party walls - quantity (sq metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsnopwq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 262 Variable = Fhsnosga Variable label = NOISE - secondary glazing/repair windows - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnosga
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 263 Variable = Fhsnosgd Variable label = NOISE - secondary glazing/repair windows - described elswhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsnosgd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 264 Variable = Fhsnosgq Variable label = NOISE - secondary glazing/repair windows - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777 and 888 and 999
+ Value label information for Fhsnosgq
+Value = 777 Label = section not applicable
+Value = 888 Label = Question not applicable
+Value = 999 Label = Unknown
+
+Pos. = 265 Variable = Fhscewa Variable label = COLLISION AND ENTRAPMENT - significantly higher than average
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscewa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 266 Variable = Fhscelik Variable label = COLLISION AND ENTRAPMENT - likelihood of a child under 5 being injured
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7777 and 8888 and 9999
+ Value label information for Fhscelik
+Value = 7777 Label = section not applicable
+Value = 8888 Label = Question not applicable
+Value = 9999 Label = Unknown
+
+Pos. = 267 Variable = Fhsceex Variable label = COLLISION AND ENTRAPMENT - likelihood of extreme outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhsceex
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 268 Variable = Fhscesv Variable label = COLLISION AND ENTRAPMENT - likelihood of severe outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhscesv
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 269 Variable = Fhscesr Variable label = COLLISION AND ENTRAPMENT - likelihood of serious outcome
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 777.7 and 888.8 and 999.9
+ Value label information for Fhscesr
+Value = 777.7 Label = section not applicable
+Value = 888.8 Label = Question not applicable
+Value = 999.9 Label = Unknown
+
+Pos. = 270 Variable = Fhscewia Variable label = COLLISION AND ENTRAPMENT - repair/replace windows - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscewia
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 271 Variable = Fhscewid Variable label = COLLISION AND ENTRAPMENT - repair/replace windows - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscewid
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 272 Variable = Fhscewiq Variable label = COLLISION AND ENTRAPMENT - repair/replace windows - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhscewiq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 273 Variable = Fhscedoa Variable label = COLLISION AND ENTRAPMENT - repair/replace doors - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscedoa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 274 Variable = Fhscedod Variable label = COLLISION AND ENTRAPMENT - repair/replace doors - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscedod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 275 Variable = Fhscedoq Variable label = COLLISION AND ENTRAPMENT - repair/replace doors - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhscedoq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 276 Variable = Fhscesla Variable label = COLLISION AND ENTRAPMENT - signpost low headroom - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscesla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 277 Variable = Fhscesld Variable label = COLLISION AND ENTRAPMENT - signpost low headroom - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscesld
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 278 Variable = Fhsceslq Variable label = COLLISION AND ENTRAPMENT - signpost low headroom - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsceslq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 279 Variable = Fhsceroa Variable label = COLLISION AND ENTRAPMENT - remove obstacle - action required?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhsceroa
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 280 Variable = Fhscerod Variable label = COLLISION AND ENTRAPMENT - remove obstacle - described elsewhere?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fhscerod
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section not applicable
+Value = 8 Label = Question not applicable
+Value = 9 Label = Unknown
+
+Pos. = 281 Variable = Fhsceroq Variable label = COLLISION AND ENTRAPMENT - remove obstacle - quantity (number)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fhsceroq
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown

@@ -1,0 +1,125 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = workdone
+Number of variables = 5
+Number of cases = 27461
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHCS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = RPSOWN12 Variable label = Repairs in the last 12 months
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -9 and -8 and -7
+ Value label information for RPSOWN12
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = -7 Label = None of these
+Value = 11 Label = Replace at least one window with double glazed window
+Value = 12 Label = Replace at least one window with single galzed window
+Value = 13 Label = Major repairs to at least two windows
+Value = 14 Label = Replace at least one external door
+Value = 15 Label = Fit extra locks to existing windows
+Value = 16 Label = Fit extra locks to existing external doors
+Value = 21 Label = Put in a complete central heating system
+Value = 22 Label = Replace central heating boiler
+Value = 23 Label = Service the central heating boiler
+Value = 24 Label = Replace at least half of the central heating radiators
+Value = 25 Label = Add more radiators
+Value = 26 Label = Put in storage heaters
+Value = 27 Label = Replace at least half of the storage heaters
+Value = 28 Label = Service gas fires or heaters
+Value = 29 Label = Put in extra gas fires or heaters
+Value = 30 Label = Put in loft insulation or extra loft insulation
+Value = 31 Label = Put in cavity wall insulation
+Value = 32 Label = Put in solid wall insulation
+Value = 33 Label = Put in sound insulation to floors, walls or ceilings
+Value = 41 Label = Replace the kitchen units, worktops, and sink
+Value = 42 Label = Replace the whole bathroom suite
+Value = 43 Label = Completely rewire the house/flat
+Value = 44 Label = Install external lighting to outside of house or block
+Value = 45 Label = Install a burgular alarm
+Value = 51 Label = Replace repair at least half of the roof covering
+Value = 52 Label = Replace or strengthen the roof structure
+Value = 53 Label = Rebuild all or part of a chimney
+Value = 54 Label = Replace whole sections of guttering or rainwater pipes
+Value = 55 Label = Repoint at least half of the brickwork
+Value = 56 Label = Replace at least half of the render, pebbbledash or cladding
+Value = 57 Label = Work to foundations or structural wall
+Value = 58 Label = Any work to damp proof course
+Value = 61 Label = Loft conversion with new permanent staircase
+Value = 62 Label = Loft conversion with access by ladder
+Value = 63 Label = Replace, repair or fit handrail to staircase
+Value = 64 Label = Remove balustrade or bannisters from staircase
+Value = 65 Label = Make staircase open-plan
+Value = 66 Label = Replace or repair external steps
+Value = 67 Label = Replace, repair or fit handrail to external steps
+Value = 68 Label = Replace or repair paths or patios
+Value = 71 Label = Put in an entryphone system
+Value = 72 Label = Put in security cameras or CCTV
+Value = 98 Label = None of these
+
+Pos. = 3 Variable = corecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for corecat
+Value = 1 Label = Core: IS and PS achieved
+Value = 2 Label = Core: vacant at IS and PS achieved
+Value = 3 Label = Core: derelict at IS and PS achieved
+Value = 4 Label = Non-core: IS and PS ref or non-cont
+Value = 5 Label = Non-core: vac at IS and PS ref or non-cont
+Value = 6 Label = Non-core: derelict at IS and occup non-con at PS
+Value = 7 Label = Non-core: IS non-con and referred for PS
+Value = 8 Label = Non-core: IS non-cont and not referred for PS
+Value = 9 Label = Non-core: refused at IS
+Value = 10 Label = Inel: vac sec/hol homes
+Value = 11 Label = Inel: sec/hol homes
+Value = 12 Label = Inel: vac at IS and derelict at PS
+Value = 13 Label = Inel: derelict at IS and derelict at PS
+Value = 14 Label = Inel: non-res at IS
+Value = 15 Label = Inel: demolished at IS
+Value = 16 Label = Inel: address not found
+Value = 17 Label = Inel: sifted out
+
+Pos. = 4 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 5 Variable = quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009

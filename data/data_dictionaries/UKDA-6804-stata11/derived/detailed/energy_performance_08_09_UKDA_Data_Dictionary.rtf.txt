@@ -1,0 +1,151 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = energy_performance_08_09
+Number of variables = 25
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = EPcco205e Variable label = Notional total CO2 current emissions (tonnes/yr) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = EPcltc05e Variable label = Notional lighting current cost (/yr) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = EPcwhc05e Variable label = Notional water heating current cost (/yr) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = EPcshc05e Variable label = Notional space heating current cost (/yr) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 6 Variable = EPcalc05e Variable label = Notional total energy current cost (/yr) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 7 Variable = EPcuse05e Variable label = Notional primary energy use (kWh/m2 per year) (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 8 Variable = EPulin05e Variable label = Energy upgrade (low cost measure): loft insulation (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPulin05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 9 Variable = EPucwi05e Variable label = Energy upgrade (low cost measure): cavity wall insulation (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPucwi05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 10 Variable = EPucyi05e Variable label = Energy upgrade (low cost measure): cylinder insulation (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPucyi05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 11 Variable = EPucyt05e Variable label = Energy upgrade (higher cost measure): cylinder thermostat (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPucyt05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 12 Variable = EPuctr05e Variable label = Energy upgrade (higher cost measure): heating controls (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPuctr05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 13 Variable = EPublr05e Variable label = Energy upgrade (higher cost measure): boiler (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPublr05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 14 Variable = EPubms05e Variable label = Energy upgrade (higher cost measure): biomass system (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPubms05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 15 Variable = EPustr05e Variable label = Energy upgrade (higher cost measure): storage radiators (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPustr05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 16 Variable = EPuwas05e Variable label = Energy upgrade (higher cost measure): warm air system (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = 8
+ Value label information for EPuwas05e
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = not applicable
+
+Pos. = 17 Variable = EPpsap05e Variable label = Post-improvement Energy efficiency rating (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = EPpeeb05e Variable label = Post-improvement Energy efficiency rating band (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for EPpeeb05e
+Value = 1 Label = A
+Value = 2 Label = B
+Value = 3 Label = C
+Value = 4 Label = D
+Value = 5 Label = E
+Value = 6 Label = F
+Value = 7 Label = G
+
+Pos. = 19 Variable = EPpeir05e Variable label = Post-improvement Environmental impact rating (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = EPpeib05e Variable label = Post-improvement Environmental impact rating band (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for EPpeib05e
+Value = 1 Label = A
+Value = 2 Label = B
+Value = 3 Label = C
+Value = 4 Label = D
+Value = 5 Label = E
+Value = 6 Label = F
+Value = 7 Label = G
+
+Pos. = 21 Variable = EPpco205e Variable label = Post-improvement notional total CO2 current emissions (tonnes/yr) (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 22 Variable = EPpwhc05e Variable label = Post-improvement notional water heating current cost (/yr) (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 23 Variable = EPpshc05e Variable label = Post-improvement notional space heating current cost (/yr) (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 24 Variable = EPpalc05e Variable label = Post-improvement notional total energy current cost (/yr) (EHCS SAP 2005) (excludes Biomass)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 25 Variable = EPucos05e Variable label = Energy upgrade cost - all beneficial low and high cost upgrades (EHCS SAP 2005)
+This variable is numeric, the SPSS measurement level is scale.

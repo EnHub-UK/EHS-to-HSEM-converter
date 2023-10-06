@@ -1,0 +1,209 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = fire
+Number of variables = 22
+Number of cases = 14386
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = NumAla Variable label = Number of smoke alarms
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumAla
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = one
+Value = 2 Label = two
+Value = 3 Label = three or more
+
+Pos. = 3 Variable = Ownala Variable label = Working order of smoke alarms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Ownala
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes - (all) in full working order
+Value = 2 Label = some in full working order, some not
+Value = 3 Label = no - (all) not working for some reason
+
+Pos. = 4 Variable = FirsAlrm Variable label = Smoke alarm
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsAlrm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 5 Variable = FirsBlnk Variable label = Fire blanket
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsBlnk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 6 Variable = FirsExtg Variable label = Fire extinguisher
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsExtg
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 7 Variable = FirsFrDr Variable label = Fire door
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsFrDr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 8 Variable = FirsLddr Variable label = Ladder/rope
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsLddr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 9 Variable = FirsEscp Variable label = Fire escape/wide opening windows
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsEscp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 10 Variable = FirsPrac Variable label = Fire drill/escape route
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsPrac
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 11 Variable = FirsSnsr Variable label = Heat sensor
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsSnsr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 12 Variable = FirsSprk Variable label = Sprinkler system
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsSprk
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 13 Variable = FirsOthr Variable label = Other fire safety measures
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsOthr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 14 Variable = FirsNone Variable label = None of these
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FirsNone
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 15 Variable = AlaWMain Variable label = Wired to the mains/mains powered
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWMain
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 16 Variable = AlaWMsSy Variable label = Part of a mains powered security system
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWMsSy
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 17 Variable = AlaWByMs Variable label = Battery and mains
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWByMs
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 18 Variable = AlaWBty1 Variable label = Battery - ordinary 1yr
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWBty1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 19 Variable = AlaWBy10 Variable label = Battery - 10yr
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWBy10
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 20 Variable = AlaWByUn Variable label = Battery - type unknown
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWByUn
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 21 Variable = AlaWLght Variable label = Plugs into light fitting
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWLght
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 22 Variable = AlaWUnsu Variable label = Unsure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for AlaWUnsu
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes

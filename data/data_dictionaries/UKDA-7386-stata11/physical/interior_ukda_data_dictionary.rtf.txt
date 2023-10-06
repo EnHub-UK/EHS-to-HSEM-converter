@@ -1,0 +1,1009 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = interior
+Number of variables = 108
+Number of cases = 14951
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Finlivex Variable label = Does living room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlivex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Finlivle Variable label = Living room level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finlivle
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 4 Variable = Finlivfu Variable label = Living room function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finlivfu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 5 Variable = Finlivin Variable label = Living room inspected?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlivin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 6 Variable = Finlivcl Variable label = Living room ceiling height (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finlivcl
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 7 Variable = Finlivwi Variable label = Living room width (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finlivwi
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 8 Variable = Finlivde Variable label = Living room depth (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finlivde
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 9 Variable = Finkitex Variable label = Does kitchen exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkitex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 10 Variable = Finkitle Variable label = Kitchen level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finkitle
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 11 Variable = Finkitfu Variable label = Kitchen function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finkitfu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 12 Variable = Finkitin Variable label = Kitchen inspected?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finkitin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Finkitcl Variable label = Kitchen ceiling height (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finkitcl
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 14 Variable = Finkitwi Variable label = Kitchen width (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finkitwi
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 15 Variable = Finkitde Variable label = Kitchen depth (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finkitde
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 16 Variable = Finbedex Variable label = Does bedroom exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbedex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Finbedle Variable label = Bedroom level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finbedle
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 18 Variable = Finbedfu Variable label = Bedroom function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finbedfu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 19 Variable = Finbedin Variable label = Bedroom inspected?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbedin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Finbedcl Variable label = Bedroom ceiling height (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finbedcl
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 21 Variable = Finbedwi Variable label = Bedroom width (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finbedwi
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 22 Variable = Finbedde Variable label = Bedroom depth (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finbedde
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 23 Variable = Finbatex Variable label = Does bathroom exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Finbatle Variable label = Bathroom level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finbatle
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 25 Variable = Finbatin Variable label = Bathroom inspected?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 26 Variable = Finbatcl Variable label = Bathroom ceiling height (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Finbatcl
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 27 Variable = Fincirex Variable label = Does circulation exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincirex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Fincirin Variable label = Circulation inspected
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincirin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 29 Variable = Fincircl Variable label = Circulation ceiling height (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88.8 and 99.9
+ Value label information for Fincircl
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 30 Variable = Fingarex Variable label = Integral garage - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fingarex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 31 Variable = Fingarle Variable label = Integral garage - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fingarle
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 32 Variable = Finbalex Variable label = Integral balcony - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbalex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Finballe Variable label = Integral balcony - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finballe
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 34 Variable = Finex1ex Variable label = Extra room 1 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex1ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 35 Variable = Finex1le Variable label = Extra room 1 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex1le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 36 Variable = Finex1fu Variable label = Extra room 1 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex1fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 37 Variable = Finex2ex Variable label = Extra room 2 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex2ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 38 Variable = Finex2le Variable label = Extra room 2 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex2le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 39 Variable = Finex2fu Variable label = Extra room 2 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex2fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 40 Variable = Finex3ex Variable label = Extra room 3 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex3ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 41 Variable = Finex3le Variable label = Extra room 3 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex3le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 42 Variable = Finex3fu Variable label = Extra room 3 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex3fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 43 Variable = Finex4ex Variable label = Extra room 4 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex4ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 44 Variable = Finex4le Variable label = Extra room 4 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex4le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 45 Variable = Finex4fu Variable label = Extra room 4 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex4fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 46 Variable = Finex5ex Variable label = Extra room 5 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex5ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 47 Variable = Finex5le Variable label = Extra room 5 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex5le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 48 Variable = Finex5fu Variable label = Extra room 5 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex5fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 49 Variable = Finex6ex Variable label = Extra room 6 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex6ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 50 Variable = Finex6le Variable label = Extra room 6 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex6le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 51 Variable = Finex6fu Variable label = Extra room 6 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex6fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 52 Variable = Finex7ex Variable label = Extra room 7 - does room exist?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finex7ex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 53 Variable = Finex7le Variable label = Extra room 7 - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finex7le
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 54 Variable = Finex7fu Variable label = Extra room 7 - function
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finex7fu
+Value = 1 Label = Living room
+Value = 2 Label = Kitchen
+Value = 3 Label = Single bedroom
+Value = 4 Label = Twin bedroom
+Value = 5 Label = Dining room
+Value = 6 Label = Bathroom
+Value = 7 Label = Utility
+Value = 8 Label = Cupboard
+Value = 9 Label = Bed-sit
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 55 Variable = Finrooms Variable label = Number habitable rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 88 and 99
+ Value label information for Finrooms
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 56 Variable = Finsepun Variable label = Separable units?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsepun
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 57 Variable = Finstrpr Variable label = Stairs within dwelling: present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 58 Variable = Finstrop Variable label = Stairs within dwelling: open plan?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrop
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 59 Variable = Finstrfl Variable label = Stairs within dwelling: faults?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrfl
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 60 Variable = Finstrrn Variable label = Stairs within dwelling: replace structure
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrrn
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 61 Variable = Finstrtr Variable label = Stairs within dwelling: replace treads
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrtr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 62 Variable = Finstrbl Variable label = Stairs within dwelling: replace balustrades
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrbl
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 63 Variable = Finstrrp Variable label = Stairs within dwelling: repair refix treads balustrades
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finstrrp
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 64 Variable = Finsecme Variable label = Security of dwelling: main entrance door
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecme
+Value = 1 Label = High
+Value = 2 Label = Fairly high
+Value = 3 Label = Fairly low
+Value = 4 Label = Low
+Value = 5 Label = Very low
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 65 Variable = Finsecot Variable label = Security of dwelling: other external doors
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecot
+Value = 1 Label = High
+Value = 2 Label = Fairly high
+Value = 3 Label = Fairly low
+Value = 4 Label = Low
+Value = 5 Label = Very low
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 66 Variable = Finsecwn Variable label = Security of dwelling: accessible windows
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecwn
+Value = 1 Label = High
+Value = 2 Label = Fairly high
+Value = 3 Label = Fairly low
+Value = 4 Label = Low
+Value = 5 Label = Very low
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 67 Variable = Finsecba Variable label = Security of dwelling: burglar alarm present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecba
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 68 Variable = Finsecvw Variable label = Security of dwelling: door viewer present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecvw
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 69 Variable = Finsecsm Variable label = Security of dwelling: smoke detectors present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsecsm
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 70 Variable = Finflush Variable label = Accessibility : flush threshold < 15mm?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finflush
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 71 Variable = Finbeden Variable label = Accessibility : room on entrance level suitable for bedroom?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbeden
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 72 Variable = Finbaten Variable label = Accessibility : bathroom at entrance level?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbaten
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 73 Variable = FinWCen Variable label = Accessibility : WC at entrance level?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for FinWCen
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 74 Variable = finwawen Variable label = Accessibility: wheelchair accessible WC at entrance level?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for finwawen
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 75 Variable = Fintrpen Variable label = Accessibility : change in floor level / trip steps at entrance level?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fintrpen
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 76 Variable = Fincircu Variable label = Accessibility : doorsets and circulation meet part M?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincircu
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 77 Variable = Finlands Variable label = Accessibility : straight stairs with landings > 900mm?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlands
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 78 Variable = Finramps Variable label = Adaptations for the disabled: ramps
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finramps
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 79 Variable = Fingrabr Variable label = Adaptations for the disabled: grab rails
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fingrabr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 80 Variable = Finlifts Variable label = Adaptations for the disabled: stair lift
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlifts
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 81 Variable = Finhoist Variable label = Adaptations for the disabled: hoists
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhoist
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 82 Variable = Finelecm Variable label = Adaptations for the disabled: electrical modifications
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finelecm
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 83 Variable = Finhsstr Variable label = HEALTH AND SAFETY - falls on stairs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsstr
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 84 Variable = Finhslvl Variable label = HEALTH AND SAFETY - falls on the level
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhslvl
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 85 Variable = Finhsbtw Variable label = HEALTH AND SAFETY - falls between stairs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsbtw
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 86 Variable = Finhsfir Variable label = HEALTH AND SAFETY - fire
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsfir
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 87 Variable = Finhshot Variable label = HEALTH AND SAFETY - hot surfaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhshot
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 88 Variable = Finhsdam Variable label = HEALTH AND SAFETY - damp and mould
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsdam
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 89 Variable = Finhsent Variable label = HEALTH AND SAFETY - entry by intruders
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsent
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 90 Variable = Finhsnoi Variable label = HEALTH AND SAFETY - noise
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsnoi
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 91 Variable = Finhscen Variable label = HEALTH AND SAFETY - collision and entrapment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhscen
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 92 Variable = Finhsexh Variable label = HEALTH AND SAFETY - excess heat
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsexh
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 93 Variable = Finhslit Variable label = HEALTH AND SAFETY - lighting
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhslit
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 94 Variable = Finhsdhy Variable label = HEALTH AND SAFETY - domestic hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsdhy
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 95 Variable = Finotrd Variable label = Rising damp - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotrd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 96 Variable = Finotpd Variable label = Penetrating damp - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotpd
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 97 Variable = Finotmo Variable label = Serious condensation - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotmo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 98 Variable = Finotnl Variable label = Inadequate natural lighting - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotnl
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 99 Variable = Finotal Variable label = Inadequate artificial lighting - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotal
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 100 Variable = Finotrv Variable label = Inadequate room ventilation - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotrv
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 101 Variable = Finotvt Variable label = Inadequate appliance ventialtion - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotvt
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 102 Variable = Finotin Variable label = Wood boring insect - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 103 Variable = Finotrt Variable label = Dry wet rot - other rooms
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for Finotrt
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 104 Variable = fincodor Variable label = Conservatory - closable door
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for fincodor
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 105 Variable = fincosiz Variable label = Conservatory - area in m2
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 888 and 999
+ Value label information for fincosiz
+Value = 888 Label = Question Not Applicable
+Value = 999 Label = Unknown
+
+Pos. = 106 Variable = fincowin Variable label = Conservatory - window type
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for fincowin
+Value = 1 Label = Single glazed
+Value = 2 Label = Double glazed
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 107 Variable = fincorof Variable label = Conservatory - roof type
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for fincorof
+Value = 1 Label = Glass
+Value = 2 Label = Poly/other
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 108 Variable = fincorad Variable label = Fixed Radiator or other fixed radiator present?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for fincorad
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown

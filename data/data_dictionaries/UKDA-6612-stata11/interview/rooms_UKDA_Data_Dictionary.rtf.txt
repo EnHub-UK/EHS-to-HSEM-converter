@@ -1,0 +1,447 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = rooms
+Number of variables = 53
+Number of cases = 16675
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = corecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for corecat
+Value = 1 Label = Core: IS and PS achieved
+Value = 2 Label = Core: vacant at IS and PS achieved
+Value = 3 Label = Core: derelict at IS and PS achieved
+Value = 4 Label = Non-core: IS and PS ref or non-cont
+Value = 5 Label = Non-core: vac at IS and PS ref or non-cont
+Value = 6 Label = Non-core: derelict at IS and occup non-con at PS
+Value = 7 Label = Non-core: IS non-con and referred for PS
+Value = 8 Label = Non-core: IS non-cont and not referred for PS
+Value = 9 Label = Non-core: refused at IS
+Value = 10 Label = Inel: vac sec/hol homes
+Value = 11 Label = Inel: sec/hol homes
+Value = 12 Label = Inel: vac at IS and derelict at PS
+Value = 13 Label = Inel: derelict at IS and derelict at PS
+Value = 14 Label = Inel: non-res at IS
+Value = 15 Label = Inel: demolished at IS
+Value = 16 Label = Inel: address not found
+Value = 17 Label = Inel: sifted out
+
+Pos. = 3 Variable = HidAny Variable label = Does anyone else live in your accommodation who is not a member of your household?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HidAny
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 4 Variable = HidNumP Variable label = Number of people living in accommodation who are not members of household
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HidNumP
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 5 Variable = HidNumH Variable label = Number of households when more than one person living in accommodation not part of household
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HidNumH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 6 Variable = DVHidHH Variable label = Number of hidden households
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DVHidHH
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 7 Variable = Shareliv Variable label = Whether share a living room with other households
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for Shareliv
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 8 Variable = Sharefac Variable label = Whether share facilities with other households
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for Sharefac
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 9 Variable = Acnumber Variable label = Number of: Households share with
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Acnumber
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 10 Variable = shkit Variable label = Share: Kitchen
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shkit
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Separate kitchen
+
+Pos. = 11 Variable = shsepkit Variable label = Share: Separate kitchen
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shsepkit
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Separate kitchen, not used for eating meals
+
+Pos. = 12 Variable = shkitdin Variable label = Share: Kitchen-diner
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shkitdin
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = A kitchen-diner
+
+Pos. = 13 Variable = shothr Variable label = Share: Other room for cooking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shothr
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Another room for cooking
+
+Pos. = 14 Variable = shbathwc Variable label = Share: Bathroom or shower room with WC
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shbathwc
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Bathroom/shower room with WC
+
+Pos. = 15 Variable = shbath Variable label = Share: Bathroom or shower room without WC
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shbath
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Bathroom/shower room without WC
+
+Pos. = 16 Variable = shsepwc Variable label = Share: Separate WC
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shsepwc
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Separate WC
+
+Pos. = 17 Variable = shdkrf Variable label = Share: Dont know/refused
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for shdkrf
+Value = -9 Label = Does not apply
+Value = 0 Label = No
+Value = 1 Label = Dont know/refused
+
+Pos. = 18 Variable = AcMore Variable label = Whether home has more than one room
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for AcMore
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 19 Variable = AcCook Variable label = Whether the (one) room has cooking facilities
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for AcCook
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 20 Variable = Acbedr1 Variable label = Number of: bedrooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Acbedr1
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 21 Variable = AcKit0 Variable label = Number of: kitchens or other rooms for cooking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for AcKit0
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 22 Variable = Ackit1 Variable label = Whether kitchen is separate, kitchen-diner or other room for cooking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Ackit1
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = a separate kitchen
+Value = 2 Label = a kitchen-diner
+Value = 3 Label = another room for cooking
+
+Pos. = 23 Variable = Ackit2 Variable label = Number of: kitchen-diners
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Ackit2
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 24 Variable = Ackit3 Variable label = Number of: separate kitchens
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Ackit3
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 25 Variable = Ackit4 Variable label = Number of: other rooms for cooking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Ackit4
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 26 Variable = uslvck Variable label = Number of: Living or dining rooms for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for uslvck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 27 Variable = uscmbck Variable label = Number of: Combined living room/bedroom for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for uscmbck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 28 Variable = usbtwck Variable label = Number of: Bathrooms or shower rooms with WC for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for usbtwck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 29 Variable = usbtrck Variable label = Number of: Bathrooms or shower rooms without WC for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for usbtrck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 30 Variable = uswcck Variable label = Number of: Separate WCs for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for uswcck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 31 Variable = usotck Variable label = Number of: Other (incl cellar, utility, attic) for sole use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for usotck
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+
+Pos. = 32 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 33 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 34 Variable = Esblet1 Variable label = Sublet part, not currently let
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Esblet1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 35 Variable = Share2 Variable label = Share facilities
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Share2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = has accommodation to self
+Value = 2 Label = shared with someone o/side hhld
+
+Pos. = 36 Variable = Acpay Variable label = Paid rent by other hhld
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Acpay
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 37 Variable = NRms1 Variable label = No of bedrooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 38 Variable = NRms2 Variable label = No of kitchens >6.5 ft wide?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 39 Variable = ShRms2 Variable label = No of large shared kitchens
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShRms2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 40 Variable = NRms3 Variable label = No of kitchens <6.5ft wide
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 41 Variable = ShRms3 Variable label = No of small shared kitchens
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShRms3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 42 Variable = NRms4 Variable label = No of living rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 43 Variable = ShRms4 Variable label = No of shared living rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShRms4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 44 Variable = NRms5 Variable label = no of bathrooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 45 Variable = ShRms5 Variable label = No of shared bathrooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShRms5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 46 Variable = NRms6 Variable label = No of utility/other rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NRms6
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 47 Variable = ShRms6 Variable label = No of shared utility/other rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShRms6
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 48 Variable = NumWC Variable label = No of inside flush toilets
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NumWC
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 49 Variable = WCShr Variable label = Shares toilet with other hhld
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WCShr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 50 Variable = ShCirc Variable label = Shares hall/landing/staircase
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ShCirc
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 51 Variable = BedSpace Variable label = No of bedrooms in other accom
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for BedSpace
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 52 Variable = NonPrm Variable label = Shares facilities with landlord
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NonPrm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes, I share facilities with my landlord
+Value = 2 Label = no, the landlord lives elsewhere
+
+Pos. = 53 Variable = DVSole Variable label = Hhld has sole use of key amentities
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DVSole
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no

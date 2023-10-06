@@ -1,0 +1,94 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = firstimp_is
+Number of variables = 7
+Number of cases = 12269
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+ Value label information for aacode
+
+Pos. = 2 Variable = FrstImpN Variable label = First Impressions: Neighbourhood
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrstImpN
+Value = 1.0 Label = 1 - best
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4 - average
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7 - worst
+Value = 8.0 Label = not applicable - isolated
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 3 Variable = FrstImpb Variable label = First Impressions: Building
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for FrstImpb
+Value = 1.0 Label = 1 - best
+Value = 2.0 Label = 2
+Value = 3.0 Label = 3
+Value = 4.0 Label = 4 - average
+Value = 5.0 Label = 5
+Value = 6.0 Label = 6
+Value = 7.0 Label = 7 - worst
+Value = 8.0 Label = not applicable - demolished/not found/not residential
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 4 Variable = SmpInel Variable label = Address eligibility
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for SmpInel
+Value = 1.0 Label = demolished
+Value = 2.0 Label = not found for other reasons
+Value = 3.0 Label = wholly non-residential
+Value = 4.0 Label = institution/communal establishment
+Value = 5.0 Label = eligible
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 5 Variable = PropTyp Variable label = Property type - first impressions
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PropTyp
+Value = 1.0 Label = house/bungalow - detached
+Value = 2.0 Label = house/bungalow - semi-detached
+Value = 3.0 Label = house/bungalow - mid terrace
+Value = 4.0 Label = house/bungalow - end terrace
+Value = 5.0 Label = flat/maisonette - purpose built
+Value = 6.0 Label = flat/maisonette - conversion
+Value = 7.0 Label = hostel or B&B
+Value = 8.0 Label = caravan, mobile home, chalet, houseboat
+Value = 9.0 Label = other (Please specify)
+Value = -9.0 Label = does not apply
+Value = -8.0 Label = no answer
+
+Pos. = 6 Variable = Floors Variable label = Number of floors in building
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for Floors
+Value = -8.0 Label = no answer
+Value = 1.0 Label = less than six
+Value = 2.0 Label = six or more
+Value = -9.0 Label = does not apply
+
+Pos. = 7 Variable = PropNonR Variable label = Whether sample address contains non-residential units
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -1.79769313486e+308 thru -1.0
+ Value label information for PropNonR
+Value = -8.0 Label = no answer
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+Value = -9.0 Label = does not apply

@@ -1,0 +1,259 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = disability
+Number of variables = 26
+Number of cases = 40065
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = corecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for corecat
+Value = 1 Label = Core: IS and PS achieved
+Value = 2 Label = Core: vacant at IS and PS achieved
+Value = 3 Label = Core: derelict at IS and PS achieved
+Value = 4 Label = Non-core: IS and PS ref or non-cont
+Value = 5 Label = Non-core: vac at IS and PS ref or non-cont
+Value = 6 Label = Non-core: derelict at IS and occup non-con at PS
+Value = 7 Label = Non-core: IS non-con and referred for PS
+Value = 8 Label = Non-core: IS non-cont and not referred for PS
+Value = 9 Label = Non-core: refused at IS
+Value = 10 Label = Inel: vac sec/hol homes
+Value = 11 Label = Inel: sec/hol homes
+Value = 12 Label = Inel: vac at IS and derelict at PS
+Value = 13 Label = Inel: derelict at IS and derelict at PS
+Value = 14 Label = Inel: non-res at IS
+Value = 15 Label = Inel: demolished at IS
+Value = 16 Label = Inel: address not found
+Value = 17 Label = Inel: sifted out
+
+Pos. = 3 Variable = persno Variable label = Person number
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = hrp Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 5 Variable = Dsablt Variable label = Whether has long-term illness or disability
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Dsablt
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 6 Variable = Dslmt Variable label = Whether illness/disability limits activity
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Dslmt
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 7 Variable = DSVISION Variable label = Type of disability: vision
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSVISION
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Vision
+
+Pos. = 8 Variable = DSHEARNG Variable label = Type of disability: hearing
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSHEARNG
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Hearing
+
+Pos. = 9 Variable = DSLRNDF Variable label = Type of disability: learning difficulty
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSLRNDF
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Learning difficulty
+
+Pos. = 10 Variable = DSMOBLTY Variable label = Type of disability: mobility
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSMOBLTY
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Mobility
+
+Pos. = 11 Variable = DSBREATH Variable label = Type of disability: breathing problems
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSBREATH
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Breathing problems
+
+Pos. = 12 Variable = DSHEART Variable label = Type of disability: heart disease
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSHEART
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Heart disease
+
+Pos. = 13 Variable = DSMENTAL Variable label = Type of disability: mental health problems
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSMENTAL
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Mental health problems
+
+Pos. = 14 Variable = DSOTHER Variable label = Type of disability: other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSOTHER
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Other
+
+Pos. = 15 Variable = DSDKNW Variable label = Type of disability: dont know
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSDKNW
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Dont know
+
+Pos. = 16 Variable = DSREFUSD Variable label = Type of disability: refused
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for DSREFUSD
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Refused
+
+Pos. = 17 Variable = Dsreg Variable label = Whether registered with local council/social services
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Dsreg
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 18 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 19 Variable = QHealth1 Variable label = General Health
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for QHealth1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very good,
+Value = 2 Label = good,
+Value = 3 Label = fair,
+Value = 4 Label = bad,
+Value = 5 Label = very bad?
+
+Pos. = 20 Variable = LSIll Variable label = Long-stndg illness, disab/infirmity
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LSIll
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 21 Variable = IllLim Variable label = Whether limits activities
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for IllLim
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 22 Variable = WhChair Variable label = Uses wheelchair
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhChair
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 23 Variable = WhFreq Variable label = Frequency - wheelchair
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhFreq
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = all the time,
+Value = 2 Label = occasionally indoors,
+Value = 3 Label = outdoors only
+
+Pos. = 24 Variable = WHInside Variable label = Wheelchair use in home
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHInside
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very easy
+Value = 2 Label = fairly easy
+Value = 3 Label = neither easy nor difficult
+Value = 4 Label = fairly difficult
+Value = 5 Label = very difficult
+
+Pos. = 25 Variable = SmokEver Variable label = Ever smoked
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for SmokEver
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 26 Variable = CigNow Variable label = Smoke cigarettes now
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for CigNow
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no

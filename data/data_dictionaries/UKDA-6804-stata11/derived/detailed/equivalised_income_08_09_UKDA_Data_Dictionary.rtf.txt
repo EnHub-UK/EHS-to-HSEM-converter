@@ -1,0 +1,401 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = equivalised_income_08_09
+Number of variables = 49
+Number of cases = 15512
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = BHCinc Variable label = BHC annual household income
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = BHCinceq Variable label = BHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = BHCquint Variable label = BHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCquint
+Value = 1 Label = 1st quintile (lowest)
+Value = 2 Label = 2nd quintile
+Value = 3 Label = 3rd quintile
+Value = 4 Label = 4th quintile
+Value = 5 Label = 5th quintile (highest)
+
+Pos. = 5 Variable = BHCdec Variable label = BHC equivalised income deciles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCdec
+Value = 1 Label = 1st decile (lowest)
+Value = 2 Label = 2nd decile
+Value = 3 Label = 3rd decile
+Value = 4 Label = 4th decile
+Value = 5 Label = 5th decile
+Value = 6 Label = 6th decile
+Value = 7 Label = 7th decile
+Value = 8 Label = 8th decile
+Value = 9 Label = 9th decile
+Value = 10 Label = 10th decile (highest)
+
+Pos. = 6 Variable = BHCmd50 Variable label = below 50% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd50
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 7 Variable = BHCmd60 Variable label = below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd60
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 8 Variable = BHCmd70 Variable label = below 70% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for BHCmd70
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 9 Variable = AHCinc Variable label = AHC household annual income
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 10 Variable = AHCinceq Variable label = AHC equivalised weekly income (modified OECD scale)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 11 Variable = AHCquint Variable label = AHC equivalised income quintiles (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCquint
+Value = 1 Label = 1st quintile (lowest)
+Value = 2 Label = 2nd quintile
+Value = 3 Label = 3rd quintile
+Value = 4 Label = 4th quintile
+Value = 5 Label = 5th quintile (highest)
+
+Pos. = 12 Variable = AHCdec Variable label = AHC equivalised income deciles
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCdec
+Value = 1 Label = 1st decile (lowest)
+Value = 2 Label = 2nd decile
+Value = 3 Label = 3rd decile
+Value = 4 Label = 4th decile
+Value = 5 Label = 5th decile
+Value = 6 Label = 6th decile
+Value = 7 Label = 7th decile
+Value = 8 Label = 8th decile
+Value = 9 Label = 9th decile
+Value = 10 Label = 10th decile (highest)
+
+Pos. = 13 Variable = AHCmd50 Variable label = below 50% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd50
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 14 Variable = AHCmd60 Variable label = below 60% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd60
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 15 Variable = AHCmd70 Variable label = below 70% of median income (weighted by peoplegross)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for AHCmd70
+Value = 0 Label = Not below threshold
+Value = 1 Label = Below threshold
+
+Pos. = 16 Variable = aagph08 Variable label = Hhld weight, paired cases 2008
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 17 Variable = aagpd08 Variable label = Dwell weight, paired cases 2008
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 18 Variable = paired Variable label = Whether paired sample case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for paired
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = not paired
+Value = 1 Label = paired
+
+Pos. = 19 Variable = fqtr Variable label = Fieldwork Quarter
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for fqtr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 20 Variable = fmonth Variable label = Fieldwork Month
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for fmonth
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 21 Variable = fyear Variable label = Fieldwork Year
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for fyear
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 22 Variable = tenure8x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure8x
+Value = 1 Label = owner occupied - occupied
+Value = 2 Label = private rented - occupied
+Value = 3 Label = local authority - occupied
+Value = 4 Label = RSL - occupied
+Value = 5 Label = owner occupied - vacant
+Value = 6 Label = private rented - vacant
+Value = 7 Label = local authority - vacant
+Value = 8 Label = RSL - vacant
+
+Pos. = 23 Variable = tenure4x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure4x
+Value = 1 Label = owner occupied
+Value = 2 Label = private rented
+Value = 3 Label = local authority
+Value = 4 Label = RSL
+
+Pos. = 24 Variable = tenure2x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for tenure2x
+Value = 1 Label = private
+Value = 2 Label = social
+
+Pos. = 25 Variable = vacantx Variable label = Type of vacancy
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for vacantx
+Value = 1 Label = occupied
+Value = 2 Label = vacant
+
+Pos. = 26 Variable = vaclngth Variable label = Length of vacancy
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for vaclngth
+Value = -9 Label = not applicable - occupied
+Value = -8 Label = no answer
+Value = 1 Label = short term (less than 6 months)
+Value = 2 Label = long term (6 months or more)
+
+Pos. = 27 Variable = goregx Variable label = Government office region
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for goregx
+Value = 1 Label = North East
+Value = 2 Label = Yorkshire and The Humber
+Value = 3 Label = North West
+Value = 4 Label = East Midlands
+Value = 5 Label = West Midlands
+Value = 6 Label = South West
+Value = 7 Label = East of England
+Value = 8 Label = South East
+Value = 9 Label = London
+
+Pos. = 28 Variable = region3x Variable label = Overall region of England
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for region3x
+Value = 1 Label = northern regions
+Value = 2 Label = London and south east regions
+Value = 3 Label = rest of England
+
+Pos. = 29 Variable = rumorph Variable label = Rurality - morphology (COA)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for rumorph
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = urban > 10k
+Value = 2 Label = town and fringe
+Value = 3 Label = village
+Value = 4 Label = hamlets and isolated dwellings
+
+Pos. = 30 Variable = govreg1 Variable label = Government office Region, grouped
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for govreg1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = North
+Value = 2 Label = Midlands
+Value = 3 Label = London
+Value = 4 Label = Rest of South
+
+Pos. = 31 Variable = nrf88 Variable label = Neighbourhood Renewal Fund (88) districts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for nrf88
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = other districts
+Value = 1 Label = NRF districts
+
+Pos. = 32 Variable = nrf86 Variable label = Neighbourhood Renewal Fund (86) districts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for nrf86
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = other districts
+Value = 1 Label = NRF districts
+
+Pos. = 33 Variable = nrf91 Variable label = Neighbourhood Renewal Fund (91) districts
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for nrf91
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = other districts
+Value = 1 Label = NRF districts
+
+Pos. = 34 Variable = imd1004 Variable label = IMD 2004 decile ranking of areas (lower layer SOA)
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for imd1004
+Value = 1 Label = most deprived 10% of areas
+Value = 2 Label = 2nd
+Value = 3 Label = 3rd
+Value = 4 Label = 4th
+Value = 5 Label = 5th
+Value = 6 Label = 6th
+Value = 7 Label = 7th
+Value = 8 Label = 8th
+Value = 9 Label = 9th
+Value = 10 Label = least deprived 10% of areas
+
+Pos. = 35 Variable = imd1007 Variable label = IMD 2007 decile ranking of areas
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for imd1007
+Value = 1 Label = most deprived 10% of areas
+Value = 2 Label = 2nd
+Value = 3 Label = 3rd
+Value = 4 Label = 4th
+Value = 5 Label = 5th
+Value = 6 Label = 6th
+Value = 7 Label = 7th
+Value = 8 Label = 8th
+Value = 9 Label = 9th
+Value = 10 Label = least deprived 10% of areas
+
+Pos. = 36 Variable = pthfind Variable label = Pathfinder generic flag
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for pthfind
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = not pathfinder area
+Value = 1 Label = pathfinder area
+
+Pos. = 37 Variable = valout Variable label = Valuation of home
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 38 Variable = demand1 Variable label = Level of demand in the area
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for demand1
+Value = -9 Label = question not applicable
+Value = -8 Label = not answered
+Value = 1 Label = neglible to limited
+Value = 2 Label = moderate
+Value = 3 Label = high
+
+Pos. = 39 Variable = mktdemfs Variable label = Market area factor score for demand for housing
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = -8
+ Value label information for mktdemfs
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+
+Pos. = 40 Variable = mktvolfs Variable label = Market area factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = -8
+ Value label information for mktvolfs
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+
+Pos. = 41 Variable = mktdem10 Variable label = Market areas ranked by factor score for demand for housing
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktdem10
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest decile group of markets
+Value = 10 Label = highest decile group of markets
+
+Pos. = 42 Variable = mktvol10 Variable label = Market areas ranked by factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktvol10
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest decile group of markets
+Value = 10 Label = highest decile group of markets
+
+Pos. = 43 Variable = mktdem5 Variable label = Market areas ranked by factor score for demand for housing
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktdem5
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest quintile group of markets
+Value = 5 Label = highest quintile group of markets
+
+Pos. = 44 Variable = mktvol5 Variable label = Market areas ranked by factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktvol5
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest quintile group of markets
+Value = 5 Label = highest quintile group of markets
+
+Pos. = 45 Variable = aagph09 Variable label = Hhld weight, paired cases 2009
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 46 Variable = aagpd09 Variable label = Dwell weight, paired cases 2009
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 47 Variable = GorEHCS Variable label = Government office region
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHCS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = North East
+Value = 2 Label = Yorkshire and the Humber
+Value = 3 Label = North West
+Value = 4 Label = East Midlands
+Value = 5 Label = West Midlands
+Value = 6 Label = South West
+Value = 7 Label = East England
+Value = 8 Label = South East
+Value = 9 Label = London
+
+Pos. = 48 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 49 Variable = peoplegross Variable label = Quasi grossing factor for individuals in the household using aagph89
+This variable is numeric, the SPSS measurement level is scale.

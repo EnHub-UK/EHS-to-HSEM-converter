@@ -1,0 +1,1120 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = attitudes
+Number of variables = 110
+Number of cases = 16675
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Actype Variable label = Type of dwelling
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Actype
+Value = 1 Label = whole house or bungalow
+Value = 2 Label = flat maisonette bedsit, or
+Value = 3 Label = Other
+
+Pos. = 3 Variable = Hmsat Variable label = How satisfied or dissatisfied are you with your home?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmsat
+Value = -8 Label = No answer
+Value = 1 Label = Very satisfied
+Value = 2 Label = Fairly satisfied
+Value = 3 Label = Neither satisfied nor dissatisfied
+Value = 4 Label = Slightly dissatisfied
+Value = 5 Label = Very dissatisfied
+Value = 6 Label = No opinion
+
+Pos. = 4 Variable = Hmoutapp Variable label = Rating of: outside appearance
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmoutapp
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 5 Variable = Hmovsize Variable label = Rating of: overall size of property
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmovsize
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 6 Variable = Hmnoroom Variable label = Rating of: number of rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmnoroom
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 7 Variable = Hmrmlayo Variable label = Rating of: layout of rooms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmrmlayo
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 8 Variable = Hmdecorr Variable label = Rating of: decoration
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmdecorr
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 9 Variable = Hmkitchr Variable label = Rating of: kitchen facilities
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmkitchr
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 10 Variable = Hmbathr Variable label = Rating of: bathroom facilities
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmbathr
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 11 Variable = Hmstorr Variable label = Rating of: amount of storage space
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmstorr
+Value = -8 Label = No answer
+Value = 1 Label = Very good
+Value = 2 Label = Fairly good
+Value = 3 Label = Neither good nor poor
+Value = 4 Label = Fairly poor
+Value = 5 Label = Very poor
+
+Pos. = 12 Variable = Hmhtwtr Variable label = How effective hot water
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmhtwtr
+Value = -8 Label = No answer
+Value = 1 Label = Very effective
+Value = 2 Label = Fairly effective
+Value = 3 Label = Not very effective
+Value = 4 Label = Not at all effective
+Value = 5 Label = Dont have this feature in the home
+
+Pos. = 13 Variable = Hmheatng Variable label = How effective heating
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmheatng
+Value = -8 Label = No answer
+Value = 1 Label = Very effective
+Value = 2 Label = Fairly effective
+Value = 3 Label = Not very effective
+Value = 4 Label = Not at all effective
+Value = 5 Label = Dont have this feature in the home
+
+Pos. = 14 Variable = Hmisltn Variable label = How effective insulation and draught proofing
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmisltn
+Value = -8 Label = No answer
+Value = 1 Label = Very effective
+Value = 2 Label = Fairly effective
+Value = 3 Label = Not very effective
+Value = 4 Label = Not at all effective
+Value = 5 Label = Dont have this feature in the home
+
+Pos. = 15 Variable = Hmmtcstr Variable label = How easy to meet the costs of your rent/mortgage
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmmtcstr
+Value = -8 Label = No answer
+Value = 1 Label = Very easy
+Value = 2 Label = Fairly easy
+Value = 3 Label = Neither easy nor difficult
+Value = 4 Label = Fairly difficult
+Value = 5 Label = Very difficult
+Value = 6 Label = No mortgage
+
+Pos. = 16 Variable = Hmmtcsth Variable label = How easy to meet heating/fuel costs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmmtcsth
+Value = -8 Label = No answer
+Value = 1 Label = Very easy
+Value = 2 Label = Fairly easy
+Value = 3 Label = Neither easy nor difficult
+Value = 4 Label = Fairly difficult
+Value = 5 Label = Very difficult
+
+Pos. = 17 Variable = Hmpyelec Variable label = Payment method for electricity
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmpyelec
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Direct debit
+Value = 2 Label = Standing order
+Value = 3 Label = Monthly/quarterly bill
+Value = 4 Label = Pre-payment (key card or token) meters
+Value = 5 Label = Included in rent
+Value = 6 Label = Frequent cash payment method (more than once a month)
+Value = 7 Label = Fuel direct/direct from benefits
+Value = 8 Label = Fixed annual bill
+Value = 9 Label = Other
+
+Pos. = 18 Variable = Hmpygas Variable label = Payment method for gas
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmpygas
+Value = -9 Label = Does not apply/No mains gas
+Value = -8 Label = No answer
+Value = 1 Label = Direct debit
+Value = 2 Label = Standing order
+Value = 3 Label = Monthly/quarterly bill
+Value = 4 Label = Pre-payment (key card or token) meters
+Value = 5 Label = Included in rent
+Value = 6 Label = Frequent cash payment method (more than once a month)
+Value = 7 Label = Fuel direct/direct from benefits
+Value = 8 Label = Fixed annual bill
+Value = 9 Label = Other
+
+Pos. = 19 Variable = Respdnt Variable label = Person number of respondent
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = HmAllDay Variable label = Times at home in winter: all day/all the time
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmAllDay
+Value = 0 Label = Not
+Value = 1 Label = All day/ all the time
+
+Pos. = 21 Variable = HmWkMorn Variable label = Times at home in winter: weekday morning (9am-12pm)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWkMorn
+Value = 0 Label = Not
+Value = 1 Label = Weekday morning (9am-12pm)
+
+Pos. = 22 Variable = HmWkLun Variable label = Times at home in winter: weekday lunchtime (12pm-2pm)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWkLun
+Value = 0 Label = Not
+Value = 1 Label = Weekday lunchtime (12pm-2pm)
+
+Pos. = 23 Variable = HmWkAft Variable label = Times at home in winter: weekday afternoon (2pm-5pm)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWkAft
+Value = 0 Label = Not
+Value = 1 Label = Weekday afternoon (2pm-5pm)
+
+Pos. = 24 Variable = HmWkEve Variable label = Times at home in winter: weekday evenings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWkEve
+Value = 0 Label = Not
+Value = 1 Label = Weekday evenings
+
+Pos. = 25 Variable = HmWEndDy Variable label = Times at home in winter: weekend daytimes
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWEndDy
+Value = 0 Label = Not
+Value = 1 Label = Weekend daytimes
+
+Pos. = 26 Variable = HmWEndEv Variable label = Times at home in winter: weekend evenings
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWEndEv
+Value = 0 Label = Not
+Value = 1 Label = Weekend evenings
+
+Pos. = 27 Variable = HMHIVAR Variable label = Times at home in winter: highly variable
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HMHIVAR
+Value = 0 Label = Not
+Value = 1 Label = Highly variable
+
+Pos. = 28 Variable = HmWintDK Variable label = Times at home in winter: Dont know
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HmWintDK
+Value = 0 Label = Not
+Value = 1 Label = Dont know
+
+Pos. = 29 Variable = Hmheaton Variable label = Able to keep comfortably warm in living room in winter
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmheaton
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 30 Variable = Hmhtno Variable label = Why cannot keep warm
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmhtno
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Costs too much to keep heat on
+Value = 2 Label = Not possible to heat room to comfort standard
+Value = 3 Label = Both of above
+Value = 4 Label = Neither
+
+Pos. = 31 Variable = Hmsmklrm Variable label = Number of working smoke alarms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmsmklrm
+Value = -8 Label = No answer
+Value = 1 Label = One
+Value = 2 Label = Two
+Value = 3 Label = Three or more
+Value = 4 Label = None
+
+Pos. = 32 Variable = Hmmains Variable label = Have smoke alarms: that are mains powered
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmmains
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Mains powered
+
+Pos. = 33 Variable = Hmbattry Variable label = Have smoke alarms: that are battery powered
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmbattry
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Battery powered
+
+Pos. = 34 Variable = HMBATTDK Variable label = Have smoke alarms: Dont know if mains powered
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for HMBATTDK
+Value = -9 Label = Does not apply
+Value = 0 Label = Not
+Value = 1 Label = Dont Know
+
+Pos. = 35 Variable = Hmcmlrm Variable label = Presence of smoke alarms in common areas
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmcmlrm
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 3 Label = Not applicable
+
+Pos. = 36 Variable = Hmsatrpr Variable label = Satisfaction with current state of repair of home
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmsatrpr
+Value = -8 Label = No answer
+Value = 1 Label = Very satisfied
+Value = 2 Label = Fairly satisfied
+Value = 3 Label = Neither satisfied nor dissatisfied
+Value = 4 Label = Slightly dissatisfied
+Value = 5 Label = Very dissatisfied
+Value = 6 Label = No opinion
+
+Pos. = 37 Variable = Hmrprrt Variable label = Self-rating of state of repair of home
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmrprrt
+Value = -8 Label = No answer
+Value = 1 Label = Excellent - nothing needs doing
+Value = 2 Label = Very good - only minor problems
+Value = 3 Label = Fairly good - some problems, but not too many
+Value = 4 Label = Fairly poor - quite a lot of problems
+Value = 5 Label = Very poor - a lot of major problems
+
+Pos. = 38 Variable = Hmpoor Variable label = How much does the poor state of repair affect you?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Hmpoor
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = No trouble
+Value = 2 Label = Causing some inconvenience
+Value = 3 Label = Causing some discomfort
+Value = 4 Label = Distressing
+
+Pos. = 39 Variable = Nhrsat Variable label = Satisfaction with neighbourhood as a place to live
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhrsat
+Value = -8 Label = No answer
+Value = 1 Label = Very satisfied
+Value = 2 Label = Fairly satisfied
+Value = 3 Label = Neither satisfied nor dissatisfied
+Value = 4 Label = Slightly dissatisfied
+Value = 5 Label = Very dissatisfied
+Value = 6 Label = No opinion
+
+Pos. = 40 Variable = Nhbtwrs Variable label = Has neighbourhood got better, worse or not changed much in last 12 months?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhbtwrs
+Value = -8 Label = No answer
+Value = 1 Label = Got a lot better
+Value = 2 Label = Got a little better
+Value = 3 Label = Not changed much
+Value = 4 Label = Got a little worse
+Value = 5 Label = Got a lot worse
+Value = 6 Label = Have lived here less than 12 months
+
+Pos. = 41 Variable = NhMorCrm Variable label = Is there more or less crime in neighbourhood than 12 months ago?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhMorCrm
+Value = -9 Label = Not applicable
+Value = -8 Label = No answer
+Value = 1 Label = A lot more crime
+Value = 2 Label = A little more crime
+Value = 3 Label = About the same
+Value = 4 Label = A little less crime
+Value = 5 Label = A lot less crime
+Value = 6 Label = Have lived here less than 12 months
+
+Pos. = 42 Variable = NhCommon Variable label = Noise problems from: immediate neighbours
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhCommon
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = A Immediate neighbours or people in the common areas
+
+Pos. = 43 Variable = Nhsleep Variable label = Has your sleep been disturbed by noise sources in the last four weeks?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhsleep
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 3 Label = Dont know
+
+Pos. = 44 Variable = NhImm Variable label = How much does noise from immediate neighbours bother or annoy you?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhImm
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Not at all
+Value = 2 Label = Slightly
+Value = 3 Label = Moderately
+Value = 4 Label = Strongly
+Value = 5 Label = Extremely
+
+Pos. = 45 Variable = NhGen Variable label = How much does general neighbourhood noise bother or annoy you?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhGen
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Not at all
+Value = 2 Label = Slightly
+Value = 3 Label = Moderately
+Value = 4 Label = Strongly
+Value = 5 Label = Extremely
+
+Pos. = 46 Variable = NhStreet Variable label = Noise problems from: other neighbours or people in street
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhStreet
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = B Other neighbours or people in street
+
+Pos. = 47 Variable = NhRoad Variable label = Noise problems from: road traffic - cars buses or lorries
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhRoad
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = C Road traffic - cars buses or lorries
+
+Pos. = 48 Variable = NhTrains Variable label = Noise problems from: trains
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhTrains
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = D trains
+
+Pos. = 49 Variable = NhPlanes Variable label = Noise problems from: aeroplanes
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhPlanes
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = E aeroplanes
+
+Pos. = 50 Variable = NhAlarms Variable label = Noise problems from: car alarms or burglar alarms
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhAlarms
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = F car alarms or burglar alarms
+
+Pos. = 51 Variable = NhShops Variable label = Noise problems from: factories or workshops
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhShops
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = G factories or workshops
+
+Pos. = 52 Variable = NhSites Variable label = Noise problems from: building sites
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhSites
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = H building sites
+
+Pos. = 53 Variable = NHRDWKS Variable label = Noise problems from: roadworks
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHRDWKS
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = I road works
+
+Pos. = 54 Variable = NHENT Variable label = Noise problems from: pubs, clubs or entertainment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHENT
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = J pubs, clubs or entertainment
+
+Pos. = 55 Variable = NHANIM Variable label = Noise problems from: animals (e.g. dogs)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHANIM
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = K animals (e.g. dogs)
+
+Pos. = 56 Variable = NhOthr Variable label = Noise problems from: other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhOthr
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = L Other
+
+Pos. = 57 Variable = NhNone Variable label = Noise problems from: none of these
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhNone
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 0 Label = Not
+Value = 1 Label = M None of these
+
+Pos. = 58 Variable = NHDNK Variable label = Noise problems from: Dont know
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHDNK
+Value = 0 Label = Not
+Value = 1 Label = N Dont know
+
+Pos. = 59 Variable = Nhbldd Variable label = Are problems because of
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhbldd
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Design of the building
+Value = 2 Label = Behaviour of the people who live there
+Value = 3 Label = Both equally
+Value = 4 Label = Neither
+Value = 9 Label = Dont Know (Spontaneous only)
+
+Pos. = 60 Variable = NHCRIME Variable label = General level of crime
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHCRIME
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 61 Variable = NHFEAR Variable label = Fear of being burgled
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHFEAR
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 62 Variable = NHVANDL Variable label = Vandalism and hooliganism
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHVANDL
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 63 Variable = NHRACH Variable label = Racial harassment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHRACH
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 64 Variable = NHDRUG Variable label = Presence of drug dealers/users
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHDRUG
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 65 Variable = NHPRSPC Variable label = Poor state of open space/gardens
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHPRSPC
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 66 Variable = NHDOGM Variable label = Problems with dogs/dog mess
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHDOGM
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 67 Variable = NHGRAF Variable label = Graffiti
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHGRAF
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 68 Variable = NHLITR Variable label = Litter and rubbish in the streets
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHLITR
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 69 Variable = NHTRAF Variable label = Heavy traffic
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHTRAF
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 70 Variable = NHSRTPK Variable label = Problems with street parking
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHSRTPK
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 71 Variable = NHNGHBR Variable label = Problems with neighbours
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHNGHBR
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 72 Variable = NHTEEN Variable label = Troublesome teenagers/children
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHTEEN
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 73 Variable = NHPOLL Variable label = Pollution
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHPOLL
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 74 Variable = NHCAR Variable label = Car theft / damage
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NHCAR
+Value = -8 Label = No answer
+Value = 1 Label = A serious problem
+Value = 2 Label = A problem
+Value = 3 Label = Not a problem
+
+Pos. = 75 Variable = Nhhmsf Variable label = How safe do you feel in your own home?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhhmsf
+Value = -8 Label = No answer
+Value = 1 Label = Very safe
+Value = 2 Label = Fairly safe
+Value = 3 Label = A bit unsafe
+Value = 4 Label = Very unsafe
+Value = 5 Label = Never at home alone
+
+Pos. = 76 Variable = Nhsfday Variable label = How safe do you feel outside alone during the daytime?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhsfday
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Very safe
+Value = 2 Label = Fairly safe
+Value = 3 Label = A bit unsafe
+Value = 4 Label = Very unsafe
+Value = 5 Label = Never walk outside alone because I feel unsafe
+Value = 6 Label = Never walk outside alone, other reasons
+Value = 9 Label = Dont Know (Spontaneous only)
+
+Pos. = 77 Variable = Nhsfnte Variable label = How safe do you feel outside alone after dark?
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhsfnte
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Very safe
+Value = 2 Label = Fairly safe
+Value = 3 Label = A bit unsafe
+Value = 4 Label = Very unsafe
+Value = 5 Label = Never walk outside alone because I feel unsafe
+Value = 6 Label = Never walk outside alone, other reasons
+Value = 9 Label = Dont Know (Spontaneous only)
+
+Pos. = 78 Variable = NhInAln Variable label = Whether feel unsafe staying at home alone
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhInAln
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes, I feel very unsafe
+Value = 2 Label = Yes, I feel unsafe
+Value = 3 Label = Partly, I feel a bit unsafe
+Value = 4 Label = No, for other reason
+
+Pos. = 79 Variable = NhOuDay Variable label = Whether feel unsafe going out alone (day)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhOuDay
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes, I feel very unsafe
+Value = 2 Label = Yes, I feel unsafe
+Value = 3 Label = Partly, I feel a bit unsafe
+Value = 4 Label = No, for other reason
+
+Pos. = 80 Variable = NhOuNte Variable label = Whether feel unsafe going out alone (after dark)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for NhOuNte
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes, I feel very unsafe
+Value = 2 Label = Yes, I feel unsafe
+Value = 3 Label = Partly, I feel a bit unsafe
+Value = 4 Label = No, for other reason
+
+Pos. = 81 Variable = Nhinfl Variable label = Whether can influence decisions affecting neighbourhood
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhinfl
+Value = -8 Label = No answer
+Value = 1 Label = Strongly agree
+Value = 2 Label = Tend to agree
+Value = 3 Label = Neither agree nor disagree
+Value = 4 Label = Tend to disagree
+Value = 5 Label = Strongly disagree
+
+Pos. = 82 Variable = Nhknwp Variable label = Whether know people in neighbourhood
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhknwp
+Value = -8 Label = No answer
+Value = 1 Label = Many of the people in neighbourhood
+Value = 2 Label = Some of the people in neighbourhood
+Value = 3 Label = A few of the people in neighbourhood
+Value = 4 Label = Do not know people in neighbourhood
+
+Pos. = 83 Variable = Nhtrstp Variable label = Whether can trust people in neighbourhood
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Nhtrstp
+Value = -8 Label = No answer
+Value = 1 Label = Many of the people in neighbourhood
+Value = 2 Label = Some of the people in neighbourhood
+Value = 3 Label = A few of the people in neighbourhood
+Value = 4 Label = None of the people in neighbourhood
+
+Pos. = 84 Variable = VHowmany Variable label = Number of vehicles owned or available for use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for VHowmany
+Value = -8 Label = No answer
+Value = 1 Label = One
+Value = 2 Label = Two
+Value = 3 Label = Three
+Value = 4 Label = Four or more
+Value = 5 Label = None
+
+Pos. = 85 Variable = Mvout Variable label = Want or need to move out of this property
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Mvout
+Value = -8 Label = No answer
+Value = 1 Label = Yes, like to
+Value = 2 Label = Yes, need to
+Value = 3 Label = Yes, like to and need to
+Value = 4 Label = No
+
+Pos. = 86 Variable = Mvsoon Variable label = How likely to move in next five years
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Mvsoon
+Value = -8 Label = No answer
+Value = 1 Label = Very likely
+Value = 2 Label = Fairly likely
+Value = 3 Label = Not very likely
+Value = 4 Label = Not at all likely
+
+Pos. = 87 Variable = Mvactv Variable label = Actively trying to move at present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for Mvactv
+Value = -9 Label = Does not apply
+Value = -8 Label = No answer
+Value = 1 Label = Yes
+Value = 2 Label = No
+
+Pos. = 88 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Unused casecat
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Unused casecat
+Value = 23 Label = Unused casecat
+
+Pos. = 89 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Quarter
+Value = 1 Label = April-June 2008
+Value = 2 Label = July-September 2008
+Value = 3 Label = October-December 2008
+Value = 4 Label = January-March 2009
+
+Pos. = 90 Variable = IfCarNew Variable label = Number of cars owned / available
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for IfCarNew
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 91 Variable = Hasintr Variable label = Introduction to accommodation satisfaction questions
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Hasintr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Continue
+
+Pos. = 92 Variable = HSatis Variable label = Satisfaction with accommodation
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HSatis
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very satisfied
+Value = 2 Label = fairly satisfied
+Value = 3 Label = neither satisfied nor dissatisfied
+Value = 4 Label = slightly dissatisfied
+Value = 5 Label = very dissatisfied
+
+Pos. = 93 Variable = Satten Variable label = Satisfied with current tenure
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Satten
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = strongly agree
+Value = 2 Label = tend to agree
+Value = 3 Label = neither agree nor disagree
+Value = 4 Label = tend to disagree
+Value = 5 Label = strongly disagree 
+Value = 6 Label = no opinion (Spontaneous only)
+
+Pos. = 94 Variable = HAS44 Variable label = Satisfied with area
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HAS44
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very satisfied
+Value = 2 Label = fairly satisfied
+Value = 3 Label = neither satisfied nor dissatisfied
+Value = 4 Label = slightly dissatisfied
+Value = 5 Label = very dissatisfied
+
+Pos. = 95 Variable = BetWors Variable label = Change in area
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for BetWors
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = area has got better
+Value = 2 Label = area has got worse
+Value = 3 Label = area has not changed much
+Value = 4 Label = lived here less than two years
+
+Pos. = 96 Variable = HASInt Variable label = Introduction to problems in the area
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASInt
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Continue
+
+Pos. = 97 Variable = HASC2fl Variable label = Noisy neighbours or loud parties
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2fl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 98 Variable = HASC2jl Variable label = Troublesome teenagers
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2jl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 99 Variable = HASC2el Variable label = Litter or rubbish lying around
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2el
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 100 Variable = HASC2al Variable label = Vandalism, graffiti or other deliberate damage to property
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2al
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 101 Variable = HASC2cl Variable label = General level of crime
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2cl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 102 Variable = HASC2gl Variable label = Racial or religious harassment
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2gl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 103 Variable = HASC2kl Variable label = People using or dealing drugs
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2kl
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 104 Variable = HASC2ll Variable label = Fear of being burgled
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2ll
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 105 Variable = HASC2ml Variable label = People being drunk or rowdy in public
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HASC2ml
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = a serious problem in this area
+Value = 2 Label = a problem in this area, but not serious
+Value = 3 Label = not a problem in this area
+
+Pos. = 106 Variable = NhHmsf1 Variable label = Feel safe alone: in home
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NhHmsf1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very safe
+Value = 2 Label = fairly safe
+Value = 3 Label = a bit unsafe
+Value = 4 Label = very unsafe
+Value = 5 Label = never at home alone: feel unsafe
+Value = 6 Label = never at home alone: other reasons
+Value = 9 Label = don't know
+
+Pos. = 107 Variable = ManIntr Variable label = Opinion about how accommodation is managed by landlord
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ManIntr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = Press <1> To Continue
+
+Pos. = 108 Variable = LldSat Variable label = Satisfaction with repairs/maintenance
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LldSat
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very satisfied
+Value = 2 Label = fairly satisfied
+Value = 3 Label = neither satisfied nor dissatisfied
+Value = 4 Label = slightly dissatisfied
+Value = 5 Label = very dissatisfied
+Value = 6 Label = question not applicable
+
+Pos. = 109 Variable = LLdSatReas Variable label = Reason for dissatisfaction
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LLdSatReas
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = landlord does not bother
+Value = 2 Label = landlord does emergency repairs only
+Value = 3 Label = landlord difficult to contact
+Value = 4 Label = work done of poor quality
+Value = 5 Label = landlord does bare minimum
+Value = 6 Label = landlord slow to get things done
+Value = 7 Label = other
+
+Pos. = 110 Variable = TenBW Variable label = Change in housing service
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TenBW
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = better
+Value = 2 Label = worse
+Value = 3 Label = not changed much

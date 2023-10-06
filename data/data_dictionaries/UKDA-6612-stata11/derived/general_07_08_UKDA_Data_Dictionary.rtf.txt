@@ -1,0 +1,224 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = general_07_08
+Number of variables = 29
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = Key field
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = aagpd78 Variable label = Dwell wgt, paired cases 07+08 (provis)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 3 Variable = aagph78 Variable label = Hhld wgt, paired cases 07+08 (provis)
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 4 Variable = tenure8x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for tenure8x
+Value = 1 Label = owner occupied - occupied
+Value = 2 Label = private rented - occupied
+Value = 3 Label = local authority - occupied
+Value = 4 Label = RSL - occupied
+Value = 5 Label = owner occupied - vacant
+Value = 6 Label = private rented - vacant
+Value = 7 Label = local authority - vacant
+Value = 8 Label = RSL - vacant
+
+Pos. = 5 Variable = tenure4x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for tenure4x
+Value = 1 Label = owner occupied
+Value = 2 Label = private rented
+Value = 3 Label = local authority
+Value = 4 Label = RSL
+
+Pos. = 6 Variable = tenure2x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for tenure2x
+Value = 1 Label = private
+Value = 2 Label = social
+
+Pos. = 7 Variable = vacantx Variable label = Type of vacancy
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for vacantx
+Value = 1 Label = occupied
+Value = 2 Label = vacant
+
+Pos. = 8 Variable = vaclngth Variable label = Length of vacancy
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -8 and -9
+ Value label information for vaclngth
+Value = -9 Label = occupied
+Value = -8 Label = vacant but unknown duration
+Value = 1 Label = short term (less than 6 months)
+Value = 2 Label = long term (6 months or more)
+
+Pos. = 9 Variable = gorEHCS Variable label = Government office region - EHCS order
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for gorEHCS
+Value = 1 Label = North East
+Value = 2 Label = Yorkshire and The Humber
+Value = 3 Label = North West
+Value = 4 Label = East Midlands
+Value = 5 Label = West Midlands
+Value = 6 Label = South West
+Value = 7 Label = East of England
+Value = 8 Label = South East
+Value = 9 Label = London
+
+Pos. = 10 Variable = gorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for gorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East 
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 11 Variable = region3x Variable label = Overall region of England
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for region3x
+Value = 1 Label = northern regions
+Value = 2 Label = London and south east regions
+Value = 3 Label = rest of England
+
+Pos. = 12 Variable = rumorph Variable label = Rural urban morphology (COA)
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for rumorph
+Value = 1 Label = urban > 10k
+Value = 2 Label = town and fringe
+Value = 3 Label = village
+Value = 4 Label = hamlets and isolated dwellings
+
+Pos. = 13 Variable = nrf88 Variable label = Neighbourhood Renewal Fund (88) districts
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for nrf88
+Value = 0 Label = other district
+Value = 1 Label = deprived district (2001-06)
+
+Pos. = 14 Variable = nrf86 Variable label = Neighbourhood Renewal Fund (86) districts
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for nrf86
+Value = 0 Label = other district
+Value = 1 Label = deprived district (2006-08)
+
+Pos. = 15 Variable = nrf91 Variable label = Neighbourhood Renewal Fund (91) districts
+This variable is numeric, the SPSS measurement level is nominal.
+ Value label information for nrf91
+Value = 0 Label = other district
+Value = 1 Label = deprived district (any 2001-08)
+
+Pos. = 16 Variable = imd1004 Variable label = IMD 2004 decile ranking of areas (lower layer SOA)
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for imd1004
+Value = 1 Label = most deprived 10% of areas
+Value = 2 Label = 2nd
+Value = 3 Label = 3rd
+Value = 4 Label = 4th
+Value = 5 Label = 5th
+Value = 6 Label = 6th
+Value = 7 Label = 7th
+Value = 8 Label = 8th
+Value = 9 Label = 9th
+Value = 10 Label = least deprived 10% of areas
+
+Pos. = 17 Variable = imd1007 Variable label = IMD 2007 decile ranking of areas
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for imd1007
+Value = 1 Label = most deprived 10% of areas
+Value = 2 Label = 2nd
+Value = 3 Label = 3rd
+Value = 4 Label = 4th
+Value = 5 Label = 5th
+Value = 6 Label = 6th
+Value = 7 Label = 7th
+Value = 8 Label = 8th
+Value = 9 Label = 9th
+Value = 10 Label = least deprived 10% of areas
+
+Pos. = 18 Variable = pthfind Variable label = Pathfinder intervention area
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for pthfind
+Value = 0 Label = not pathfinder area
+Value = 1 Label = pathfinder area
+
+Pos. = 19 Variable = valout Variable label = Valuation of home
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 20 Variable = demand1 Variable label = Level of demand in the area
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for demand1
+Value = 1 Label = neglible to limited
+Value = 2 Label = moderate
+Value = 3 Label = high
+Value = 8 Label = question not applicable
+Value = 9 Label = not answered
+
+Pos. = 21 Variable = mktdemfs Variable label = Market area factor score for demand for housing
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = -8
+ Value label information for mktdemfs
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+
+Pos. = 22 Variable = mktvolfs Variable label = Market area factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing value = -8
+ Value label information for mktvolfs
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+
+Pos. = 23 Variable = mktdem10 Variable label = Market areas ranked by factor score for demand for housing
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktdem10
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest decile group of markets
+Value = 10 Label = highest decile group of markets
+
+Pos. = 24 Variable = mktvol10 Variable label = Market areas ranked by factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktvol10
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest decile group of markets
+Value = 10 Label = highest decile group of markets
+
+Pos. = 25 Variable = mktdem5 Variable label = Market areas ranked by factor score for demand for housing
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktdem5
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest quintile group of markets
+Value = 5 Label = highest quintile group of markets
+
+Pos. = 26 Variable = mktvol5 Variable label = Market areas ranked by factor score for volume of properties on market
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing value = -8
+ Value label information for mktvol5
+Value = -8 Label = no significant housing market for area (eg isolated dwelling)
+Value = 1 Label = lowest quintile group of markets
+Value = 5 Label = highest quintile group of markets
+
+Pos. = 27 Variable = fqtr Variable label = Fieldwork Quarter
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 28 Variable = fmonth Variable label = Fieldwork Month
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 29 Variable = fyear Variable label = Fieldwork Year
+This variable is numeric, the SPSS measurement level is scale.

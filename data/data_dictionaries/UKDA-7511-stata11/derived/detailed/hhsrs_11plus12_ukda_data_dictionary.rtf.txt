@@ -1,0 +1,204 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = hhsrs_11plus12
+Number of variables = 33
+Number of cases = 12763
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = Key field
+ Value label information for aacode
+
+Pos. = 2 Variable = hsrstair Variable label = Health & safety rating - falls on stairs
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrstair
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 3 Variable = hsronlev Variable label = Health & safety rating - falls on the level
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsronlev
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 4 Variable = hsrbtlev Variable label = Health & safety rating - falls between levels
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrbtlev
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 5 Variable = hsrfire Variable label = Health & safety rating - fire
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrfire
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 6 Variable = hsrhotsf Variable label = Health & safety rating - hot surfaces
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrhotsf
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 7 Variable = hsrdamp Variable label = Health & safety rating - damp and mould
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrdamp
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 8 Variable = hsrcrowd Variable label = Health & safety rating - overcrowding
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrcrowd
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 9 Variable = hsrlead Variable label = Health & safety rating - lead
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrlead
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 10 Variable = hsrradon Variable label = Health & safety rating - radon
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrradon
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 11 Variable = hsrbath Variable label = Health & safety rating - falls associated with baths
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrbath
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 12 Variable = hsrentry Variable label = Health & safety rating - entry by intruders
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrentry
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 13 Variable = hsrnoise Variable label = Health & safety rating - noise
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrnoise
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 14 Variable = hsrcoll Variable label = Health & safety rating - collision and entrapment
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrcoll
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 15 Variable = hsrexht Variable label = Health & safety rating - excess heat
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrexht
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 16 Variable = hsrlight Variable label = Health & safety rating - lighting
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrlight
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 17 Variable = hsrwater Variable label = Health & safety rating - water supply
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrwater
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 18 Variable = hsrfood Variable label = Health & safety rating - food safety
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrfood
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 19 Variable = hsrphyg Variable label = Health & safety rating - sanitation
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrphyg
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 20 Variable = hsrergo Variable label = Health & safety rating - ergonomics
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrergo
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 21 Variable = hsrungas Variable label = Health & safety rating - uncombusted fuel gas
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrungas
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 22 Variable = hsrexplo Variable label = Health & safety rating - explosions
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrexplo
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 23 Variable = hsrelec Variable label = Health & safety rating - electrical problems
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrelec
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 24 Variable = hsrco Variable label = Health & safety rating - carbon monoxide
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrco
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 25 Variable = hsrdhyg Variable label = Health & safety rating - domestic hygiene
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrdhyg
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 26 Variable = hsrstruc Variable label = Health & safety rating - structural collapse
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrstruc
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 27 Variable = hsrcld09 Variable label = Health & safety rating - cold homes
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrcld09
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 28 Variable = nhsr_15 Variable label = HHSRS: overall number of hazards (15 hazard model)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for nhsr_15
+
+Pos. = 29 Variable = nhsr_26 Variable label = HHSRS: overall number of hazards (26 hazard model)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for nhsr_26
+
+Pos. = 30 Variable = hsrall15 Variable label = HHSRS: overall (15 hazard model)
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrall15
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 31 Variable = hsrall26 Variable label = HHSRS: overall (26 hazard model)
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for hsrall26
+Value = 0.0 Label = not category 1 hazard
+Value = 1.0 Label = category 1 hazard
+
+Pos. = 32 Variable = hsrcst15 Variable label = HHSRS: cost to make safe (15 hazard model)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for hsrcst15
+Value = 50000.0 Label = 50,000 or more
+
+Pos. = 33 Variable = hsrcost_26 Variable label = HHSRS: cost to make safe (26 hazard model)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for hsrcost_26
+Value = 50000.0 Label = 50,000 or more

@@ -1,0 +1,221 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = damp
+Number of variables = 19
+Number of cases = 27174
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = casecat Variable label = Status of case
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for casecat
+Value = 1 Label = Paired cases: occ at IS, PS achieved
+Value = 2 Label = Paired cases: vacant at IS, PS achieved
+Value = 3 Label = Paired cases: derelict at IS, PS achieved
+Value = 4 Label = Interview only: PS ref or non-cont
+Value = 5 Label = Interview only: ineligible for PS
+Value = 6 Label = Unused casecat
+Value = 7 Label = Unused casecat
+Value = 8 Label = Non-resp: vac at IS, and PS ref or non-cont
+Value = 9 Label = Non-resp: vac at IS, and ineligible for PS
+Value = 10 Label = Non-resp: derelict at IS and occup non-con at PS
+Value = 11 Label = Non-resp: derelict at IS, and ineligible for PS
+Value = 12 Label = Non-resp: IS non-cont, ineligible for PS
+Value = 13 Label = Non-resp: refused at IS
+Value = 14 Label = Non-resp: office refusals
+Value = 15 Label = Unused casecat
+Value = 16 Label = Inel: sec/hol homes
+Value = 17 Label = Inel: vac at IS and derelict at PS
+Value = 18 Label = Inel: derelict at IS and derelict at PS
+Value = 19 Label = Inel: non-res at IS
+Value = 20 Label = Inel: demolished at IS
+Value = 21 Label = Inel: address not found
+Value = 22 Label = Inel: not worked
+Value = 23 Label = Unused casecat
+
+Pos. = 3 Variable = GorEHS Variable label = Region - EHS order
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for GorEHS
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 4 Variable = Quarter Variable label = Fieldwork quarter
+This variable is numeric, the SPSS measurement level is ordinal.
+ Value label information for Quarter
+Value = 1 Label = April-June 2009
+Value = 2 Label = July-September 2009
+Value = 3 Label = October-December 2009
+Value = 4 Label = January-March 2010
+
+Pos. = 5 Variable = Cdprob Variable label = Problems - condens, damp, mould
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdprob
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 6 Variable = ROOM Variable label = Room type
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for ROOM
+Value = 1 Label = living room
+Value = 2 Label = main bedroom
+Value = 3 Label = hall/passage
+Value = 4 Label = kitchen
+Value = 5 Label = bathroom
+Value = 6 Label = other bedrooms
+
+Pos. = 7 Variable = Steamwdw Variable label = Steamed up windows
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Steamwdw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 8 Variable = Steamwal Variable label = Steamed up/wet walls
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Steamwal
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 9 Variable = Mildwwdw Variable label = Mildew/rot/mould - window frames
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Mildwwdw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 10 Variable = Mouldwal Variable label = Rot/mould - walls/ceilings
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Mouldwal
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 11 Variable = Mouldflr Variable label = Rot/mould - floors/carpets
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Mouldflr
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 12 Variable = Otdmpprb Variable label = Other damp problems
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Otdmpprb
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 13 Variable = Nodmpprb Variable label = No problems with damp
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Nodmpprb
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 14 Variable = Dmpnotap Variable label = N/A: room does not exist
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Dmpnotap
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 15 Variable = Cdwrsrm Variable label = Worst affected room
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdwrsrm
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = living room
+Value = 2 Label = main bedroom
+Value = 3 Label = hall / passage
+Value = 4 Label = kitchen
+Value = 5 Label = bathroom
+Value = 6 Label = other bedroom
+Value = 7 Label = any other room
+Value = 8 Label = all the same
+Value = 9 Label = don't know
+
+Pos. = 16 Variable = Cdphmld Variable label = Closest photo - mould?
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdphmld
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = photo1
+Value = 2 Label = photo2
+Value = 3 Label = photo3
+Value = 4 Label = none of these
+
+Pos. = 17 Variable = Cdphdmp Variable label = Closest photo - damp?
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdphdmp
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = photo1
+Value = 2 Label = photo2
+Value = 3 Label = photo3
+Value = 4 Label = none of these
+
+Pos. = 18 Variable = Cdwhen Variable label = Period when problem occurs?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdwhen
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = all year
+Value = 2 Label = winter only
+Value = 3 Label = other (please specify)
+Value = 4 Label = don't know
+
+Pos. = 19 Variable = Cdafct Variable label = Effect of problem?
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Cdafct
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = no trouble
+Value = 2 Label = causing some inconvenience
+Value = 3 Label = causing some discomfort
+Value = 4 Label = distressing
+Value = 5 Label = don't know

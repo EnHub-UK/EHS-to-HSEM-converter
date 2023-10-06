@@ -9,19 +9,16 @@ RTAGS
 !README.md
 *.log
 
-myData/UKDA*
+data/UKDA*
 
-outData/*
-outData/*/*
+export/outReport/*
+export/outReport/*/*
 
-outFigures/*
-outFigures/*/*
+export/outForModel/*
+export/outForModel/*/*
 
-public/outReport/*
-public/outReport/*/*
-
-public/outForModel/*
-public/outForModel/*/*
+export/outForProfiles/*
+export/outForProfiles/*/*
 
 /* symlinks -- corresponding to available EHS data */
-./myData/UKDA*
+./data/UKDA*

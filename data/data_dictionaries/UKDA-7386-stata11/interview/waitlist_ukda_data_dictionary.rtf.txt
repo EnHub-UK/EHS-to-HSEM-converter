@@ -1,0 +1,385 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = waitlist
+Number of variables = 42
+Number of cases = 830
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = NameL1 Variable label = Person no on w/list 1
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NameL1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 3 Variable = Wlistch1 Variable label = Appl by/with a non-hhld member
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wlistch1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no mention
+
+Pos. = 4 Variable = FUNo1 Variable label = FU of person on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FUNo1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 5 Variable = TimeW01 Variable label = Time on w/list
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TimeW01
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 3 months
+Value = 2 Label = 3 months but less than 6 months
+Value = 3 Label = 6 months but less than 1 year
+Value = 4 Label = 1 year but less than 2 years
+Value = 5 Label = 2 years but less than 3 years
+Value = 6 Label = 3 years but less than 5 years
+Value = 7 Label = 5 years but less than 10 years
+Value = 8 Label = more than 10 years
+
+Pos. = 6 Variable = TypeW1 Variable label = LA or HA
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TypeW1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA list
+Value = 2 Label = HA list
+
+Pos. = 7 Variable = WILAnum Variable label = How many LA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WILAnum
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 8 Variable = WIHANum Variable label = How many HA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WIHANum
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 9 Variable = WListb1 Variable label = Another hhld member on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WListb1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 10 Variable = NameL2 Variable label = Person no on w/list 2
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NameL2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 11 Variable = Wlistch2 Variable label = Appl by/with a non-hhld member
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wlistch2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 12 Variable = FUNo2 Variable label = FU of person on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FUNo2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 13 Variable = TimeW02 Variable label = Time on w/list
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TimeW02
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 3 months
+Value = 2 Label = 3 months but less than 6 months
+Value = 3 Label = 6 months but less than 1 year
+Value = 4 Label = 1 year but less than 2 years
+Value = 5 Label = 2 years but less than 3 years
+Value = 6 Label = 3 years but less than 5 years
+Value = 7 Label = 5 years but less than 10 years
+Value = 8 Label = more than 10 years
+
+Pos. = 14 Variable = TypeW2 Variable label = LA or HA
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TypeW2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA list
+Value = 2 Label = HA list
+
+Pos. = 15 Variable = WILAnum2 Variable label = How many LA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WILAnum2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 16 Variable = WIHANum2 Variable label = How many HA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WIHANum2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 17 Variable = WListb2 Variable label = Another hhld member on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WListb2
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 18 Variable = NameL3 Variable label = Person no on w/list 3
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NameL3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 19 Variable = Wlistch3 Variable label = Appl by/with a non-hhld member
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wlistch3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 20 Variable = FUNo3 Variable label = FU of person on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FUNo3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 21 Variable = TimeW03 Variable label = Time on w/list
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TimeW03
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 3 months
+Value = 2 Label = 3 months but less than 6 months
+Value = 3 Label = 6 months but less than 1 year
+Value = 4 Label = 1 year but less than 2 years
+Value = 5 Label = 2 years but less than 3 years
+Value = 6 Label = 3 years but less than 5 years
+Value = 7 Label = 5 years but less than 10 years
+Value = 8 Label = more than 10 years
+
+Pos. = 22 Variable = TypeW3 Variable label = LA or HA
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TypeW3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA list
+Value = 2 Label = HA list
+
+Pos. = 23 Variable = WILAnum3 Variable label = How many LA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WILAnum3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 24 Variable = WIHANum3 Variable label = How many HA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WIHANum3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 25 Variable = WListb3 Variable label = Another hhld member on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WListb3
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 26 Variable = NameL4 Variable label = Person no on w/list 4
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NameL4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 27 Variable = Wlistch4 Variable label = Appl by/with a non-hhld member
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wlistch4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 28 Variable = FUNo4 Variable label = FU of person on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FUNo4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 29 Variable = TimeW04 Variable label = Time on w/list
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TimeW04
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 3 months
+Value = 2 Label = 3 months but less than 6 months
+Value = 3 Label = 6 months but less than 1 year
+Value = 4 Label = 1 year but less than 2 years
+Value = 5 Label = 2 years but less than 3 years
+Value = 6 Label = 3 years but less than 5 years
+Value = 7 Label = 5 years but less than 10 years
+Value = 8 Label = more than 10 years
+
+Pos. = 30 Variable = TypeW4 Variable label = LA or HA
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TypeW4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA list
+Value = 2 Label = HA list
+
+Pos. = 31 Variable = WILAnum4 Variable label = How many LA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WILAnum4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 32 Variable = WIHANum4 Variable label = How many HA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WIHANum4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 33 Variable = WListb4 Variable label = Another hhld member on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WListb4
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 34 Variable = NameL5 Variable label = Person no on w/list 5
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NameL5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 35 Variable = Wlistch5 Variable label = Appl by/with a non-hhld member
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Wlistch5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 36 Variable = FUNo5 Variable label = FU of person on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for FUNo5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 37 Variable = TimeW05 Variable label = Time on w/list
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TimeW05
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = less than 3 months
+Value = 2 Label = 3 months but less than 6 months
+Value = 3 Label = 6 months but less than 1 year
+Value = 4 Label = 1 year but less than 2 years
+Value = 5 Label = 2 years but less than 3 years
+Value = 6 Label = 3 years but less than 5 years
+Value = 7 Label = 5 years but less than 10 years
+Value = 8 Label = more than 10 years
+
+Pos. = 38 Variable = TypeW5 Variable label = LA or HA
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for TypeW5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = LA list
+Value = 2 Label = HA list
+
+Pos. = 39 Variable = WILAnum5 Variable label = How many LA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WILAnum5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 5 Label = 4 or more
+
+Pos. = 40 Variable = WIHANum5 Variable label = How many HA waiting lists person is on
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WIHANum5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 4 Label = 4 or more
+
+Pos. = 41 Variable = WListb5 Variable label = Another hhld member on w/list
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WListb5
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 42 Variable = NoList Variable label = No in hhld on w/list
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for NoList
+Value = -9 Label = does not apply
+Value = -8 Label = no answer

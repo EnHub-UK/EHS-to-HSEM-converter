@@ -1,0 +1,377 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = mvs07_08
+Number of variables = 42
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHC case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = valout Variable label = Market value as at 1/10/04
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+
+Pos. = 3 Variable = valwith Variable label = Market values after repairs
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+
+Pos. = 4 Variable = ndweloc Variable label = Number of dwellings in the locality
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for ndweloc
+Value = 1 Label = under 100
+Value = 2 Label = 100-299
+Value = 3 Label = 300-499
+Value = 4 Label = 500 or over
+Value = 5 Label = isolated
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 5 Variable = dwlprrnt Variable label = Number of privately rented dwellings in the locality
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for dwlprrnt
+Value = 1 Label = under 5 percent
+Value = 2 Label = 5-9 percent
+Value = 3 Label = 10-24 percent
+Value = 4 Label = 25-49 percent
+Value = 5 Label = 50 percent and over
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 6 Variable = students Variable label = Students - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for students
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 7 Variable = restgrp Variable label = Another restricted group (e.g NHS staff)- predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for restgrp
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 8 Variable = yngprof Variable label = Young professional people - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for yngprof
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 9 Variable = yngloinc Variable label = Young people on low imcomes - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for yngloinc
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 10 Variable = hbrecip Variable label = Housing benefit recipients - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for hbrecip
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 11 Variable = asylum Variable label = Asylum seekers - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for asylum
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 12 Variable = lngtens Variable label = People on long standing regulated tenancies - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for lngtens
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 13 Variable = families Variable label = Families - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for families
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 14 Variable = vulner Variable label = Vulnerable e.g. elderly, disabled - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for vulner
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 15 Variable = holiday Variable label = Holiday makers - predominamt client group
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for holiday
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 16 Variable = nopart Variable label =  No particular client group dominant
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for nopart
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 17 Variable = another Variable label = Another restricted group - specify
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for another
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 18 Variable = predwel Variable label = Predominant type of dwelling provided
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for predwel
+Value = 1 Label = purpose built flats
+Value = 2 Label = whole houses occupied by single family hh
+Value = 3 Label = whole houses occupied by group of people sharing
+Value = 4 Label = houses converted into flats
+Value = 5 Label = houses convereted into bedsits
+Value = 6 Label = no particular dwelling type dominant
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 19 Variable = levdem Variable label = Level of market demand
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for levdem
+Value = 1 Label = negligible
+Value = 2 Label = limited
+Value = 3 Label = moderate
+Value = 4 Label = high
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 20 Variable = nowksel1 Variable label = Number of weeks to sell property-1
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for nowksel1
+Value = 1 Label = under 2 wks
+Value = 2 Label = 2-8 wks
+Value = 3 Label = 9-16 wks
+Value = 4 Label = 17-26 wks
+Value = 5 Label = 27-51 wks
+Value = 6 Label = 52 wks or over
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 21 Variable = nowkrent Variable label = Number of weeks to rent property
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for nowkrent
+Value = 1 Label = under 1 wk
+Value = 2 Label = 2-4 wks
+Value = 3 Label = 5-13 wks
+Value = 4 Label = 14-25 wks
+Value = 5 Label = 26 wks or over
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 22 Variable = tpropval Variable label = Typical property value - 3 bed semi
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for tpropval
+Value = 1 Label = under 15k
+Value = 2 Label = 15k-29,999
+Value = 3 Label = 30k-59,999
+Value = 4 Label = 60k-119,999
+Value = 5 Label = 120k-174,999
+Value = 6 Label = 175k-249,999
+Value = 7 Label = 250k+
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 23 Variable = per4sale Variable label =  Percenatge properties for sale/rent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for per4sale
+Value = 1 Label = less than 2.5 percent
+Value = 2 Label = 2.5-10 percent
+Value = 3 Label = 11-25 percent
+Value = 4 Label = 26-49 percent
+Value = 5 Label = 50 percent+
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 24 Variable = pervcnt Variable label = Percentage properties vacant long-term
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for pervcnt
+Value = 1 Label = less than 2.5 percent
+Value = 2 Label = 2.5-10 percent
+Value = 3 Label = 11-25 percent
+Value = 4 Label = 26-49 percent
+Value = 5 Label = 50 percent+
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 25 Variable = qualinf1 Variable label = Confidence in information provided -1
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for qualinf1
+Value = 1 Label = Based on recent sale
+Value = 2 Label = Very confident
+Value = 3 Label = Reasonably confident
+Value = 4 Label = Less confident
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 26 Variable = majrdisc Variable label = Major discrepancies between data provided, voa data and local knowledge
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for majrdisc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 27 Variable = discdata Variable label = Type of discrepancy - picture and description do not match
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for discdata
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 28 Variable = discflr Variable label = Type of discrepancy -website and VOA floor area inconsistent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for discflr
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 29 Variable = discvoa Variable label = Type of discrepancy -website and other VOA information inconsistent
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for discvoa
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 30 Variable = inconweb Variable label = Type of discrepancy -Inconsistencies within the website information
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing value = 8
+ Value label information for inconweb
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 31 Variable = othdisc Variable label = Type of discrepancy - other
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for othdisc
+Value = 0 Label = No
+Value = 1 Label = Yes
+Value = 8 Label = Question not applicable
+
+Pos. = 32 Variable = affvalue Variable label = Discrepancies affected how property valued?
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for affvalue
+Value = 1 Label = Yes
+Value = 2 Label = no
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 33 Variable = ctb Variable label = Council Tax Band
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 88 and 99
+ Value label information for ctb
+Value = 1 Label = A
+Value = 2 Label = B
+Value = 3 Label = C
+Value = 4 Label = D
+Value = 5 Label = E
+Value = 6 Label = F
+Value = 7 Label = G
+Value = 8 Label = H
+Value = 9 Label = Not answered
+Value = 88 Label = Question not applicable
+
+Pos. = 34 Variable = ctbtype Variable label = How CTB data derived
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = 8 and 9
+ Value label information for ctbtype
+Value = 0 Label = auto loaded
+Value = 1 Label = notional
+Value = 2 Label = VOA
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 35 Variable = nowksell Variable label = Number of weeks to sell property
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for nowksell
+Value = 1 Label = Under 2 weeks
+Value = 2 Label =  2 to 8 weeks
+Value = 3 Label = 9 to 26 weeks
+Value = 4 Label = 27 to 51 weeks
+Value = 5 Label = over 52 weeks
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 36 Variable = qualinfo Variable label = Confidence in information provided
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for qualinfo
+Value = 1 Label = Very confident
+Value = 2 Label = Reasonably confident
+Value = 3 Label = Less confident
+Value = 8 Label = Question not applicable
+Value = 9 Label = Not answered
+
+Pos. = 37 Variable = GOR Variable label = Government Office Region
+This variable is numeric, the SPSS measurement level is scale.
+ Value label information for GOR
+Value = 1 Label = North East
+Value = 2 Label = North West
+Value = 4 Label = Yorkshire and the Humber
+Value = 5 Label = East Midlands
+Value = 6 Label = West Midlands
+Value = 7 Label = East England
+Value = 8 Label = London
+Value = 9 Label = South East
+Value = 10 Label = South West
+
+Pos. = 38 Variable = grossfa Variable label = floor area m2
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 39 Variable = nbeds Variable label = Number of Bedrooms
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 40 Variable = poundsperm2 Variable label = Value per m2
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 41 Variable = Repair Variable label = Proportion rise in value after repairs
+This variable is numeric, the SPSS measurement level is scale.
+
+Pos. = 42 Variable = VOAamendments Variable label = Amendments sent from VOA
+This variable is stringthe SPSS measurement level is nominal.

@@ -1,0 +1,220 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = flatdets
+Number of variables = 26
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Fdffrooa Variable label = TENTHS OF WALL EXPOSED Front wall-to outside air
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdffrooa
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 3 Variable = Fdffroia Variable label = TENTHS OF WALL EXPOSED Front wall- to internal accessways
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdffroia
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 4 Variable = Fdffroof Variable label = TENTHS OF WALL EXPOSED Front wall- to other flats
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdffroof
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 5 Variable = Fdfbckoa Variable label = TENTHS OF WALL EXPOSED Back wall- to outside air
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfbckoa
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 6 Variable = Fdfbckia Variable label = TENTHS OF WALL EXPOSED Back wall- to internal accessways
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfbckia
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 7 Variable = Fdfbckof Variable label = TENTHS OF WALL EXPOSED Back wall- to other flats
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfbckof
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 8 Variable = Fdflftoa Variable label = TENTHS OF WALL EXPOSED Left wall- to outside air
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdflftoa
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 9 Variable = Fdflftia Variable label = TENTHS OF WALL EXPOSED Left wall- to internal accessways
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdflftia
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 10 Variable = Fdflftof Variable label = TENTHS OF WALL EXPOSED Left wall- to other flats
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdflftof
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 11 Variable = Fdfrigoa Variable label = TENTHS OF WALL EXPOSED Right wall- to outside air
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfrigoa
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 12 Variable = Fdfrigia Variable label = TENTHS OF WALL EXPOSED Right wall- to internal accessways
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfrigia
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 13 Variable = Fdfrigof Variable label = TENTHS OF WALL EXPOSED Right wall- to other flats
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdfrigof
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 14 Variable = Fdfentry Variable label = Entry floor to dwelling proper
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fdfentry
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 15 Variable = FdfentyN Variable label = Entry Floor Level - Numeric
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for FdfentyN
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 16 Variable = Fdfprivt Variable label = Private entry stair
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fdfprivt
+Value = 1 Label = None
+Value = 2 Label = Up
+Value = 3 Label = Down
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Fdffloor Variable label = DIMENSIONS of Flat - Number of floors in flat
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for Fdffloor
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+Value = 77 Label = Section Not Applicable
+
+Pos. = 18 Variable = Fdfsamed Variable label = DIMENSIONS of Flat - External dimensions same as module
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 7 and 8 and 9
+ Value label information for Fdfsamed
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 7 Label = Section Not Applicable
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fdfmainl Variable label = DIMENSIONS of Flat - Main floor - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fdfmainl
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 20 Variable = FdfmainN Variable label = Main Floor Level - Numeric
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for FdfmainN
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 21 Variable = Fdfmainw Variable label = DIMENSIONS of Flat - Width (main floor)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77.7 and 88.8 and 99.9
+ Value label information for Fdfmainw
+Value = 77.7 Label = Section Not Applicable
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 22 Variable = Fdfmaind Variable label = DIMENSIONS of Flat - Depth (main floor)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77.7 and 88.8 and 99.9
+ Value label information for Fdfmaind
+Value = 77.7 Label = Section Not Applicable
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 23 Variable = Fdfnextl Variable label = DIMENSIONS of Flat - Next floor - level
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fdfnextl
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 24 Variable = FdfnextN Variable label = Next Floor Level - Numeric
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77 and 88 and 99
+ Value label information for FdfnextN
+Value = 77 Label = Section Not Applicable
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 25 Variable = Fdfnextw Variable label = DIMENSIONS of Flat - Width (next floor)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77.7 and 88.8 and 99.9
+ Value label information for Fdfnextw
+Value = 77.7 Label = Section Not Applicable
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown
+
+Pos. = 26 Variable = Fdfnextd Variable label = DIMENSIONS of Flat - Depth (next floor)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 77.7 and 88.8 and 99.9
+ Value label information for Fdfnextd
+Value = 77.7 Label = Section Not Applicable
+Value = 88.8 Label = Question Not Applicable
+Value = 99.9 Label = Unknown

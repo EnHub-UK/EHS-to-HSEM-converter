@@ -1,0 +1,108 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = general_18plus19_eul
+Number of variables = 10
+Number of cases = 12300
+
+
+Variable-level information:
+
+Pos. = 1 Variable = serialanon Variable label = Key variable: unique archived identifier
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for serialanon
+
+Pos. = 2 Variable = aagpd1819 Variable label = Rounded dwelling weight for 2 year Physical Survey sample
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for aagpd1819
+
+Pos. = 3 Variable = aagph1819 Variable label = Rounded Household weight for 2-year paired sample
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for aagph1819
+
+Pos. = 4 Variable = tenure8x Variable label = Tenure with vacancy
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for tenure8x
+Value = 1.0 Label = owner occupied - occupied
+Value = 2.0 Label = private rented - occupied
+Value = 3.0 Label = local authority - occupied
+Value = 4.0 Label = housing association - occupied
+Value = 5.0 Label = owner occupied - vacant
+Value = 6.0 Label = private rented - vacant
+Value = 7.0 Label = local authority - vacant
+Value = 8.0 Label = housing association - vacant
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 5 Variable = tenure4x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for tenure4x
+Value = 1.0 Label = owner occupied
+Value = 2.0 Label = private rented
+Value = 3.0 Label = local authority
+Value = 4.0 Label = housing association
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 6 Variable = tenure2x Variable label = Tenure
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for tenure2x
+Value = 1.0 Label = Private
+Value = 2.0 Label = Social
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 7 Variable = vacantx Variable label = Whether occupied or vacant
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for vacantx
+Value = 1.0 Label = occupied
+Value = 2.0 Label = vacant
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 8 Variable = gorehs Variable label = Government Office Region EHS version
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for gorehs
+Value = 1.0 Label = North East
+Value = 2.0 Label = North West
+Value = 4.0 Label = Yorkshire and the Humber
+Value = 5.0 Label = East Midlands
+Value = 6.0 Label = West Midlands
+Value = 7.0 Label = East
+Value = 8.0 Label = London
+Value = 9.0 Label = South East
+Value = 10.0 Label = South West
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 9 Variable = region3x Variable label = Overall region of England
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for region3x
+Value = 1.0 Label = Northern regions
+Value = 2.0 Label = London and South East regions
+Value = 3.0 Label = Rest of England
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer
+
+Pos. = 10 Variable = govreg1 Variable label = Government office Region, grouped
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru -1.0
+ Value label information for govreg1
+Value = 1.0 Label = North
+Value = 2.0 Label = Midlands
+Value = 3.0 Label = London
+Value = 4.0 Label = Rest of South
+Value = -9.0 Label = Does not apply
+Value = -8.0 Label = No answer

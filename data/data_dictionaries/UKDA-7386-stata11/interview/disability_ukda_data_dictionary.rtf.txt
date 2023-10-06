@@ -1,0 +1,183 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = disability
+Number of variables = 19
+Number of cases = 34685
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = EHS case number
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = PERSNO Variable label = Person identifier
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for PERSNO
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 3 Variable = HRP Variable label = Person number of HRP
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for HRP
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+
+Pos. = 4 Variable = QHealth1 Variable label = General Health
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for QHealth1
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very good
+Value = 2 Label = good
+Value = 3 Label = fair
+Value = 4 Label = bad
+Value = 5 Label = very bad
+
+Pos. = 5 Variable = LSIll Variable label = Long-stndg illness, disab/infirmity
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for LSIll
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 6 Variable = IllLim Variable label = Whether limits activities
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for IllLim
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 7 Variable = DsVision Variable label = Vision
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsVision
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 8 Variable = DsHearin Variable label = Hearing
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsHearin
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 9 Variable = DsLrnDf Variable label = Learning difficulty
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsLrnDf
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 10 Variable = DsMoblty Variable label = Mobility
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsMoblty
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 11 Variable = DsBreath Variable label = Breathing
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsBreath
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 12 Variable = DsHeart Variable label = Heart disease
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsHeart
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 13 Variable = DsMental Variable label = Mental health
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsMental
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 14 Variable = DsOther Variable label = Other
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsOther
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 15 Variable = DsDKnw Variable label = Don't know
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for DsDKnw
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 0 Label = no
+Value = 1 Label = yes
+
+Pos. = 16 Variable = Dsreg Variable label = Registered disabled
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for Dsreg
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 17 Variable = WhChair Variable label = Uses wheelchair
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhChair
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = yes
+Value = 2 Label = no
+
+Pos. = 18 Variable = WhFreq Variable label = Frequency - wheelchair
+This variable is numeric, the SPSS measurement level is nominal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WhFreq
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = all the time
+Value = 2 Label = occasionally indoors
+Value = 3 Label = outdoors only
+
+Pos. = 19 Variable = WHInside Variable label = Wheelchair use in home
+This variable is numeric, the SPSS measurement level is ordinal.
+SPSS user missing values = -1.79769313486232E+308 thru -1
+ Value label information for WHInside
+Value = -9 Label = does not apply
+Value = -8 Label = no answer
+Value = 1 Label = very easy
+Value = 2 Label = fairly easy
+Value = 3 Label = neither easy nor difficult
+Value = 4 Label = fairly difficult
+Value = 5 Label = very difficult

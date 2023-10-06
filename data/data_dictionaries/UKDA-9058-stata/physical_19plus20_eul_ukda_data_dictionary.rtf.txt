@@ -1,0 +1,433 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = physical_19plus20_eul
+Number of variables = 48
+Number of cases = 11152
+
+
+Variable-level information:
+
+Pos. = 1 Variable = serialanon Variable label = Key variable: unique archived identifier
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for serialanon
+
+Pos. = 2 Variable = dwtypenx Variable label = Dwelling type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwtypenx
+Value = -8.0 Label = unknown
+Value = 1.0 Label = end terrace
+Value = 2.0 Label = mid terrace
+Value = 3.0 Label = semi detached
+Value = 4.0 Label = detached
+Value = 5.0 Label = bungalow
+Value = 6.0 Label = converted flat
+Value = 7.0 Label = purpose built flat, low rise
+Value = 8.0 Label = purpose built flat, high rise
+
+Pos. = 3 Variable = dwtype8x Variable label = Dwelling type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwtype8x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = small terraced house
+Value = 2.0 Label = medium/large terraced house
+Value = 3.0 Label = semi-detached house
+Value = 4.0 Label = detached house
+Value = 5.0 Label = bungalow
+Value = 6.0 Label = converted flat
+Value = 7.0 Label = purpose built flat, low rise
+Value = 8.0 Label = purpose built flat, high rise
+
+Pos. = 4 Variable = dwtype3x Variable label = Dwelling type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwtype3x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = house or bungalow
+Value = 2.0 Label = low rise flat
+Value = 3.0 Label = high rise flat
+
+Pos. = 5 Variable = housex Variable label = Dwelling type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for housex
+Value = -8.0 Label = unknown
+Value = 1.0 Label = house or bungalow
+Value = 2.0 Label = flat
+
+Pos. = 6 Variable = dwage7x Variable label = Dwelling age
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwage7x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = pre 1919
+Value = 2.0 Label = 1919 to 1944
+Value = 3.0 Label = 1945 to 1964
+Value = 4.0 Label = 1965 to 1980
+Value = 5.0 Label = 1981 to 1990
+Value = 6.0 Label = 1991 to 2002
+Value = 7.0 Label = post 2002
+
+Pos. = 7 Variable = dwage6x Variable label = Dwelling age
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwage6x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = pre 1919
+Value = 2.0 Label = 1919 to 1944
+Value = 3.0 Label = 1945 to 1964
+Value = 4.0 Label = 1965 to 1980
+Value = 5.0 Label = 1981 to 1990
+Value = 6.0 Label = post 1990
+
+Pos. = 8 Variable = dwage5x Variable label = Dwelling age
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwage5x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = pre 1919
+Value = 2.0 Label = 1919 to 1944
+Value = 3.0 Label = 1945 to 1964
+Value = 4.0 Label = 1965 to 1980
+Value = 5.0 Label = post 1980
+
+Pos. = 9 Variable = dwage4x Variable label = Dwelling age
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dwage4x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = pre 1919
+Value = 2.0 Label = 1919 to 1944
+Value = 3.0 Label = 1945 to 1964
+Value = 4.0 Label = post 1964
+
+Pos. = 10 Variable = alltypex Variable label = Dwelling age and type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for alltypex
+Value = -8.0 Label = unknown
+Value = 1.0 Label = purpose built flat, high rise
+Value = 2.0 Label = purpose built flat, low rise
+Value = 3.0 Label = converted flat
+Value = 4.0 Label = bungalow: all ages
+Value = 5.0 Label = detached house: pre 1919
+Value = 6.0 Label = detached house: post 1919
+Value = 7.0 Label = semi detached & terraced: pre 1919
+Value = 8.0 Label = semi detached & terraced: 1919-1944
+Value = 9.0 Label = semi detached & terraced: 1945-1964
+Value = 10.0 Label = semi detached & terraced: 1965 onwards
+
+Pos. = 11 Variable = floorx Variable label = Useable floor area (sqm) - original EHS definition
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for floorx
+Value = 500.0 Label = 500 or more
+
+Pos. = 12 Variable = floor5x Variable label = Useable floor area - original EHS definition
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for floor5x
+Value = -8.0 Label = unknown
+Value = 1.0 Label = less than 50 sqm
+Value = 2.0 Label = 50 to 69 sqm
+Value = 3.0 Label = 70 to 89 sqm
+Value = 4.0 Label = 90 to 109 sqm
+Value = 5.0 Label = 110 sqm or more
+
+Pos. = 13 Variable = floory Variable label = Useable floor area (sqm) - building regulations definition
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for floory
+Value = 500.0 Label = 500 or more
+
+Pos. = 14 Variable = floor5y Variable label = Useable floor area - building regulations definition
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for floor5y
+Value = -8.0 Label = unknown
+Value = 1.0 Label = less than 50 sqm
+Value = 2.0 Label = 50 to 69 sqm
+Value = 3.0 Label = 70 to 89 sqm
+Value = 4.0 Label = 90 to 109 sqm
+Value = 5.0 Label = 110 sqm or more
+
+Pos. = 15 Variable = storeyx Variable label = Number of floors above ground
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru None
+ Value label information for storeyx
+Value = -8.0 Label = unknown
+Value = 6.0 Label = 6 or more
+
+Pos. = 16 Variable = dblglaz2 Variable label = Extent of double glazing
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dblglaz2
+Value = -8.0 Label = unknown
+Value = 1.0 Label = less than 80% double glazed
+Value = 2.0 Label = 80% or more double glazed
+
+Pos. = 17 Variable = dblglaz4 Variable label = Extent of double glazing
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for dblglaz4
+Value = -8.0 Label = unknown
+Value = 1.0 Label = no double glazing
+Value = 2.0 Label = half or less
+Value = 3.0 Label = more than half
+Value = 4.0 Label = entire house
+
+Pos. = 18 Variable = parking Variable label = Parking provision of survey dwelling
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for parking
+Value = -8.0 Label = unknown
+Value = 1.0 Label = inadequate street parking
+Value = 2.0 Label = adequate street parking
+Value = 3.0 Label = garage
+Value = 4.0 Label = other off street parking
+Value = 5.0 Label = no parking provision
+
+Pos. = 19 Variable = neivisx Variable label = Appearance of area
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for neivisx
+Value = -8.0 Label = unknown
+Value = 1.0 Label = satisfactory
+Value = 2.0 Label = some problems
+Value = 3.0 Label = poor
+
+Pos. = 20 Variable = lv1upkpx Variable label = Poor quality environment - upkeep problems
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for lv1upkpx
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 21 Variable = lv2trafx Variable label = Poor quality environment - traffic problems
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for lv2trafx
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 22 Variable = lv3utilx Variable label = Poor quality environment - utilisation problems
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for lv3utilx
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 23 Variable = lvnumx Variable label = Number of liveability problems present
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for lvnumx
+
+Pos. = 24 Variable = lvanyx Variable label = Poor quality environment
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for lvanyx
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 25 Variable = attic Variable label = Attic present in dwelling
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for attic
+Value = 1.0 Label = yes
+Value = 2.0 Label = no
+
+Pos. = 26 Variable = heat4x Variable label = Main heating system
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for heat4x
+Value = 1.0 Label = central heating
+Value = 2.0 Label = storage heater
+Value = 3.0 Label = fixed room heating
+Value = 4.0 Label = portable heating only
+
+Pos. = 27 Variable = heat7x Variable label = Main heating system
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for heat7x
+Value = 1.0 Label = boiler system with radiators 
+Value = 2.0 Label = storage radiators
+Value = 3.0 Label = warm air system
+Value = 4.0 Label = room heater 
+Value = 5.0 Label = other systems
+Value = 6.0 Label = communal 
+Value = 7.0 Label = portable heaters only
+
+Pos. = 28 Variable = sysage Variable label = Age of heating system
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for sysage
+Value = -8.0 Label = missing
+Value = 1.0 Label = less than 3 years
+Value = 2.0 Label = 3-12 years
+Value = 3.0 Label = more than 12 years
+
+Pos. = 29 Variable = fuelx Variable label = Main fuel type
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -8.0 thru None
+ Value label information for fuelx
+Value = -8.0 Label = not identified - communal systems
+Value = 1.0 Label = gas fired system
+Value = 2.0 Label = oil fired system
+Value = 3.0 Label = solid fuel fired system
+Value = 4.0 Label = electrical system
+
+Pos. = 30 Variable = watersys Variable label = Water heating system
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for watersys
+Value = 1.0 Label = with central heating
+Value = 2.0 Label = dedicated boiler
+Value = 3.0 Label = electric immersion heater
+Value = 4.0 Label = instantaneous
+Value = 5.0 Label = other
+
+Pos. = 31 Variable = boiler Variable label = Type of boiler
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for boiler
+Value = -9.0 Label = no boiler
+Value = 1.0 Label = standard boiler (floor or wall)
+Value = 2.0 Label = back boiler (to fire or stove)
+Value = 3.0 Label = combination boiler
+Value = 4.0 Label = condensing boiler
+Value = 5.0 Label = condensing-combination boiler
+
+Pos. = 32 Variable = mainsgas Variable label = Mains gas supply present
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for mainsgas
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 33 Variable = watercyl Variable label = Hot water cylinder present
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for watercyl
+Value = 0.0 Label = no
+Value = 1.0 Label = yes
+
+Pos. = 34 Variable = loftinsx Variable label = Loft insulation thickness
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -9.0 thru None
+ Value label information for loftinsx
+Value = -9.0 Label = not applicable - no roof directly above
+Value = 0.0 Label = no insulation
+
+Pos. = 35 Variable = loftins4 Variable label = Loft insulation thickness
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for loftins4
+Value = -9.0 Label = not applicable - no roof directly above
+Value = 1.0 Label = none
+Value = 2.0 Label = less than 100mm
+Value = 3.0 Label = 100 up to 150mm
+Value = 4.0 Label = 150mm or more
+
+Pos. = 36 Variable = loftins6 Variable label = Loft insulation thickness
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -9.0 thru None
+ Value label information for loftins6
+Value = -9.0 Label = not applicable - no roof directly above
+Value = 1.0 Label = none
+Value = 2.0 Label = less than 50mm
+Value = 3.0 Label = 50 up to 99mm
+Value = 4.0 Label = 100 up to 149mm
+Value = 5.0 Label = 150 up to 199mm
+Value = 6.0 Label = 200mm or more
+
+Pos. = 37 Variable = loftinsu Variable label = Loft insulation thickness with unknowns
+This variable is numeric, the SPSS measurement level is SCALE
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for loftinsu
+Value = -9.0 Label = not applicable - no roof directly above
+Value = -8.0 Label = flat roof or unknown
+Value = 0.0 Label = no insulation
+
+Pos. = 38 Variable = loftu4 Variable label = Loft insulation thickness with unknowns
+This variable is numeric, the SPSS measurement level is ORDINAL
+SPSS user missing values = -8.0 thru -9.0
+ Value label information for loftu4
+Value = -9.0 Label = not applicable - no roof directly above
+Value = -8.0 Label = flat roof or unknown
+Value = 1.0 Label = none
+Value = 2.0 Label = less than 100mm
+Value = 3.0 Label = 100 up to 150mm
+Value = 4.0 Label = 150mm or more
+
+Pos. = 39 Variable = wallinsz Variable label = Type of wall and insulation
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for wallinsz
+Value = 1.0 Label = cavity with insulation
+Value = 2.0 Label = cavity uninsulated
+Value = 3.0 Label = solid with insulation
+Value = 4.0 Label = solid uninsulated
+Value = 5.0 Label = other
+
+Pos. = 40 Variable = wallcavy Variable label = Type of wall
+This variable is numeric, the SPSS measurement level is NOMINAL
+ Value label information for wallcavy
+Value = 1.0 Label = cavity wall
+Value = 2.0 Label = solid wall
+Value = 3.0 Label = other
+
+Pos. = 41 Variable = pcavwallx Variable label = Percentage of external wall area that is cavity masonry
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for pcavwallx
+Value = 1.0 Label = all - 100%
+Value = 2.0 Label = 75-99.9%
+Value = 3.0 Label = 50-74.9%
+Value = 4.0 Label = 25-49.9%
+Value = 5.0 Label = 1-24.9%
+Value = 6.0 Label = none
+
+Pos. = 42 Variable = wins95x Variable label = Type of wall - post 1995 assumption
+This variable is numeric, the SPSS measurement level is NOMINAL
+SPSS user missing values = 4.0 thru None
+ Value label information for wins95x
+Value = 1.0 Label = cavity walls with evidence of insulation
+Value = 2.0 Label = cavity walls with insulation assumed as built (post-1995 cavity walls with no evidence of insulation)
+Value = 3.0 Label = cavity uninsulated
+Value = 4.0 Label = other
+
+Pos. = 43 Variable = sap12 Variable label = Energy efficiency (SAP 2012) rating
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for sap12
+Value = 91.0 Label = 91 or more
+
+Pos. = 44 Variable = sap412 Variable label = Energy efficiency (SAP 2012) rating
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for sap412
+Value = 1.0 Label = less than 30
+Value = 2.0 Label = 30 to 50
+Value = 3.0 Label = 51 to 70
+Value = 4.0 Label = more than 70
+
+Pos. = 45 Variable = rdsap09 Variable label = Reduced data energy efficiency rating (SAP 2009 based)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for rdsap09
+Value = 91.0 Label = 91 or more
+
+Pos. = 46 Variable = EPceeb12e Variable label = Energy efficiency rating band (SAP 2012)
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for EPceeb12e
+Value = 2.0 Label = A/B
+Value = 3.0 Label = C
+Value = 4.0 Label = D
+Value = 5.0 Label = E
+Value = 6.0 Label = F
+Value = 7.0 Label = G
+
+Pos. = 47 Variable = EPceir12e Variable label = Environmental impact rating (SAP 2012)
+This variable is numeric, the SPSS measurement level is SCALE
+ Value label information for EPceir12e
+Value = 91.0 Label = 91 or more
+
+Pos. = 48 Variable = EPceib12e Variable label = Environmental impact rating band (SAP 2012)
+This variable is numeric, the SPSS measurement level is ORDINAL
+ Value label information for EPceib12e
+Value = 2.0 Label = A/B
+Value = 3.0 Label = C
+Value = 4.0 Label = D
+Value = 5.0 Label = E
+Value = 6.0 Label = F
+Value = 7.0 Label = G

@@ -1,0 +1,936 @@
+###  Translation from RTF performed by UnRTF, version 0.21.10 
+### font table contains 6 fonts total
+
+-----------------
+
+UK Data Archive Data Dictionary
+
+File-level information:
+
+File Name = amenity
+Number of variables = 100
+Number of cases = 16150
+
+
+Variable-level information:
+
+Pos. = 1 Variable = aacode Variable label = aacode
+This variable is stringthe SPSS measurement level is nominal.
+
+Pos. = 2 Variable = Finpipeb Variable label = Drinking water: supply pipework Before stopcock - pipework seen
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finpipeb
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 3 Variable = Finleadb Variable label = Drinking water: supply pipework Before stopcock - lead present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finleadb
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 4 Variable = Finmains Variable label = Drinking water: supply pipework Before stopcock - mains
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finmains
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 5 Variable = Finpipea Variable label = Drinking water: supply pipework After stopcock - pipework seen
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finpipea
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 6 Variable = Finleada Variable label = Drinking water: supply pipework After stopcock - lead present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finleada
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 7 Variable = Fincldpr Variable label = KITCHEN Cold water drinking supply - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincldpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 8 Variable = Fincldwk Variable label = KITCHEN /Cold water supply - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincldwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 9 Variable = Fincldac Variable label = KITCHEN /Cold water supply - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincldac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 10 Variable = Finhotpr Variable label = KITCHEN /Hot water - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhotpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 11 Variable = Finhotwk Variable label = KITCHEN /Hot water - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhotwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 12 Variable = Finhotac Variable label = KITCHEN /Hot water - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhotac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 13 Variable = Finsnkpr Variable label = KITCHEN /Sink - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsnkpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 14 Variable = Finsnkwk Variable label = KITCHEN /Sink - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsnkwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 15 Variable = Finsnkac Variable label = KITCHEN /Sink - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsnkac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 16 Variable = Finwstpr Variable label = KITCHEN /Fixed waste - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwstpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 17 Variable = Finwstwk Variable label = KITCHEN /Fixed waste - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwstwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 18 Variable = Finwstac Variable label = KITCHEN /Fixed waste - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwstac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 19 Variable = Fincokpr Variable label = KITCHEN /Cooking provision - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincokpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 20 Variable = Fincokwk Variable label = KITCHEN /Cooking provision - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincokwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 21 Variable = Fincokac Variable label = KITCHEN /Cooking provision - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincokac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 22 Variable = Fincookr Variable label = KITCHEN /Adequate cooker space
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincookr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 23 Variable = Fincuppr Variable label = KITCHEN /Cupboards - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincuppr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 24 Variable = Fincupwk Variable label = KITCHEN /Cupboards - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincupwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 25 Variable = Fincupac Variable label = KITCHEN /Cupboards - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincupac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 26 Variable = Fincupun Variable label = KITCHEN /Adequate cupboard units
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fincupun
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 27 Variable = Finwrkpr Variable label = KITCHEN /Worktop - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwrkpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 28 Variable = Finwrkwk Variable label = KITCHEN /Worktop - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwrkwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 29 Variable = Finwrkac Variable label = KITCHEN /Worktop - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwrkac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 30 Variable = Finworkt Variable label = KITCHEN /Worktop (metres)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finworkt
+Value = 1 Label = Under 1.5 metres
+Value = 2 Label = Between 1.5 metres and 3 metres
+Value = 3 Label = Over 3 metres
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 31 Variable = Finkxtpr Variable label = KITCHEN /Extractor fan - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkxtpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 32 Variable = Finkxtwk Variable label = KITCHEN /Extractor fan - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkxtwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 33 Variable = Finwmpr Variable label = KITCHEN /Washing machine - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwmpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 34 Variable = Finwmwk Variable label = KITCHEN /Washing machine - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwmwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 35 Variable = Fintdpr Variable label = KITCHEN /Tumble dryer - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fintdpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 36 Variable = Fintdwk Variable label = KITCHEN /Tumble dryer - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fintdwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 37 Variable = Finrfpr Variable label = KITCHEN /Refrigerator - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finrfpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 38 Variable = Finrfwk Variable label = KITCHEN /Refrigerator - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finrfwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 39 Variable = Finkdfsp Variable label = KITCHEN /Defective on space
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkdfsp
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 40 Variable = Finkdfla Variable label = KITCHEN /Defective on layout
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkdfla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 41 Variable = Finkdfcb Variable label = KITCHEN /Defective on Cleanability
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkdfcb
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 42 Variable = Finkitlr Variable label = KITCHEN /Amenities last refurbished
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkitlr
+Value = 1 Label = Pre 1960
+Value = 2 Label = 1960s
+Value = 3 Label = 1970s
+Value = 4 Label = 1980s
+Value = 5 Label = 1990s onwards
+Value = 6 Label = In progress
+Value = 7 Label = Original
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 43 Variable = Finkitre Variable label = KITCHEN /Actual date of refurbishment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8888 and 9999
+ Value label information for Finkitre
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 44 Variable = Finkitdu Variable label = KITCHEN /Adapted for disabled use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finkitdu
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 45 Variable = Finbatpr Variable label = Bathroom bath/shower - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 46 Variable = Finbatwk Variable label = Bathroom bath/shower - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 47 Variable = Finbathc Variable label = Bathroom bath/shower - hot & cold
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbathc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 48 Variable = Finbatac Variable label = Bathroom bath/ shower - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 49 Variable = Finbatfl Variable label = Bathroom bath/ shower - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finbatfl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 50 Variable = Finbadlo Variable label = Bathroom bath/ shower - badly located
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbadlo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 51 Variable = Finsurfa Variable label = Bathroom bath shower - number of external surfaces
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finsurfa
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 52 Variable = Finwhbpr Variable label = Bathroom wash hand basin - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwhbpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 53 Variable = Finwhbwk Variable label = Bathroom wash hand basin - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwhbwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 54 Variable = Finwhbhc Variable label = Bathroom wash hand basin - hot & cold water
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwhbhc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 55 Variable = Finwhbac Variable label = Bathroom wash hand basin - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finwhbac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 56 Variable = Finwhbfl Variable label = Bathroom wash hand basin - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finwhbfl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 57 Variable = Finbxtpr Variable label = Bathroom extractor fan - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbxtpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 58 Variable = Finbxtwk Variable label = Bathroom extractor fan - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbxtwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 59 Variable = Finbdfsp Variable label = Bathroom defective on space
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbdfsp
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 60 Variable = Finbdfla Variable label = Bathroom defective on layout
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbdfla
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 61 Variable = Finbdfcb Variable label = Bathroom defective on cleanability
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbdfcb
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 62 Variable = Finbdflo Variable label = Bathroom defective on location
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbdflo
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 63 Variable = Finbatlr Variable label = Bathroom amenities last refurbished
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatlr
+Value = 1 Label = Pre 1960
+Value = 2 Label = 1960s
+Value = 3 Label = 1970s
+Value = 4 Label = 1980s
+Value = 5 Label = 1990s onwards
+Value = 6 Label = In progress
+Value = 7 Label = Original
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 64 Variable = Finbatre Variable label = Bathroom amenities actual date of refurbishment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8888 and 9999
+ Value label information for Finbatre
+Value = 8888 Label = Question Not Applicable
+Value = 9999 Label = Unknown
+
+Pos. = 65 Variable = Finbatdu Variable label = Bathroom adapted for disabled use
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finbatdu
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 66 Variable = Finloopr Variable label = WC - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finloopr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 67 Variable = Finloowk Variable label = WC - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finloowk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 68 Variable = Finlooac Variable label = WC - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlooac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 5 Label = Install
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 69 Variable = Finloofl Variable label = WC - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Finloofl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 70 Variable = Finlooin Variable label = WC -internal
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlooin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 71 Variable = Finloowh Variable label = WC - close to wash hand basin
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finloowh
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 72 Variable = Finlooba Variable label = WC - in bathroom
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlooba
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 73 Variable = Finlooex Variable label = WC - extractor fan
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finlooex
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 74 Variable = Fin2kipr Variable label = Second kitchen - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2kipr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 75 Variable = Fin2kihc Variable label = Second kitchen - hot & cold water
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2kihc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 76 Variable = Fin2kiac Variable label = Second kitchen - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2kiac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 77 Variable = Fin2kifl Variable label = Second kitchen- floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fin2kifl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 78 Variable = Fin2btpr Variable label = Second bath/shower - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2btpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 79 Variable = Fin2btwk Variable label = Second bath/shower - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2btwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 80 Variable = Fin2bthc Variable label = Second bath/shower - hot and cold water
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2bthc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 81 Variable = Fin2btac Variable label = Second bath/shower - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2btac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 82 Variable = Fin2btfl Variable label = Second bath/shower - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fin2btfl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 83 Variable = Fin2btes Variable label = Second bath shower - in bedroom (en-suite)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2btes
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 84 Variable = Fin2whpr Variable label = Second wash hand basin - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2whpr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 85 Variable = Fin2whwk Variable label = Second wash hand basin - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2whwk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 86 Variable = Fin2whhc Variable label = Second wash hand basin - hot and cold water
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2whhc
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 87 Variable = Fin2whac Variable label = Second wash hand basin - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2whac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 88 Variable = Fin2whfl Variable label = Second wash hand basin - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fin2whfl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 89 Variable = Fin2whes Variable label = Second wash hand basin - in bedroom (en-suite)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2whes
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 90 Variable = Fin2lopr Variable label = Second WC - present
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2lopr
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 91 Variable = Fin2lowk Variable label = Second WC - working
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2lowk
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 92 Variable = Fin2loac Variable label = Second WC - action
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2loac
+Value = 1 Label = None
+Value = 2 Label = Minor repair
+Value = 3 Label = Major repair
+Value = 4 Label = Replace
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 93 Variable = Fin2lofl Variable label = Second WC - floor
+This variable is stringthe SPSS measurement level is nominal.
+ Value label information for Fin2lofl
+Value = 88 Label = Question Not Applicable
+Value = 99 Label = Unknown
+
+Pos. = 94 Variable = Fin2loes Variable label = Second WC - in bedroom (en-suite)
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2loes
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 95 Variable = Fin2loin Variable label = Second WC - internal
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Fin2loin
+Value = 1 Label = Yes
+Value = 2 Label = No
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 96 Variable = Finhsfba Variable label = Health and Safety - falls asstd with baths
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsfba
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 97 Variable = Finhswat Variable label = Health and Safety - water supply
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhswat
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 98 Variable = Finhsfod Variable label = Health and Safety - food safety
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsfod
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 99 Variable = Finhsphy Variable label = Health and Safety - personal hygiene
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhsphy
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
+
+Pos. = 100 Variable = Finhspoa Variable label = Health and Safety - position and operability amendment
+This variable is numeric, the SPSS measurement level is scale.
+SPSS user missing values = 8 and 9
+ Value label information for Finhspoa
+Value = 1 Label = Lower than average risk
+Value = 2 Label = Average risk
+Value = 3 Label = Higher than average risk
+Value = 4 Label = Extreme risk
+Value = 8 Label = Question Not Applicable
+Value = 9 Label = Unknown
